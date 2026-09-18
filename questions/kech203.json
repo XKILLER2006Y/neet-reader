@@ -1,0 +1,282 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "Gas from electrolysis of dipotassium succinate:",
+  "options": [
+   "Ethyne",
+   "Ethene",
+   "Propene",
+   "Ethane"
+  ],
+  "answer": 1,
+  "explanation": "Kolbe electrolysis of succinate yields ethene + CO2. | Hint: Kolbe of a C4 diacid gives which C2 gas?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The decreasing order of boiling points of the following alkanes is : (a) heptane (b) butane (c) 2-methylbutane (d) 2-methylpropane (e) hexane. Choose the correct answer from the options given below :",
+  "options": [
+   "(a) > (e) > (c) > (b) > (d)",
+   "(a) > (c) > (e) > (d) > (b)",
+   "(c) > (d) > (a) > (e) > (b)",
+   "(a) > (e) > (b) > (c) > (d)"
+  ],
+  "answer": 0,
+  "explanation": "bp rises with chain length; branching lowers bp among isomers.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which reagent converts propene to 1-propanol ?",
+  "options": [
+   "H2O, H2SO4",
+   "B2H6, H2O2, OH-",
+   "Hg(OAc)2, NaBH4/H2O",
+   "Aq. KOH"
+  ],
+  "answer": 1,
+  "explanation": "Hydroboration-oxidation adds water anti-Markovnikov.",
+  "source": "examside.com",
+  "year": "AIPMT 2000"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Branched C5H12 isomer giving a single mono-halide:",
+  "options": [
+   "Neopentane",
+   "Isohexane",
+   "Neohexene",
+   "tert-Butyl chloride"
+  ],
+  "answer": 0,
+  "explanation": "All 12 hydrogens of neopentane are equivalent. | Hint: Which isomer has all identical hydrogens?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Minimum boiling point among n-butane, 1-butyne, 1-butene, isobutene:",
+  "options": [
+   "n-Butane",
+   "1-Butyne",
+   "1-Butene",
+   "Isobutene"
+  ],
+  "answer": 3,
+  "explanation": "Most branched = least surface area = weakest forces = lowest boiling point. | Hint: Branching lowers boiling point most for which?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The incorrect method for the synthesis of alkenes is",
+  "options": [
+   "Treating vicinal dihalides with Zn metal",
+   "Treating of alkynes with Na in liquid NH3",
+   "Heating alkyl halides with alcoholic KOH",
+   "Treating alkyl halides in aqueous KOH solution"
+  ],
+  "answer": 3,
+  "explanation": "Aqueous KOH gives substitution (alcohol); alcoholic KOH gives elimination (alkene).",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Gas evolved heating CH3MgBr in methanol:",
+  "options": [
+   "Methane",
+   "Ethane",
+   "Propane",
+   "HBr"
+  ],
+  "answer": 0,
+  "explanation": "Grignard abstracts the acidic OH proton, releasing methane. | Hint: Grignard plus active hydrogen gives which gas?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+  "options": [
+   "oxidation",
+   "cracking",
+   "distillation under reduced pressure",
+   "hydrolysis"
+  ],
+  "answer": 1,
+  "explanation": "Cracking/pyrolysis breaks heavy liquids into lighter gases.",
+  "source": "examside.com",
+  "year": "AIPMT 2010"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Reaction of HBr with propene in the presence of peroxide gives",
+  "options": [
+   "isopropyl bromide",
+   "3-bromopropane",
+   "allyl bromide",
+   "n-propyl bromide"
+  ],
+  "answer": 3,
+  "explanation": "Peroxide effect (Kharasch): anti-Markovnikov → n-propyl bromide.",
+  "source": "examside.com",
+  "year": "AIPMT 2004"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Reacts with sodium in liquid ammonia:",
+  "options": [
+   "CH3CH2C≡CCH2CH3",
+   "CH3CH2CH2C≡CCH2CH2CH3",
+   "CH3CH2C≡CH",
+   "CH3CH=CHCH3"
+  ],
+  "answer": 2,
+  "explanation": "Only terminal alkynes have the acidic hydrogen sodium needs. | Hint: Which alkyne has an acidic proton?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Hydroboration-oxidation product of propene:",
+  "options": [
+   "CH3CH2CH2OH",
+   "(CH3)3COH",
+   "CH3CHOHCH3",
+   "CH3CH2OH"
+  ],
+  "answer": 0,
+  "explanation": "Anti-Markovnikov addition puts OH on the terminal carbon: n-propanol. | Hint: Anti-Markovnikov alcohol from propene?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Peroxide present, yet HCl/HI skip anti-Markovnikov addition because:",
+  "options": [
+   "All steps exothermic",
+   "One step is endothermic",
+   "HCl oxidising, HI reducing",
+   "Both are strong acids"
+  ],
+  "answer": 1,
+  "explanation": "The radical-addition step is endothermic for Cl/I, so normal Markovnikov path wins. | Hint: Why does the peroxide effect fail here?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Polysubstitution is a major drawback in:",
+  "options": [
+   "Reimer-Tiemann",
+   "Friedel-Crafts acylation",
+   "Friedel-Crafts alkylation",
+   "Aniline acetylation"
+  ],
+  "answer": 2,
+  "explanation": "The alkylated product is more activated, so substitution repeats. | Hint: Which product is more reactive than its starting material?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "The correct order of reactivity towards the electrophilic substitution of the compounds aniline (I), benzene (II) and nitrobenzene (III) is",
+  "options": [
+   "III > II > I",
+   "II > III > I",
+   "I < II > III",
+   "I > II > III"
+  ],
+  "answer": 3,
+  "explanation": "-NH2 activates, -NO2 deactivates: aniline > benzene > nitrobenzene.",
+  "source": "examside.com",
+  "year": "AIPMT 2003"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Benzene reacts with CH3Cl in the presence of anhydrous AlCl3 to form",
+  "options": [
+   "chlorobenzene",
+   "benzyl chloride",
+   "xylene",
+   "toluene."
+  ],
+  "answer": 3,
+  "explanation": "Friedel-Crafts alkylation attaches CH3 → toluene.",
+  "source": "examside.com",
+  "year": "AIPMT 2009"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Symmetrical alkene giving two moles of 44u aldehyde on ozonolysis:",
+  "options": [
+   "Ethene",
+   "Propene",
+   "1-Butene",
+   "2-Butene"
+  ],
+  "answer": 3,
+  "explanation": "2-Butene cleaves to two acetaldehyde (44 u) molecules. | Hint: Which alkene splits into two identical C2 aldehydes?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Bonds in C2(2-) of CaC2:",
+  "options": [
+   "Two σ + one π",
+   "Two σ + two π",
+   "One σ + two π",
+   "One σ + one π"
+  ],
+  "answer": 2,
+  "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Count bonds in a triple bond.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Which of the following compounds will not undergo Friedal-Craft's reaction easily?",
+  "options": [
+   "Nitrobenzene",
+   "Toluene",
+   "Cumene",
+   "Xylene"
+  ],
+  "answer": 0,
+  "explanation": "Strongly deactivating -NO2 blocks Friedel-Crafts.",
+  "source": "examside.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 28,
+  "question": "2-Butene shows geometrical isomerism due to",
+  "options": [
+   "restricted rotation about double bond",
+   "free rotation about double bond",
+   "free rotation about single bond",
+   "chiral carbon"
+  ],
+  "answer": 0,
+  "explanation": "Restricted C=C rotation gives cis/trans isomers.",
+  "source": "examside.com",
+  "year": "AIPMT 2000"
+ },
+ {
+  "pdfPage": 28,
+  "question": "Reduced by Zn/HCl to the hydrocarbon:",
+  "options": [
+   "Ethyl acetate",
+   "Acetic acid",
+   "Acetamide",
+   "Butan-2-one"
+  ],
+  "answer": 3,
+  "explanation": "Clemmensen reduction converts the ketone to butane; ester/acid/amide resist. | Hint: Which functional group does Clemmensen reduce?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

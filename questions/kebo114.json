@@ -1,0 +1,240 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "Alveoli do not collapse even after forceful expiration because of:",
+  "options": [
+   "Expiratory reserve volume",
+   "Inspiratory reserve volume",
+   "Residual volume",
+   "Tidal volume"
+  ],
+  "answer": 2,
+  "explanation": "Residual volume is the air that always remains and keeps alveoli open. | Hint: Which lung volume can never be expelled?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Approximately 70% of carbon dioxide absorbed by the blood will be transported to the lungs",
+  "options": [
+   "as carbamino hemoglobin",
+   "by binding to R.B.C",
+   "in the form of dissolved gas molecules",
+   "as bicarbonate ions"
+  ],
+  "answer": 3,
+  "explanation": "~70% as bicarbonate, 20-25% carbamino-Hb, 5-7% dissolved.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Chronic respiratory disorder caused mainly by cigarette smoking:",
+  "options": [
+   "Respiratory alkalosis",
+   "Respiratory acidosis",
+   "Asthma",
+   "Emphysema"
+  ],
+  "answer": 3,
+  "explanation": "Smoking destroys alveolar walls: emphysema. | Hint: Which disorder destroys alveolar walls?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of",
+  "options": [
+   "expiratory reserve volume",
+   "inspiratory reserve volume",
+   "residual volume",
+   "tidal volume"
+  ],
+  "answer": 2,
+  "explanation": "Residual volume (1100-1200 mL) remains after the most forceful expiration.",
+  "source": "byjus.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Lungs do not collapse between breaths and some air always remains because:",
+  "options": [
+   "Positive intrapleural pressure",
+   "Negative intrapleural pressure pulling at lung walls",
+   "Negative pressure in the lungs",
+   "Lung pressure exceeds atmospheric pressure"
+  ],
+  "answer": 1,
+  "explanation": "Negative intrapleural pressure holds the lungs against the chest wall. | Hint: What pulls the lung walls outward?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "People acclimatised for 6 months near Rohtang Pass:",
+  "options": [
+   "Unfit for football",
+   "Have more RBCs with lower-affinity haemoglobin",
+   "Have normal RBC count with very high-affinity haemoglobin",
+   "Suffer altitude sickness"
+  ],
+  "answer": 1,
+  "explanation": "Acclimatisation raises RBC count and lowers Hb oxygen affinity to unload O2 in tissues. | Hint: How does the body adapt to thin air long-term?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The hemoglobin of a human foetus",
+  "options": [
+   "its affinity for oxygen is the same as that of an adult",
+   "has a lower affinity for oxygen than that of an adult",
+   "has a higher affinity for oxygen than that of an adult",
+   "has only 2 protein subunits instead of 4"
+  ],
+  "answer": 2,
+  "explanation": "Foetal Hb has higher O2 affinity for efficient placental transfer.",
+  "source": "byjus.com",
+  "year": "AIPMT 2009"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Unused oxygen remaining in blood after tissue uptake:",
+  "options": [
+   "Releases more O2 to epithelia",
+   "Keeps oxyhaemoglobin at 96%",
+   "Raises pCO2 to 75 mmHg",
+   "Acts as reserve during muscular exercise"
+  ],
+  "answer": 3,
+  "explanation": "Venous reserve oxygen is drawn upon when muscles work hard. | Hint: When would the body need spare oxygen?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 9,
+  "question": "A large proportion of oxygen remains unused in the human blood even after its uptake by the body tissue. This O2",
+  "options": [
+   "helps in releasing more O2 to the epithelial tissues",
+   "is enough to keep oxyhemoglobin saturation at 96%",
+   "raises the pCO2 of blood to 75mm of Hg",
+   "acts as a reserve during muscular exercise"
+  ],
+  "answer": 3,
+  "explanation": "Unused O2 (~75-80%) acts as a reserve during muscular exercise.",
+  "source": "byjus.com",
+  "year": "AIPMT 2011"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Bulk of CO2 from tissues travels in blood as:",
+  "options": [
+   "Carbaminohaemoglobin in RBCs",
+   "70% carbaminohaemoglobin, 30% bicarbonate",
+   "Free CO2 in plasma",
+   "Bicarbonate in plasma and RBCs"
+  ],
+  "answer": 3,
+  "explanation": "Bicarbonate (plasma + RBC) carries the bulk; carbamino carries 20-25%. | Hint: Same majority carrier as the 70% question.",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Human foetal haemoglobin:",
+  "options": [
+   "Same O2 affinity as adult",
+   "Lower O2 affinity than adult",
+   "Higher O2 affinity than adult",
+   "Has only 2 protein subunits"
+  ],
+  "answer": 2,
+  "explanation": "Higher affinity lets the foetus draw oxygen across the placenta from maternal blood. | Hint: Who must pull oxygen from whom across the placenta?",
+  "source": "NEET NEET 2009 via BYJU'S",
+  "year": "NEET 2009"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Lungs do not collapse between breaths and some air always remains in the lungs which can never be expelled because",
+  "options": [
+   "there is a positive intrapleural pressure",
+   "there is negative intrapleural pressure pulling at the lung walls",
+   "there is negative pressure in the lungs",
+   "pressure in the lungs is higher than the atmospheric pressure"
+  ],
+  "answer": 1,
+  "explanation": "Negative intrapleural pressure keeps lungs pulled open.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 9,
+  "question": "What is true about human RBCs?",
+  "options": [
+   "Transport 80% O2, rest dissolved",
+   "Transport 99.5% of O2",
+   "Carry 20-25% of CO2",
+   "Carry no CO2 at all"
+  ],
+  "answer": 2,
+  "explanation": "RBCs carry 20-25% of CO2 as carbaminohaemoglobin plus the bicarbonate shuttle. | Hint: What fraction of CO2 rides inside RBCs?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010"
+ },
+ {
+  "pdfPage": 10,
+  "question": "About 70% of CO2 absorbed by blood reaches the lungs:",
+  "options": [
+   "As carbaminohaemoglobin",
+   "Bound to RBC",
+   "As dissolved gas",
+   "As bicarbonate ions"
+  ],
+  "answer": 3,
+  "explanation": "Most CO2 travels as bicarbonate in plasma after carbonic anhydrase action in RBCs. | Hint: Which transport form carries the majority?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Name the chronic respiratory disorder caused mainly by cigarette smoking",
+  "options": [
+   "Respiratory Alkalosis",
+   "Respiratory Acidosis",
+   "Asthma",
+   "Emphysema"
+  ],
+  "answer": 3,
+  "explanation": "Emphysema: alveolar walls damaged, mainly by cigarette smoking.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Pick the INCORRECT statement:",
+  "options": [
+   "Bird air sacs raise respiratory efficiency",
+   "Residual air slightly lowers mammalian efficiency",
+   "Counter-current flow aids fish gills",
+   "Insect body fluids distribute oxygen to tissues"
+  ],
+  "answer": 3,
+  "explanation": "Insects deliver oxygen via the tracheal system directly; haemolymph plays no respiratory role. | Hint: How do insects actually deliver oxygen?",
+  "source": "NEET NEET 2006 via BYJU'S",
+  "year": "NEET 2006"
+ },
+ {
+  "pdfPage": 10,
+  "question": "What is true about RBCs in humans?",
+  "options": [
+   "they transport about 80% oxygen only and the rest 20% of it is transported in the dissolved state in blood plasma",
+   "they transport 99.5% of O2",
+   "they carry about 20-25% of CO2",
+   "they do not carry CO2 at all"
+  ],
+  "answer": 2,
+  "explanation": "RBCs carry ~20-25% CO2 as carbamino-haemoglobin.",
+  "source": "byjus.com",
+  "year": "AIPMT 2010"
+ }
+]

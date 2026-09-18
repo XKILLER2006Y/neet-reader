@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 2,
+  "question": "5 kg and 10 kg on a 1 m massless rod. COM from the 5 kg mass ≈",
+  "options": [
+   "67 cm",
+   "80 cm",
+   "33 cm",
+   "50 cm"
+  ],
+  "answer": 0,
+  "explanation": "x = 10×1/15 = 0.667 m.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 2,
+  "question": "The angular speed of a flywheel is increased from 600 rpm to 1200 rpm in 10 s. The number of revolutions completed by the flywheel during this time is:",
+  "options": [
+   "900",
+   "600",
+   "150",
+   "300"
+  ],
+  "answer": 2,
+  "explanation": "θ = (ω₁+ω₂)/2 × t = 900 rev/min × 10 s = 150 rev.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Force 3j N on particle at position 2k m. Torque about origin:",
+  "options": [
+   "−6i N·m",
+   "6k N·m",
+   "6i N·m",
+   "6j N·m"
+  ],
+  "answer": 0,
+  "explanation": "τ = r×F = 2k×3j = −6i.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 4,
+  "question": "The Sun rotates around its centre once in 27 days. What will be the period of revolution if the Sun were to expand to twice its present radius without any external influence? Assume the Sun to be a sphere of uniform density.",
+  "options": [
+   "115 days",
+   "108 days",
+   "100 days",
+   "105 days"
+  ],
+  "answer": 1,
+  "explanation": "L conserved: I ∝ R² → I′ = 4I → ω′ = ω/4 → T′ = 108 days.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 5,
+  "question": "A solid sphere is rolling down an inclined plane of inclination θ without slipping. The acceleration of the sphere is:",
+  "options": [
+   "(5/7) g sinθ",
+   "(2/7) g sinθ",
+   "(3/5) g sinθ",
+   "(1/2) g sinθ"
+  ],
+  "answer": 0,
+  "explanation": "a = g sinθ / (1 + I / (MR²)) = g sinθ / (1 + 2/5) = g sinθ / (7/5) = (5/7) g sinθ. | Hint: a = g sinθ / (1 + k²/R²). For solid sphere k²/R² = 2/5.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 5,
+  "question": "A uniform rod of mass 20 kg and length 5 m leans against a smooth vertical wall making an angle of 60° with it. The other end rests on a rough horizontal floor. The friction force that the floor exerts on the rod is (Take g = 10 m/s²)",
+  "options": [
+   "200 N",
+   "200√3 N",
+   "100 N",
+   "100√3 N"
+  ],
+  "answer": 3,
+  "explanation": "Torque about floor contact: f = (Mg/2)cot 30° = 100√3 N.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 10,
+  "question": "A disc of radius 2 m and mass 100 kg rolls on a horizontal floor. Its centre of mass has speed of 20 cm/s. How much work is needed to stop it?",
+  "options": [
+   "1 J",
+   "2 J",
+   "3 J",
+   "30 kJ"
+  ],
+  "answer": 2,
+  "explanation": "KE = ½mv² + ½(½MR²)ω² = 2 + 1 = 3 J.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "MI of a thin rod about its central perpendicular axis is 2400 g·cm²; rod mass 400 g. Length ≈",
+  "options": [
+   "20.7 cm",
+   "72.0 cm",
+   "8.5 cm",
+   "17.5 cm"
+  ],
+  "answer": 2,
+  "explanation": "L = √(12I/M) = √(12×2400/400) = √72 ≈ 8.5 cm.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A solid sphere is in rolling motion. In rolling motion a body possesses translational kinetic energy (Kₜ) as well as rotational kinetic energy (Kᵣ) simultaneously. The ratio Kₜ : (Kₜ + Kᵣ) for the sphere is",
+  "options": [
+   "7 : 10",
+   "5 : 7",
+   "10 : 7",
+   "2 : 5"
+  ],
+  "answer": 1,
+  "explanation": "Kᵣ = (1/5)mv²; total = (7/10)mv² → ratio 5:7.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Find the torque about the origin when a force of 3 j N acts on a particle whose position vector is 2 k m:",
+  "options": [
+   "-6 i N·m",
+   "6 i N·m",
+   "6 j N·m",
+   "6 k N·m"
+  ],
+  "answer": 0,
+  "explanation": "τ = r × F = (2 k) × (3 j) = 6 (k × j) = 6 (-i) = -6 i N·m. | Hint: k × j = -i in right-hand coordinate system.",
+  "source": "NEET NEET 2020 via BYJU'S NEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 22,
+  "question": "A solid sphere is rotating freely about its symmetry axis in free space. The radius of the sphere is increased keeping its mass same. Which of the following physical quantities would remain constant for the sphere?",
+  "options": [
+   "Angular velocity",
+   "Moment of inertia",
+   "Rotational kinetic energy",
+   "Angular momentum"
+  ],
+  "answer": 3,
+  "explanation": "No external torque → L = Iω conserved.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 22,
+  "question": "A uniform rod of length 200 cm and mass 500 g is balanced on a wedge placed at 40 cm mark. A mass of 2 kg is suspended at 20 cm mark. Where should another mass m be suspended to maintain equilibrium?",
+  "options": [
+   "Torque about fulcrum must sum to zero",
+   "At 100 cm mark",
+   "At 80 cm mark",
+   "At 160 cm mark"
+  ],
+  "answer": 0,
+  "explanation": "Center of gravity of rod is at 100 cm (distance 60 cm from 40 cm wedge). Left torque = 2g × (40 - 20) = 40g. Right torque from rod = 0.5g × (100 - 40) = 30g. Counter-torque of 10g needed to balance. | Hint: Apply principle of moments about the fulcrum.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 24,
+  "question": "The ratio of the radius of gyration of a thin uniform circular disc about its diameter to that about an axis perpendicular to the plane and passing through its centre is:",
+  "options": [
+   "1 : √2",
+   "√2 : 1",
+   "1 : 2",
+   "2 : 1"
+  ],
+  "answer": 0,
+  "explanation": "I_diameter = (1/4) M R² ⇒ k₁ = R/2. I_perpendicular = (1/2) M R² ⇒ k₂ = R/√2. Ratio k₁ / k₂ = (R/2) / (R/√2) = √2 / 2 = 1 / √2. | Hint: Compare radii of gyration k = √(I / M).",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Three objects, A : (a solid sphere), B : (a thin circular disk) and C : (a circular ring), each have the same mass M and radius R. They all spin with the same angular speed ω about their own symmetry axes. The amounts of work (W) required to bring them to rest, would satisfy the relation",
+  "options": [
+   "Wᶜ > Wᴮ > Wᴬ",
+   "Wᴬ > Wᴮ > Wᶜ",
+   "Wᴮ > Wᴬ > Wᶜ",
+   "Wᴬ > Wᶜ > Wᴮ"
+  ],
+  "answer": 0,
+  "explanation": "W ∝ I at same ω; I_ring > I_disc > I_sphere.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 35,
+  "question": "A solid cylinder of mass 2 kg and radius 0.2 m is rotating about its central axis at 60 rad/s. What is its rotational kinetic energy?",
+  "options": [
+   "72 J",
+   "36 J",
+   "144 J",
+   "18 J"
+  ],
+  "answer": 0,
+  "explanation": "I = (1/2) M R² = (1/2)(2)(0.2)² = 0.04 kg·m². K_rot = (1/2) I ω² = (1/2)(0.04)(60)² = (0.02)(3600) = 72 J. | Hint: K = (1/2) I ω² with I = (1/2) M R².",
+  "source": "JEE JEE Main 2023 via BYJU'S JEE",
+  "year": "JEE Main 2023"
+ }
+]

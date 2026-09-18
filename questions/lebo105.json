@@ -1,0 +1,310 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "Adenine makes 30% of a DNA molecule. Thymine, Guanine, Cytosine percentages:",
+  "options": [
+   "T:30, G:20, C:20",
+   "T:20, G:25, C:25",
+   "T:20, G:30, C:20",
+   "T:20, G:20, C:30"
+  ],
+  "answer": 0,
+  "explanation": "Chargaff: A=T=30%, leaving 40% split equally between G and C. | Hint: A pairs T; the rest splits evenly.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Association of histone H1 with a nucleosome indicates:",
+  "options": [
+   "DNA condensed into chromatin fibres",
+   "Transcription in progress",
+   "DNA replication in progress",
+   "DNA double helix exposed"
+  ],
+  "answer": 0,
+  "explanation": "H1 seals nucleosomes into the 30-nm chromatin fibre (condensation). | Hint: H1 packs nucleosomes tighter or opens them?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The final proof of DNA as genetic material came from:",
+  "options": [
+   "Macleod and Avery",
+   "Griffith",
+   "Harvey Mcbride",
+   "Hershey and Chase"
+  ],
+  "answer": 3,
+  "explanation": "Hershey-Chase blender experiment with 32P/35S phages settled it. | Hint: Which experiment used radioactive phages and a blender?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Spliceosomes are NOT found in cells of:",
+  "options": [
+   "Bacteria",
+   "Animals",
+   "Plants",
+   "Fungi"
+  ],
+  "answer": 0,
+  "explanation": "Bacteria lack introns and splicing machinery entirely. | Hint: Which cells have no introns to splice?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Match: (A) Griffith, (B) Jacob and Monod, (C) Khorana, (D) Meselson and Stahl with (I) Genetic code, (II) Semiconservative replication, (III) Transformation, (IV) Lac operon.",
+  "options": [
+   "A-III, B-IV, C-I, D-II",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-I, C-II, D-III",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "answer": 0,
+  "explanation": "Each scientist maps to exactly one landmark: transformation, lac operon, code, replication. | Hint: Pair each name with its one famous experiment.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 9,
+  "question": "DNA with 6.6e9 bp (0.34 nm each) is about:",
+  "options": [
+   "2 metres",
+   "7 metres",
+   "0 metres",
+   "5 metres"
+  ],
+  "answer": 0,
+  "explanation": "6.6e9 x 0.34e-9 m = 2.24 m, about 2 metres. | Hint: Multiply base pairs by rise per pair.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Central dogma flow (a)DNA->DNA, (b)DNA->RNA, (c)RNA->?, (d)?:",
+  "options": [
+   "Replication, Transcription, Translation, Protein",
+   "Transduction, Translation, Replication, Protein",
+   "Replication, Transcription, Transduction, Protein",
+   "Translation, Replication, Transcription, Transduction"
+  ],
+  "answer": 0,
+  "explanation": "The classic DNA to RNA to protein flow. | Hint: Recite the central dogma.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 11,
+  "question": "The most abundant RNA in animal cells:",
+  "options": [
+   "tRNA",
+   "rRNA",
+   "mRNA",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "rRNA forms ribosomes and dominates cellular RNA mass (~80%). | Hint: Which RNA builds ribosomes?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Taylor proved semiconservative chromosome replication on:",
+  "options": [
+   "Vicia faba",
+   "Vinca rosea",
+   "E. coli",
+   "Drosophila"
+  ],
+  "answer": 0,
+  "explanation": "Taylor used tritiated thymidine in Vicia faba root tips (eukaryote proof). | Hint: Meselson-Stahl used E. coli; Taylor used which plant?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 13,
+  "question": "First phase of translation:",
+  "options": [
+   "Aminoacylation of tRNA",
+   "Anticodon recognition",
+   "mRNA-ribosome binding",
+   "DNA recognition"
+  ],
+  "answer": 0,
+  "explanation": "Charging tRNA with amino acids precedes everything. | Hint: What must be ready before ribosomes work?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 15,
+  "question": "The equivalent of a structural gene is:",
+  "options": [
+   "Operon",
+   "Muton",
+   "Cistron",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Cistron = the unit of function, i.e. the structural gene. | Hint: Unit of function equals which -on?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Correct statement:",
+  "options": [
+   "Coding strand copied to mRNA",
+   "Split genes mark prokaryotes",
+   "Capping adds methyl-G to 3-prime end",
+   "Rho terminates bacterial transcription"
+  ],
+  "answer": 3,
+  "explanation": "Template (not coding) is copied; split genes/capping are eukaryotic-5-prime features; rho ends bacterial transcription. | Hint: Test each statement.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Enzyme opening DNA helix in transcription:",
+  "options": [
+   "DNA polymerase",
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA helicase"
+  ],
+  "answer": 3,
+  "explanation": "Helicase unwinds the duplex ahead of polymerase. | Hint: Who unzips the helix?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Only enzyme doing initiation, elongation AND termination in prokaryotic transcription:",
+  "options": [
+   "DNA ligase",
+   "DNase",
+   "DNA-dependent DNA polymerase",
+   "DNA-dependent RNA polymerase"
+  ],
+  "answer": 3,
+  "explanation": "One RNA polymerase handles all three phases in bacteria. | Hint: Which single enzyme does it all?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Post-transcriptional events in a eukaryotic cell: A. mRNA transport before splicing; B. intron removal/exon joining; C. 5-prime methyl cap; D. 3-prime adenine tail; E. complementary-RNA pairing.",
+  "options": [
+   "B, C, E only",
+   "C, D, E only",
+   "A, B, C only",
+   "B, C, D only"
+  ],
+  "answer": 3,
+  "explanation": "Splicing, capping and tailing are the true processing steps; transport follows splicing and E is not one. | Hint: Which happens first: splicing or export?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 18,
+  "question": "An RNA of 999 bases codes 33 amino acids; deleting base 901 shortens it to 998. Codons altered:",
+  "options": [
+   "22",
+   "11",
+   "44",
+   "33"
+  ],
+  "answer": 3,
+  "explanation": "The frameshift from codon 301 to the last codon 333 alters 33 codons. | Hint: From which codon does the frame shift, and where does it end?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Statement I: Codon AUG codes for methionine AND phenylalanine. Statement II: AAA and AAG both code lysine.",
+  "options": [
+   "I correct, II false",
+   "I incorrect, II true",
+   "Both true",
+   "Both false"
+  ],
+  "answer": 1,
+  "explanation": "AUG codes only methionine (phenylalanine is UUU/UUC); AAA/AAG both code lysine. | Hint: How many amino acids does AUG specify?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Which rRNA acts as structural RNA and ribozyme in bacteria?",
+  "options": [
+   "23S rRNA",
+   "13S rRNA",
+   "33S rRNA",
+   "73S rRNA"
+  ],
+  "answer": 0,
+  "explanation": "23S rRNA of the large subunit catalyses peptide bond formation. | Hint: Which large-subunit rRNA does the chemistry?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Commonly used vectors for human genome sequencing:",
+  "options": [
+   "T/A cloning vectors",
+   "Expression vectors",
+   "T-DNA",
+   "BAC and YAC"
+  ],
+  "answer": 3,
+  "explanation": "Bacterial and yeast artificial chromosomes carry the huge inserts HGP needed. | Hint: Which vectors carry the largest inserts?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 27,
+  "question": "Fingerprinting tracks differences in:",
+  "options": [
+   "Single nucleotides",
+   "Polymorphic DNA",
+   "Satellite DNA",
+   "Repetitive DNA (generic)"
+  ],
+  "answer": 2,
+  "explanation": "Satellite-DNA regions vary between individuals. | Hint: Which DNA varies person to person?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 28,
+  "question": "In agarose gel electrophoresis, the DNA fragments migrate towards the anode. This is because DNA fragments are:",
+  "options": [
+   "Negatively charged",
+   "Positively charged",
+   "Neutral",
+   "Depends on size"
+  ],
+  "answer": 0,
+  "explanation": "The phosphate backbone gives DNA a net negative charge at neutral pH, so fragments move toward the anode (+).",
+  "source": "NEET 2017 (official stem restored)",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 30,
+  "question": "Adenine-thymine pairing uses:",
+  "options": [
+   "Three H-bonds",
+   "No pairing",
+   "Two H-bonds",
+   "One H-bond"
+  ],
+  "answer": 2,
+  "explanation": "A-T pairs through two hydrogen bonds (G-C uses three). | Hint: How many bonds: A-T versus G-C?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ }
+]

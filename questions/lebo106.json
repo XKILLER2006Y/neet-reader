@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "Analogous structures result from:",
+  "options": [
+   "Divergent evolution",
+   "Convergent evolution",
+   "Shared ancestry",
+   "Stabilising selection"
+  ],
+  "answer": 1,
+  "explanation": "Different origins converging on one function. | Hint: Same job, different origin?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Forelimb bone similarity across vertebrates:",
+  "options": [
+   "Convergent evolution",
+   "Analogy",
+   "Homology",
+   "Adaptive radiation"
+  ],
+  "answer": 2,
+  "explanation": "Same structure, common ancestor: homology. | Hint: Same bones = what evidence?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Homologous to bird wing:",
+  "options": [
+   "Shark dorsal fin",
+   "Moth wing",
+   "Rabbit hind limb",
+   "Whale flipper"
+  ],
+  "answer": 3,
+  "explanation": "Same forelimb bones, different uses: divergent homology. | Hint: Same bones, different jobs?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "INCORRECT divergent-evolution set:",
+  "options": [
+   "Bat/man/cheetah brains",
+   "Bat/man/cheetah hearts",
+   "Man/bat/cheetah forelimbs",
+   "Octopus/bat/man eyes"
+  ],
+  "answer": 3,
+  "explanation": "Octopus and vertebrate eyes evolved independently (analogous). | Hint: Which eyes evolved separately?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 6,
+  "question": "NOT true:",
+  "options": [
+   "Analogous = convergent",
+   "Sweet potato-potato analogy",
+   "Homology = common ancestry",
+   "Penguin/dolphin flippers homologous"
+  ],
+  "answer": 3,
+  "explanation": "Penguin and dolphin flippers are analogous (convergent), not homologous. | Hint: Bird flippers and mammal flippers: same origin?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The contraceptive 'Saheli'",
+  "options": [
+   "is an IUD",
+   "increases the concentration of estrogen and prevents ovulation in females",
+   "blocks estrogen receptors in the uterus preventing eggs from getting implanted",
+   "is a post-coital contraceptive"
+  ],
+  "answer": 2,
+  "explanation": "Saheli (centchroman) is a non-steroidal, once-weekly pill that blocks estrogen receptors, preventing implantation.",
+  "source": "NEET 2018 (sarthaks.com + edurev.in)",
+  "year": "2018"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The function of copper ions in copper releasing IUD's is :",
+  "options": [
+   "They inhibit gametogenesis",
+   "They make uterus unsuitable for implantation",
+   "They inhibit ovulation",
+   "They suppress sperm motility and fertilising capacity of sperms"
+  ],
+  "answer": 3,
+  "explanation": "Cu2+ ions suppress sperm motility and the fertilising capacity of sperms.",
+  "source": "NEET 2017 (questions.collegedunia.com + testbook.com)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "de Vries mechanism of evolution:",
+  "options": [
+   "Phenotypic variations",
+   "Saltation",
+   "Gradual multi-step mutations",
+   "Minor mutations"
+  ],
+  "answer": 1,
+  "explanation": "de Vries proposed single-step large mutations (saltation). | Hint: Sudden big jumps: whose idea?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Genetic drift operates in:",
+  "options": [
+   "Small isolated population",
+   "Large isolated population",
+   "Non-reproductive population",
+   "Slow-reproducing population"
+  ],
+  "answer": 0,
+  "explanation": "Chance fixation bites hardest in tiny isolated gene pools. | Hint: Where does chance rule?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 11,
+  "question": "High-milk cows by artificial selection =:",
+  "options": [
+   "Stabilising",
+   "Directional",
+   "Disruptive",
+   "Stabilising then disruptive"
+  ],
+  "answer": 1,
+  "explanation": "Pushing the mean one way is directional selection. | Hint: Mean pushed one way?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Tubectomy is a method of sterilization in which",
+  "options": [
+   "small part of the Fallopian tube is removed or tied up",
+   "ovaries are removed surgically",
+   "small part of vas deferens is removed or tied up",
+   "uterus is removed surgically"
+  ],
+  "answer": 0,
+  "explanation": "Tubectomy blocks the Fallopian tubes so the ovum cannot reach the uterus; vasectomy (option C) is the male equivalent.",
+  "source": "AIPMT 2014 (questions.collegedunia.com + careers360)",
+  "year": "2014"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Heterozygote frequency in Hardy-Weinberg:",
+  "options": [
+   "p²",
+   "2pq",
+   "pq",
+   "q²"
+  ],
+  "answer": 1,
+  "explanation": "2pq counts the heterozygotes. | Hint: The middle term?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Human evolution order:",
+  "options": [
+   "Australo→Rama→habilis→erectus",
+   "Rama→Australo→habilis→erectus",
+   "Rama→habilis→Australo→erectus",
+   "Australo→habilis→Rama→erectus"
+  ],
+  "answer": 1,
+  "explanation": "Ramapithecus roots the ape line before Australopithecus and Homo. | Hint: Ape before man-ape before man?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Origin statements: (i) first organisms non-green anaerobes; (ii) first autotrophs oxygen-free chemoautotrophs:",
+  "options": [
+   "i true, ii false",
+   "ii true, i false",
+   "Both true",
+   "Both false"
+  ],
+  "answer": 2,
+  "explanation": "Both match the standard origin narrative. | Hint: Anaerobes first, then chemoautotrophs?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Origin-of-life sequence:",
+  "options": [
+   "Protobionts, monomers, polymers, DNA",
+   "Protobionts, polymers, monomers, DNA",
+   "Monomers, polymers, protobionts, DNA",
+   "Monomers, polymers, DNA, protobionts"
+  ],
+  "answer": 2,
+  "explanation": "Chemistry first (monomers→polymers), then cells, then DNA systems. | Hint: Molecules before cells?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ }
+]

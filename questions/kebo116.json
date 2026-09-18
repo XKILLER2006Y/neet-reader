@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "A decrease in blood pressure/volume will not cause the release of",
+  "options": [
+   "ADH",
+   "renin",
+   "atrial natriuretic factor",
+   "aldosterone"
+  ],
+  "answer": 2,
+  "explanation": "ANF is released when blood pressure/volume INCREASES.",
+  "source": "byjus.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "A fall in glomerular filtration rate (GFR) activates",
+  "options": [
+   "posterior pituitary to release vasopressin",
+   "adrenal medulla to release adrenaline",
+   "juxtaglomerular cells to release renin",
+   "adrenal cortex to release aldosterone"
+  ],
+  "answer": 2,
+  "explanation": "Fall in GFR activates JG cells to release renin (RAAS).",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Pick the correct statement:",
+  "options": [
+   "Ascending Henle limb impermeable to water",
+   "Descending Henle limb impermeable to water",
+   "Ascending Henle limb permeable to water",
+   "Descending Henle limb permeable to electrolytes"
+  ],
+  "answer": 0,
+  "explanation": "The ascending limb pumps out NaCl but blocks water, building medullary gradient. | Hint: Which limb lets salt out but keeps water in?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A fall in GFR activates:",
+  "options": [
+   "Posterior pituitary vasopressin",
+   "Adrenal medulla adrenaline",
+   "JG cells renin",
+   "Adrenal cortex aldosterone"
+  ],
+  "answer": 2,
+  "explanation": "Low GFR triggers juxtaglomerular renin release (JGA mechanism). | Hint: Which cells sense falling filtration?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A fall in blood pressure/volume will NOT release:",
+  "options": [
+   "ADH",
+   "Renin",
+   "Atrial natriuretic factor",
+   "Aldosterone"
+  ],
+  "answer": 2,
+  "explanation": "ANF is released when volume is HIGH; low volume triggers ADH, renin and aldosterone instead. | Hint: Which hormone responds to high volume, not low?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "This is a common characteristic observed in both human beings and adult frogs",
+  "options": [
+   "ureotelic mode of excretion",
+   "internal fertilization",
+   "nucleated RBCs",
+   "four-chambered heart"
+  ],
+  "answer": 0,
+  "explanation": "Both mammals and adult amphibians are ureotelic.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 8,
+  "question": "What raises sodium reabsorption in the DCT?",
+  "options": [
+   "Falling ADH",
+   "Rising aldosterone",
+   "Falling aldosterone",
+   "Rising ADH"
+  ],
+  "answer": 1,
+  "explanation": "Aldosterone drives DCT/collecting-duct Na+ reabsorption (and K+ loss). | Hint: Which hormone saves sodium?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Human urine is typically acidic because:",
+  "options": [
+   "H+ actively secreted into filtrate",
+   "Na+ transporter swaps H+ in peritubular capillaries",
+   "Plasma proteins are acidic",
+   "K+/Na+ exchange makes acidity"
+  ],
+  "answer": 0,
+  "explanation": "Tubular secretion of H+ acidifies the forming urine. | Hint: What secretion acidifies urine?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Typically, human urine is acidic as",
+  "options": [
+   "hydrogen ions are actively secreted into the filtrate",
+   "sodium transporter exchanges one hydrogen ion for each sodium ion, in peritubular capillaries",
+   "excreted plasma proteins are acidic",
+   "potassium and sodium exchange generates acidity"
+  ],
+  "answer": 0,
+  "explanation": "Tubules actively secrete H+ into the filtrate (pH ~6).",
+  "source": "byjus.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Common to adult humans and adult frogs:",
+  "options": [
+   "Ureotelic excretion",
+   "Internal fertilisation",
+   "Nucleated RBCs",
+   "Four-chambered heart"
+  ],
+  "answer": 0,
+  "explanation": "Both excrete urea; frogs differ on fertilisation, RBC nuclei and heart chambers. | Hint: Which excretory mode do both share?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct nephron-function match:",
+  "options": [
+   "Afferent arteriole carries blood to renal vein",
+   "DCT reabsorbs K+ into blood",
+   "Henle loop does most reabsorption",
+   "Podocytes make filtration slits"
+  ],
+  "answer": 3,
+  "explanation": "Podocyte foot processes form the slit diaphragm filtering blood into Bowman capsule. | Hint: Which cells build the filter?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 10,
+  "question": "NOT part of a renal pyramid:",
+  "options": [
+   "Loop of Henle",
+   "Convoluted tubules",
+   "Collecting ducts",
+   "Peritubular capillaries"
+  ],
+  "answer": 1,
+  "explanation": "Convoluted tubules sit in the cortex; loops, collecting ducts and capillaries dip into pyramids. | Hint: Which structures stay in the cortex?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which of the following causes an increase in sodium reabsorption in the distal convoluted tubule?",
+  "options": [
+   "decrease in antidiuretic hormone levels",
+   "increase in aldosterone levels",
+   "decrease in aldosterone levels",
+   "increase in antidiuretic hormone levels"
+  ],
+  "answer": 1,
+  "explanation": "Aldosterone increases Na+ and water reabsorption in the DCT.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 11,
+  "question": "About 70-80% of filtrate electrolytes and water is reabsorbed in:",
+  "options": [
+   "Proximal convoluted tubule",
+   "Ascending Henle limb",
+   "Descending Henle limb",
+   "Distal convoluted tubule"
+  ],
+  "answer": 0,
+  "explanation": "PCT reclaims the bulk of everything filtered. | Hint: Which segment does most of the work?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Maximum amount of electrolytes and water, about 70-80%, from the glomerular filtrate is reabsorbed in which part of the nephron?",
+  "options": [
+   "Proximal convoluted tubule",
+   "Ascending limb of loop of Henle",
+   "Descending limb of loop of Henle",
+   "Distal convoluted tubule"
+  ],
+  "answer": 0,
+  "explanation": "PCT reabsorbs 70-80% of electrolytes and water.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Nephron part doing active sodium reabsorption (key corrected during verification):",
+  "options": [
+   "Proximal convoluted tubule",
+   "Distal convoluted tubule",
+   "Descending limb of Henle",
+   "Bowman capsule"
+  ],
+  "answer": 0,
+  "explanation": "PCT actively reabsorbs most filtered Na+; the source table mis-keyed this as Bowman capsule. | Hint: Where is the bulk of filtrate reclaimed?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ }
+]

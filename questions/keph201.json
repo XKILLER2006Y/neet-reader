@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "A metallic bar of Young's modulus 0.5 × 10¹¹ N m⁻² and coefficient of linear thermal expansion 10⁻⁵ °C⁻¹, length 1 m and area of cross-section 10⁻³ m² is heated from 0 °C to 100 °C without expansion or bending. The compressive force developed in it is:",
+  "options": [
+   "50 × 10³ N",
+   "100 × 10³ N",
+   "2 × 10³ N",
+   "5 × 10³ N"
+  ],
+  "answer": 0,
+  "explanation": "Stress = YαΔT = 5×10⁷ Pa; F = 5×10⁷ × 10⁻³ = 5×10⁴ N.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Dimensions of stress are:",
+  "options": [
+   "ML⁰ T⁻²",
+   "ML⁻¹ T⁻²",
+   "MLT⁻²",
+   "ML² T⁻²"
+  ],
+  "answer": 1,
+  "explanation": "[F/A] = MLT⁻²/L² = ML⁻¹T⁻².",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Steel wire 1 m; elastic limit 8×10⁸ Pa, Y = 2×10¹¹ Pa. Maximum elongation:",
+  "options": [
+   "40 mm",
+   "8 mm",
+   "4 mm",
+   "0.4 mm"
+  ],
+  "answer": 2,
+  "explanation": "ΔL = stress×L/Y = 8e8/2e11 = 4×10⁻³ m = 4 mm.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The bulk modulus of a spherical object is B. If it is subjected to uniform pressure p, the fractional decrease in radius is",
+  "options": [
+   "p/B",
+   "B/3p",
+   "3p/B",
+   "p/3B"
+  ],
+  "answer": 3,
+  "explanation": "ΔV/V = 3Δr/r; B = p/(ΔV/V) → Δr/r = p/3B.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The following four wires are made of the same material. Which of these will have the largest extension when the same tension is applied?",
+  "options": [
+   "length = 200 cm, diameter = 2 mm",
+   "length = 300 cm, diameter = 3 mm",
+   "length = 50 cm, diameter = 0.5 mm",
+   "length = 100 cm, diameter = 1 mm"
+  ],
+  "answer": 2,
+  "explanation": "Δl ∝ L/d². Ratios: 50, 33, 200, 100 → largest is 50 cm, 0.5 mm.",
+  "source": "examside.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A uniform metallic wire elongated by 0.04 m when subjected to a load. If another wire of the same material having double the length and half the diameter is subjected to the same load, elongation will be:",
+  "options": [
+   "0.32 m",
+   "0.16 m",
+   "0.08 m",
+   "0.64 m"
+  ],
+  "answer": 0,
+  "explanation": "ΔL ∝ L / d². ΔL₂ = ΔL₁ × (L₂/L₁) × (d₁/d₂)² = 0.04 × (2) × (2)² = 0.04 × 8 = 0.32 m. | Hint: Elongation is proportional to Length / (diameter)².",
+  "source": "JEE JEE Main 2022 via BYJU'S JEE",
+  "year": "JEE Main 2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A wire of length L and cross-section A is made of material of Young's modulus Y. If the wire is stretched by amount x, the work done is:",
+  "options": [
+   "(1/2) Y A x² / L",
+   "Y A x² / (2L²)",
+   "Y A x² / L",
+   "2 Y A x² / L"
+  ],
+  "answer": 0,
+  "explanation": "W = (1/2) F x = (1/2) (Y A x / L) x = (1/2) Y A x² / L. | Hint: W = (1/2) × stress × strain × volume.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Given below are two statements:\nStatement I: The stretching of a coil spring is determined by the shear modulus of the material of the spring.\nStatement II: A coil spring of copper has more tensile strength than a steel spring of same dimensions.\nIn the light of the above statements, choose the most appropriate answer from the options given below:",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct and Statement II is incorrect",
+   "Statement II is correct and Statement I is incorrect"
+  ],
+  "answer": 2,
+  "explanation": "Coil stretching is shear (I true). Steel > copper in tensile strength (II false).",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The maximum elongation of a steel wire of 1 m length if the elastic limit of steel and its Young's modulus respectively are 8 × 10⁸ N m⁻² and 2 × 10¹¹ N m⁻², is",
+  "options": [
+   "0.4 mm",
+   "40 mm",
+   "8 mm",
+   "4 mm"
+  ],
+  "answer": 3,
+  "explanation": "Strain = 8×10⁸/2×10¹¹ = 4×10⁻³; Δl = 4×10⁻³ × 1 m = 4 mm.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Two wires are made of the same material and have the same volume. The first wire has cross-sectional area A and the second wire has cross-sectional area 3A. If the length of the first wire is increased by Δl on applying a force F, how much force is needed to stretch the second wire by the same amount?",
+  "options": [
+   "4 F",
+   "6 F",
+   "9 F",
+   "F"
+  ],
+  "answer": 2,
+  "explanation": "L₂ = V/(3A); strain₂ = 3×strain₁; F₂ = 3(stress₁)(3A) = 9F.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 9,
+  "question": "A wire is suspended from the ceiling and stretched by a weight W attached at its free end. The longitudinal stress at any point of cross-sectional area A of the wire is:",
+  "options": [
+   "2W/A",
+   "W/A",
+   "W/2A",
+   "Zero"
+  ],
+  "answer": 1,
+  "explanation": "Tension = W throughout → stress = W/A.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Match List I with List II.\nList I: A. Young's Modulus, B. Compressibility, C. Bulk Modulus, D. Poisson's Ratio.\nList II: I. (Δd/d)/(ΔL/L), II. FL/(A·ΔL), III. −(1/V)(ΔV/P), IV. −V·P/ΔV.\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-III, B-II, C-I, D-IV",
+   "A-I, B-IV, C-III, D-II",
+   "A-II, B-III, C-IV, D-I"
+  ],
+  "answer": 3,
+  "explanation": "Y = FL/(AΔl) → II; Compressibility = −(1/V)(ΔV/p) → III; B = −pV/ΔV → IV; Poisson ratio → I.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The Young's modulus of a wire of length L and radius r is Y. If length is reduced to L/2 and radius to r/2, its Young's modulus will be:",
+  "options": [
+   "Y (unchanged)",
+   "2 Y",
+   "Y / 2",
+   "4 Y"
+  ],
+  "answer": 0,
+  "explanation": "Young's modulus is an intrinsic material property that depends only on the nature of the material, completely independent of wire dimensions. | Hint: Elastic modulus is an intensive property.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 9,
+  "question": "When a block of mass M is suspended by a long wire of length L, the length of the wire becomes (L + l). The elastic potential energy stored in the extended wire is:",
+  "options": [
+   "Mgl",
+   "MgL",
+   "(1/2) Mgl",
+   "(1/2) MgL"
+  ],
+  "answer": 2,
+  "explanation": "Work = average force × extension = (Mg/2) × l = ½Mgl.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "(A) Spring stretching is set by shear modulus. (R) Copper coil beats steel in tensile strength (same size).",
+  "options": [
+   "A false, R true",
+   "Both true, R explains A",
+   "Both true, R doesn't explain",
+   "A true, R false"
+  ],
+  "answer": 3,
+  "explanation": "A ✓ (coils shear); R ✗ (steel stronger).",
+  "source": "NEET 2022 Code-R6 official paper + NTA Final",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The Young's modulus of steel is twice that of brass. Two wires of same length and of same area of cross section, one of steel and another of brass are suspended from the same roof. If we want the lower ends of the wires to be at the same level, then the weights added to the steel and brass wires must be in the ratio of",
+  "options": [
+   "4 : 1",
+   "1 : 1",
+   "1 : 2",
+   "2 : 1"
+  ],
+  "answer": 3,
+  "explanation": "Equal Δl: F ∝ Y → W_steel/W_brass = 2/1.",
+  "source": "examside.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The amount of elastic potential energy per unit volume (in SI unit) of a steel wire of length 100 cm stretched by 1 mm is (Young's modulus of the wire = 2.0 × 10¹¹ N m⁻²)",
+  "options": [
+   "10⁷",
+   "10⁵",
+   "10¹¹",
+   "10¹⁷"
+  ],
+  "answer": 1,
+  "explanation": "u = ½Y(strain)² = ½(2×10¹¹)(10⁻³)² = 10⁵ J/m³.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The stress-strain curves are drawn for two different materials X and Y. It is observed that the ultimate strength point and the fracture point are close to each other for material X, but are far apart for material Y. We can say that materials X and Y are likely to be (respectively)",
+  "options": [
+   "ductile and brittle",
+   "brittle and ductile",
+   "brittle and plastic",
+   "plastic and ductile"
+  ],
+  "answer": 1,
+  "explanation": "Brittle: fracture soon after ultimate strength. Ductile: far apart (necking).",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ }
+]

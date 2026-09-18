@@ -1,0 +1,240 @@
+[
+ {
+  "pdfPage": 15,
+  "question": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
+  "options": [
+   "3f/2",
+   "2f",
+   "f/2",
+   "f"
+  ],
+  "answer": 3,
+  "explanation": "Open pipe f = v/(2L). Dipped to half length → closed pipe of L/2: f′ = v/(4·L/2) = v/(2L) = f.",
+  "source": "smartachievers.online",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A string is stretched between fixed points separated by 75.0 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. The lowest resonant frequency for this string is",
+  "options": [
+   "10.5 Hz",
+   "105 Hz",
+   "155 Hz",
+   "205 Hz"
+  ],
+  "answer": 1,
+  "explanation": "Adjacent resonances differ by fundamental: 420−315 = 105 Hz.",
+  "source": "smartachievers.online",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A tuning fork with frequency 800 Hz produces resonance in a resonance column tube with upper end open and lower end closed by water surface. Successive resonance are observed at length 9.75 cm, 31.25 cm and 52.75 cm. The speed of sound in air is:",
+  "options": [
+   "500 m/s",
+   "156 m/s",
+   "344 m/s",
+   "172 m/s"
+  ],
+  "answer": 2,
+  "explanation": "Successive lengths differ by λ/2: 31.25−9.75 = 21.5 cm = λ/2 → λ = 43 cm; v = 800 × 0.43 = 344 m/s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 15,
+  "question": "If the length of an open organ pipe is 50 cm, what is its fundamental frequency in air? (Speed of sound = 330 m/s):",
+  "options": [
+   "330 Hz",
+   "165 Hz",
+   "660 Hz",
+   "220 Hz"
+  ],
+  "answer": 0,
+  "explanation": "f_open = v / (2L) = 330 / (2 × 0.50 m) = 330 / 1.0 = 330 Hz. | Hint: Fundamental of open pipe is v / (2L).",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 15,
+  "question": "In a guitar, two strings A and B made of same material are slightly out of tune and produce beats of frequency 6 Hz. When tension in B is slightly decreased, the beat frequency increases to 7 Hz. If the frequency of A is 530 Hz, the original frequency of B will be :",
+  "options": [
+   "523 Hz",
+   "524 Hz",
+   "536 Hz",
+   "537 Hz"
+  ],
+  "answer": 1,
+  "explanation": "f_B = 524 or 536. Lowering tension lowers f_B; beats increase → f_B below 530 → 524 Hz.",
+  "source": "smartachievers.online",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 15,
+  "question": "The two nearest harmonics of a tube closed at one end and open at other end are 220 Hz and 260 Hz. What is the fundamental frequency of the system ?",
+  "options": [
+   "20 Hz",
+   "30 Hz",
+   "40 Hz",
+   "10 Hz"
+  ],
+  "answer": 0,
+  "explanation": "Closed pipe: only odd harmonics, consecutive differ by 2f. 260−220 = 40 = 2f → f = 20 Hz.",
+  "source": "smartachievers.online",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 17,
+  "question": "4.0 g of a gas occupies 22.4 litres at NTP. The specific heat capacity of the gas at constant volume is 5.0 J K–1 mol–1. If the speed of sound in this gas at NTP is 952 m s–1, then the heat capacity at constant pressure is (Take gas constant R = 8.3 J K–1 mol–1)",
+  "options": [
+   "7.0 J K–1 mol–1",
+   "8.5 J K–1 mol–1",
+   "8.0 J K–1 mol–1",
+   "7.5 J K–1 mol–1"
+  ],
+  "answer": 2,
+  "explanation": "M = 4 g/mol; γ = Mv²/(RT) = 1.6; C_p = γC_v = 8.0 J/K/mol.",
+  "source": "smartachievers.online",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A tuning fork is used to produce resonance in a glass tube. The length of the air column in this tube can be adjusted by a variable piston. At room temperature of 27°C two successive resonances are produced at 20 cm and 73 cm of column length. If the frequency of the tuning fork is 320 Hz, the velocity of sound in air at 27°C is",
+  "options": [
+   "330 m s–1",
+   "339 m s–1",
+   "350 m s–1",
+   "300 m s–1"
+  ],
+  "answer": 1,
+  "explanation": "v = 2f(L₂−L₁) = 2 × 320 × 0.53 = 339.2 m/s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 17,
+  "question": "The 4th overtone of a closed organ pipe is same as that of 3rd overtone of an open pipe. The ratio of the length of the closed pipe to the length of the open pipe is :",
+  "options": [
+   "8 : 9",
+   "9 : 7",
+   "9 : 8",
+   "7 : 9"
+  ],
+  "answer": 2,
+  "explanation": "Closed 4th overtone = 9th harmonic = 9v/(4L); open 3rd overtone = 4th harmonic = 2v/L′. Equal → 9L′ = 8L → L/L′ = 9/8.",
+  "source": "smartachievers.online",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 17,
+  "question": "The fundamental frequency of a closed organ pipe of length 20 cm is equal to the second overtone of an organ pipe open at both the ends. The length of organ pipe open at both the ends is",
+  "options": [
+   "120 cm",
+   "140 cm",
+   "80 cm",
+   "100 cm"
+  ],
+  "answer": 0,
+  "explanation": "v/80 = 3v/(2L′) → L′ = 120 cm.",
+  "source": "smartachievers.online",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 17,
+  "question": "The second overtone of an open organ pipe has the same frequency as the first overtone of a closed pipe L metre long. The length of the open pipe will be",
+  "options": [
+   "L",
+   "2L",
+   "L/2",
+   "4L"
+  ],
+  "answer": 1,
+  "explanation": "Open 2nd overtone = 3v/(2L′); closed 1st overtone = 3v/(4L). Equal → L′ = 2L.",
+  "source": "smartachievers.online",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Two sound sources when sounded together produce 4 beats per second. The frequency of one is 250 Hz. When the other is loaded with wax, beat frequency increases to 6 beats/s. The original frequency of the second source was:",
+  "options": [
+   "246 Hz",
+   "254 Hz",
+   "256 Hz",
+   "248 Hz"
+  ],
+  "answer": 0,
+  "explanation": "Frequency could be 246 or 254 Hz. Loading with wax decreases frequency. If it were 246 Hz, decreasing it to 244 Hz widens difference from 250 Hz to 6 beats/s (matches!). | Hint: Waxing decreases frequency. Pick the one that widens gap.",
+  "source": "NEET NEET 2019 via BYJU'S NEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 18,
+  "question": "An air column, closed at one end and open at the other, resonates with a tuning fork when the smallest length of the column is 50 cm. The next larger length of the column resonating with the same tuning fork is",
+  "options": [
+   "150 cm",
+   "200 cm",
+   "66.7 cm",
+   "100 cm"
+  ],
+  "answer": 0,
+  "explanation": "l₁ = λ/4 = 50 cm; next resonance l₂ = 3λ/4 = 150 cm.",
+  "source": "smartachievers.online",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Open-pipe fundamental equals closed-pipe 3rd harmonic; closed length 20 cm. Open length:",
+  "options": [
+   "12.5 cm",
+   "8 cm",
+   "13.2 cm",
+   "16 cm"
+  ],
+  "answer": 2,
+  "explanation": "v/2L_o = 3v/80 → L_o = 40/3 ≈ 13.2 cm.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 18,
+  "question": "The fundamental frequency in an open organ pipe is equal to the third harmonic of a closed organ pipe. If the length of the closed organ pipe is 20 cm, the length of the open organ pipe is",
+  "options": [
+   "13.2 cm",
+   "8 cm",
+   "12.5 cm",
+   "16 cm"
+  ],
+  "answer": 0,
+  "explanation": "Closed 3rd harmonic = 3v/80 = v/(2L′) → L′ = 40/3 = 13.33 cm.",
+  "source": "smartachievers.online",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 18,
+  "question": "The number of possible natural oscillations of air column in a pipe closed at one end of length 85 cm whose frequencies lie below 1250 Hz are (Velocity of sound = 340 m s–1)",
+  "options": [
+   "4",
+   "5",
+   "7",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Fundamental = 100 Hz; odd harmonics 100,300,…,1100 Hz below 1250 → 6 oscillations.",
+  "source": "smartachievers.online",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 18,
+  "question": "The ratio of frequencies of fundamental harmonic produced by an open pipe to that of closed pipe having the same length is",
+  "options": [
+   "1 : 3",
+   "3 : 1",
+   "1 : 2",
+   "2 : 1"
+  ],
+  "answer": 3,
+  "explanation": "Open f = v/(2L), closed f = v/(4L) → ratio 2 : 1.",
+  "source": "smartachievers.online",
+  "year": "NEET 2023"
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "Destruction of the anterior horn cells of the spinal cord would result in loss of",
+  "options": [
+   "voluntary motor impulses",
+   "sensory impulses",
+   "integrating impulses",
+   "commissural impulses"
+  ],
+  "answer": 0,
+  "explanation": "Anterior (ventral) horn houses somatic motor neurons.",
+  "source": "byjus.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 3,
+  "question": "In humans, Alzheimer's disease is associated with the deficiency of",
+  "options": [
+   "dopamine",
+   "acetylcholine",
+   "glutamic acid",
+   "gamma-aminobutyric acid (GABA)"
+  ],
+  "answer": 1,
+  "explanation": "NCERT links Alzheimer's to acetylcholine deficiency.",
+  "source": "byjus.com",
+  "year": "AIPMT 2009"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Myelin sheath is produced by:",
+  "options": [
+   "Schwann cells and oligodendrocytes",
+   "Osteoclasts and astrocytes",
+   "Oligodendrocytes and osteoclasts",
+   "Astrocytes and Schwann cells"
+  ],
+  "answer": 0,
+  "explanation": "Schwann cells myelinate PNS axons, oligodendrocytes myelinate CNS axons. | Hint: One glial cell per nervous system half.",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Resting axonal membrane is:",
+  "options": [
+   "Impermeable to Na+ and K+",
+   "Equally permeable to both",
+   "More permeable to Na+, nearly impermeable to K+",
+   "More permeable to K+, nearly impermeable to Na+"
+  ],
+  "answer": 3,
+  "explanation": "Resting potential comes from high K+ permeability via leak channels. | Hint: Which ion leaks at rest?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The most abundant intracellular cation is",
+  "options": [
+   "Ca++",
+   "K+",
+   "Na+",
+   "H+"
+  ],
+  "answer": 1,
+  "explanation": "Intracellular fluid is rich in K+.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The most abundant intracellular cation:",
+  "options": [
+   "Ca++",
+   "K+",
+   "Na+",
+   "H+"
+  ],
+  "answer": 1,
+  "explanation": "Potassium dominates inside cells; sodium dominates outside. | Hint: Inside or outside: where is potassium king?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Alzheimer disease associates with deficiency of:",
+  "options": [
+   "Dopamine",
+   "Acetylcholine",
+   "Glutamic acid",
+   "GABA"
+  ],
+  "answer": 1,
+  "explanation": "Cholinergic loss (acetylcholine) underlies Alzheimer memory failure. | Hint: Which transmitter fades in Alzheimer?",
+  "source": "NEET NEET 2009 via BYJU'S",
+  "year": "NEET 2009"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Ear part with no hearing role but still essential:",
+  "options": [
+   "Organ of Corti",
+   "Eustachian tube",
+   "Ear ossicles",
+   "Vestibular apparatus"
+  ],
+  "answer": 3,
+  "explanation": "The vestibular apparatus serves balance, not hearing. | Hint: Which ear part handles balance?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Good vision depends on an adequate intake of carotene-rich food. Pick the best option from the following statements: I. Retinal is a light-absorbing part of all the visual photopigments II. Retinal is a derivative of vitamin A III. Vitamin A derivatives are formed from carotene IV. Photopigments are embedded in the membrane discs of the inner segment",
+  "options": [
+   "II, III, IV",
+   "II, III",
+   "I, II",
+   "I, III, IV"
+  ],
+  "answer": 1,
+  "explanation": "Photopigments are in OUTER segment discs (IV false); I, II, III true.",
+  "source": "byjus.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Good vision needs carotene-rich food. Best option: I. Retinal is the light-absorbing part of all visual photopigments; II. Retinal derives from vitamin A; III. Vitamin A forms from carotene; IV. Photopigments sit in inner-segment discs.",
+  "options": [
+   "II, III, IV",
+   "II, III",
+   "I, II",
+   "I, III, IV"
+  ],
+  "answer": 1,
+  "explanation": "I is wrong (only some pigments use retinal the same way is fine but IV is wrong: discs are in the OUTER segment), leaving II and III correct. | Hint: Where exactly are the discs: inner or outer segment?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Injury localised to the hypothalamus most likely disrupts:",
+  "options": [
+   "Body temperature regulation",
+   "Short-term memory",
+   "Executive decision making",
+   "Locomotion coordination"
+  ],
+  "answer": 0,
+  "explanation": "Hypothalamus is the thermostat (plus hunger, thirst, hormones). | Hint: Which brain part is the thermostat?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Pick the correct statement:",
+  "options": [
+   "Meissner corpuscles are thermoreceptors",
+   "Nociceptors sense pressure changes",
+   "Receptors make no graded potentials",
+   "Photoreceptors depolarise in darkness, hyperpolarise in light"
+  ],
+  "answer": 3,
+  "explanation": "Rods/cones are depolarised in the dark and hyperpolarise on illumination. | Hint: What is the dark state of a photoreceptor?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The 'fovea' in the mammalian eye is the center of the visual field, where",
+  "options": [
+   "more rods than cones are found",
+   "optic nerve leaves the eye",
+   "only rods are present",
+   "high density of cones occur but has no rods"
+  ],
+  "answer": 3,
+  "explanation": "Fovea: only cones at high density; region of sharpest vision.",
+  "source": "byjus.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The fovea, centre of the visual field, has:",
+  "options": [
+   "More rods than cones",
+   "Optic nerve exit",
+   "Only rods",
+   "Dense cones, no rods"
+  ],
+  "answer": 3,
+  "explanation": "Fovea packs cones for sharp colour vision with no rods. | Hint: Sharpest spot needs which photoreceptor?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 6,
+  "question": "This part of the human ear plays no role in hearing as such but is otherwise very much required",
+  "options": [
+   "Organ of Corti",
+   "Eustachian tube",
+   "Ear ossicles",
+   "Vestibular apparatus"
+  ],
+  "answer": 3,
+  "explanation": "Vestibular apparatus governs balance and posture.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Destroying anterior horn spinal cells loses:",
+  "options": [
+   "Voluntary motor impulses",
+   "Sensory impulses",
+   "Integrating impulses",
+   "Commissural impulses"
+  ],
+  "answer": 0,
+  "explanation": "Anterior (ventral) horn holds motor neuron cell bodies. | Hint: Motor or sensory: which horn is ventral?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Injury localized to the hypothalamus would most likely disrupt",
+  "options": [
+   "regulation of body temperature",
+   "short-term memory",
+   "executive functions, such as decision making",
+   "coordination during locomotion"
+  ],
+  "answer": 0,
+  "explanation": "Hypothalamus controls body temperature, hunger, thirst.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 7,
+  "question": "When a neuron is in a resting state, i.e., not conducting any impulse, the axonal membrane is",
+  "options": [
+   "impermeable to both Na+ and K+ ions",
+   "equally permeable to both Na+ and K+ ions",
+   "comparatively more permeable to Na+ ions and nearly impermeable to K+ ions",
+   "comparatively more permeable to K+ ions and nearly impermeable to Na+ ions"
+  ],
+  "answer": 3,
+  "explanation": "Resting membrane: nearly impermeable to Na+, permeable to K+ (potential ~−70 mV).",
+  "source": "byjus.com",
+  "year": "AIPMT 2011"
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "Nomenclature is governed by certain universal rules. Which one of the following is contrary to the rules of nomenclature?",
+  "options": [
+   "The names are written in Latin and are italicised",
+   "When written by hand the names are to be underlined",
+   "Biological names can be written in any language",
+   "The first word in a biological name represents the genus name and the second is a specific epithet"
+  ],
+  "answer": 2,
+  "explanation": "Names must be Latinised and italicised — writing in any language is contrary.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Robert May global species diversity estimate:",
+  "options": [
+   "50 million",
+   "7 million",
+   "1.5 million",
+   "20 million"
+  ],
+  "answer": 1,
+  "explanation": "May estimated about 7 million species globally. | Hint: The famous 7-million estimate?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Which one of the following statements is not true about the universal rules of binomial nomenclature?",
+  "options": [
+   "Biological names are generally in Latin",
+   "Both the words in a biological name, when handwritten, are separately underlined or printed in italics",
+   "The specific epithet in the biological name starts with a small letter",
+   "The first word in the biological name represents the specific epithet, while the second component denotes the genus"
+  ],
+  "answer": 3,
+  "explanation": "NCERT: first word = genus (capital), second = specific epithet (small); D reverses this.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Against ICBN rules:",
+  "options": [
+   "Handwritten names underlined",
+   "Generic + specific epithet required",
+   "Latin italicised names",
+   "Generic and specific both start small"
+  ],
+  "answer": 3,
+  "explanation": "Generic name starts with a capital letter, epithet with small. | Hint: Which word gets the capital?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Contrary to nomenclature rules:",
+  "options": [
+   "Names in any language",
+   "First word genus, second epithet",
+   "Latin italicised names",
+   "Handwritten names underlined"
+  ],
+  "answer": 0,
+  "explanation": "Biological names must be Latinised, never in any language. | Hint: Which language rule is absolute?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Correctly written mango name (Linnaeus):",
+  "options": [
+   "Mangifera indica Car. Linn.",
+   "Mangifera indica Linn.",
+   "Mangifera indica",
+   "Mangifera Indica"
+  ],
+  "answer": 1,
+  "explanation": "Author citation Linn. follows; epithet stays lowercase. | Hint: Author citation and lowercase epithet?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Which one of the following belongs to the family Muscidae?",
+  "options": [
+   "House fly",
+   "Fire fly",
+   "Grasshopper",
+   "Cockroach"
+  ],
+  "answer": 0,
+  "explanation": "Musca domestica → Muscidae; fire fly Lampyridae, grasshopper Acrididae, cockroach Blattidae.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Which one of the following is not a correct statement?",
+  "options": [
+   "A museum has collection of photographs of plants and animals",
+   "Key is taxonomic aid for identification of specimens",
+   "Herbarium houses dried, pressed and preserved plant specimens",
+   "Botanical gardens have collection of living plants for reference"
+  ],
+  "answer": 0,
+  "explanation": "Museums hold preserved specimens, not merely photographs.",
+  "source": "examside.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 4,
+  "question": "X/Y components of binomial nomenclature by Z:",
+  "options": [
+   "Epithet/Genus by Linnaeus",
+   "Genus/Epithet by Whittaker",
+   "Genus/Epithet by Linnaeus",
+   "Epithet/Genus by Whittaker"
+  ],
+  "answer": 2,
+  "explanation": "Generic name + specific epithet, proposed by Linnaeus. | Hint: Who proposed the two-name system?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Housefly match: Family/Order/Class/Phylum:",
+  "options": [
+   "Muscidae/Diptera/Insecta/Arthropoda (iii,i,iv,ii)",
+   "Muscidae/Diptera/Insecta shuffled (iii,ii,iv,i)",
+   "Mismatched ranks",
+   "Mismatched ranks variant"
+  ],
+  "answer": 0,
+  "explanation": "Family Muscidae, Order Diptera, Class Insecta, Phylum Arthropoda. | Hint: Family Muscidae, order Diptera?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Match the items given in Column I with those in Column II and select the correct option given below. Column I: A. Herbarium, B. Key, C. Museum, D. Catalogue. Column II: (i) It is a place having a collection of preserved plants and animals, (ii) A list that enumerates methodically all the species found in an area with brief description aiding identification, (iii) Is a place where dried and pressed plant specimens mounted on sheets are kept, (iv) A booklet containing a list of characters and their alternates which are helpful in identification of various taxa.",
+  "options": [
+   "A-(ii), B-(iv), C-(iii), D-(i)",
+   "A-(iii), B-(ii), C-(i), D-(iv)",
+   "A-(iii), B-(iv), C-(i), D-(ii)",
+   "A-(i), B-(iv), C-(iii), D-(ii)"
+  ],
+  "answer": 2,
+  "explanation": "Herbarium=dried sheets(iii), Key=alternate characters(iv), Museum=preserved specimens(i), Catalogue=species list(ii).",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for",
+  "options": [
+   "interaction with the environment and progressive evolution",
+   "reproduction",
+   "growth and movement",
+   "responsiveness to touch"
+  ],
+  "answer": 0,
+  "explanation": "Growth/reproduction/movement are not all-inclusive; interaction with environment (consciousness) + evolution distinguishes living.",
+  "source": "examside.com",
+  "year": "AIPMT 2007"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The taxonomic order to which the horse (Equus caballus) belongs is:",
+  "options": [
+   "Equidae",
+   "Perissodactyla",
+   "Caballus",
+   "Ferus"
+  ],
+  "answer": 1,
+  "explanation": "Equidae is the family, Perissodactyla the order (odd-toed ungulates); Caballus/Ferus are species/subspecies epithets.",
+  "source": "NEET 2017 (official stem restored)",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Correct animal hierarchy:",
+  "options": [
+   "Kingdom-Phylum-Class-Order-Family-Genus-Species",
+   "Kingdom-Class-Phylum-Family-Order-Genus-Species",
+   "Kingdom-Order-Class-Phylum-Family-Genus-Species",
+   "Kingdom-Order-Phylum-Class-Family-Genus-Species"
+  ],
+  "answer": 0,
+  "explanation": "Standard descending hierarchy as memorised. | Hint: Recite the ranks top-down.",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The label of a herbarium sheet does not carry information on",
+  "options": [
+   "date of collection",
+   "name of collector",
+   "local names",
+   "height of the plant"
+  ],
+  "answer": 3,
+  "explanation": "NCERT label: date/place, English/local names, family, collector's name — not plant height.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Two correct statements (Mayr species; photoperiod; Whittaker binomial; unicellular growth):",
+  "options": [
+   "B and C",
+   "B and D",
+   "A and D",
+   "A and B"
+  ],
+  "answer": 2,
+  "explanation": "Mayr defined species and unicellular growth equals reproduction; the other two misattribute. | Hint: Who defined species, and what equals growth in unicells?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ }
+]

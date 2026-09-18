@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 4,
+  "question": "In a hydrogen-oxygen fuel cell, combustion of hydrogen occurs to",
+  "options": [
+   "Generate heat",
+   "Create a potential difference between the two electrodes",
+   "Produce high purity water",
+   "Remove adsorbed oxygen from the electrode surface"
+  ],
+  "answer": 1,
+  "explanation": "In a hydrogen-oxygen fuel cell, hydrogen is oxidised at the anode and oxygen reduced at the cathode; the useful output is the potential difference between the electrodes that drives current through the external circuit. | Hint: A fuel cell converts chemical energy directly into electrical energy — what does it deliver to the circuit?",
+  "source": "JEE AIEEE 2004 via BYJU'S",
+  "year": "AIEEE 2004"
+ },
+ {
+  "pdfPage": 4,
+  "question": "EMF of a cell in terms of the reduction potentials of its left and right electrodes is",
+  "options": [
+   "E = E_left − E_right",
+   "E = E_left + E_right",
+   "E = E_right − E_left",
+   "E = −(E_right + E_left)"
+  ],
+  "answer": 2,
+  "explanation": "E°cell = (reduction potential of cathode) − (reduction potential of anode) = E_right − E_left for the standard cell convention. | Hint: Cell EMF is always cathode minus anode.",
+  "source": "JEE AIEEE 2002 via BYJU'S",
+  "year": "AIEEE 2002"
+ },
+ {
+  "pdfPage": 6,
+  "question": "If the standard electrode potential for the cell Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s) is 2 V at 300 K, the equilibrium constant K at 300 K is approximately (R = 8 J K⁻¹ mol⁻¹, F = 96500 C mol⁻¹)",
+  "options": [
+   "e⁻⁸⁰",
+   "e¹⁶⁰",
+   "e⁻¹⁶⁰",
+   "e³²⁰"
+  ],
+  "answer": 1,
+  "explanation": "ΔG° = −nFE° = −2 × 96000 × 2 = −384000 J/mol; −RT ln K = −384000 → ln K = 384000/(8×300) = 160, so K = e¹⁶⁰. | Hint: Equate −nFE° to −RT ln K and solve for ln K.",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The correct order of E°(M²⁺/M) values with negative sign for the four successive elements Cr, Mn, Fe and Co is",
+  "options": [
+   "Mn > Cr > Fe > Co",
+   "Cr > Fe > Mn > Co",
+   "Fe > Mn > Cr > Co",
+   "Cr > Mn > Fe > Co"
+  ],
+  "answer": 0,
+  "explanation": "E°(M²⁺/M) becomes less negative across the series, except Mn which is anomalously negative due to its stable half-filled d⁵ configuration: Mn > Cr > Fe > Co in magnitude of the negative value. | Hint: Remember the d⁵ exception — manganese breaks the trend.",
+  "source": "JEE AIEEE 2010 via BYJU'S",
+  "year": "AIEEE 2010"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The standard Gibbs energy for the cell reaction Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s) in kJ mol⁻¹ at 298 K is (E° = 2 V, F = 96000 C mol⁻¹)",
+  "options": [
+   "−192",
+   "192",
+   "−384",
+   "384"
+  ],
+  "answer": 2,
+  "explanation": "ΔG° = −nFE° = −2 × 96000 × 2 = −384000 J/mol = −384 kJ/mol. | Hint: ΔG° = −nFE°; watch the joule-to-kilojoule conversion.",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Calculate the standard cell potential (in V) of the cell in which this reaction takes place: Fe²⁺(aq) + Ag⁺(aq) → Fe³⁺(aq) + Ag(s). Given E°(Ag⁺/Ag) = x V, E°(Fe²⁺/Fe) = y V, E°(Fe³⁺/Fe) = z V.",
+  "options": [
+   "x − z",
+   "x − y",
+   "x + 2y − 3z",
+   "x + y − z"
+  ],
+  "answer": 2,
+  "explanation": "Use ΔG° = −nFE°: −FE°cell = (−2Fy) + (−Fx) − (−3Fz), giving E°cell = x + 2y − 3z. | Hint: Combine the half-reactions with ΔG° = −nFE° (potentials don't add directly — free energies do).",
+  "source": "JEE JEE Main 2025 via BYJU'S",
+  "year": "JEE Main 2025"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Galvanization is applying a coating of",
+  "options": [
+   "Pb",
+   "Cr",
+   "Cu",
+   "Zn"
+  ],
+  "answer": 3,
+  "explanation": "Galvanization coats iron with zinc. Zinc is more electropositive, so it corrodes preferentially (sacrificial protection) even if the coating is scratched. | Hint: Which metal protects iron sacrificially — the one above iron in the electrochemical series?",
+  "source": "JEE JEE Main 2016 via BYJU'S",
+  "year": "JEE Main 2016"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Conductivity (unit Siemens, S) is directly proportional to the area of the vessel and the concentration of the solution in it and is inversely proportional to the length of the vessel. Then the unit of the constant of proportionality is",
+  "options": [
+   "S m mol⁻¹",
+   "S m² mol⁻¹",
+   "S⁻² m² mol",
+   "S² m² mol"
+  ],
+  "answer": 1,
+  "explanation": "Conductivity k = K × (A/l) × c... dimensionally, S = [K] × m² × mol/m × m³ gives [K] = S·m²·mol⁻¹. | Hint: Write S = K × (area × concentration / length) and solve for the units of K.",
+  "source": "JEE AIEEE 2002 via BYJU'S",
+  "year": "AIEEE 2002"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Consider the statements S1 and S2. S1: Conductivity always increases with decrease in the concentration of electrolyte. S2: Molar conductivity always increases with decrease in the concentration of electrolyte.",
+  "options": [
+   "Both S1 and S2 are wrong",
+   "Both S1 and S2 are correct",
+   "S1 is wrong and S2 is correct",
+   "S1 is correct and S2 is wrong"
+  ],
+  "answer": 2,
+  "explanation": "Conductivity (k) rises with concentration (more ions per volume), while molar conductivity (Λm) rises on dilution (greater ionisation + mobility). So S1 is wrong and S2 is correct. | Hint: Conductivity and molar conductivity move in opposite directions with dilution.",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 22,
+  "question": "A solution of Ni(NO3)2 is electrolysed between platinum electrodes using 0.1 Faraday of electricity. How many moles of Ni will be deposited at the cathode?",
+  "options": [
+   "0.10",
+   "0.15",
+   "0.20",
+   "0.05"
+  ],
+  "answer": 3,
+  "explanation": "Ni²⁺ + 2e⁻ → Ni: 2 F deposits 1 mol Ni, so 0.1 F deposits 0.1/2 = 0.05 mol. | Hint: How many Faradays per mole of Ni? Divide 0.1 F by that number.",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 22,
+  "question": "The anodic half-cell of a lead-acid battery is recharged using 0.05 Faraday of electricity. The amount of PbSO4 electrolysed (in g) during the process is [molar mass of PbSO4 = 303 g mol⁻¹]",
+  "options": [
+   "15.2 g",
+   "11.4 g",
+   "7.6 g",
+   "22.8 g"
+  ],
+  "answer": 2,
+  "explanation": "The PbSO4 conversion involves 2 electrons per mole, so moles electrolysed = 0.05/2 = 0.025 mol; mass = 0.025 × 303 = 7.575 g ≈ 7.6 g. | Hint: Moles = faradays ÷ electrons per mole, then multiply by molar mass.",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 22,
+  "question": "When 9650 coulombs of charge pass through an electroplating bath during electrolysis of AgNO3 solution, the mass of silver deposited on the cathode will be",
+  "options": [
+   "10.8 g",
+   "21.6 g",
+   "108 g",
+   "1.08 g"
+  ],
+  "answer": 0,
+  "explanation": "Moles of Ag = Q/F = 9650/96500 = 0.1 mol; mass = 0.1 × 108 = 10.8 g. | Hint: First find moles of electrons (Q/F), then convert to mass of silver.",
+  "source": "JEE AIEEE 2003 via BYJU'S",
+  "year": "AIEEE 2003"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Identify the correct statement.",
+  "options": [
+   "Corrosion of iron can be minimized by forming contact with another metal with a higher reduction potential",
+   "Iron corrodes in oxygen-free water",
+   "Corrosion of iron can be minimized by forming an impermeable barrier at its surface",
+   "Iron corrodes more rapidly in salt water because its electrochemical potential is higher"
+  ],
+  "answer": 2,
+  "explanation": "Contact with a higher-reduction-potential metal makes iron the anode (worse). Iron needs both oxygen and water to rust, and salt water speeds it up. An impermeable barrier (paint/oil) blocks both, so it minimizes corrosion. | Hint: Iron rusts only with both air and water — which option blocks both?",
+  "source": "JEE JEE Main 2016 via BYJU'S",
+  "year": "JEE Main 2016"
+ },
+ {
+  "pdfPage": 23,
+  "question": "If φ denotes reduction potential, then which is true?",
+  "options": [
+   "E°cell = φ_right − φ_left",
+   "E°cell = φ_left + φ_right",
+   "E°cell = φ_left − φ_right",
+   "E°cell = −(φ_left + φ_right)"
+  ],
+  "answer": 0,
+  "explanation": "E°cell = E°cathode − E°anode = φ_right − φ_left. | Hint: Same cathode-minus-anode rule, just written with φ.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 28,
+  "question": "For a cell reaction involving a two-electron change, the standard EMF of the cell is found to be 0.295 V at 25 °C. The equilibrium constant of the reaction at 25 °C will be",
+  "options": [
+   "1 × 10⁻¹⁰",
+   "29.5 × 10⁻²",
+   "10",
+   "1 × 10¹⁰"
+  ],
+  "answer": 3,
+  "explanation": "E°cell = (0.0591/n) log Kc with n = 2: 0.295 = 0.0295 log Kc → log Kc = 10 → Kc = 10¹⁰. | Hint: Plug into E° = (0.0591/2) log Kc and solve for log Kc.",
+  "source": "JEE AIEEE 2003 via BYJU'S",
+  "year": "AIEEE 2003"
+ }
+]

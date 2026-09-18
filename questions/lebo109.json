@@ -1,0 +1,198 @@
+[
+ {
+  "pdfPage": 5,
+  "question": "A restriction endonuclease:",
+  "options": [
+   "Hind II",
+   "Protease",
+   "DNase I",
+   "RNase"
+  ],
+  "answer": 0,
+  "explanation": "Hind II was the first discovered restriction endonuclease. | Hint: First of its kind?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Blunt-end restriction enzyme:",
+  "options": [
+   "Sal I",
+   "EcoRV",
+   "Xho I",
+   "Hind III"
+  ],
+  "answer": 1,
+  "explanation": "EcoRV cuts straight across both strands. | Hint: Which cutter leaves no overhang?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "PCR step order:",
+  "options": [
+   "Denaturation, Extension, Annealing",
+   "Annealing, Extension, Denaturation",
+   "Extension, Denaturation, Annealing",
+   "Denaturation, Annealing, Extension"
+  ],
+  "answer": 3,
+  "explanation": "Melt, prime, then extend. | Hint: Melt, prime, build?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 8,
+  "question": "DNA movement on agarose gel:",
+  "options": [
+   "Larger moves farther",
+   "Smaller moves farther",
+   "Positive fragments run far",
+   "Negative fragments stall"
+  ],
+  "answer": 1,
+  "explanation": "Small fragments slip through pores fastest toward anode. | Hint: Size versus speed in a gel?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "INCORRECT statement on gel electrophoresis:",
+  "options": [
+   "DNA separates by size",
+   "DNA moves to cathode (negative charge)",
+   "Agarose acts as sieving matrix",
+   "Ethidium bromide stains DNA"
+  ],
+  "answer": 1,
+  "explanation": "DNA is negative and runs to the anode (positive); cathode is negative. | Hint: Anode or cathode: which attracts negative DNA?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 8,
+  "question": "DNA fragment movement on agarose gel depends on:",
+  "options": [
+   "Smaller moves farther",
+   "Positive fragments move farthest",
+   "Negative fragments stall",
+   "Larger moves farther"
+  ],
+  "answer": 0,
+  "explanation": "Sieving: small fragments slip through pores fastest. | Hint: Size versus speed in a gel?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Vector for DNA into human lymphocytes:",
+  "options": [
+   "Lambda phage",
+   "Ti plasmid",
+   "Retrovirus",
+   "pBR322"
+  ],
+  "answer": 2,
+  "explanation": "Disarmed retroviruses deliver genes to animal cells. | Hint: Which vector suits animal cells?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Joining vector + insert cut by same enzyme needs:",
+  "options": [
+   "EcoRI",
+   "Taq polymerase",
+   "Polymerase III",
+   "Ligase"
+  ],
+  "answer": 3,
+  "explanation": "DNA ligase seals the recombinant joints. | Hint: Which enzyme glues DNA?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Taq polymerase from:",
+  "options": [
+   "Thermus aquaticus",
+   "Thiobacillus ferroxidans",
+   "Bacillus subtilis",
+   "Pseudomonas putida"
+  ],
+  "answer": 0,
+  "explanation": "Heat-stable Taq comes from the hot-spring bacterium Thermus aquaticus. | Hint: Hot-spring bacterium?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 13,
+  "question": "NOT a plasmid feature:",
+  "options": [
+   "Independent replication",
+   "Circular structure",
+   "Transferable",
+   "Single-stranded"
+  ],
+  "answer": 3,
+  "explanation": "Plasmids are double-stranded circular DNA. | Hint: Strandedness of plasmids?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Gene marking transformed cells:",
+  "options": [
+   "Selectable marker",
+   "Vector",
+   "Plasmid",
+   "Structural gene"
+  ],
+  "answer": 0,
+  "explanation": "Markers (e.g. antibiotic resistance) flag transformants. | Hint: What flags the transformed cells?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Stirred-tank bioreactors ensure:",
+  "options": [
+   "Product purification",
+   "Preservative addition",
+   "Oxygen availability throughout",
+   "Anaerobic conditions"
+  ],
+  "answer": 2,
+  "explanation": "Agitation keeps oxygen (and nutrients) uniform. | Hint: What does stirring distribute?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 14,
+  "question": "NOT downstream processing:",
+  "options": [
+   "Separation",
+   "Purification",
+   "Preservation",
+   "Expression"
+  ],
+  "answer": 3,
+  "explanation": "Expression is upstream production; downstream starts after harvest. | Hint: Before or after harvest?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Protein separation+purification before marketing:",
+  "options": [
+   "Upstream",
+   "Downstream",
+   "Bioprocessing",
+   "Postproduction"
+  ],
+  "answer": 1,
+  "explanation": "Downstream processing purifies the product. | Hint: Upstream makes, downstream purifies?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ }
+]

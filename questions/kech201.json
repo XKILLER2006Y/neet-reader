@@ -1,0 +1,310 @@
+[
+ {
+  "pdfPage": 8,
+  "question": "Zn/Cu2+(0.1M) cell, E°=1.10 V. Ecell:",
+  "options": [
+   "2.14 V",
+   "1.80 V",
+   "1.07 V",
+   "0.82 V"
+  ],
+  "answer": 2,
+  "explanation": "Nernst: 1.10 - (0.0591/2)(1) = 1.07 V. | Hint: Apply Nernst with n=2, Q=10.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Primary standard for NaOH standardisation:",
+  "options": [
+   "Sodium tetraborate",
+   "Ferrous ammonium sulphate",
+   "Oxalic acid",
+   "Dilute HCl"
+  ],
+  "answer": 2,
+  "explanation": "Oxalic acid is stable, pure and weighable: the classic primary standard. | Hint: Stable, pure, weighable: which acid?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "High-purity dihydrogen via:",
+  "options": [
+   "Zn + aqueous alkali",
+   "Ba(OH)2 electrolysis, Ni electrodes",
+   "Acidified water, Pt electrodes",
+   "Zn + dilute acid"
+  ],
+  "answer": 1,
+  "explanation": "Urea-level pure H2 comes from Ba(OH)2 electrolysis with nickel. | Hint: Industrial ultra-pure hydrogen route?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "H2SO3 + Sn4+ + H2O -> Sn2+ + HSO4- + H+. Correct:",
+  "options": [
+   "H2SO3 reducing agent (oxidised)",
+   "H2SO3 reducing agent (reduced)",
+   "Sn4+ reducing agent (oxidised)",
+   "Sn4+ oxidising agent (oxidised)"
+  ],
+  "answer": 0,
+  "explanation": "Sulphur rises +4 to +6 (oxidised); tin falls +4 to +2. | Hint: Track oxidation numbers both ways.",
+  "source": "JEE JEE Main 2014 via BYJU'S",
+  "year": "JEE Main 2014"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Redox example among Xe reactions:",
+  "options": [
+   "XeF4+O2F2->XeF6+O2",
+   "XeF2+PF5->[XeF]+PF6-",
+   "XeF6+H2O->XeOF4+2HF",
+   "XeF6+2H2O->XeO2F2+4HF"
+  ],
+  "answer": 0,
+  "explanation": "Only here do oxidation states shift (Xe up, O down); the rest hydrolyse. | Hint: Where do oxidation numbers actually change?",
+  "source": "JEE JEE Main 2017 via BYJU'S",
+  "year": "JEE Main 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "MnO4- -> MnO4(2-), MnO2, Mn2O3, Mn2+: electrons each:",
+  "options": [
+   "4,3,1,5",
+   "1,5,3,7",
+   "1,3,4,5",
+   "3,5,7,1"
+  ],
+  "answer": 2,
+  "explanation": "Oxidation states 7->6,4,3,2 need 1,3,4,5 electrons. | Hint: Subtract each state from +7.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Highest conductivity among 1 M acetic/chloro/fluoro/difluoroacetic:",
+  "options": [
+   "Acetic",
+   "Chloroacetic",
+   "Fluoroacetic",
+   "Difluoroacetic"
+  ],
+  "answer": 3,
+  "explanation": "Two fluorines maximise acidity and hence ionisation. | Hint: Strongest acid ionises most.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "NOT a disproportionation example:",
+  "options": [
+   "2H2O2 -> 2H2O + O2",
+   "2NO2 + H2O -> HNO3 + HNO2",
+   "MnO4- + 4H+ + 3e- -> MnO2 + 2H2O",
+   "3MnO4(2-) + 4H+ -> 2MnO4- + MnO2 + 2H2O"
+  ],
+  "answer": 2,
+  "explanation": "Only a half-reaction, not a full redox change of one species both ways. | Hint: Which option is only half a reaction?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "H2O2 acts as reducing agent in:",
+  "options": [
+   "2NaOCl + H2O2 -> 2NaCl + H2O + O2",
+   "2Fe2+ + 2H+ + H2O2 -> 2Fe3+ + 2H2O",
+   "Mn2+ + 2H2O2 -> MnO2 + 2H2O",
+   "Na2S + 4H2O2 -> Na2SO4 + 4H2O"
+  ],
+  "answer": 0,
+  "explanation": "Peroxide oxygen (-1) rises to O2 (0): oxidised, so it reduces. | Hint: Where does oxygen climb to zero?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Disproportionation set (Cu+; manganate; KMnO4 heat; MnO4-/Mn2+ mix):",
+  "options": [
+   "1, 2",
+   "2, 3, 4",
+   "1, 2, 4",
+   "1, 4"
+  ],
+  "answer": 0,
+  "explanation": "Only (1) and (2) split one species both ways; (3) decomposes, (4) comproportionates. | Hint: Split versus combine: which two split?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "H2O2 reducing in BASIC medium:",
+  "options": [
+   "HOCl + H2O2 reaction",
+   "PbS + H2O2 reaction",
+   "MnO4- + H2O2 + OH- reaction",
+   "Mn2+ + H2O2 reaction"
+  ],
+  "answer": 2,
+  "explanation": "Only here does peroxide reduce (oxygen to O2) under basic conditions. | Hint: Find oxygen turning into O2 gas.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Electrons in Cr2O7(2-) + Fe2+ + C2O4(2-) redox:",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 3,
+  "explanation": "Dichromate accepts 6 electrons overall in the change. | Hint: How many does dichromate take to reach Cr(III)?",
+  "source": "JEE JEE Main 2014 via BYJU'S",
+  "year": "JEE Main 2014"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Cr final state, KI + acidified dichromate:",
+  "options": [
+   "+4",
+   "+6",
+   "+2",
+   "+3"
+  ],
+  "answer": 3,
+  "explanation": "Dichromate (+6) reduces to Cr(III) (+3). | Hint: Orange to green means which state?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Balance: X Na2HAsO3 + Y NaBrO3 + Z HCl. X,Y,Z:",
+  "options": [
+   "2,1,3",
+   "3,1,6",
+   "2,1,2",
+   "3,1,4"
+  ],
+  "answer": 1,
+  "explanation": "Atom balance gives 3 arsenite, 1 bromate, 6 acid. | Hint: Balance As, then Br, then H/Cl.",
+  "source": "JEE JEE Main 2013 via BYJU'S",
+  "year": "JEE Main 2013"
+ },
+ {
+  "pdfPage": 15,
+  "question": "MnO4- + C2O4(2-) + H+ coefficients x,y,z:",
+  "options": [
+   "5,2,16",
+   "2,5,8",
+   "2,5,16",
+   "5,2,8"
+  ],
+  "answer": 2,
+  "explanation": "Permanganate-oxalate in acid: 2, 5, 16. | Hint: Classic titration stoichiometry.",
+  "source": "JEE JEE Main 2013 via BYJU'S",
+  "year": "JEE Main 2013"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A redox reaction:",
+  "options": [
+   "NaCl+KNO3 exchange",
+   "CaC2O4+2HCl exchange",
+   "Mg(OH)2+NH4Cl exchange",
+   "Zn+2AgCN->2Ag+Zn(CN)2"
+  ],
+  "answer": 3,
+  "explanation": "Only zinc displacing silver moves electrons (0 to +2 and +1 to 0). | Hint: Precipitation and acid-base move no electrons.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Chromate + excess dilute HNO3 gives:",
+  "options": [
+   "Cr2O7(2-)+H2O",
+   "Cr reduced to +3",
+   "Cr oxidised to +7",
+   "Cr3+ + Cr2O7(2-)"
+  ],
+  "answer": 0,
+  "explanation": "Acid converts chromate to dichromate with water. | Hint: Acid shifts chromate to dichromate.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "INCORRECT statement (CuSO4+KI, then thiosulphate):",
+  "options": [
+   "Cu2I2 is reduced",
+   "Evolved I2 is reduced",
+   "Thiosulphate oxidised",
+   "CuI2 is formed"
+  ],
+  "answer": 3,
+  "explanation": "CuI2 never forms; Cu2I2 + I2 do instead. | Hint: Which product cannot exist?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "HCl ruins oxalic-KMnO4 titration because HCl:",
+  "options": [
+   "Oxidised by oxalic acid",
+   "Adds extra H+",
+   "Reduces permanganate to Mn2+",
+   "Oxidises oxalic acid"
+  ],
+  "answer": 2,
+  "explanation": "HCl consumes permanganate itself, spoiling the endpoint. | Hint: Which side-reaction eats the titrant?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "H2O2 + acidified KMnO4 gives mainly:",
+  "options": [
+   "Mn2+",
+   "Mn4+",
+   "Mn3+",
+   "Mn6+"
+  ],
+  "answer": 0,
+  "explanation": "Acidic permanganate reduces fully to Mn(II). | Hint: Acid + permanganate ends at which state?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A: no HCl in permanganate titrations. R: HCl oxidises to chlorine:",
+  "options": [
+   "Both true, R explains A",
+   "Both true, R not explanation",
+   "A true, R false",
+   "A false, R true"
+  ],
+  "answer": 0,
+  "explanation": "HCl would be oxidised, spoiling the endpoint: reason explains rule. | Hint: Why is HCl banned from these titrations?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 15,
+  "question": "H2O2 oxidiser in both media (I, true); H2O2 denser than D2O (II, false):",
+  "options": [
+   "Both true",
+   "Both false",
+   "I true, II false",
+   "I false, II true"
+  ],
+  "answer": 2,
+  "explanation": "Peroxide oxidises in acid and base; it is denser than heavy water is false. | Hint: Which statement about density fails?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ }
+]

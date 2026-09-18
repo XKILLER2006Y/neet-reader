@@ -1,0 +1,268 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "DNA stays 4C (from 2C) during (key corrected during verification):",
+  "options": [
+   "G2 and M",
+   "Only G2",
+   "G1 and S",
+   "G0 and G1"
+  ],
+  "answer": 0,
+  "explanation": "After S phase the 4C content persists through G2 and M until division. | Hint: When after S phase does content halve?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Dissolution of the synaptonemal complex occurs during",
+  "options": [
+   "Diplotene",
+   "Zygotene",
+   "Pachytene",
+   "Leptotene"
+  ],
+  "answer": 0,
+  "explanation": "Diplotene begins with dissolution of synaptonemal complex.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The correct sequence of adult cell cycle phases is",
+  "options": [
+   "S-M-G2-G1",
+   "G1-G2-S-M",
+   "G1-M-G2-S",
+   "G1-S-G2-M"
+  ],
+  "answer": 3,
+  "explanation": "Cell cycle: G1 → S → G2 → M.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 6,
+  "question": "NOT a somatic-mitosis feature:",
+  "options": [
+   "Nucleolus disappears",
+   "Spindle fibres",
+   "Synapsis",
+   "Chromosome movement"
+  ],
+  "answer": 2,
+  "explanation": "Synapsis (homologue pairing) happens only in meiosis. | Hint: Which belongs to meiosis?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
+  "options": [
+   "G1 phase",
+   "S phase",
+   "G2 phase",
+   "M phase"
+  ],
+  "answer": 0,
+  "explanation": "Cells exit G1 to enter G0 quiescent stage.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Stalled replication fork activates mainly:",
+  "options": [
+   "G2/M checkpoint",
+   "G1/M checkpoint",
+   "M checkpoint",
+   "G2/M and M"
+  ],
+  "answer": 0,
+  "explanation": "Unreplicated DNA holds the G2/M checkpoint. | Hint: Which checkpoint watches replication?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Which stage of meiosis can last for months or years in the oocytes of some vertebrates?",
+  "options": [
+   "Diakinesis",
+   "Leptotene",
+   "Pachytene",
+   "Diplotene"
+  ],
+  "answer": 3,
+  "explanation": "Diplotene (dictyotene) can last months/years in some vertebrate oocytes.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Identify the correct statement with regard to G1 phase (Gap 1) of interphase",
+  "options": [
+   "Cell is metabolically active, grows but does not replicate its DNA",
+   "DNA synthesis or replication takes place",
+   "Nuclear division takes place",
+   "Reorganisation of all cell components takes place"
+  ],
+  "answer": 0,
+  "explanation": "G1: metabolically active, grows, no DNA replication.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Meiosis order: (i) crossing over (ii) synapsis (iii) terminalisation (iv) nucleolus loss:",
+  "options": [
+   "ii,i,iii,iv",
+   "ii,i,iv,iii",
+   "ii,iii,iv,i",
+   "i,ii,iii,iv"
+  ],
+  "answer": 0,
+  "explanation": "Synapsis, crossing over, terminalisation, then nucleolus loss. | Hint: Pair, exchange, release, dissolve.",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Meiotic pairing begins at:",
+  "options": [
+   "Leptotene",
+   "Zygotene",
+   "Pachytene",
+   "Diplotene"
+  ],
+  "answer": 1,
+  "explanation": "Synapsis starts in zygotene. | Hint: Pairing starts where?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Recombinase enzyme acts in:",
+  "options": [
+   "Diakinesis",
+   "Diplotene",
+   "Zygotene",
+   "Pachytene"
+  ],
+  "answer": 3,
+  "explanation": "Crossing-over machinery works in pachytene. | Hint: Crossing over happens in which sub-stage?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Spindle fibres attach to:",
+  "options": [
+   "Kinetochore",
+   "Centromere",
+   "Telomere",
+   "Kinetosome"
+  ],
+  "answer": 0,
+  "explanation": "Microtubules capture chromosomes at kinetochores. | Hint: The attachment pad on chromosomes?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "With respect to metaphase, which of the following statements is incorrect?",
+  "options": [
+   "Chromosomes lie at the equator of the cell",
+   "Complete disintegration of nuclear envelope takes place",
+   "Chromosomes are highly condensed",
+   "Metaphase chromosomes are made up of four sister chromatids held together by centromere"
+  ],
+  "answer": 3,
+  "explanation": "Two sister chromatids per chromosome, not four.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Homologues separate, sisters stay together:",
+  "options": [
+   "Metaphase I",
+   "Metaphase II",
+   "Anaphase II",
+   "Anaphase I"
+  ],
+  "answer": 3,
+  "explanation": "Anaphase I disjoins homologues with centromeres intact. | Hint: Reduction happens in which anaphase?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes:",
+  "options": [
+   "Synaptonemal complex",
+   "Bivalent",
+   "Sites at which crossing over occurs",
+   "Terminalization"
+  ],
+  "answer": 2,
+  "explanation": "Recombination nodules mark crossing-over sites (pachytene).",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct mitosis sequence:",
+  "options": [
+   "Condensation, membrane loss, crossing over, segregation, telophase",
+   "Condensation, equator, centromere split, segregation, telophase",
+   "Condensation, crossing over, membrane loss, segregation, telophase",
+   "Condensation, membrane loss, equator, centromere split, segregation, telophase"
+  ],
+  "answer": 3,
+  "explanation": "Crossing over is meiotic; mitosis runs membrane loss, equator, split, segregation. | Hint: Which option sneaks in crossing over?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distinctive feature?",
+  "options": [
+   "Pachytene",
+   "Leptotene",
+   "Zygotene",
+   "Diakinesis"
+  ],
+  "answer": 3,
+  "explanation": "Diakinesis: terminalisation of chiasmata completed.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Defective APC in animal cells causes:",
+  "options": [
+   "No condensation",
+   "No segregation",
+   "Arm recombination",
+   "Fragmentation"
+  ],
+  "answer": 1,
+  "explanation": "Without APC, securin persists and sister chromatids cannot separate. | Hint: What fails if securin never degrades?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Match the following with respect to meiosis. (A) Zygotene, (B) Pachytene, (C) Diplotene, (D) Diakinesis with (i) Terminalization, (ii) Chiasmata, (iii) Crossing over, (iv) Synapsis. Select the correct option from the following.",
+  "options": [
+   "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)",
+   "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
+   "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)",
+   "(A)-(ii), (B)-(iv), (C)-(iii), (D)-(i)"
+  ],
+  "answer": 0,
+  "explanation": "Zygotene=synapsis, Pachytene=crossing over, Diplotene=chiasmata, Diakinesis=terminalisation.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ }
+]

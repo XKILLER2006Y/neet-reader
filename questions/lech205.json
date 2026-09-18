@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "Glucose anomers differ at:",
+  "options": [
+   "C1 and C4",
+   "D/L forms",
+   "Enantiomers",
+   "Carbon one (C-1)"
+  ],
+  "answer": 3,
+  "explanation": "Anomers differ only at the anomeric C-1. | Hint: Which carbon defines anomers?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "DNA pyrimidines:",
+  "options": [
+   "Cytosine + adenine",
+   "Cytosine + guanine",
+   "Cytosine + thymine",
+   "Cytosine + uracil"
+  ],
+  "answer": 2,
+  "explanation": "DNA pyrimidines are C and T. | Hint: Two rings or one: which bases?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Molisch test detects:",
+  "options": [
+   "Nitro compounds",
+   "Sugars",
+   "Amines",
+   "Primary alcohols"
+  ],
+  "answer": 1,
+  "explanation": "Purple ring proves carbohydrates. | Hint: Purple ring means which class?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Alpha and beta D-glucose are:",
+  "options": [
+   "Conformers",
+   "Epimers",
+   "Anomers",
+   "Enantiomers"
+  ],
+  "answer": 2,
+  "explanation": "C-1 variants are anomers. | Hint: Same as the anomer question above?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Cellulose hydrolysis gives:",
+  "options": [
+   "D-ribose",
+   "D-glucose",
+   "L-glucose",
+   "D-fructose"
+  ],
+  "answer": 1,
+  "explanation": "Cellulose is beta-D-glucose polymer. | Hint: Cellulose monomer?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Biuret test NOT given by:",
+  "options": [
+   "Proteins",
+   "Carbohydrates",
+   "Polypeptides",
+   "Urea"
+  ],
+  "answer": 1,
+  "explanation": "Biuret needs amide linkages, absent in carbohydrates. | Hint: What linkage does biuret detect?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Optically ACTIVE except:",
+  "options": [
+   "All but lysine active",
+   "All active",
+   "All but glycine active",
+   "All but glutamic active"
+  ],
+  "answer": 2,
+  "explanation": "Achiral glycine is the sole inactive amino acid. | Hint: Which amino acid is achiral?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Protein secondary structure:",
+  "options": [
+   "Alpha-helical backbone",
+   "Hydrophobic interactions",
+   "Amino-acid sequence",
+   "Fixed backbone configuration"
+  ],
+  "answer": 0,
+  "explanation": "Alpha-helix (and beta-sheet) define secondary structure. | Hint: Helix or sequence: which level?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Water-soluble vitamin:",
+  "options": [
+   "Vitamin E",
+   "Vitamin K",
+   "Vitamin C",
+   "Vitamin D"
+  ],
+  "answer": 2,
+  "explanation": "Ascorbic acid (C) dissolves in water; the rest are fat-soluble. | Hint: B and C dissolve in water?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Base in RNA but not DNA:",
+  "options": [
+   "Uracil",
+   "Thymine",
+   "Guanine",
+   "Cytosine"
+  ],
+  "answer": 0,
+  "explanation": "Uracil replaces thymine in RNA. | Hint: T or U: which is RNA-only?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Base absent from DNA:",
+  "options": [
+   "Thymine",
+   "Quinoline",
+   "Adenine",
+   "Cytosine"
+  ],
+  "answer": 1,
+  "explanation": "Quinoline is no nucleobase. | Hint: Which is not a base at all?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 19,
+  "question": "RNA differs from DNA (sugar + base):",
+  "options": [
+   "Ribose + thymine",
+   "Ribose + uracil",
+   "Deoxyribose + thymine",
+   "Deoxyribose + uracil"
+  ],
+  "answer": 1,
+  "explanation": "RNA pairs ribose with uracil. | Hint: Sugar and base swap?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 19,
+  "question": "DNA double helix from:",
+  "options": [
+   "Dipole-dipole",
+   "Hydrogen bonding",
+   "Electrostatics",
+   "van der Waals"
+  ],
+  "answer": 1,
+  "explanation": "Base-pair H-bonds stabilise the helix. | Hint: What holds base pairs?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Rhumann purple confirms:",
+  "options": [
+   "Starch",
+   "Reducing sugar",
+   "Cupric ion",
+   "Protein"
+  ],
+  "answer": 3,
+  "explanation": "Ninhydrin purple proves free amino groups (protein). | Hint: Ninhydrin tests what?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
+  "question": "Sugar OH distinguishing RNA/DNA sits on carbon:",
+  "options": [
+   "3rd",
+   "4th",
+   "1st",
+   "2nd"
+  ],
+  "answer": 3,
+  "explanation": "2-prime OH present in ribose, absent in deoxyribose. | Hint: Which carbon loses oxygen in DNA?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

@@ -1,0 +1,240 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "A bullet fired with velocity u travels 24 cm through a wooden block, emerging with velocity u/3, then penetrates further and stops exactly at the block's far end. Total block length:",
+  "options": [
+   "24 cm",
+   "28 cm",
+   "30 cm",
+   "27 cm"
+  ],
+  "answer": 3,
+  "explanation": "v²−u²=2as: (u/3)²−u²=2a·24 → a=−u²/54; then (u/3)²/2|a| = 3 cm more → 24+3 = 27 cm.",
+  "source": "NEET 2023 Code-F3 official paper + InfinityLearn + Filo (all agree)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The power of a crane, which lifts a mass of 1000 kg to a height of 20 m in 10 s is: (g = 9.8 m/s²)",
+  "options": [
+   "19.6 W",
+   "39.2 W",
+   "19.6 kW",
+   "39.2 kW"
+  ],
+  "answer": 2,
+  "explanation": "P = mgh/t = 19600 W = 19.6 kW.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A ball of mass 0.2 kg is thrown vertically upwards by applying a constant force by hand. If the hand moves 0.2 m while applying the force and the ball goes up to 2 m height, the force is (g = 10 m/s²):",
+  "options": [
+   "22 N",
+   "20 N",
+   "18 N",
+   "16 N"
+  ],
+  "answer": 0,
+  "explanation": "Work done by hand = Total potential energy gained at top: F × d = m g h_total ⇒ F × 0.2 = 0.2 × 10 × (2.0 + 0.2) = 2 × 2.2 = 4.4 ⇒ F = 4.4 / 0.2 = 22 N. | Hint: Work-energy theorem: Work by hand = m g (h + d).",
+  "source": "JEE JEE Main 2022 via BYJU'S JEE",
+  "year": "JEE Main 2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The kinetic energies of two similar cars A and B are 100 J and 225 J respectively. On applying brakes, car A stops after 1000 m and car B stops after 1500 m. If F_A and F_B are the forces applied by the brakes on cars A and B respectively, then the ratio of F_A/F_B is",
+  "options": [
+   "1/3",
+   "1/2",
+   "3/2",
+   "2/3"
+  ],
+  "answer": 3,
+  "explanation": "F·s = KE → F_A/F_B = (100/225)(1500/1000) = 2/3.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 12,
+  "question": "An ideal spring with spring-constant k is hung from ceiling and a block of mass M is attached to its lower end. The mass is released with the spring unstretched. The maximum extension of the spring is:",
+  "options": [
+   "2 M g / k",
+   "M g / k",
+   "M g / (2k)",
+   "4 M g / k"
+  ],
+  "answer": 0,
+  "explanation": "Conservation of energy: Loss in gravitational PE = Gain in elastic PE ⇒ M g x_max = (1/2) k x_max² ⇒ x_max = 2 M g / k. | Hint: Equate loss in PE to gain in spring PE (energy conservation, not equilibrium).",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 12,
+  "question": "An object moving along horizontal x-direction with kinetic energy 10 J is displaced through x = (3î) m by the force F = (-2î + 3ĵ) N. The kinetic energy of the object at the end of the displacement x is",
+  "options": [
+   "10 J",
+   "16 J",
+   "4 J",
+   "6 J"
+  ],
+  "answer": 2,
+  "explanation": "W = F·d = −6 J; K_f = 10 − 6 = 4 J.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 13,
+  "question": "F = 20 + 10y (N, m) along y. Work y = 0 → 1 m:",
+  "options": [
+   "30 J",
+   "5 J",
+   "25 J",
+   "20 J"
+  ],
+  "answer": 2,
+  "explanation": "W = 20(1) + 5(1)² = 25 J.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 13,
+  "question": "The potential energy of a long spring when stretched by 2 cm is U. If the spring is stretched by 8 cm, potential energy stored in it will be :",
+  "options": [
+   "4U",
+   "8U",
+   "16U",
+   "2U"
+  ],
+  "answer": 2,
+  "explanation": "U ∝ x² → (8/2)² = 16U.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 14,
+  "question": "An electric lift with a maximum load of 2000 kg (lift + passengers) is moving up with a constant speed of 1.5 ms⁻¹. The frictional force opposing the motion is 3000 N. The minimum power delivered by the motor to the lift in watts is : (g = 10 ms⁻²)",
+  "options": [
+   "23000",
+   "20000",
+   "34500",
+   "23500"
+  ],
+  "answer": 2,
+  "explanation": "F = 20000+3000 = 23000 N; P = Fv = 34500 W.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Displacement x = 2t−1 (SI) under 5 N force. Instantaneous power (SI):",
+  "options": [
+   "7",
+   "6",
+   "10",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "v = dx/dt = 2 → P = Fv = 10 W.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 15,
+  "question": "2000 kg lift rises at 1.5 m/s against 3000 N friction (g = 10). Motor power:",
+  "options": [
+   "23500 W",
+   "23000 W",
+   "20000 W",
+   "34500 W"
+  ],
+  "answer": 3,
+  "explanation": "F = 20000+3000; P = 23000×1.5 = 34500 W.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 15,
+  "question": "The energy that will be ideally radiated by a 100 kW transmitter in 1 hour is",
+  "options": [
+   "36 × 10⁷ J",
+   "36 × 10⁴ J",
+   "36 × 10⁵ J",
+   "1 × 10⁵ J"
+  ],
+  "answer": 0,
+  "explanation": "E = Pt = 10⁵ × 3600 = 3.6×10⁸ J.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A bullet from a gun is fired on a rectangular wooden block with velocity u. When bullet travels 24 cm through the block along its length horizontally, velocity of bullet becomes u/3. Then it further penetrates into the block in the same direction before coming to rest exactly at the other end of the block. The total length of the block is :",
+  "options": [
+   "24 cm",
+   "28 cm",
+   "30 cm",
+   "27 cm"
+  ],
+  "answer": 3,
+  "explanation": "2a(24) = u²−u²/9 = 8u²/9; L = u²/(2a) = 24×9/8 = 27 cm.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration is a_c = k² r t², where k is a constant. The power delivered to the particle by the forces acting on it is:",
+  "options": [
+   "m k² r² t",
+   "m k² r t",
+   "m k⁴ r² t⁵",
+   "Zero"
+  ],
+  "answer": 0,
+  "explanation": "a_c = v² / r = k² r t² ⇒ v = k r t. Tangential acceleration a_t = dv/dt = k r. Power P = F_t v = (m a_t) v = (m k r)(k r t) = m k² r² t. | Hint: P = F_tangential × velocity.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 18,
+  "question": "4m at speed u hits 2m at rest, head-on elastic. Energy fraction lost by A:",
+  "options": [
+   "1/9",
+   "8/9",
+   "4/9",
+   "5/9"
+  ],
+  "answer": 1,
+  "explanation": "v_A′ = (4−2)u/6 = u/3 → keeps 1/9, loses 8/9.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 19,
+  "question": "A body of mass 1 kg begins to move under the action of a time-dependent force F = (2t i + 3t² j) N. What power will be developed by the force at time t = 1 s?",
+  "options": [
+   "5 W",
+   "10 W",
+   "12 W",
+   "7 W"
+  ],
+  "answer": 0,
+  "explanation": "a = F/m = 2t i + 3t² j. Velocity v = ∫ a dt = t² i + t³ j. Power P = F · v = (2t)(t²) + (3t²)(t³) = 2t³ + 3t⁵. At t = 1 s: P = 2(1) + 3(1) = 5 W. | Hint: Integrate a to get v, then compute F · v.",
+  "source": "NEET NEET 2019 via BYJU'S NEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 20,
+  "question": "A force F = A y² + B y + C acts on a body along y-axis. The work done in displacing the body from y = 0 to y = y₀ is:",
+  "options": [
+   "A y₀³ / 3 + B y₀² / 2 + C y₀",
+   "A y₀³ + B y₀² + C y₀",
+   "A y₀² + B y₀",
+   "A y₀³ / 3 + B y₀² / 2"
+  ],
+  "answer": 0,
+  "explanation": "W = ∫ F dy from 0 to y₀ = [A y³/3 + B y²/2 + C y]₀^(y₀) = A y₀³/3 + B y₀²/2 + C y₀. | Hint: Integrate polynomial term by term.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ }
+]

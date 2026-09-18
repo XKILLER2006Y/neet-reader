@@ -1,0 +1,282 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "CnH2nO2 fits open-chain:",
+  "options": [
+   "Diketones",
+   "Carboxylic acids",
+   "Diols",
+   "Dialdehydes"
+  ],
+  "answer": 1,
+  "explanation": "Open-chain carboxylic acids match CnH2nO2. | Hint: Count oxygens.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Liquid + ethanol + conc. H2SO4 gives fruity smell. The liquid:",
+  "options": [
+   "CH3OH",
+   "HCHO",
+   "CH3COCH3",
+   "CH3COOH"
+  ],
+  "answer": 3,
+  "explanation": "Fruity odour means ester formation: the liquid was acetic acid. | Hint: Fruity smell means which functional group formed?",
+  "source": "JEE AIEEE 2009 via BYJU'S",
+  "year": "AIEEE 2009"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Match List-I with List-II : (a) Gabriel synthesis (i) Benzaldehyde; (b) Kolbe synthesis (ii) Ethers; (c) Williamson synthesis (iii) Primary amines; (d) Etard reaction (iv) Salicylic acid. Choose the correct answer from the options given below :",
+  "options": [
+   "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+   "(a) - (iii), (b) - (i), (c) - (ii), (d) - (iv)",
+   "(a) - (ii), (b) - (iii), (c) - (i), (d) - (iv)",
+   "(a) - (iv), (b) - (iii), (c) - (i), (d) - (ii)"
+  ],
+  "answer": 0,
+  "explanation": "Gabriel→1° amines, Kolbe→salicylic acid, Williamson→ethers, Etard→benzaldehyde.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Reaction between acetone and methylmagnesium chloride followed by hydrolysis will give :",
+  "options": [
+   "Sec. butyl alcohol",
+   "Tert. butyl alcohol",
+   "Isobutyl alcohol",
+   "Isopropyl alcohol"
+  ],
+  "answer": 1,
+  "explanation": "CH3MgCl + acetone → tertiary alkoxide → tert-butyl alcohol.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Carboxylic acids have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass. It is due to their",
+  "options": [
+   "formation of intramolecular H-bonding",
+   "formation of carboxylate ion",
+   "more extensive association of carboxylic acid via van der Waals' forces of attraction",
+   "formation of intermolecular H-bonding."
+  ],
+  "answer": 3,
+  "explanation": "Extensive intermolecular H-bonding (dimer formation).",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Given below are two statements : Statement I : The boiling points of aldehydes and ketones are higher than hydrocarbons of comparable molecular masses because of weak molecular association in aldehydes and ketones due to dipole - dipole interactions. Statement II : The boiling points of aldehydes and ketones are lower than the alcohols of similar molecular masses due to the absence of H-bonding. In the light of the above statements, choose the most appropriate answer from the given below",
+  "options": [
+   "Both Statement I and Statement II are correct",
+   "Both Statement I and Statement II are incorrect",
+   "Statement I is correct but Statement II is incorrect",
+   "Statement I is incorrect but Statement II is correct"
+  ],
+  "answer": 0,
+  "explanation": "Dipole-dipole raises bp vs hydrocarbons; no H-bonding lowers it vs alcohols — both correct.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Heating primary amine with CHCl3 + alcoholic KOH (carbylamine) gives:",
+  "options": [
+   "Alkyl cyanide",
+   "Alkyl isocyanide",
+   "Alkanol",
+   "Alkane diol"
+  ],
+  "answer": 1,
+  "explanation": "The foul-smelling product is the isocyanide R-NC. | Hint: Name the stinky product.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
+  "question": "LiAlH4 reduction of CH2=CH-COOH gives:",
+  "options": [
+   "CH2=CH-CH2OH",
+   "CH3-CH2-CHOH",
+   "CH3-CH-CHO",
+   "CH3-CH2-COOH"
+  ],
+  "answer": 0,
+  "explanation": "LiAlH4 reduces the acid to primary alcohol but spares the C=C bond. | Hint: Which group survives LiAlH4?",
+  "source": "JEE AIEEE 2003 via BYJU'S",
+  "year": "AIEEE 2003"
+ },
+ {
+  "pdfPage": 16,
+  "question": "RMgX + CO2 gives Y gives RCOOH. What is Y in the above reaction?",
+  "options": [
+   "RCOOMg+X-",
+   "R3COMg+X-",
+   "RCOOX+",
+   "(RCOO)2Mg"
+  ],
+  "answer": 0,
+  "explanation": "Grignard + CO2 gives carboxylate RCOO⁻MgX⁺, hydrolysed to RCOOH.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 16,
+  "question": "The correct order of decreasing acid strength of trichloroacetic acid (A), trifluoroacetic acid (B), acetic acid (C) and formic acid (D) is",
+  "options": [
+   "B > A > D > C",
+   "B > D > C > A",
+   "A > B > C > D",
+   "A > C > B > D"
+  ],
+  "answer": 0,
+  "explanation": "-I effect: F > Cl; CF3COOH > CCl3COOH > HCOOH > CH3COOH.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Aliphatic acids + Cl2/Br2 (trace P) replacing alpha-H: name the reaction:",
+  "options": [
+   "Etard",
+   "Hell-Volhard-Zelinsky",
+   "Wolff-Kishner",
+   "Rosenmund"
+  ],
+  "answer": 1,
+  "explanation": "HVZ halogenates the alpha position of carboxylic acids. | Hint: Alpha-halogenation of acids has which name?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "CH3CHO and C6H5CH2CHO can be distinguished chemically by",
+  "options": [
+   "Benedict's test",
+   "Iodoform test",
+   "Tollen's reagent test",
+   "Fehling's solution test"
+  ],
+  "answer": 1,
+  "explanation": "CH3CHO has the CH3CO group (positive iodoform); the other does not.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Lowest pKa among acetic, formic, isobutyric, propionic acids:",
+  "options": [
+   "CH3COOH",
+   "HCOOH",
+   "(CH3)2CHCOOH",
+   "CH3CH2COOH"
+  ],
+  "answer": 1,
+  "explanation": "Formic acid (no donating alkyl group) is strongest, hence lowest pKa. | Hint: Which has no alkyl group to donate?",
+  "source": "JEE AIEEE 2005 via BYJU'S",
+  "year": "AIEEE 2005"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Match List-I with List-II. List-I (Products formed): (a) Cyanohydrin (i) NH2OH; (b) Acetal (ii) RNH2; (c) Schiff's base (iii) Alcohol; (d) Oxime (iv) HCN. List-II (Reaction of carbonyl compound with). Choose the correct answer from the options given below",
+  "options": [
+   "(a) - (iii), (b) - (iv), (c) - (ii), (d) - (i)",
+   "(a) - (ii), (b) - (iii), (c) - (iv), (d) - (i)",
+   "(a) - (i), (b) - (iii), (c) - (ii), (d) - (iv)",
+   "(a) - (iv), (b) - (iii), (c) - (ii), (d) - (i)"
+  ],
+  "answer": 3,
+  "explanation": "Cyanohydrin+HCN, acetal+alcohol, Schiff's base+RNH2, oxime+NH2OH.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Strongest acid: CH3CH2CH(Cl)COOH, ClCH2CH2CH2COOH, CH3COOH, HCOOH:",
+  "options": [
+   "CH3CH2CH(Cl)COOH",
+   "ClCH2CH2CH2COOH",
+   "CH3COOH",
+   "HCOOH"
+  ],
+  "answer": 0,
+  "explanation": "Alpha-chloro exerts the strongest -I pull being nearest the COOH. | Hint: Closest chlorine wins.",
+  "source": "JEE AIEEE 2011 via BYJU'S",
+  "year": "AIEEE 2011"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Decreasing acid strength: NO2CH2COOH, NCCH2COOH, FCH2COOH, ClCH2COOH:",
+  "options": [
+   "F > CN > NO2 > Cl",
+   "CN > NO2 > F > Cl",
+   "NO2 > CN > F > Cl",
+   "NO2 > F > CN > Cl"
+  ],
+  "answer": 2,
+  "explanation": "Withdrawing power runs NO2 > CN > F > Cl. | Hint: Rank the electron-withdrawing groups.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Increasing acid strength: (i) CH3COOH (ii) MeOCH2COOH (iii) CF3COOH (iv) Me2CHCOOH:",
+  "options": [
+   "ii < iv < i < iii",
+   "iv < i < iii < ii",
+   "iv < i < ii < iii",
+   "i < iv < iii < ii"
+  ],
+  "answer": 2,
+  "explanation": "Withdrawing groups strengthen: CF3 > MeO > H > alkyl branching. | Hint: Rank by withdrawing power.",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Most acidic: benzoic, o/m/p-nitrobenzoic acids:",
+  "options": [
+   "PhCOOH",
+   "o-NO2 benzoic",
+   "p-NO2 benzoic",
+   "m-NO2 benzoic"
+  ],
+  "answer": 1,
+  "explanation": "Ortho effect makes o-nitrobenzoic the strongest of the set. | Hint: Which position supercharges acidity?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Reaction between benzaldehyde and acetophenone in presence of dilute NaOH is known as :",
+  "options": [
+   "Cannizzaro's reaction",
+   "Cross Cannizzaro's reaction",
+   "Cross Aldol condensation",
+   "Aldol condensation"
+  ],
+  "answer": 2,
+  "explanation": "Benzaldehyde (no α-H) + acetophenone → crossed (Claisen-Schmidt) aldol.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Reaction of a carbonyl compound with one of the following reagents involves nucleophilic addition followed by elimination of water. The reagent is",
+  "options": [
+   "hydrazine in presence of feebly acidic solution",
+   "hydrocyanic acid",
+   "sodium hydrogen sulphate",
+   "a Grignard reagent."
+  ],
+  "answer": 0,
+  "explanation": "Hydrazine: nucleophilic addition-elimination → hydrazone + water.",
+  "source": "examside.com",
+  "year": "AIPMT 2015"
+ }
+]

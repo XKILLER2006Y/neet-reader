@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "First-order A → Products: [A]₀ = 0.1 M falls to 0.001 M in 5 min. Rate constant (min⁻¹):",
+  "options": [
+   "0.2303",
+   "1.3818",
+   "0.9212",
+   "0.4606"
+  ],
+  "answer": 2,
+  "explanation": "k = (2.303/5)·log(0.1/0.001) = 0.9212.",
+  "source": "NEET 2022 Phase 1 official paper via Aakash + MedicNEET + EduRev (all agree)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "First-order reaction with half-life 1 minute. Time for 99.9% completion is closest to:",
+  "options": [
+   "5 minutes",
+   "10 minutes",
+   "2 minutes",
+   "4 minutes"
+  ],
+  "answer": 1,
+  "explanation": "99.9% ≈ 10 half-lives (2¹⁰ = 1024) → ~10 min.",
+  "source": "NEET 2023 Phase 1 via MedicNEET (key derived first-principles)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The major product formed in the dehydrohalogenation reaction of 2-Bromo pentane is Pent-2-ene. This product formation is based on?",
+  "options": [
+   "Huckel's Rule",
+   "Saytzeff's Rule",
+   "Hund's Rule",
+   "Hofmann Rule"
+  ],
+  "answer": 1,
+  "explanation": "Saytzeff's rule: the preferred alkene has more alkyl groups on the doubly bonded carbons.",
+  "source": "testbook.com/question-answer/the-major-product-formed-in-the-dehydrohalogenatio--62b8375b06b317eeddc243aa",
+  "year": "2021"
+ },
+ {
+  "pdfPage": 8,
+  "question": "For the reaction A + 2B -> C, rate is given by R = [A][B]^2. The order of the reaction is:",
+  "options": [
+   "3",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "Order is the sum of exponents in the rate law: 1 + 2 = 3. | Hint: Order = sum of the powers.",
+  "source": "JEE AIEEE 2002 via BYJU'S",
+  "year": "AIEEE 2002"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Which of the following alkane cannot be made in good yield by Wurtz reaction?",
+  "options": [
+   "n-Heptane",
+   "n-Butane",
+   "n-Hexane",
+   "2,3-Dimethylbutane"
+  ],
+  "answer": 0,
+  "explanation": "Wurtz coupling of two different alkyl halides gives a mixture; odd-carbon n-heptane needs two unlike partners.",
+  "source": "testbook.com/question-answer/which-of-the-following-alkane-cannot-be-made-in-go--62b81841f22ffad8afc351ab",
+  "year": "2020"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Higher-order (>3) reactions are rare because of:",
+  "options": [
+   "equilibrium shifting to reactants",
+   "loss of active species on collision",
+   "low probability of simultaneous collision of all species",
+   "increase in entropy and activation energy"
+  ],
+  "answer": 2,
+  "explanation": "Four or more molecules colliding at once with proper orientation is vanishingly improbable. | Hint: How likely is a 4-body collision?",
+  "source": "JEE JEE Main 2015 via BYJU'S",
+  "year": "JEE Main 2015"
+ },
+ {
+  "pdfPage": 10,
+  "question": "In an SN1 reaction on chiral centres, there is",
+  "options": [
+   "100% retention",
+   "100% inversion",
+   "100% racemization",
+   "inversion more than retention leading to partial racemization"
+  ],
+  "answer": 3,
+  "explanation": "The planar carbocation is attacked from both faces, but the leaving group shields its side, so inversion exceeds retention.",
+  "source": "tardigrade.in/question/in-an-s-n1-reaction-on-chiral-centres-there-is-z11opkmz + sarthaks.com/14860",
+  "year": "2015"
+ },
+ {
+  "pdfPage": 12,
+  "question": "At 518 °C, gaseous acetaldehyde at 363 Torr decomposes at 1.00 Torr/s when 5% has reacted and 0.5 Torr/s when 33% has reacted. The reaction order is:",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "Rate ratio 2 = (344.85/243.21)ⁿ → n ≈ 2.",
+  "source": "JEE JEE Main 2018 via BYJU'S",
+  "year": "JEE Main 2018"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Formation of gas at a tungsten surface by adsorption is a reaction of order:",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "insufficient data"
+  ],
+  "answer": 0,
+  "explanation": "Surface adsorption does not depend on gas-phase concentration, giving zero order. | Hint: Does a surface reaction care about gas concentration?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 14,
+  "question": "First-order: 0.8 M → 0.4 M in 15 min (one half-life). Time for 0.1 M → 0.025 M:",
+  "options": [
+   "30 minutes",
+   "15 minutes",
+   "7.5 minutes",
+   "60 minutes"
+  ],
+  "answer": 0,
+  "explanation": "t½ = 15 min; 0.1 → 0.025 is two half-lives = 30 min.",
+  "source": "JEE AIEEE 2004 via BYJU'S",
+  "year": "AIEEE 2004"
+ },
+ {
+  "pdfPage": 17,
+  "question": "If 50% of a reaction occurs in 100 seconds and 75% occurs in 200 seconds, the order of this reaction is:",
+  "options": [
+   "1",
+   "2",
+   "zero",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "t75% = 2 x t1/2 holds only for first order, whose half-life is concentration-independent. | Hint: Which order has a constant half-life?",
+  "source": "JEE JEE Main 2018 via BYJU'S",
+  "year": "JEE Main 2018"
+ },
+ {
+  "pdfPage": 17,
+  "question": "The half-life of a first-order reaction is 6.93 minutes. The time required for 99% completion is (log 2 = 0.301):",
+  "options": [
+   "46.06 minutes",
+   "460.6 minutes",
+   "230.3 minutes",
+   "23.03 minutes"
+  ],
+  "answer": 0,
+  "explanation": "k = 0.693/6.93 = 0.1/min; t = (2.303/0.1) x log(100/1) = 23.03 x 2 = 46.06 min. | Hint: Find k from the half-life first.",
+  "source": "JEE AIEEE 2009 via BYJU'S",
+  "year": "AIEEE 2009"
+ },
+ {
+  "pdfPage": 20,
+  "question": "The rate of a chemical reaction doubles for every 10°C rise of temperature. If the temperature is raised by 50°C, the rate increases by about:",
+  "options": [
+   "32 times",
+   "64 times",
+   "10 times",
+   "24 times"
+  ],
+  "answer": 0,
+  "explanation": "Five 10-degree steps give 2^5 = 32 times. | Hint: How many 10-degree steps fit in 50?",
+  "source": "JEE AIEEE 2011 via BYJU'S",
+  "year": "AIEEE 2011"
+ },
+ {
+  "pdfPage": 27,
+  "question": "Decomposition of X has rate constant 0.05 μg/year (zero order). Years for 5 μg to become 2.5 μg:",
+  "options": [
+   "25",
+   "50",
+   "20",
+   "40"
+  ],
+  "answer": 1,
+  "explanation": "Zero order: t½ = a₀/2k = 5/(2×0.05) = 50 years.",
+  "source": "JEE Main 2019 (12 Jan S1) via Testbook + Tardigrade (72% chose 50)",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 28,
+  "question": "A reaction is second order in carbon monoxide. Doubling [CO] with everything else fixed changes the rate by:",
+  "options": [
+   "unchanged",
+   "tripled",
+   "a factor of 4",
+   "doubled"
+  ],
+  "answer": 2,
+  "explanation": "Rate is proportional to [CO]^2, so doubling gives 2^2 = 4 times. | Hint: Square the concentration factor.",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006"
+ },
+ {
+  "pdfPage": 28,
+  "question": "The rate of a reaction doubles when temperature changes from 300 K to 310 K. The activation energy is (R = 8.314 J/mol/K, log 2 = 0.301):",
+  "options": [
+   "53.6 kJ/mol",
+   "48.6 kJ/mol",
+   "58.5 kJ/mol",
+   "60.5 kJ/mol"
+  ],
+  "answer": 0,
+  "explanation": "From log(k2/k1) = -Ea/(2.303R) x (1/T2 - 1/T1): 0.301 = Ea x 10/(19.147 x 93000), giving Ea = 53.6 kJ/mol. | Hint: Use the log form of the Arrhenius equation.",
+  "source": "JEE JEE Main 2022 via BYJU'S",
+  "year": "JEE Main 2022"
+ }
+]

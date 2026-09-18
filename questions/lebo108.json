@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 5,
+  "question": "Match: citric/cyclosporin/statins/butyric to Aspergillus/Trichoderma/Monascus/Clostridium:",
+  "options": [
+   "iii,i,ii,iv",
+   "iii,i,iv,ii",
+   "i,iv,ii,iii",
+   "iii,iv,i,ii"
+  ],
+  "answer": 1,
+  "explanation": "Citric-Aspergillus, cyclosporin-Trichoderma, statins-Monascus, butyric-Clostridium. | Hint: Pair each product.",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Streptokinase produced by bacterium Streptococcus is used for",
+  "options": [
+   "Liver disease treatment",
+   "Removing clots from blood vessels",
+   "Curd production",
+   "Ethanol production"
+  ],
+  "answer": 1,
+  "explanation": "Streptokinase is a 'clot buster' for myocardial infarction patients.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Which of the following is wrongly matched in the given table?",
+  "options": [
+   "Microbe - Streptococcus, Product - Streptokinase, Application - Removal of clot from blood vessel",
+   "Microbe - Trichoderma polysporum, Product - Cyclosporin A, Application - Immunosuppressive drug",
+   "Microbe - Monascus purpureus, Product - Statins, Application - Lowering of blood cholesterol",
+   "Microbe - Clostridium butylicum, Product - Lipase, Application - Removal of oil stains"
+  ],
+  "answer": 3,
+  "explanation": "Clostridium butylicum produces butyric acid, not lipase.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Wrong microbe-product match:",
+  "options": [
+   "Trichoderma-cyclosporin drug",
+   "Monascus-statins",
+   "Streptococcus-streptokinase",
+   "Clostridium-lipase"
+  ],
+  "answer": 3,
+  "explanation": "Clostridium makes butyric acid; lipases come from Candida. | Hint: Which product mismatches its microbe?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Conversion of milk to curd improves its nutritional value by increasing the amount of",
+  "options": [
+   "vitamin D",
+   "vitamin A",
+   "vitamin B12",
+   "vitamin E"
+  ],
+  "answer": 2,
+  "explanation": "Lactobacillus increases vitamin B12 content.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Sewage suspended solids removed by:",
+  "options": [
+   "Tertiary",
+   "Secondary",
+   "Primary",
+   "Sludge treatment"
+  ],
+  "answer": 2,
+  "explanation": "Primary settling removes suspended solids. | Hint: Which stage settles solids?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Sewage-rich river inflow results in:",
+  "options": [
+   "Quick drying",
+   "More food-web life",
+   "More fish",
+   "Fish death from O2 lack"
+  ],
+  "answer": 3,
+  "explanation": "Decomposition strips dissolved oxygen, killing fish. | Hint: What does decay consume?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Biogas-from-dung prokaryotes:",
+  "options": [
+   "Halophiles",
+   "Thermoacidophiles",
+   "Methanogens",
+   "Eubacteria"
+  ],
+  "answer": 2,
+  "explanation": "Rumen methanogens make the methane. | Hint: Who ferments dung?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Curd nutrition rises via vitamin:",
+  "options": [
+   "B12",
+   "A",
+   "D",
+   "E"
+  ],
+  "answer": 0,
+  "explanation": "LAB synthesise B12 during curdling. | Hint: Which vitamin do LAB add?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which of the following in sewage treatment removes suspended solids ?",
+  "options": [
+   "Secondary treatment",
+   "Tertiary treatment",
+   "Primary treatment",
+   "Sludge treatment"
+  ],
+  "answer": 2,
+  "explanation": "Primary treatment = filtration + sedimentation (physical).",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 9,
+  "question": "BOD fails as pollution index for effluents of:",
+  "options": [
+   "Domestic sewage",
+   "Dairy",
+   "Petroleum",
+   "Sugar"
+  ],
+  "answer": 2,
+  "explanation": "Petroleum poisons microbes, breaking the BOD premise. | Hint: Which effluent kills the test microbes?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Correct biocontrol group:",
+  "options": [
+   "Bt + TMV + aphids",
+   "Trichoderma + Baculovirus + Bt",
+   "Oscillatoria + Rhizobium + Trichoderma",
+   "Nostoc + Azospirillum + NPV"
+  ],
+  "answer": 1,
+  "explanation": "All three are genuine biocontrol agents. | Hint: Which trio all fight pests?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Correct product match:",
+  "options": [
+   "Acetobacter: antibiotics",
+   "Methanobacterium: lactic acid",
+   "Penicillium: acetic acid",
+   "Saccharomyces: ethanol"
+  ],
+  "answer": 3,
+  "explanation": "Yeast ferments sugars to ethanol. | Hint: Who brews ethanol?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Which of the following is correctly matched for the product produced by them ?",
+  "options": [
+   "Acetobacter aceti : Antibiotics",
+   "Penicillium notatum : Acetic acid",
+   "Methanobacterium : Lactic acid",
+   "Sacchromyces cerevisiae : Ethanol"
+  ],
+  "answer": 3,
+  "explanation": "Brewer's yeast ferments carbohydrates to ethanol.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Methanogens NOT correct:",
+  "options": [
+   "Make biogas",
+   "Live in cattle rumen",
+   "Grow aerobically on cellulose",
+   "Produce methane"
+  ],
+  "answer": 2,
+  "explanation": "Strict anaerobes, never aerobic. | Hint: Oxygen friend or foe?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Select the mismatch :",
+  "options": [
+   "Rhodospirillum - Mycorrhiza",
+   "Anabaena - Nitrogen fixer",
+   "Rhizobium - Alfalfa",
+   "Frania - Alnus"
+  ],
+  "answer": 0,
+  "explanation": "Rhodospirillum is a free-living N fixer; mycorrhiza is fungus-root.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ }
+]

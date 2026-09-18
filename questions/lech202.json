@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "IUPAC name of product: CH3COCH3 --(i) C2H5MgBr, dry ether-->(ii) H2O, H+:",
+  "options": [
+   "pentan-3-ol",
+   "2-methylbutan-2-ol",
+   "2-methylpropan-2-ol",
+   "pentan-2-ol"
+  ],
+  "answer": 1,
+  "explanation": "Ethyl adds to acetone giving (CH3)2C(OH)CH2CH3: 2-methylbutan-2-ol. | Hint: Build the tertiary alcohol carbon skeleton.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Major products C and D: CH3CH2CH2-O-C(CH3)3 + excess HI -> C + D:",
+  "options": [
+   "n-PrI and t-BuI",
+   "n-PrOH and t-BuI",
+   "n-PrI and t-BuOH",
+   "n-PrOH and t-BuOH"
+  ],
+  "answer": 0,
+  "explanation": "The tertiary side cleaves SN1 and the primary side SN2; excess HI converts both alcohols onward to iodides. | Hint: Tertiary goes SN1, primary goes SN2.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Acetone + methylmagnesium chloride, then hydrolysis, gives:",
+  "options": [
+   "tert-Butyl alcohol",
+   "Isobutyl alcohol",
+   "Isopropyl alcohol",
+   "sec-Butyl alcohol"
+  ],
+  "answer": 0,
+  "explanation": "Grignard adds a methyl to the ketone carbon, giving (CH3)3COH. | Hint: Count carbons on the carbonyl carbon after addition.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Which is the most acidic compound?",
+  "options": [
+   "o-Cresol",
+   "Phenol",
+   "o-Nitrophenol",
+   "2,4,6-Trinitrophenol (picric acid)"
+  ],
+  "answer": 3,
+  "explanation": "Three nitro groups powerfully stabilise the phenoxide ion; picric acid approaches mineral-acid strength. | Hint: More nitro groups means stronger acid.",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Statement I: Monosubstituted nitrophenol is more acidic than phenol (electron-withdrawing NO2). Statement II: o-, m-, p-nitrophenol all have equal acidity.",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "NO2 strengthens acidity, but ortho/para (resonance + H-bonding) beat meta, so the three differ. | Hint: Do resonance effects reach all three positions equally?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Statement I: Lucas test distinguishes alcohol classes with conc. HCl + ZnCl2. Statement II: Primary alcohols react fastest, giving instant turbidity.",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "The test is real, but reactivity runs tertiary > secondary > primary. | Hint: Which alcohol class forms the most stable carbocation?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Vapours of a secondary alcohol over heated copper at 573 K give:",
+  "options": [
+   "a carboxylic acid",
+   "an aldehyde",
+   "a ketone",
+   "an alkene"
+  ],
+  "answer": 2,
+  "explanation": "Cu/573K dehydrogenates: primary -> aldehyde, secondary -> ketone, tertiary -> alkene. | Hint: Dehydrogenation keeps the carbon skeleton: what class fits?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Most suitable separation of 1:1 o- and p-nitrophenol mixture:",
+  "options": [
+   "Sublimation",
+   "Chromatography",
+   "Crystallisation",
+   "Steam distillation"
+  ],
+  "answer": 3,
+  "explanation": "o-Nitrophenol is steam-volatile (intramolecular H-bonding); the para isomer is not. | Hint: Which isomer escapes with steam?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Intermediate A: C6H5CH(CH3)2 + O2 -> A; A + H+/H2O -> phenol + acetone. A is:",
+  "options": [
+   "C6H5-O-CH(CH3)2",
+   "C6H5-C(CH3)2-O-O-H",
+   "C6H5-O-O-CH(CH3)2",
+   "C6H5-CH2-C(CH3)(OOH)H"
+  ],
+  "answer": 1,
+  "explanation": "Cumene auto-oxidises to cumene hydroperoxide, which rearranges under acid to phenol + acetone. | Hint: The cumene process intermediate is a hydroperoxide.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 21,
+  "question": "In C6H5OH + CHCl3 + NaOH -> salicylaldehyde (Reimer-Tiemann), the electrophile is:",
+  "options": [
+   "Dichloromethyl anion (-CHCl2)",
+   "Formyl cation (+CHO)",
+   "Dichloromethyl cation (+CHCl2)",
+   "Dichlorocarbene (:CCl2)"
+  ],
+  "answer": 3,
+  "explanation": "Base generates neutral dichlorocarbene, which attacks the phenoxide ring. | Hint: A neutral divalent carbon species.",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Compound A (C8H10O) reacts with NaOI to give a yellow precipitate with characteristic smell. A and Y (iodine source) are:",
+  "options": [
+   "1-phenylethanol and I2",
+   "2-phenylethanol and I2",
+   "4-methylbenzyl alcohol and I2",
+   "p-cresol and I2"
+  ],
+  "answer": 0,
+  "explanation": "Only 1-phenylethanol carries the CH3CH(OH)- group needed for the iodoform reaction. | Hint: Which option has the haloform group?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Reaction NOT giving benzoic acid as major product:",
+  "options": [
+   "C6H5CH2OH with K2Cr2O7",
+   "C6H5COCH3 with (i) NaOCl, (ii) H3O+",
+   "C6H5CH2OH with PCC",
+   "C6H5CH2OH with KMnO4/H+"
+  ],
+  "answer": 2,
+  "explanation": "PCC stops oxidation of primary alcohols at benzaldehyde; the other three reach benzoic acid. | Hint: Which oxidant stops at the aldehyde?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 23,
+  "question": "A + Na gives B, A + PCl5 gives C; B + C react to give diethyl ether. A, B, C in order:",
+  "options": [
+   "C2H5Cl, C2H6, C2H5OH",
+   "C2H5OH, C2H5Cl, C2H5ONa",
+   "C2H5OH, C2H6, C2H5Cl",
+   "C2H5OH, C2H5ONa, C2H5Cl"
+  ],
+  "answer": 3,
+  "explanation": "Ethanol gives EtONa with Na and EtCl with PCl5; Williamson coupling of the two yields the ether. | Hint: Work backwards from the ether product.",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Heating phenyl-methyl ether (anisole) with HI produces:",
+  "options": [
+   "Ethyl chloride",
+   "Iodobenzene",
+   "Phenol",
+   "Benzene"
+  ],
+  "answer": 2,
+  "explanation": "Aryl-O bonds resist cleavage; the methyl-O bond breaks by SN2 giving phenol + methyl iodide. | Hint: Which side of the ether bond breaks?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Anisole on cleavage with HI gives:",
+  "options": [
+   "C6H5OH + C2H5I",
+   "C6H5I + C2H5OH",
+   "C6H5OH + CH3I",
+   "C6H5I + CH3OH"
+  ],
+  "answer": 2,
+  "explanation": "Anisole is methyl phenyl ether: cleavage yields phenol plus methyl iodide. | Hint: Anisole has a methyl group, not ethyl.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 26,
+  "question": "The compound showing metamerism:",
+  "options": [
+   "C3H6O",
+   "C4H10O",
+   "C5H12",
+   "C3H8O"
+  ],
+  "answer": 1,
+  "explanation": "C4H10O supports two ethers with different alkyl-group partitions (metamers); the rest do not. | Hint: Metamers need the same formula split differently around oxygen.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 28,
+  "question": "R-ONa + R-X -> R-O-R + NaX is classified as:",
+  "options": [
+   "Williamson ether synthesis",
+   "Alcohol formation reaction",
+   "Dehydration reaction",
+   "Williamson alcohol synthesis"
+  ],
+  "answer": 0,
+  "explanation": "Alkoxide plus alkyl halide giving an ether is the Williamson ether synthesis. | Hint: Alkoxide + alkyl halide = which named ether synthesis?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 32,
+  "question": "Major product P: CH3-CH(CH3)-CH(OH)-CH3 (3-methylbutan-2-ol) + HBr:",
+  "options": [
+   "2-bromo-2-methylbutane",
+   "2-methylbut-2-ene",
+   "2-bromo-3-methylbutane",
+   "1-bromo-2,2-dimethylpropane"
+  ],
+  "answer": 0,
+  "explanation": "The secondary carbocation rearranges by hydride shift to tertiary, captured by Br-. | Hint: Look for a hydride shift to a tertiary centre.",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ }
+]

@@ -1,0 +1,296 @@
+[
+ {
+  "pdfPage": 12,
+  "question": "A 12 V, 60 W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding?",
+  "options": [
+   "2.7 A",
+   "3.7 A",
+   "0.37 A",
+   "0.27 A"
+  ],
+  "answer": 3,
+  "explanation": "Ideal: P_in = P_out = 60 W; I_p = 60/220 ≈ 0.27 A.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 12,
+  "question": "A conducting circular loop of face area 2.5 × 10⁻³ m² is placed perpendicular to a magnetic field which varies as B = 0.5 sin(100πt) T. The magnitude of induced EMF at time t = 0 s is:",
+  "options": [
+   "0.125π mV",
+   "125π mV",
+   "125π V",
+   "12.5π mV"
+  ],
+  "answer": 1,
+  "explanation": "ε = A×0.5×100π cos(0) = 125×10⁻³π V = 125π mV.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 12,
+  "question": "A cycle wheel of radius 0.5 m is rotated with constant angular velocity of 10 rad/s in a region of magnetic field of 0.1 T which is perpendicular to the plane of the wheel. The EMF generated between its centre and the rim is",
+  "options": [
+   "0.25 V",
+   "0.125 V",
+   "0.5 V",
+   "zero"
+  ],
+  "answer": 1,
+  "explanation": "ε = Bωr²/2 = 0.1 × 10 × 0.25/2 = 0.125 V.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 12,
+  "question": "A wheel with 10 metallic spokes each 0.5 m long is rotated with a speed of 120 rev/min in a plane normal to the horizontal component of Earth's magnetic field 0.4 G (0.4 × 10⁻⁴ T). The induced EMF between the axle and rim of the wheel is:",
+  "options": [
+   "6.28 × 10⁻⁵ V",
+   "3.14 × 10⁻⁵ V",
+   "1.25 × 10⁻⁴ V",
+   "6.28 × 10⁻⁴ V"
+  ],
+  "answer": 0,
+  "explanation": "All spokes are in parallel, so induced EMF across axle and rim equals EMF across one spoke: ε = (1/2) B ω R². ω = 120 × 2π / 60 = 4π rad/s. ε = (1/2)(0.4 × 10⁻⁴)(4π)(0.5)² = (1/2)(0.4 × 10⁻⁴)(4π)(0.25) = 2π × 10⁻⁵ V ≈ 6.28 × 10⁻⁵ V. | Hint: Spokes in parallel maintain same EMF: ε = (1/2) B ω R².",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 14,
+  "question": "800-turn coil, 0.05 m², ⟂ to 5×10⁻⁵ T, rotated 90° in 0.1 s. Induced emf:",
+  "options": [
+   "2 V",
+   "0.2 V",
+   "2×10⁻³ V",
+   "0.02 V"
+  ],
+  "answer": 3,
+  "explanation": "ΔΦ = 800×5e-5×0.05 = 2e-3; ε = 2e-3/0.1 = 0.02 V.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 14,
+  "question": "A 800 turn coil of effective area 0.05 m² is kept perpendicular to a magnetic field 5 × 10⁻⁵ T. When the plane of the coil is rotated by 90° around any of its coplanar axis in 0.1 s, the emf induced in the coil will be:",
+  "options": [
+   "0.2 V",
+   "2 × 10⁻³ V",
+   "0.02 V",
+   "2 V"
+  ],
+  "answer": 2,
+  "explanation": "ε = NΔΦ/Δt = 800 × 2.5×10⁻⁶/0.1 = 0.02 V.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 14,
+  "question": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic. B. hold the sheet there if it is non-magnetic. C. move the sheet away from the pole with uniform velocity if it is conducting. D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar. Choose the correct statement(s) from the options given below:",
+  "options": [
+   "A and C only",
+   "A, C and D only",
+   "C only",
+   "B and D only"
+  ],
+  "answer": 0,
+  "explanation": "Magnetic sheet attracted (A); conducting sheet → eddy-current drag (C); others no force.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 14,
+  "question": "The magnetic energy stored in an inductor of inductance 4 μH carrying a current of 2 A is:",
+  "options": [
+   "4 μJ",
+   "4 mJ",
+   "8 mJ",
+   "8 μJ"
+  ],
+  "answer": 3,
+  "explanation": "U = ½LI² = ½(4×10⁻⁶)(4) = 8 μJ.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 18,
+  "question": "A rod of length L rotates with a small uniform angular velocity ω about its perpendicular bisector. A uniform magnetic field B exists parallel to the axis of rotation. The potential difference between the centre of the rod and an end is:",
+  "options": [
+   "BωL²/8",
+   "BωL²/2",
+   "BωL²/4",
+   "zero"
+  ],
+  "answer": 0,
+  "explanation": "ε = Bωr²/2 with r = L/2 → BωL²/8.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Coaxial coplanar loops R1 ≫ R2, centres coincide. Mutual inductance ∝:",
+  "options": [
+   "R1/R2",
+   "R2/R1",
+   "R1²/R2",
+   "R2²/R1"
+  ],
+  "answer": 3,
+  "explanation": "Flux through small loop ∝ B_center × area₂ ∝ (1/R1)·R2².",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 18,
+  "question": "In which of the following devices, the eddy current effect is not used?",
+  "options": [
+   "Induction furnace",
+   "Magnetic braking in train",
+   "Electromagnet",
+   "Electric heater"
+  ],
+  "answer": 3,
+  "explanation": "Electric heater uses Joule heating of a resistive element, not eddy currents.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Magnetic energy in a 4 μH inductor carrying 2 A:",
+  "options": [
+   "4 μJ",
+   "4 mJ",
+   "8 mJ",
+   "8 μJ"
+  ],
+  "answer": 3,
+  "explanation": "U = ½LI² = ½×4e-6×4 = 8 μJ.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 18,
+  "question": "The magnetic flux linked to a circular coil of radius R is given by: φ = 2t³ + 4t² + 2t + 5 Wb. What is the magnitude of the induced EMF in the coil at t = 5 s?",
+  "options": [
+   "192 V",
+   "108 V",
+   "197 V",
+   "150 V"
+  ],
+  "answer": 0,
+  "explanation": "ε = 6t²+8t+2 = 150+40+2 = 192 V at t = 5.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Let us consider two solenoids A and B, made from the same magnetic material of relative permeability μr and of equal area of cross-section. The length of A is twice that of B, and the number of turns per unit length in A is half that of B. The ratio of self-inductances of the two solenoids, LA : LB is:",
+  "options": [
+   "1 : 2",
+   "2 : 1",
+   "8 : 1",
+   "1 : 8"
+  ],
+  "answer": 0,
+  "explanation": "L = μ₀μr n²Al; ratio = (1/2)² × 2 = 1/2.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Sheet before a strong magnetic pole. Force is needed to: A. hold it if magnetic B. hold it if non-magnetic C. move it uniformly away if conducting D. move it uniformly away if non-conducting non-polar.",
+  "options": [
+   "A, C, D only",
+   "C only",
+   "B, D only",
+   "A and C only"
+  ],
+  "answer": 3,
+  "explanation": "Pole attracts magnetic sheet (A ✓); motion of conductor induces eddy currents opposing it (C ✓); B, D feel nothing.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 20,
+  "question": "The magnetic potential energy stored in a certain inductor is 25 mJ, when the current in the inductor is 60 mA. This inductor is of inductance",
+  "options": [
+   "1.389 H",
+   "138.88 H",
+   "0.138 H",
+   "13.89 H"
+  ],
+  "answer": 3,
+  "explanation": "L = 2U/I² = 50×10⁻³/3.6×10⁻³ = 13.89 H.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Two conducting circular loops of radii R1 and R2 are placed in the same plane with their centres coinciding. If R1 >> R2, the mutual inductance M between them will be directly proportional to",
+  "options": [
+   "R1/R2",
+   "R2/R1",
+   "R1²/R2",
+   "R2²/R1"
+  ],
+  "answer": 3,
+  "explanation": "B = μ₀I/2R₁; Φ = B·πR₂² → M ∝ R₂²/R₁.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 23,
+  "question": "A long solenoid of diameter 0.1 m has 2 × 10⁴ turns per meter. At the centre of the solenoid, a coil of 100 turns and a radius of 0.01 m is placed with its axis coinciding with the solenoid axis. The current in the solenoid reduces at a constant rate to 0 A from 4 A in 0.05 s. If the resistance of the coil is 10π² Ω, the total charge flowing through the coil during this time is:",
+  "options": [
+   "16 μC",
+   "32 μC",
+   "16 π μC",
+   "32 π μC"
+  ],
+  "answer": 1,
+  "explanation": "Q = NΔΦ/R = 100 × 32π²×10⁻⁷/(10π²) = 32 μC.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 23,
+  "question": "A pair of adjacent coils has a mutual inductance of 1.5 H. If current in one coil changes from 0 to 20 A in 0.5 s, the change of flux linkage with the other coil is:",
+  "options": [
+   "30 Wb",
+   "15 Wb",
+   "60 Wb",
+   "7.5 Wb"
+  ],
+  "answer": 0,
+  "explanation": "ΔΦ₂ = M ΔI₁ = 1.5 H × 20 A = 30 Weber. | Hint: ΔΦ = M ΔI.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 23,
+  "question": "A wheel with 20 metallic spokes each 1 m long is rotated with a speed of 120 rpm in a plane perpendicular to a magnetic field of 0.4 G. The induced emf between the axle and rim of the wheel will be (1 G = 10⁻⁴ T)",
+  "options": [
+   "2.51 × 10⁻⁴ V",
+   "2.51 × 10⁻⁵ V",
+   "4.0 × 10⁻⁵ V",
+   "2.51 V"
+  ],
+  "answer": 0,
+  "explanation": "ε = BωL²/2 = (0.4×10⁻⁴)(4π)/2 = 2.51×10⁻⁴ V (spokes in parallel).",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 23,
+  "question": "An emf is generated by an ac generator having 100 turn coil, of loop area 1 m². The coil rotates at a speed of one revolution per second and placed in a uniform magnetic field of 0.05 T perpendicular to the axis of rotation of the coil. The maximum value of emf is:",
+  "options": [
+   "3.14 V",
+   "31.4 V",
+   "62.8 V",
+   "6.28 V"
+  ],
+  "answer": 1,
+  "explanation": "ε_max = NABω = 100 × 0.05 × 1 × 2π = 31.4 V.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ }
+]

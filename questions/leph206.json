@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 4,
+  "question": "Solids with negative temperature coefficient of resistance:",
+  "options": [
+   "Semiconductors only",
+   "Insulators and semiconductors",
+   "Metals",
+   "Insulators only"
+  ],
+  "answer": 1,
+  "explanation": "Both free more carriers when heated.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 6,
+  "question": "n-type electron concentration equals p-type hole concentration; same external field across each. Compare currents:",
+  "options": [
+   "Equal",
+   "p-type larger",
+   "n-type larger",
+   "No current in p-type"
+  ],
+  "answer": 2,
+  "explanation": "Electron mobility exceeds hole mobility → n-type carries more.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Heating a p-n diode changes:",
+  "options": [
+   "Nothing",
+   "Forward resistance only",
+   "Reverse resistance only",
+   "Overall V–I characteristics"
+  ],
+  "answer": 3,
+  "explanation": "Intrinsic carriers rise → both branches shift.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Depletion-region width in a p-n diode grows under:",
+  "options": [
+   "Both biases",
+   "More forward current",
+   "Forward only",
+   "Reverse only"
+  ],
+  "answer": 3,
+  "explanation": "Reverse bias pulls carriers away, widening depletion.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 13,
+  "question": "The resistance of a reverse-biased p-n junction diode is of the order of:",
+  "options": [
+   "Mega-ohms (10⁶ Ω)",
+   "Few ohms",
+   "Zero",
+   "Milli-ohms"
+  ],
+  "answer": 0,
+  "explanation": "Under reverse bias, only tiny microampere minority leakage current flows, exhibiting extremely high resistance in mega-ohms (MΩ). | Hint: Reverse bias offers huge resistance to majority carrier flow.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Consider: (A) For a solar cell the I-V characteristics lie in the IV quadrant. (B) In a reverse-biased pn diode the current measured in μA is due to majority carriers.",
+  "options": [
+   "Both A and B correct",
+   "Both A and B incorrect",
+   "A correct, B incorrect",
+   "A incorrect, B correct"
+  ],
+  "answer": 2,
+  "explanation": "Solar cell generates power → IV quadrant (A ✓). Reverse current is minority-carrier drift (B ✗).",
+  "source": "NEET 2024 via PW official paper PDF (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 13,
+  "question": "(A) Zener diode is reverse-biased as a voltage regulator. (B) p-n barrier lies 0.1–0.3 V.",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "A correct, B incorrect",
+   "A incorrect, B correct"
+  ],
+  "answer": 2,
+  "explanation": "A ✓ (reverse breakdown regulation); B ✗ (barrier ≈0.7 Si / 0.3 Ge).",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Consider: (A) The transistor has two p-type segments separated by an n-type segment. (B) The emitter is of moderate size and heavily doped. (C) The central segment is thin and lightly doped. (D) The emitter-base junction is reverse biased in a common-emitter amplifier circuit. Which pair is correct?",
+  "options": [
+   "C and D",
+   "A and D",
+   "A and B",
+   "B and C"
+  ],
+  "answer": 3,
+  "explanation": "Emitter is heavily doped (B ✓), base thin + lightly doped (C ✓); emitter-base is forward biased in active mode (D ✗).",
+  "source": "NEET 2023 via EduRev (key verified first-principles)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Collector current in a common-base n-p-n amplifier is 24 mA. If 80% of the electrons released by the emitter are accepted by the collector, the base current is:",
+  "options": [
+   "3 mA, entering the base",
+   "6 mA, leaving the base",
+   "3 mA, leaving the base",
+   "6 mA, entering the base"
+  ],
+  "answer": 3,
+  "explanation": "Ie = 24/0.8 = 30 mA; Ib = Ie − Ic = 30 − 24 = 6 mA, entering the base.",
+  "source": "NEET 2022 via EduRev (key verified first-principles)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 15,
+  "question": "In a common-emitter amplifier using an n-p-n transistor, the phase difference between input and output voltages is:",
+  "options": [
+   "135°",
+   "180°",
+   "45°",
+   "90°"
+  ],
+  "answer": 1,
+  "explanation": "CE configuration inverts the signal — output is 180° out of phase with input.",
+  "source": "JEE Main 2017 via eSaral (options verbatim; key derived first-principles)",
+  "year": "JEE Main 2017"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Full-wave rectifier: transformer, diodes, capacitor, load. Which removes the AC ripple?",
+  "options": [
+   "Centre-tapped transformer",
+   "p-n diodes",
+   "Capacitor",
+   "Load resistance"
+  ],
+  "answer": 2,
+  "explanation": "The filter capacitor smooths pulsating DC to steady DC.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Half-wave rectifier, input 60 Hz. Output frequency:",
+  "options": [
+   "120 Hz",
+   "Zero",
+   "30 Hz",
+   "60 Hz"
+  ],
+  "answer": 3,
+  "explanation": "One pulse per input cycle → 60 Hz.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 17,
+  "question": "In a full-wave rectifier circuit operating from 50 Hz mains frequency, the fundamental frequency in the ripple would be:",
+  "options": [
+   "100 Hz",
+   "50 Hz",
+   "70.7 Hz",
+   "25 Hz"
+  ],
+  "answer": 0,
+  "explanation": "Full-wave rectifiers conduct on both half-cycles: ripple frequency = 2 × 50 Hz = 100 Hz. | Hint: Double the line frequency in full-wave.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 19,
+  "question": "A logic circuit gives Y: (A,B)=(0,0)→1, (0,1)→0, (1,0)→1, (1,1)→0. The output expression is:",
+  "options": [
+   "B̄",
+   "B",
+   "AB+Ā (both options identical in paper)",
+   "AB+Ā (both options identical in paper)"
+  ],
+  "answer": 0,
+  "explanation": "Y=1 exactly when B=0, independent of A → Y = B̄.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Input A feeds both inputs of a NAND gate (output Ā); input B feeds both inputs of a second gate the same way (output B̄); the two inverted signals feed a NOR gate. The output Y matches which gate?",
+  "options": [
+   "OR gate",
+   "AND gate",
+   "NAND gate",
+   "NOR gate"
+  ],
+  "answer": 1,
+  "explanation": "Y = (Ā+B̄)′ = A·B by De Morgan → AND gate.",
+  "source": "NEET 2024 Code-T3 official paper; circuit read from paper figure and traced (paper key: AND)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 19,
+  "question": "A passes through a NOT gate, B passes through a NOT gate; both inverted signals feed a NAND gate. Truth table of Y (rows A,B→Y for 00,01,10,11):",
+  "options": [
+   "1,1,1,0",
+   "0,1,1,1",
+   "1,0,1,0",
+   "0,0,0,1"
+  ],
+  "answer": 1,
+  "explanation": "Y = (Ā·B̄)′ = A+B → OR table: 0,1,1,1.",
+  "source": "NEET 2023 Code-E1 official paper (Answer 2); circuit read from paper figure and traced",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 19,
+  "question": "+6 V supply feeds a resistor R and an LED (glow = 1) to a node; two switches connect that node to ground in parallel (closed = 1, open = 0). The LED glows when either or both switches close. Equivalent gate?",
+  "options": [
+   "NAND",
+   "OR",
+   "NOR",
+   "AND"
+  ],
+  "answer": 1,
+  "explanation": "Output 1 when A=1 or B=1 (either switch completes the path) → OR.",
+  "source": "NEET 2022 Phase 2; circuit read from paper figure and traced; site key OR confirmed",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 19,
+  "question": "A and B feed a NAND gate giving (A·B)′; A also passes a NOT gate and feeds a second NAND gate with B giving (Ā·B)′; both NAND outputs feed an AND gate (output C). Truth table of C for rows 00,01,10,11:",
+  "options": [
+   "0,1,1,0",
+   "1,0,0,1",
+   "1,0,1,0",
+   "0,1,0,1"
+  ],
+  "answer": 2,
+  "explanation": "C = (AB)′·(ĀB)′: rows give 1,0,1,0 = B̄. Confirmed by paper's own solution figure.",
+  "source": "NEET 2022 Phase 1; circuit + all 4 option tables read from paper figures and traced; site key C confirmed",
+  "year": "NEET 2022"
+ }
+]

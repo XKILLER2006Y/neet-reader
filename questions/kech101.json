@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 10,
+  "question": "The number of moles of hydrogen molecules required to produce 20 moles of ammonia through Haber's process is:",
+  "options": [
+   "10",
+   "20",
+   "30",
+   "40"
+  ],
+  "answer": 2,
+  "explanation": "N2 + 3H2 -> 2NH3; 20 mol NH3 needs 3/2 x 20 = 30 mol H2.",
+  "source": "testbook.com/question-answer/the-number-of-moles-of-hydrogen-molecules-required--62b7e5082bbdfe428942a5f1",
+  "year": "2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Vessel at 300 K loses 2/5 of its air at constant V. Final temperature:",
+  "options": [
+   "750 K",
+   "400 K",
+   "500 K",
+   "1500 K"
+  ],
+  "answer": 2,
+  "explanation": "n1T1 = n2T2 gives T2 = 300 x 5/3 = 500 K. | Hint: Fewer moles at same pressure need higher T.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Equal masses of H2, O2 and methane have been taken in a container of volume V at temperature 27°C in identical conditions. The ratio of the volumes of gases H2 : O2 : CH4 would be",
+  "options": [
+   "8 : 16 : 1",
+   "16 : 8 : 1",
+   "16 : 1 : 2",
+   "8 : 1 : 2"
+  ],
+  "answer": 2,
+  "explanation": "Equal masses -> V ∝ n ∝ 1/M; (1/2):(1/32):(1/16) = 16:1:2.",
+  "source": "vedantu.com/question-answer/equal-masses-of-h2-o2-and-methane-have-been-class-11-chemistry-cbse-5f6d8484bdd5e06b58f95b23",
+  "year": "2014"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Largest atom count among: 127g iodine, 48g magnesium, 71g chlorine, 4g hydrogen:",
+  "options": [
+   "127.0 g iodine",
+   "48.0 g magnesium",
+   "71.0 g chlorine",
+   "4.0 g hydrogen"
+  ],
+  "answer": 3,
+  "explanation": "Moles of atoms: I 1, Mg 2, Cl 2, H 4 — hydrogen wins with 4 moles. | Hint: Convert each mass to moles of atoms.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "O2:N2 mass ratio 1:4. Molecule-number ratio:",
+  "options": [
+   "1:8",
+   "3:16",
+   "1:4",
+   "7:32"
+  ],
+  "answer": 3,
+  "explanation": "(w/32)/(4w/28) = 28/128 = 7/32. | Hint: Divide each mass by its molar mass.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Volatile metal chloride, vapour density 94.8, 74.75% Cl. Formula:",
+  "options": [
+   "MCl2",
+   "MCl4",
+   "MCl5",
+   "MCl3"
+  ],
+  "answer": 1,
+  "explanation": "M = 189.6; chlorine mass 141.7/35.5 = 4 atoms: MCl4. | Hint: Get molar mass from VD, then count chlorines.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 19,
+  "question": "An organic compound contains carbon, hydrogen and oxygen. Its elemental analysis gave C, 38.71% and H, 9.67%. The empirical formula of the compound would be",
+  "options": [
+   "CH3O",
+   "CH2O",
+   "CHO",
+   "CH4O"
+  ],
+  "answer": 0,
+  "explanation": "% masses / atomic masses: C 3.226, H 9.670, O 3.226 -> ratio 1:3:1 -> CH3O.",
+  "source": "pg.neetprep.com (AIPMT 2008); derivation C 38.71, H 9.67, O 51.62 -> C:H:O = 1:3:1",
+  "year": "2008"
+ },
+ {
+  "pdfPage": 19,
+  "question": "CxHyOz has C:H mass ratio 6:1 and half the oxygen needed to burn CxHy. Empirical formula:",
+  "options": [
+   "C2H4O",
+   "C3H4O2",
+   "C2H4O3",
+   "C3H6O3"
+  ],
+  "answer": 2,
+  "explanation": "y = 2x from the mass ratio; oxygen need 3x gives z = 1.5x; only C2H4O3 fits. | Hint: Get y from the mass ratio, z from combustion need.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "0.5 L CO2 over red-hot coke grows to 700 mL (STP). Mixture:",
+  "options": [
+   "CO2 200 mL, CO 500 mL",
+   "CO2 350 mL, CO 350 mL",
+   "CO2 0 mL, CO 700 mL",
+   "CO2 300 mL, CO 400 mL"
+  ],
+  "answer": 3,
+  "explanation": "CO2 + C -> 2CO: each reacted mL adds one net mL; x = 200 reacted, leaving 300 CO2 + 400 CO. | Hint: Each reacted CO2 adds exactly one extra mL.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "0.6 g urea heated with NaOH; NH3 neutralises which HCl?",
+  "options": [
+   "100 mL of 0.2 N HCl",
+   "400 mL of 0.2 N HCl",
+   "100 mL of 0.1 N HCl",
+   "200 mL of 0.2 N HCl"
+  ],
+  "answer": 0,
+  "explanation": "0.01 mol urea gives 0.02 mol NH3, needing 0.02 mol HCl = 100 mL of 0.2 N. | Hint: Each urea yields two ammonias.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "10 mL 2 M NaOH + 200 mL 0.5 M NaOH. Final concentration:",
+  "options": [
+   "0.57 M",
+   "5.7 M",
+   "11.4 M",
+   "1.14 M"
+  ],
+  "answer": 0,
+  "explanation": "Total 0.12 mol in 0.21 L gives 0.57 M. | Hint: Add moles, add volumes, divide.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "120 g urea in 1000 g water, density 1.15 g/mL. Molarity:",
+  "options": [
+   "2.05 M",
+   "0.50 M",
+   "1.78 M",
+   "1.02 M"
+  ],
+  "answer": 0,
+  "explanation": "2 mol in 1120/1.15 = 974 mL gives 2.05 M. | Hint: Moles over true solution volume.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "95% H2SO4 by weight, density 1.834 g/cm3. Molarity:",
+  "options": [
+   "17.8 M",
+   "15.7 M",
+   "10.5 M",
+   "12.0 M"
+  ],
+  "answer": 0,
+  "explanation": "1000 mL weighs 1834 g with 95% acid: (0.95 x 1834)/98 = 17.8 M. | Hint: Mass of 1 L times weight fraction over molar mass.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Molality of 3 M NaCl, density 1.252 g/mL (M = 58.5):",
+  "options": [
+   "2.18 m",
+   "3.00 m",
+   "2.60 m",
+   "2.79 m"
+  ],
+  "answer": 3,
+  "explanation": "1 L holds 175.5 g NaCl in 1252 g solution: 3 mol per 1.077 kg water = 2.79 m. | Hint: Subtract solute mass before dividing.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 26,
+  "question": "3 g charcoal in 50 mL 0.06 N acetic acid; filtrate 0.042 N. Adsorbed per gram:",
+  "options": [
+   "42 mg",
+   "54 mg",
+   "18 mg",
+   "36 mg"
+  ],
+  "answer": 2,
+  "explanation": "Adsorbed = (0.06-0.042) x 0.05 L x 60 g/mol = 54 mg total, i.e. 18 mg/g. | Hint: Normality drop times volume times equivalent mass.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 5,
+  "question": "The correct order of steps in Polymerase Chain Reaction (PCR) is",
+  "options": [
+   "Extension, Denaturation, Annealing",
+   "Annealing, Extension, Denaturation",
+   "Denaturation, Extension, Annealing",
+   "Denaturation, Annealing, Extension"
+  ],
+  "answer": 3,
+  "explanation": "PCR cycles: denaturation (94-98 deg C, strands separate), annealing (primers bind), extension (Taq polymerase).",
+  "source": "NEET 2018 (allen.in + neetprep.com)",
+  "year": "2018"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Typhoid agent + confirmatory test:",
+  "options": [
+   "Plasmodium/UTI",
+   "Strep. pneumoniae/Widal",
+   "Salmonella/Anthrone",
+   "Salmonella typhi/Widal"
+  ],
+  "answer": 3,
+  "explanation": "Salmonella typhi confirmed by Widal test. | Hint: Classic pair?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Mosquito pathogen chronically inflaming lymph vessels:",
+  "options": [
+   "Ringworm",
+   "Ascariasis",
+   "Elephantiasis",
+   "Amoebiasis"
+  ],
+  "answer": 2,
+  "explanation": "Wuchereria blocks lymphatics: elephantiasis. | Hint: Filarial worm blocks what?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The DNA fragments separated on an agarose gel can be visualised after staining with",
+  "options": [
+   "Bromophenol blue",
+   "Acetocarmine",
+   "Aniline blue",
+   "Ethidium bromide"
+  ],
+  "answer": 3,
+  "explanation": "Ethidium bromide intercalates DNA and fluoresces orange under UV; bromophenol blue only tracks migration.",
+  "source": "NEET 2017 (neetprep.com + aspirantmitraa + cracku)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "NOT an autoimmune disease:",
+  "options": [
+   "Alzheimer disease",
+   "Rheumatoid arthritis",
+   "Psoriasis",
+   "Vitiligo"
+  ],
+  "answer": 0,
+  "explanation": "Alzheimer is neurodegenerative, not autoimmune. | Hint: Which one attacks no self-antigen?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The process of separation and purification of expressed protein before marketing is called :",
+  "options": [
+   "Upstream processing",
+   "Downstream processing",
+   "Bioprocessing",
+   "Post-product processing"
+  ],
+  "answer": 1,
+  "explanation": "Downstream processing = separation and purification of the expressed product before marketing.",
+  "source": "NEET 2017 (neetprep.com + biogyan facebook + nextgurukul NEET 2017 paper)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Antivenom has preformed antibodies; polio drops carry:",
+  "options": [
+   "Activated pathogens",
+   "Harvested antibodies",
+   "Gamma globulin",
+   "Attenuated pathogens"
+  ],
+  "answer": 3,
+  "explanation": "Oral polio vaccine uses weakened live virus. | Hint: Live or killed in polio drops?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Graft rejection is which immune response:",
+  "options": [
+   "Autoimmune",
+   "Cell-mediated",
+   "Hormonal",
+   "Physiological"
+  ],
+  "answer": 1,
+  "explanation": "T-cell mediated rejection kills foreign tissue. | Hint: Which arm rejects grafts?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Kidney graft rejection responsibility:",
+  "options": [
+   "Auto-immune",
+   "Humoral",
+   "Inflammatory",
+   "Cell-mediated"
+  ],
+  "answer": 3,
+  "explanation": "T cells mediate transplant rejection. | Hint: Same arm as Q on grafts above?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Asthma is attributed to:",
+  "options": [
+   "Lung bacterial infection",
+   "Mast-cell allergy in lungs",
+   "Trachea inflammation",
+   "Lung fluid accumulation"
+  ],
+  "answer": 1,
+  "explanation": "Asthma is an allergic airway response mediated by mast cells. | Hint: Allergy cells in airways?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Immune attack on self-cells from genetic loss of self-tolerance:",
+  "options": [
+   "Allergy",
+   "Graft rejection",
+   "Auto-immune disease",
+   "Active immunity"
+  ],
+  "answer": 2,
+  "explanation": "Attacking self defines autoimmunity. | Hint: Self versus non-self failure?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 12,
+  "question": "MALT share of human lymphoid tissue:",
+  "options": [
+   "50%",
+   "20%",
+   "70%",
+   "10%"
+  ],
+  "answer": 0,
+  "explanation": "Mucosa-associated tissue is about half of all lymphoid tissue. | Hint: Half of lymphoid tissue sits where?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Heroin is synthesised by:",
+  "options": [
+   "Methylation of morphine",
+   "Acetylation of morphine",
+   "Glycosylation of morphine",
+   "Nitration of morphine"
+  ],
+  "answer": 1,
+  "explanation": "Diacetylmorphine = acetylated morphine. | Hint: Di-acetyl means what reaction?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 16,
+  "question": "NOT true for cancer mutations:",
+  "options": [
+   "Oncogenes accelerate cycle",
+   "Telomerase inhibitor destroyed",
+   "Cell controls inactivated",
+   "Telomerase production inhibited"
+  ],
+  "answer": 3,
+  "explanation": "Cancers switch telomerase ON for immortality, never off. | Hint: Do cancers silence telomerase?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Poppy part yielding Smack:",
+  "options": [
+   "Roots",
+   "Latex",
+   "Flowers",
+   "Leaves"
+  ],
+  "answer": 1,
+  "explanation": "Opium latex from capsules makes smack/heroin. | Hint: Which plant juice?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ }
+]

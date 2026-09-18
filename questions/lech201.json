@@ -1,0 +1,198 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "Gives precipitate with AgNO3 solution:",
+  "options": [
+   "(CH3)3CCl",
+   "CHCl3",
+   "CH2=CH-Cl",
+   "CCl4"
+  ],
+  "answer": 0,
+  "explanation": "Tert-butyl chloride ionises fastest (stable 3° carbocation), precipitating AgCl at once. | Hint: Which forms the most stable carbocation?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Chlorobenzene + chloral, conc. H2SO4 gives:",
+  "options": [
+   "Gammexene",
+   "DDT",
+   "Freon",
+   "Hexachloroethane"
+  ],
+  "answer": 1,
+  "explanation": "This condensation is the classic DDT preparation. | Hint: Name the famous insecticide synthesis.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Iodoform from all EXCEPT:",
+  "options": [
+   "Isopropyl alcohol",
+   "3-Methyl-2-butanone",
+   "Isobutyl alcohol",
+   "Ethyl methyl ketone"
+  ],
+  "answer": 2,
+  "explanation": "Isobutyl alcohol lacks the CH3CH(OH)-/CH3CO- group iodoform needs. | Hint: Which lacks the haloform group?",
+  "source": "JEE AIEEE 2012 via BYJU'S",
+  "year": "AIEEE 2012"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Heating with aqueous KOH gives acetaldehyde:",
+  "options": [
+   "CH3COCl",
+   "CH3CH2Cl",
+   "CH2ClCH2Cl",
+   "CH3CHCl2"
+  ],
+  "answer": 3,
+  "explanation": "Gem-dihalide hydrolysis of 1,1-dichloroethane yields acetaldehyde. | Hint: Which hydrolyses to a carbonyl?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Lab synthesis of fluorobenzene:",
+  "options": [
+   "Phenol + HF/KF",
+   "Aniline, diazotise, then HBF4/heat",
+   "Direct F2 fluorination",
+   "Bromobenzene + NaF"
+  ],
+  "answer": 1,
+  "explanation": "Balz-Schiemann: diazonium tetrafluoroborate decomposes to fluorobenzene. | Hint: Which route goes through a diazonium salt?",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006"
+ },
+ {
+  "pdfPage": 8,
+  "question": "DDT is:",
+  "options": [
+   "A fertilizer",
+   "A biodegradable pollutant",
+   "A non-biodegradable pollutant",
+   "A greenhouse gas"
+  ],
+  "answer": 2,
+  "explanation": "DDT persists in nature and biomagnifies. | Hint: Why was DDT banned?",
+  "source": "JEE AIEEE 2012 via BYJU'S",
+  "year": "AIEEE 2012"
+ },
+ {
+  "pdfPage": 15,
+  "question": "SN2 reactivity order for CH3Cl, C2H5Cl, i-PrCl, t-BuCl:",
+  "options": [
+   "i-Pr > Et > Me > t-Bu",
+   "Me > i-Pr > Et > t-Bu",
+   "Me > Et > i-Pr > t-Bu",
+   "Et > Me > i-Pr > t-Bu"
+  ],
+  "answer": 2,
+  "explanation": "SN2 rate falls as steric crowding rises. | Hint: Less crowding means faster SN2.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 17,
+  "question": "(-)-1-Chloro-1-phenylethane racemises with SbCl5 via:",
+  "options": [
+   "Free radical",
+   "Carbanion",
+   "Carbene",
+   "Carbocation"
+  ],
+  "answer": 3,
+  "explanation": "Ionisation to a planar carbocation erases chirality and racemises. | Hint: Which planar intermediate kills chirality?",
+  "source": "JEE JEE Main 2013 via BYJU'S",
+  "year": "JEE Main 2013"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Complete stereochemical inversion in SN2:",
+  "options": [
+   "CH3Cl",
+   "(C2H5)2CHCl",
+   "(CH3)3CCl",
+   "(CH3)2CHCl"
+  ],
+  "answer": 0,
+  "explanation": "Methyl chloride undergoes the fastest, cleanest backside SN2 attack. | Hint: Which substrate is fastest in SN2?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Optically INACTIVE compound:",
+  "options": [
+   "2-Chloropropanal",
+   "2-Chloropentane",
+   "2-Chlorobutane",
+   "2-Chloro-2-methylbutane"
+  ],
+  "answer": 3,
+  "explanation": "2-Chloro-2-methylbutane has no chiral centre; the rest do. | Hint: Which carbon skeleton lacks a chiral centre?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Has a meso isomer too:",
+  "options": [
+   "2-Chlorobutane",
+   "2,3-Dichlorobutane",
+   "2,3-Dichloropentane",
+   "2-Hydroxypropanoic acid"
+  ],
+  "answer": 1,
+  "explanation": "2,3-Dichlorobutane has an achiral meso form with a plane of symmetry. | Hint: Which has an internal mirror plane?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
+  "question": "2-Bromobutane dehydrohalogenation gives mainly:",
+  "options": [
+   "Equimolar 1- and 2-butene",
+   "Predominantly 2-butene",
+   "Predominantly 1-butene",
+   "Predominantly 2-butyne"
+  ],
+  "answer": 1,
+  "explanation": "Saytzeff rule favours the more substituted alkene. | Hint: Most substituted alkene wins.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 31,
+  "question": "Alkyl fluorides are best made by:",
+  "options": [
+   "Finkelstein reaction",
+   "Swart reaction",
+   "Free-radical fluorination",
+   "Sandmeyer reaction"
+  ],
+  "answer": 1,
+  "explanation": "Heating chloro/bromoalkanes with AgF (Swart) gives alkyl fluorides cleanly. | Hint: Which named reaction uses AgF?",
+  "source": "JEE JEE Main 2015 via BYJU'S",
+  "year": "JEE Main 2015"
+ },
+ {
+  "pdfPage": 31,
+  "question": "Alkyl halides + dialkyl copper (Corey-House) give:",
+  "options": [
+   "Alkenes",
+   "Alkyl copper halides",
+   "Alkanes",
+   "Alkenyl halides"
+  ],
+  "answer": 2,
+  "explanation": "R2CuLi couples R-X into a longer alkane R-R. | Hint: Coupling two alkyls gives which class?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

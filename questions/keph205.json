@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 2,
+  "question": "A 200 cm³ vessel holds 0.2 mol H₂ and 0.3 mol Ar at 200 K (R = 8.3). The pressure is:",
+  "options": [
+   "4.15×10⁵ Pa",
+   "4.15×10⁶ Pa",
+   "6.15×10⁵ Pa",
+   "6.15×10⁴ Pa"
+  ],
+  "answer": 1,
+  "explanation": "P = nRT/V = 0.5×8.3×200/(2×10⁻⁴) = 4.15×10⁶ Pa.",
+  "source": "NEET 2023 Phase 2 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 2,
+  "question": "An ideal gas is made of polyatomic molecules. Each of the molecules has three translational, three rotational and f number of vibrational modes. If the ratio of heat capacities C_P/C_V of the gas is 8/7, then the value of f is:",
+  "options": [
+   "1",
+   "4",
+   "3",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "Each vibrational mode contributes 2 degrees of freedom ⇒ C_V = (3+3+2f)R/2 = (3+f)R, C_P = (4+f)R; γ = (4+f)/(3+f) = 8/7 ⇒ f = 4.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
+ },
+ {
+  "pdfPage": 2,
+  "question": "An ideal gas occupies volume V at pressure P and absolute temperature T; each molecule has mass m. The gas density is:",
+  "options": [
+   "P/(kT)",
+   "Pm/(kT)",
+   "P/(kTV)",
+   "mkT"
+  ],
+  "answer": 1,
+  "explanation": "PV = NkT → ρ = Nm/V = Pm/(kT).",
+  "source": "NEET 2016 Phase 2 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 2,
+  "question": "H₂ at 249 kPa, 27 °C. Density (R = 8.3, M = 0.002 kg/mol):",
+  "options": [
+   "0.1 kg/m³",
+   "0.02 kg/m³",
+   "0.5 kg/m³",
+   "0.2 kg/m³"
+  ],
+  "answer": 3,
+  "explanation": "ρ = PM/RT = 249000×0.002/(8.3×300) = 0.2.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 2,
+  "question": "Raising the temperature of a gas in a container leads to:",
+  "options": [
+   "Increase in its mass",
+   "Increase in its kinetic energy",
+   "Decrease in its pressure",
+   "Decrease in intermolecular distance"
+  ],
+  "answer": 1,
+  "explanation": "Mean molecular KE = (3/2)kT — rises directly with T.",
+  "source": "NEET 2019 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 2,
+  "question": "Volume of molecules in 4.5 kg water at STP (forces off):",
+  "options": [
+   "5.6 m³",
+   "5.6×10⁶ m³",
+   "5.6×10³ m³",
+   "5.6×10⁻³ m³"
+  ],
+  "answer": 0,
+  "explanation": "250 mol × 22.4 L = 5.6 m³.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 3,
+  "question": "At what temperature does the rms speed of O₂ molecules (m = 2.76×10⁻²⁶ kg) equal Earth's escape speed 11200 m/s? (k = 1.38×10⁻²³ J/K)",
+  "options": [
+   "5.016×10⁴ K",
+   "8.360×10⁴ K",
+   "2.508×10⁴ K",
+   "1.254×10⁴ K"
+  ],
+  "answer": 1,
+  "explanation": "3kT/m = v² → T = mv²/3k ≈ 8.36×10⁴ K.",
+  "source": "NEET 2018 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Gas molecules have rms speed 200 m/s at 27 °C and 1.0×10⁵ Pa. At 127 °C and 0.05×10⁵ Pa the rms speed is:",
+  "options": [
+   "100√2 m/s",
+   "400/√3 m/s",
+   "100√2/3 m/s",
+   "100/3 m/s"
+  ],
+  "answer": 1,
+  "explanation": "v_rms ∝ √T only (pressure irrelevant): 200×√(400/300) = 400/√3 m/s.",
+  "source": "NEET 2016 Phase 1 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of B. If number densities of the gases A and B are n_A and n_B, respectively, the correct option is:",
+  "options": [
+   "n_A = (1/2)n_B",
+   "n_A = n_B",
+   "n_A = 2n_B",
+   "n_A = (1/4)n_B"
+  ],
+  "answer": 0,
+  "explanation": "λ = 1/(√2 π d² n) ⇒ λ_A/λ_B = (d_B² n_B)/(d_A² n_A) = n_B/(4n_A) = 1/2 ⇒ n_A = n_B/2.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
+ },
+ {
+  "pdfPage": 4,
+  "question": "A flask contains argon and chlorine in the ratio of 2:1 by mass. The temperature of the mixture is 27°C. The ratio of root mean square speed of the molecules of the two gases (V_Ar^rms / V_Cl^rms) is: (Atomic mass of argon = 40.0 u and molecular mass of chlorine = 70.0 u)",
+  "options": [
+   "√7/2",
+   "7/4",
+   "7/2",
+   "2/√7"
+  ],
+  "answer": 0,
+  "explanation": "v_rms = √(3RT/M) ⇒ V_Ar/V_Cl = √(M_Cl/M_Ar) = √(70/40) = √7/2.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 4,
+  "question": "A mixture of 2 mol O₂ and 4 mol Ar at temperature T (neglect vibrations). Total internal energy:",
+  "options": [
+   "4 RT",
+   "15 RT",
+   "9 RT",
+   "11 RT"
+  ],
+  "answer": 3,
+  "explanation": "U = 2×(5/2)RT + 4×(3/2)RT = 5RT + 6RT = 11 RT.",
+  "source": "NEET 2017 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Average thermal energy of a monoatomic gas molecule (k_B, T):",
+  "options": [
+   "5kT/2",
+   "7kT/2",
+   "kT/2",
+   "3kT/2"
+  ],
+  "answer": 3,
+  "explanation": "3 translational degrees × kT/2.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 5,
+  "question": "The mean free path for a gas, with molecular diameter d and number density n, can be expressed as:",
+  "options": [
+   "1 / (√2 n π d²)",
+   "1 / (n π d²)",
+   "√2 n π d²",
+   "1 / (√2 n² π d)"
+  ],
+  "answer": 0,
+  "explanation": "Standard Clausius-Maxwell formula: λ = 1 / (√2 n π d²). | Hint: Standard mean free path formula.",
+  "source": "NEET NEET 2020 via BYJU'S NEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Three vessels of equal capacity have gases at the same temperature and pressure. The first vessel contains helium (monoatomic), the second contains fluorine (diatomic) and the third contains sulfur hexafluoride (polyatomic). The correct statement, among the following is :",
+  "options": [
+   "The root mean square speed of sulfur hexafluoride is the largest",
+   "All vessels contain unequal number of respective molecules",
+   "The root mean square speed of molecules is same in all three cases",
+   "The root mean square speed of helium is the largest"
+  ],
+  "answer": 3,
+  "explanation": "Same T, P and V ⇒ equal number of molecules; v_rms ∝ 1/√M, so the lightest gas (helium) has the largest rms speed.",
+  "source": "examside.com",
+  "year": "NEET 2022 Phase 2"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The average kinetic energy of a molecule of any gas at temperature T is:",
+  "options": [
+   "(3/2) k_B T",
+   "(1/2) k_B T",
+   "3 k_B T",
+   "k_B T"
+  ],
+  "answer": 0,
+  "explanation": "Equipartition theorem for 3 translational degrees of freedom gives E = (3/2) k_B T. | Hint: 3 degrees of freedom × (1/2) k_B T.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The average thermal energy for a mono-atomic gas is : (k_B is Boltzmann constant and T absolute temperature)",
+  "options": [
+   "(3/2) k_B T",
+   "(5/2) k_B T",
+   "(7/2) k_B T",
+   "(1/2) k_B T"
+  ],
+  "answer": 0,
+  "explanation": "Equipartition over 3 translational degrees of freedom gives ⟨E⟩ = 3×(1/2)k_B T = (3/2)k_B T.",
+  "source": "examside.com",
+  "year": "NEET 2020 Phase 1"
+ }
+]

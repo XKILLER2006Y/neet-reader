@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEET Split Reader — Official NCERT + Verified PYQs</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d1117">
+<style>
+:root{--bg:#0d1117;--panel:#161b22;--text:#e6edf3;--muted:#8b949e;--line:#30363d;--ok:#238636;--bad:#da3633}
+[data-theme="light"]{--bg:#fff;--panel:#f6f8fa;--text:#1f2328;--muted:#59636e;--line:#d0d7de}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column;height:100vh}
+header{background:var(--panel);padding:8px 12px;display:flex;gap:8px;align-items:center;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+header select,header input{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:6px;padding:6px 8px}
+header button{background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:6px;padding:6px 10px;cursor:pointer}
+main{flex:1;display:flex;min-height:0}
+#left{flex:1.2;display:flex;flex-direction:column;border-right:1px solid var(--line);min-width:0}
+#pdfFrame{flex:1;border:0;width:100%;background:#fff}
+#right{flex:1;overflow:auto;padding:14px;min-width:0}
+.q{border:1px solid var(--line);border-radius:8px;padding:12px;margin-bottom:12px;background:var(--panel)}
+.q .meta{font-size:12px;color:var(--muted);margin:4px 0 8px}
+.q button{margin:4px 4px 0 0;padding:6px 10px;border:1px solid var(--line);border-radius:6px;cursor:pointer;background:var(--bg);color:var(--text)}
+.q button.correct{background:var(--ok);color:#fff;border-color:var(--ok)}
+.q button.wrong{background:var(--bad);color:#fff;border-color:var(--bad)}
+.q .expl{font-size:13px;color:var(--muted);margin-top:8px;display:none}
+.q.done .expl{display:block}
+#scorebar{font-size:13px;color:var(--muted)}
+.q .star{float:right;border:0;background:none;font-size:18px;cursor:pointer;color:var(--muted)}
+.q .star.on{color:#e3b341}
+table.dash{width:100%;border-collapse:collapse;font-size:13px}
+table.dash th,table.dash td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left}
+table.dash tr.weak td{color:#f85149}
+.dashbtn{font-size:12px;padding:4px 8px}
+#timerbar{height:6px;background:var(--line);border-radius:3px;margin:8px 0}
+#timerfill{height:100%;background:#e3b341;border-radius:3px;width:100%}
+#palette{display:grid;grid-template-columns:repeat(auto-fill,minmax(34px,1fr));gap:4px;margin:8px 0;max-height:150px;overflow:auto}
+#palette button{padding:5px 0;font-size:12px;border:1px solid var(--line);border-radius:4px;background:var(--bg);color:var(--text);cursor:pointer}
+#palette button.done{background:var(--ok);color:#fff}
+#palette button.mark{background:#6e40c9;color:#fff}
+.mocksec{font-size:12px;margin-right:8px;cursor:pointer;text-decoration:underline}
+@media(max-width:800px){main{flex-direction:column}#pdfFrame{min-height:45vh}}
+</style>
+</head>
+<body>
+<header>
+<strong>NEET Reader</strong>
+<select id="bookSel"></select>
+<select id="chapSel"></select>
+<input id="pageInput" type="number" min="1" value="1" style="width:64px" title="PDF page">
+<button onclick="go()">Go</button>
+<button onclick="prev()">←</button>
+<button onclick="next()">→</button>
+<label style="font-size:12px"><input type="checkbox" id="allPages" checked> all pages in chapter</label>
+<input id="search" placeholder="search chapter Qs…" style="width:140px">
+<button onclick="toggleTheme()">☀/🌙</button>
+<button onclick="setView('practice')" title="Practice">📖</button>
+<button onclick="setView('dash')" title="Dashboard">📊</button>
+<button onclick="setView('mistakes')" title="Mistake book">❌</button>
+<select id="drillN" title="Drill length"><option>5</option><option selected>10</option><option>20</option></select>
+<button onclick="startDrill()" title="Timed drill on this chapter">⏱ Drill</button>
+<button onclick="startMock()" title="180-Q full mock, 180 min">🎯 Mock</button>
+<button onclick="exportBackup()" title="Download progress backup (JSON)">⤓</button>
+<button onclick="document.getElementById('imp').click()" title="Restore backup from file">⤒</button>
+<input type="file" id="imp" accept=".json,application/json" style="display:none" onchange="importBackup(event)">
+<span id="scorebar"></span>
+<span id="label" style="font-size:12px;opacity:.7"></span>
+</header>
+<main>
+<div id="left"><iframe id="pdfFrame" title="Official NCERT PDF"></iframe></div>
+<div id="right"></div>
+</main>
+<script>
+const BOOKS = [
+{id:'kebo101',book:'Biology XI',chap:'1. The Living World'},
+{id:'kebo102',book:'Biology XI',chap:'2. Biological Classification'},
+{id:'kebo103',book:'Biology XI',chap:'3. Plant Kingdom'},
+{id:'kebo104',book:'Biology XI',chap:'4. Animal Kingdom'},
+{id:'kebo105',book:'Biology XI',chap:'5. Morphology of Flowering Plants'},
+{id:'kebo106',book:'Biology XI',chap:'6. Anatomy of Flowering Plants'},
+{id:'kebo107',book:'Biology XI',chap:'7. Structural Organisation in Animals'},
+{id:'kebo108',book:'Biology XI',chap:'8. Cell: The Unit of Life'},
+{id:'kebo109',book:'Biology XI',chap:'9. Biomolecules'},
+{id:'kebo110',book:'Biology XI',chap:'10. Cell Cycle and Cell Division'},
+{id:'kebo111',book:'Biology XI',chap:'11. Photosynthesis in Higher Plants'},
+{id:'kebo112',book:'Biology XI',chap:'12. Respiration in Plants'},
+{id:'kebo113',book:'Biology XI',chap:'13. Plant Growth and Development'},
+{id:'kebo114',book:'Biology XI',chap:'14. Breathing and Exchange of Gases'},
+{id:'kebo115',book:'Biology XI',chap:'15. Body Fluids and Circulation'},
+{id:'kebo116',book:'Biology XI',chap:'16. Excretory Products and their Elimination'},
+{id:'kebo117',book:'Biology XI',chap:'17. Locomotion and Movement'},
+{id:'kebo118',book:'Biology XI',chap:'18. Neural Control and Coordination'},
+{id:'kebo119',book:'Biology XI',chap:'19. Chemical Coordination and Integration'},
+{id:'lebo101',book:'Biology XII',chap:'1. Sexual Reproduction in Flowering Plants'},
+{id:'lebo102',book:'Biology XII',chap:'2. Human Reproduction'},
+{id:'lebo103',book:'Biology XII',chap:'3. Reproductive Health'},
+{id:'lebo104',book:'Biology XII',chap:'4. Principles of Inheritance and Variation'},
+{id:'lebo105',book:'Biology XII',chap:'5. Molecular Basis of Inheritance'},
+{id:'lebo106',book:'Biology XII',chap:'6. Evolution'},
+{id:'lebo107',book:'Biology XII',chap:'7. Human Health and Disease'},
+{id:'lebo108',book:'Biology XII',chap:'8. Microbes in Human Welfare'},
+{id:'lebo109',book:'Biology XII',chap:'9. Biotechnology: Principles and Processes'},
+{id:'lebo110',book:'Biology XII',chap:'10. Biotechnology and its Applications'},
+{id:'lebo111',book:'Biology XII',chap:'11. Organisms and Populations'},
+{id:'lebo112',book:'Biology XII',chap:'12. Ecosystem'},
+{id:'lebo113',book:'Biology XII',chap:'13. Biodiversity and Conservation'},
+{id:'kech101',book:'Chemistry XI',chap:'1. Some Basic Concepts of Chemistry'},
+{id:'kech102',book:'Chemistry XI',chap:'2. Structure of Atom'},
+{id:'kech103',book:'Chemistry XI',chap:'3. Classification of Elements and Periodicity'},
+{id:'kech104',book:'Chemistry XI',chap:'4. Chemical Bonding and Molecular Structure'},
+{id:'kech105',book:'Chemistry XI',chap:'5. Thermodynamics'},
+{id:'kech106',book:'Chemistry XI',chap:'6. Equilibrium'},
+{id:'kech201',book:'Chemistry XI',chap:'7. Redox Reactions'},
+{id:'kech202',book:'Chemistry XI',chap:'8. Organic Chemistry - Basic Principles'},
+{id:'kech203',book:'Chemistry XI',chap:'9. Hydrocarbons'},
+{id:'lech101',book:'Chemistry XII',chap:'1. Solutions'},
+{id:'lech102',book:'Chemistry XII',chap:'2. Electrochemistry'},
+{id:'lech103',book:'Chemistry XII',chap:'3. Chemical Kinetics'},
+{id:'lech104',book:'Chemistry XII',chap:'4. d- and f-Block Elements'},
+{id:'lech105',book:'Chemistry XII',chap:'5. Coordination Compounds'},
+{id:'lech201',book:'Chemistry XII',chap:'6. Haloalkanes and Haloarenes'},
+{id:'lech202',book:'Chemistry XII',chap:'7. Alcohols, Phenols and Ethers'},
+{id:'lech203',book:'Chemistry XII',chap:'8. Aldehydes, Ketones and Carboxylic Acids'},
+{id:'lech204',book:'Chemistry XII',chap:'9. Amines'},
+{id:'lech205',book:'Chemistry XII',chap:'10. Biomolecules'},
+{id:'keph101',book:'Physics XI',chap:'1. Units and Measurements'},
+{id:'keph102',book:'Physics XI',chap:'2. Motion in a Straight Line'},
+{id:'keph103',book:'Physics XI',chap:'3. Motion in a Plane'},
+{id:'keph104',book:'Physics XI',chap:'4. Laws of Motion'},
+{id:'keph105',book:'Physics XI',chap:'5. Work, Energy and Power'},
+{id:'keph106',book:'Physics XI',chap:'6. System of Particles and Rotational Motion'},
+{id:'keph107',book:'Physics XI',chap:'7. Gravitation'},
+{id:'keph201',book:'Physics XI',chap:'8. Mechanical Properties of Solids'},
+{id:'keph202',book:'Physics XI',chap:'9. Mechanical Properties of Fluids'},
+{id:'keph203',book:'Physics XI',chap:'10. Thermal Properties of Matter'},
+{id:'keph204',book:'Physics XI',chap:'11. Thermodynamics'},
+{id:'keph205',book:'Physics XI',chap:'12. Kinetic Theory'},
+{id:'keph206',book:'Physics XI',chap:'13. Oscillations'},
+{id:'keph207',book:'Physics XI',chap:'14. Waves'},
+{id:'leph101',book:'Physics XII',chap:'1. Electric Charges and Fields'},
+{id:'leph102',book:'Physics XII',chap:'2. Electrostatic Potential and Capacitance'},
+{id:'leph103',book:'Physics XII',chap:'3. Current Electricity'},
+{id:'leph104',book:'Physics XII',chap:'4. Moving Charges and Magnetism'},
+{id:'leph105',book:'Physics XII',chap:'5. Magnetism and Matter'},
+{id:'leph106',book:'Physics XII',chap:'6. Electromagnetic Induction'},
+{id:'leph107',book:'Physics XII',chap:'7. Alternating Current'},
+{id:'leph108',book:'Physics XII',chap:'8. Electromagnetic Waves'},
+{id:'leph201',book:'Physics XII',chap:'9. Ray Optics and Optical Instruments'},
+{id:'leph202',book:'Physics XII',chap:'10. Wave Optics'},
+{id:'leph203',book:'Physics XII',chap:'11. Dual Nature of Radiation and Matter'},
+{id:'leph204',book:'Physics XII',chap:'12. Atoms'},
+{id:'leph205',book:'Physics XII',chap:'13. Nuclei'},
+{id:'leph206',book:'Physics XII',chap:'14. Semiconductor Electronics'}
+];
+const BASE='https://ncert.nic.in/textbook/pdf/';
+const $=id=>document.getElementById(id);
+const bookSel=$('bookSel'), chapSel=$('chapSel');
+bookSel.innerHTML=[...new Set(BOOKS.map(b=>b.book))].map(s=>`<option>${s}</option>`).join('');
+function fillChaps(){ chapSel.innerHTML=BOOKS.filter(b=>b.book===bookSel.value).map(b=>`<option value="${b.id}">${b.chap}</option>`).join(''); }
+bookSel.onchange=()=>{fillChaps();go();}; chapSel.onchange=go; fillChaps();
+let chapterQs=[], attempts=JSON.parse(localStorage.getItem('neet-attempts')||'{}');
+let stars=new Set(JSON.parse(localStorage.getItem('neet-stars')||'[]'));
+let view='practice', bankCache={}, renderT=Date.now();
+// NEET weightage (12-yr trends): 3 = high yield, 2 = medium, 1 = low
+const WEIGHT={keph101:3,keph102:3,keph103:3,keph104:2,keph105:2,keph106:3,keph107:2,keph201:2,keph202:1,keph203:2,keph204:2,keph205:2,keph206:3,keph207:1,leph101:3,leph102:3,leph103:3,leph104:2,leph105:1,leph106:2,leph107:2,leph108:1,leph201:3,leph202:2,leph203:2,leph204:2,leph205:2,leph206:3};
+function setView(v){view=v;clearInterval(drillTimer);drill=null;if(v!=='practice'&&(mock)){clearInterval(mockTimer);}if(v==='practice')renderList(parseInt($('pageInput').value||'1'));else if(v==='dash')renderDash();else renderMistakes();}
+function toggleStar(ev,file,gi){ev.stopPropagation();const k=file+':'+gi;stars.has(k)?stars.delete(k):stars.add(k);localStorage.setItem('neet-stars',JSON.stringify([...stars]));ev.target.classList.toggle('on');ev.target.textContent=stars.has(k)?'★':'☆';}
+async function getChapter(id){if(!bankCache[id]){try{const r=await fetch(`questions/${id}.json`);bankCache[id]=r.ok?await r.json():[];}catch{bankCache[id]=[];}}return bankCache[id];}
+async function renderDash(){
+  const right=$('right');right.innerHTML='<p>Loading dashboard…</p>';
+  const rows=await Promise.all(BOOKS.map(async b=>{
+    const qs=await getChapter(b.id);let c=0,w=0,tsum=0,tn=0,slow=0;const yrs=new Set();
+    qs.forEach((_,gi)=>{const s=attempts[b.id+':'+gi];if(s){s.ok?c++:w++;if(s.dt!=null){tsum+=s.dt;tn++;if(s.dt>90)slow++;}}});
+    qs.forEach(q=>{const m=String(q.year||'').match(/(19|20)\d{2}/);if(m)yrs.add(m[0]);});
+    const done=c+w,acc=done?Math.round(100*c/done):-1;
+    const y=[...yrs].sort();
+    return {b,n:qs.length,c,w,done,acc,pace:tn?Math.round(tsum/tn):-1,slow,years:y.length?y[0]+'–'+y[y.length-1]+' ('+y.length+')':'—',wt:WEIGHT[b.id]||2};
+  }));
+  rows.sort((a,b2)=>(a.acc<0?101:a.acc)-(b2.acc<0?101:b2.acc)||b2.wt-a.wt);
+  right.innerHTML=`<h3>Weak-first dashboard (accuracy · pace · years covered · ★★★ = high NEET weightage)</h3><table class="dash"><tr><th>Chapter</th><th>Qs</th><th>Done</th><th>Acc</th><th>Pace</th><th>Slow</th><th>Years</th><th>Wt</th><th></th></tr>`+
+    rows.map(r=>`<tr class="${r.acc>=0&&r.acc<60?'weak':''}"><td>${esc(r.b.chap)}</td><td>${r.n}</td><td>${r.done}</td><td>${r.acc<0?'—':r.acc+'%'}</td><td>${r.pace<0?'—':r.pace+'s'}</td><td>${r.slow||'—'}</td><td>${r.years}</td><td>${'★'.repeat(r.wt)}</td><td><button class="dashbtn" onclick="jumpTo('${r.b.id}')">Open</button></td></tr>`).join('')+`</table><p style="font-size:12px;opacity:.7">Slow = answers over 90s (Embibe-style overtime flag: slow-correct is a hidden weakness).</p>`;
+}
+function jumpTo(id){const b=BOOKS.find(x=>x.id===id);bookSel.value=b.book;fillChaps();chapSel.value=id;setView('practice');go();}
+async function renderMistakes(){
+  const right=$('right');right.innerHTML='<p>Loading mistake book…</p>';
+  const keys=Object.keys(attempts).filter(k=>!attempts[k].ok);
+  if(!keys.length){right.innerHTML='<p>No mistakes logged. Wrong answers land here automatically.</p>';return;}
+  const DAY=864e5,now=Date.now();
+  const age=k=>{const t=attempts[k].t;return t?Math.floor((now-t)/DAY):99;};
+  keys.sort((a,b)=>age(b)-age(a));
+  const due=keys.filter(k=>age(k)>=3).length;
+  const byFile={};keys.forEach(k=>{const[i,g]=[k.split(':')[0],+k.split(':')[1]];(byFile[i]=byFile[i]||[]).push(g);});
+  let html=`<h3>❌ Mistake book (${keys.length}, ${due} due for review — oldest first)</h3>`;
+  for(const id of Object.keys(byFile)){
+    const qs=await getChapter(id),b=BOOKS.find(x=>x.id===id);
+    html+=`<h4>${esc(b?b.chap:id)}</h4>`+byFile[id].map(gi=>{const q=qs[gi];if(!q)return '';const ag=age(id+':'+gi);return `<div class="q done"><b>Q.</b> ${esc(q.question)} <span style="opacity:.6">(${ag>=99?'old':ag===0?'today':ag+'d ago'})</span><div>${q.options.map((o,j)=>`<button disabled class="${j===q.answer?'correct':''}">${esc(o)}</button>`).join('')}</div><div class="expl">${esc(q.explanation||'')}</div><div style="margin-top:6px">Why? ${['Concept','Silly','Calc','Time'].map(c=>`<button class="dashbtn" style="${(attempts[id+':'+gi]||{}).cause===c?'border-color:#e3b341':''}" onclick="setCause('${id}',${gi},'${c}',this)">${c}</button>`).join('')}</div><div style="margin-top:6px"><button class="dashbtn" onclick="clearAttempt('${id}',${gi})">Cleared — retry</button> <button class="dashbtn" onclick="jumpTo('${id}')">Open chapter</button></div></div>`;}).join('');
+  }
+  right.innerHTML=html;
+}
+function setCause(id,gi,cause,btn){const k=id+':'+gi;attempts[k]=attempts[k]||{};attempts[k].cause=cause;localStorage.setItem('neet-attempts',JSON.stringify(attempts));[...btn.parentNode.querySelectorAll('button')].forEach(b=>b.style.borderColor='');btn.style.borderColor='#e3b341';}
+function clearAttempt(id,gi){delete attempts[id+':'+gi];localStorage.setItem('neet-attempts',JSON.stringify(attempts));renderMistakes();}
+let mock=null,mockTimer=null;
+const SUBJ=id=>id.startsWith('keph')||id.startsWith('leph')?'Physics':(id.startsWith('kech')||id.startsWith('lech')?'Chemistry':'Biology');
+async function startMock(){
+  const right=$('right');right.innerHTML='<p>Loading 79 chapters…</p>';
+  const pool=[];
+  for(const b of BOOKS){const qs=await getChapter(b.id);qs.forEach((_,gi)=>pool.push({file:b.id,gi}));}
+  if(pool.length<180){alert(`Bank has ${pool.length} Qs — mock needs 180. Keep adding!`);return;}
+  const want={Physics:45,Chemistry:45,Biology:90};
+  const byS={Physics:[],Chemistry:[],Biology:[]};
+  pool.forEach(p=>byS[SUBJ(p.file)].push(p));
+  const pick=a=>[...a].sort(()=>Math.random()-0.5);
+  const order=[...pick(byS.Physics).slice(0,want.Physics),...pick(byS.Chemistry).slice(0,want.Chemistry),...pick(byS.Biology).slice(0,want.Biology)];
+  if(order.length<180){alert('A subject pool is short — full mock needs P45/C45/B90.');return;}
+  mock={order,i:0,score:0,log:new Array(order.length).fill(null),marked:new Set(),left:180*60,sec:'All'};
+  clearInterval(mockTimer);clearInterval(drillTimer);drill=null;
+  mockTimer=setInterval(()=>{mock.left--;const t=$('drillclock');if(t)t.textContent=Math.floor(mock.left/3600)+':'+String(Math.floor(mock.left%3600/60)).padStart(2,'0')+':'+String(mock.left%60).padStart(2,'0');const f=$('timerfill');if(f)f.style.width=(100*mock.left/(180*60))+'%';if(mock.left<=0)endMock();},1000);
+  renderMock();
+}
+function mockVisible(){return mock.order.map((p,idx)=>({p,idx})).filter(({p})=>mock.sec==='All'||SUBJ(p.file)===mock.sec);}
+function renderMock(){
+  const vis=mockVisible(),cur=vis[Math.min(mock.i,vis.length-1)];
+  mock.i=mock.order.indexOf(cur.p);
+  const {file,gi}=cur.p,q=bankCache[file][gi];
+  const st=mock.log[mock.i];
+  $('right').innerHTML=`<h3>🎯 Mock Q${mock.i+1}/180 · <span id="drillclock"></span> · score ${mock.score}</h3><div id="timerbar"><div id="timerfill"></div></div>
+  <div>${['All','Physics','Chemistry','Biology'].map(s=>`<span class="mocksec" onclick="mock.sec='${s}';mock.i=0;renderMock()">${s}</span>`).join('')}</div>
+  <div id="palette">${mock.order.map((p,idx)=>{const l=mock.log[idx];return `<button class="${l&&l.pick>=0?'done':''} ${mock.marked.has(idx)?'mark':''}" onclick="mock.i=${idx};renderMock()">${idx+1}</button>`;}).join('')}</div>
+  <div class="q"><b>[${SUBJ(file)}]</b> ${esc(q.question)}<div>${q.options.map((o,j)=>`<button ${st&&st.pick>=0?'disabled':''} onclick="mockAnswer(${j})">${esc(o)}</button>`).join('')}</div>
+  <div><button class="dashbtn" onclick="mockMark()">${mock.marked.has(mock.i)?'Unmark':'Mark for review'}</button> <button class="dashbtn" onclick="mockSkip()">Skip</button> <button class="dashbtn" onclick="mockNav(1)">Next →</button> <button class="dashbtn" onclick="endMock()">End mock</button></div></div>`;
+}
+function mockNav(d){mock.i=Math.min(179,Math.max(0,mock.i+d));renderMock();}
+function mockMark(){mock.marked.has(mock.i)?mock.marked.delete(mock.i):mock.marked.add(mock.i);renderMock();}
+function mockSkip(){if(!mock.log[mock.i])mock.log[mock.i]={pick:-1,ok:false};mockNav(1);}
+function mockAnswer(j){
+  const {file,gi}=mock.order[mock.i],q=bankCache[file][gi],ok=(j===q.answer);
+  if(ok)mock.score+=4;else mock.score-=1;
+  attempts[file+':'+gi]={ok,t:Date.now(),dt:0};localStorage.setItem('neet-attempts',JSON.stringify(attempts));
+  mock.log[mock.i]={pick:j,ok};mockNav(1);
+}
+function endMock(){
+  clearInterval(mockTimer);
+  const L=mock.log,ans=L.filter(l=>l&&l.pick>=0),c=ans.filter(l=>l.ok).length,w=ans.length-c;
+  const byS={};L.forEach((l,i)=>{if(!l||l.pick<0)return;const s=SUBJ(mock.order[i].file);byS[s]=byS[s]||{c:0,w:0};l.ok?byS[s].c++:byS[s].w++;});
+  const best=JSON.parse(localStorage.getItem('neet-best')||'{}');
+  if(!best.__mock||mock.score>best.__mock)best.__mock=mock.score;
+  localStorage.setItem('neet-best',JSON.stringify(best));
+  $('right').innerHTML=`<h3>🎯 Mock done: ${mock.score}/720 (best ${best.__mock})</h3><p>✓ ${c} · ✗ ${w} · skipped ${L.filter(l=>!l||l.pick<0).length} · accuracy ${ans.length?Math.round(100*c/ans.length):0}%</p>`+
+    Object.keys(byS).map(s=>`<p>${s}: ✓${byS[s].c} ✗${byS[s].w} (${Math.round(100*byS[s].c/(byS[s].c+byS[s].w))}%)</p>`).join('')+
+    `<button onclick="setView('practice');go()">Back to practice</button> <button onclick="setView('mistakes')">Review mistakes ❌</button>`;
+  mock=null;
+}
+let drill=null,drillTimer=null;
+function startDrill(){
+  if(!chapterQs.length){alert('Open a chapter with questions first.');return;}
+  const n=Math.min(parseInt($('drillN').value),chapterQs.length);
+  const order=[...chapterQs.keys()].sort(()=>Math.random()-0.5).slice(0,n);
+  drill={file:chapSel.value,order,i:0,score:0,log:[],left:n*60};
+  clearInterval(drillTimer);
+  drillTimer=setInterval(()=>{drill.left--;paintTimer();if(drill.left<=0)endDrill();},1000);
+  renderDrill();
+}
+function paintTimer(){const f=$('timerfill');if(!f||!drill)return;const tot=drill.order.length*60;f.style.width=(100*drill.left/tot)+'%';const t=$('drillclock');if(t)t.textContent=Math.floor(drill.left/60)+':'+String(drill.left%60).padStart(2,'0');}
+function renderDrill(){
+  const gi=drill.order[drill.i],q=chapterQs[gi];
+  $('right').innerHTML=`<h3>⏱ Drill ${drill.i+1}/${drill.order.length} · <span id="drillclock"></span> · score ${drill.score}</h3><div id="timerbar"><div id="timerfill"></div></div><div class="q"><b>Q${drill.i+1}.</b> ${esc(q.question)}<div>${q.options.map((o,j)=>`<button onclick="drillAnswer(${j})">${esc(o)}</button>`).join('')}</div><div><button class="dashbtn" onclick="drillAnswer(-1)">Skip (0)</button></div></div>`;
+  renderT=Date.now();paintTimer();
+}
+function drillAnswer(j){
+  const gi=drill.order[drill.i],q=chapterQs[gi],ok=(j===q.answer);
+  const dt=Math.round((Date.now()-renderT)/1000);
+  if(ok)drill.score+=4;else if(j>=0)drill.score-=1;
+  attempts[drill.file+':'+gi]={ok:j>=0?ok:false,t:Date.now(),dt};localStorage.setItem('neet-attempts',JSON.stringify(attempts));
+  drill.log.push({gi,pick:j,ok,dt});drill.i++;
+  if(drill.i>=drill.order.length)endDrill();else renderDrill();
+}
+function endDrill(){
+  clearInterval(drillTimer);
+  const best=JSON.parse(localStorage.getItem('neet-best')||'{}'),k=drill.file;
+  if(!best[k]||drill.score>best[k])best[k]=drill.score;
+  localStorage.setItem('neet-best',JSON.stringify(best));
+  const c=drill.log.filter(l=>l.ok).length,w=drill.log.filter(l=>!l.ok&&l.pick>=0).length,s=drill.log.filter(l=>l.pick<0).length;
+  const avg=drill.log.length?Math.round(drill.log.reduce((a,l)=>a+(l.dt||0),0)/drill.log.length):0;
+  $('right').innerHTML=`<h3>⏱ Drill done: ${drill.score} (best ${best[k]})</h3><p>✓ ${c} · ✗ ${w} · skipped ${s} · pace ${avg}s/Q · +4/−1 NEET marking</p>`+
+    drill.log.map((l,i)=>{const q=chapterQs[l.gi];return `<div class="q done"><b>Q${i+1} ${l.ok?'✓':(l.pick<0?'○':'✗')}</b> ${esc(q.question)}<div>${q.options.map((o,j)=>`<button disabled class="${j===q.answer?'correct':(j===l.pick?'wrong':'')}">${esc(o)}</button>`).join('')}</div><div class="expl">${esc(q.explanation||'')}</div></div>`;}).join('')+
+    `<button onclick="setView('practice');go()">Back to practice</button>`;
+  drill=null;
+}
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+async function go(){
+  view='practice';clearInterval(drillTimer);drill=null;clearInterval(mockTimer);mock=null;
+  const id=chapSel.value, pdfPage=parseInt($('pageInput').value||'1');
+  $('pdfFrame').src=BASE+id+'.pdf#page='+pdfPage;
+  $('label').textContent=id+'.pdf p.'+pdfPage;
+  const right=$('right');
+  try{
+    chapterQs=await (await fetch(`questions/${id}.json`)).json();
+  }catch{ right.innerHTML=`<p>No <code>questions/${id}.json</code> yet — see SOURCES.md.</p>`; chapterQs=[]; updateScore(); return; }
+  renderList(pdfPage);
+}
+function renderList(pdfPage){
+  const showAll=$('allPages').checked, term=$('search').value.toLowerCase();
+  let qs=chapterQs.filter(q=>(showAll||q.pdfPage===pdfPage)&&(!term||(q.question+q.options.join(' ')).toLowerCase().includes(term)));
+  $('right').innerHTML = qs.length ? qs.map((q)=>{
+    const gi=chapterQs.indexOf(q), key=chapSel.value+':'+gi, st=attempts[key];
+    return `<div class="q${st?' done':''}" id="q${gi}"><button class="star${stars.has(chapSel.value+':'+gi)?' on':''}" onclick="toggleStar(event,'${chapSel.value}',${gi})" title="Bookmark">${stars.has(chapSel.value+':'+gi)?'★':'☆'}</button><b>Q.</b> ${esc(q.question)} <span style="opacity:.6">(p.${q.pdfPage||'?'})</span>
+    <div class="meta">${esc(q.source||'')} ${esc(q.year||'')}</div>
+    <div>${q.options.map((o,j)=>`<button onclick="answer(${gi},${j},this)" ${st?'disabled':''}>${esc(o)}</button>`).join('')}</div>
+    <div class="expl">${st?('You: '+(st.ok?'✓ +4':'✗ -1')+'<br>') : ''}${esc(q.explanation||'')}</div></div>`;
+  }).join('') : `<p>No questions match (p.${pdfPage}). Uncheck “all pages” toggle or clear search.</p>`;
+  renderT=Date.now();
+  updateScore();
+}
+function answer(gi,j,btn){
+  const q=chapterQs[gi], ok=(j===q.answer);
+  attempts[chapSel.value+':'+gi]={ok,t:Date.now(),dt:Math.round((Date.now()-renderT)/1000)}; localStorage.setItem('neet-attempts',JSON.stringify(attempts));
+  const card=document.getElementById('q'+gi);
+  [...card.querySelectorAll('button')].forEach((b,bi)=>{b.disabled=true;if(bi===q.answer)b.classList.add('correct');});
+  if(!ok)btn.classList.add('wrong');
+  card.classList.add('done');
+  card.querySelector('.expl').innerHTML=`You: ${ok?'✓ +4':'✗ -1'}<br>${esc(q.explanation||'')}`;
+  updateScore();
+}
+function updateScore(){
+  let c=0,w=0; for(const k in attempts){ if(k.startsWith(chapSel.value+':')){ attempts[k].ok?c++:w++; } }
+  const total=chapterQs.length, done=c+w;
+  $('scorebar').textContent=`${chapSel.value}: ${done}/${total} done · score ${(c*4-w*1)} · +4/-1 NEET`;
+}
+function prev(){$('pageInput').value=Math.max(1,parseInt($('pageInput').value)-1);go();}
+function next(){$('pageInput').value=parseInt($('pageInput').value)+1;go();}
+function toggleTheme(){const h=document.documentElement;h.dataset.theme=h.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('neet-theme',h.dataset.theme);}catch{}}
+try{const t=localStorage.getItem('neet-theme');if(t)document.documentElement.dataset.theme=t;}catch{}
+function exportBackup(){
+  const data={app:'neet-reader',v:1,exported:new Date().toISOString(),store:{}};
+  for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i);if(k&&k.startsWith('neet-'))data.store[k]=localStorage.getItem(k);}
+  const n=Object.keys(data.store).length;
+  const blob=new Blob([JSON.stringify(data)],{type:'application/json'});
+  const a=document.createElement('a'),d=new Date();
+  const pad=x=>String(x).padStart(2,'0');
+  a.href=URL.createObjectURL(blob);
+  a.download=`neet-backup-${d.getFullYear()}${pad(d.getMonth()+1)}${pad(d.getDate())}-${pad(d.getHours())}${pad(d.getMinutes())}.json`;
+  a.click();URL.revokeObjectURL(a.href);
+  alert(`Backed up ${n} store entries. Keep this file safe.`);
+}
+function importBackup(ev){
+  const f=ev.target.files[0];if(!f)return;
+  const r=new FileReader();
+  r.onload=()=>{
+    try{
+      const data=JSON.parse(r.result);
+      if(!data||typeof data!=='object'||!data.store||typeof data.store!=='object')throw new Error('not a neet-reader backup');
+      const keys=Object.keys(data.store).filter(k=>k.startsWith('neet-'));
+      if(!keys.length)throw new Error('backup holds no neet- entries');
+      if(!confirm(`Restore ${keys.length} entries from ${data.exported||'backup'}? Current progress on this device will be replaced.`))return;
+      keys.forEach(k=>localStorage.setItem(k,String(data.store[k])));
+      attempts=JSON.parse(localStorage.getItem('neet-attempts')||'{}');
+      stars=new Set(JSON.parse(localStorage.getItem('neet-stars')||'[]'));
+      const t=localStorage.getItem('neet-theme');if(t)document.documentElement.dataset.theme=t;
+      setView('dash');
+      alert('Restored. Dashboard shows your recovered progress.');
+    }catch(e){alert('Restore failed: '+e.message);}
+    ev.target.value='';
+  };
+  r.readAsText(f);
+}
+$('allPages').onchange=()=>renderList(parseInt($('pageInput').value||'1'));
+$('search').oninput=()=>renderList(parseInt($('pageInput').value||'1'));
+document.addEventListener('keydown',e=>{if(e.target.tagName==='INPUT'&&e.target.type!=='checkbox')return;if(e.key==='ArrowLeft')prev();if(e.key==='ArrowRight')next();});
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js').catch(()=>{});
+go();
+</script>
+</body>
+</html>

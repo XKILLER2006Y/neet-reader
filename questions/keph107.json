@@ -1,0 +1,268 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "60 g mass feels 3.0 N gravity. Field intensity there:",
+  "options": [
+   "180 N/kg",
+   "0.05 N/kg",
+   "50 N/kg",
+   "20 N/kg"
+  ],
+  "answer": 2,
+  "explanation": "g = F/m = 3/0.06 = 50.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The height at which the weight of a body becomes (1/16)th, its weight on the surface of earth (radius R), is",
+  "options": [
+   "5R",
+   "15R",
+   "3R",
+   "4R"
+  ],
+  "answer": 2,
+  "explanation": "(1+h/R)² = 16 → h = 3R.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The mass of a planet is (1/10)th that of the earth and its diameter is half that of the earth. The acceleration due to gravity on that planet is:",
+  "options": [
+   "19.6 ms⁻²",
+   "9.8 ms⁻²",
+   "4.9 ms⁻²",
+   "3.92 ms⁻²"
+  ],
+  "answer": 3,
+  "explanation": "g_p/g = (1/10)/(1/4) = 0.4 → 3.92 m/s².",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Planet mass 1/10 Earth's, diameter half Earth's. g on it:",
+  "options": [
+   "4.9 m/s²",
+   "3.92 m/s²",
+   "19.6 m/s²",
+   "9.8 m/s²"
+  ],
+  "answer": 1,
+  "explanation": "g′ = (1/10)/(1/2)²·g = 0.4g = 3.92 m/s².",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 4,
+  "question": "The minimum energy required to launch a satellite of mass m from the surface of earth of mass M and radius R in a circular orbit at an altitude of 2R from the surface of the earth is:",
+  "options": [
+   "5GmM/6R",
+   "2GmM/3R",
+   "GmM/2R",
+   "GmM/3R"
+  ],
+  "answer": 0,
+  "explanation": "E_f = −GMm/6R; ΔE = GMm/R − GMm/6R = 5GMm/6R.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 6,
+  "question": "If R is the radius of the earth and g is the acceleration due to gravity on the earth surface. Then the mean density of the earth will be :",
+  "options": [
+   "πRG/12g",
+   "3πR/4gG",
+   "3g/4πRG",
+   "4πG/3gR"
+  ],
+  "answer": 2,
+  "explanation": "g = G(4/3 πR³ρ)/R² → ρ = 3g/(4πGR).",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Particle projected with u = k·vₑ (k < 1, vₑ = escape velocity) from Earth's surface. Max height above surface:",
+  "options": [
+   "Rk²/(1+k)",
+   "Rk²/(1−k²)",
+   "R(k/(1−k))²",
+   "R(k/(1+k))²"
+  ],
+  "answer": 1,
+  "explanation": "½mu²−GMm/R = −GMm/(R+H) with u² = k²·2GM/R → H = Rk²/(1−k²).",
+  "source": "NEET 2021 via MedicNEET (full options + derivation) + eSaral 2021 listing",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A body weighs 72 N on the surface of the earth. What is the gravitational force on it, at a height equal to half the radius of the earth?",
+  "options": [
+   "32 N",
+   "30 N",
+   "24 N",
+   "48 N"
+  ],
+  "answer": 0,
+  "explanation": "g′ = g/(1.5)² = 4g/9; W = 72 × 4/9 = 32 N.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Sun's mass ×(1/10), G ×10. NOT correct:",
+  "options": [
+   "Pendulum period falls",
+   "Walking gets harder",
+   "Rain falls faster",
+   "g on Earth unchanged"
+  ],
+  "answer": 3,
+  "explanation": "g = GM/R² rises 10× → (4) is the false one.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The work done in shifting a body of mass m from Earth's surface to an altitude equal to the radius of Earth (h = R) is:",
+  "options": [
+   "(1/2) m g R",
+   "m g R",
+   "2 m g R",
+   "(1/4) m g R"
+  ],
+  "answer": 0,
+  "explanation": "W = U(2R) - U(R) = -G M m / (2R) - (-G M m / R) = G M m / (2R) = (1/2) (G M / R²) m R = (1/2) m g R. | Hint: W = ΔU = U_final - U_initial.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The work done to raise a mass m from the surface of the earth to a height h, which is equal to the radius of the earth, is :",
+  "options": [
+   "mgR",
+   "2mgR",
+   "(1/2) mgR",
+   "(3/2) mgR"
+  ],
+  "answer": 2,
+  "explanation": "W = GMm/2R = ½mgR.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A body weight 200 N on the surface of earth. How much will it weight half way down to the centre of the earth?",
+  "options": [
+   "200 N",
+   "250 N",
+   "100 N",
+   "150 N"
+  ],
+  "answer": 2,
+  "explanation": "g′ = g(1−d/R) = g/2 → 100 N.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A satellite is launched into a circular orbit of radius R around the Earth. A second satellite is launched into an orbit of radius 1.01 R. The period of the second satellite is larger than the first one by approximately:",
+  "options": [
+   "1.5%",
+   "1.0%",
+   "3.0%",
+   "0.5%"
+  ],
+  "answer": 0,
+  "explanation": "Kepler's Third Law: T ∝ R^(3/2) ⇒ ΔT / T = (3/2) (ΔR / R) = (1.5) × 1.0% = 1.5%. | Hint: Fractional error in T is 1.5 times fractional error in R.",
+  "source": "JEE JEE Main 2023 via BYJU'S JEE",
+  "year": "JEE Main 2023"
+ },
+ {
+  "pdfPage": 12,
+  "question": "A geostationary satellite is orbiting the earth at a height of 5R above the surface of the earth, R being the radius of the earth. The time period of another satellite in hours at a height of 2R from the surface of the earth is",
+  "options": [
+   "5",
+   "10",
+   "6√2",
+   "6/√2"
+  ],
+  "answer": 2,
+  "explanation": "T² ∝ r³: T = 24(3/6)^1.5 = 6√2 h.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 12,
+  "question": "The kinetic energies of a planet in an elliptical orbit about the Sun, at perihelion (distance r₁) and aphelion (distance r₂), are in the ratio:",
+  "options": [
+   "r₂² : r₁²",
+   "r₁² : r₂²",
+   "r₂ : r₁",
+   "r₁ : r₂"
+  ],
+  "answer": 0,
+  "explanation": "Conservation of angular momentum: m v₁ r₁ = m v₂ r₂ ⇒ v₁ / v₂ = r₂ / r₁. Kinetic energy ratio K₁ / K₂ = v₁² / v₂² = r₂² / r₁². | Hint: K ∝ v² and v ∝ 1/r by angular momentum conservation.",
+  "source": "NEET NEET 2018 via BYJU'S NEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Work to lift m to height h = R (Earth radius):",
+  "options": [
+   "mgR",
+   "2mgR",
+   "mgR/2",
+   "3mgR/2"
+  ],
+  "answer": 2,
+  "explanation": "GMm(1/R − 1/2R) = mgR/2.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A body weighs 72 N on the surface of the Earth. What is its weight at a height equal to half the radius of Earth?",
+  "options": [
+   "32 N",
+   "36 N",
+   "48 N",
+   "18 N"
+  ],
+  "answer": 0,
+  "explanation": "g_h = g / (1 + h/R)² = g / (1 + 0.5)² = g / (1.5)² = g / 2.25 = (4/9) g. Weight W' = (4/9) × 72 N = 32 N. | Hint: W' = W / (1 + h/R)².",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A spherical planet has a mass M_P and diameter D_P. A particle of mass m falling freely near the surface of this planet will experience an acceleration due to gravity, equal to",
+  "options": [
+   "4GM_P/D_P²",
+   "GM_P m/D_P²",
+   "GM_P/D_P²",
+   "4GM_P m/D_P²"
+  ],
+  "answer": 0,
+  "explanation": "g = GM/(D/2)² = 4GM/D²; independent of m.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 17,
+  "question": "The escape velocity from Earth's surface is v. The escape velocity from a planet having twice the radius and same mean density as Earth is:",
+  "options": [
+   "2 v",
+   "4 v",
+   "v / 2",
+   "√2 v"
+  ],
+  "answer": 0,
+  "explanation": "v_e = √(2 G M / R) = √[2 G ((4/3)π R³ ρ) / R] = R √(8π G ρ / 3) ∝ R. Since density is identical, doubling radius doubles escape velocity: v' = 2v. | Hint: v_e ∝ R √ρ when density is constant.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ }
+]

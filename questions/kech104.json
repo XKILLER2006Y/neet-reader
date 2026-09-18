@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 9,
+  "question": "B-F (BF3, 646 kJ/mol) beats C-F (CF4, 515) because:",
+  "options": [
+   "pπ-pπ back-bonding in BF3 only",
+   "Weaker pπ-pπ in BF3",
+   "Smaller B atom",
+   "Just a stronger B-F bond"
+  ],
+  "answer": 0,
+  "explanation": "Back-bonding gives B-F partial double-bond character. | Hint: Which molecule has empty-p back-bonding?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Bonds between carbons in calcium carbide:",
+  "options": [
+   "One σ, two π",
+   "One σ, one π",
+   "Two σ, one π",
+   "Two σ, two π"
+  ],
+  "answer": 0,
+  "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Triple bond anatomy.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Smallest bond angle: PCl3, NCl3, AsCl3, SbCl3:",
+  "options": [
+   "PCl3",
+   "NCl3",
+   "AsCl3",
+   "SbCl3"
+  ],
+  "answer": 3,
+  "explanation": "Angle shrinks down the group as bonding orbitals gain p-character. | Hint: Down the group, angles shrink.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Shortest bond by MO theory: O2-, O2(2-), O2(2+), O2+:",
+  "options": [
+   "O2-",
+   "O2(2-)",
+   "O2(2+)",
+   "O2+"
+  ],
+  "answer": 2,
+  "explanation": "Bond orders 1.5, 1, 3, 2.5: highest order is shortest. | Hint: Highest bond order wins.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Smallest bond among NO, NO+, O2, NO-:",
+  "options": [
+   "NO",
+   "NO+",
+   "O2",
+   "NO-"
+  ],
+  "answer": 1,
+  "explanation": "NO+ has bond order 3, the largest of the set. | Hint: Largest bond order means shortest.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Li2, Li2+, Li2- stability order:",
+  "options": [
+   "Li2 < Li2+ < Li2-",
+   "Li2- < Li2+ < Li2",
+   "Li2 < Li2 < Li2+",
+   "Li2- < Li2 < Li2+"
+  ],
+  "answer": 1,
+  "explanation": "Bond orders 1, 0.5, 0.5; extra repulsion makes the anion least stable. | Hint: Bond order first, repulsion second.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Both species unlikely to exist:",
+  "options": [
+   "H2+ and He2(2-)",
+   "H2- and He2(2-)",
+   "H2(2+) and He2",
+   "H2- and He2(2+)"
+  ],
+  "answer": 2,
+  "explanation": "Both have zero bond order and cannot exist. | Hint: Zero bond order means no molecule.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Xenon compound with zero dipole:",
+  "options": [
+   "XeO3",
+   "XeO2",
+   "XeF4",
+   "XeOF4"
+  ],
+  "answer": 2,
+  "explanation": "Symmetric square-planar XeF4 cancels all dipoles. | Hint: Which xenon shape is fully symmetric?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Maximum covalent character: AlCl3, MgCl2, FeCl2, SnCl2:",
+  "options": [
+   "AlCl3",
+   "MgCl2",
+   "FeCl2",
+   "SnCl2"
+  ],
+  "answer": 0,
+  "explanation": "Al3+ has the highest polarising power (Fajans). | Hint: Highest charge density polarises most.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "HF: bond length 9.17e-11 m, dipole 6.104e-30 C·m. Ionic character:",
+  "options": [
+   "61.0%",
+   "38.0%",
+   "35.5%",
+   "41.5%"
+  ],
+  "answer": 3,
+  "explanation": "Observed over 100%-ionic dipole (e×d) gives 41.5%. | Hint: Divide observed by theoretical dipole.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Square planar structure:",
+  "options": [
+   "NH4+",
+   "CCl4",
+   "XeF4",
+   "BF4-"
+  ],
+  "answer": 2,
+  "explanation": "sp3d2 XeF4 with two lone pairs sits square planar. | Hint: Which has two lone pairs on square corners?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Most Xe lone pairs: XeO3, XeF4, XeF6, XeF2:",
+  "options": [
+   "XeO3",
+   "XeF4",
+   "XeF6",
+   "XeF2"
+  ],
+  "answer": 3,
+  "explanation": "Lone pairs: 1, 2, 1, 3 respectively. | Hint: Count bonds, subtract from 8 electrons.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 20,
+  "question": "N hybridisation in NO3-, NO2+, NH4+ respectively:",
+  "options": [
+   "sp2,sp3,sp",
+   "sp,sp3,sp2",
+   "sp,sp2,sp3",
+   "sp2,sp,sp3"
+  ],
+  "answer": 3,
+  "explanation": "Steric numbers 3, 2, 4 give sp2, sp, sp3. | Hint: Count domains around each nitrogen.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 20,
+  "question": "All isostructural set:",
+  "options": [
+   "BF3,NF3,PF3,AlF3",
+   "PCl3,AlCl3,BCl3,SbCl3",
+   "BF4-,CCl4,NH4+,PCl4+",
+   "CO2,NO2,ClO2,SiO2"
+  ],
+  "answer": 2,
+  "explanation": "All four are tetrahedral AX4 species. | Hint: Which set shares one geometry?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
+  "question": "Underlined sp3 carbon in: CH3COOH, CH3CH2OH, CH3COCH3, CH2=CH-CH3:",
+  "options": [
+   "CH3COOH",
+   "CH3CH2OH",
+   "CH3COCH3",
+   "CH2=CH-CH3"
+  ],
+  "answer": 1,
+  "explanation": "Only ethanol has all-sigma carbons; the rest carry multiple bonds. | Hint: Which molecule has no multiple bonds?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "BF3-NH3 adduct changes boron hybridisation:",
+  "options": [
+   "sp3 to sp3d",
+   "sp2 to dsp2",
+   "sp3 to sp2",
+   "sp2 to sp3"
+  ],
+  "answer": 3,
+  "explanation": "Boron gains a fourth pair from nitrogen: planar to tetrahedral. | Hint: How many pairs before and after?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "NOT isostructural pair:",
+  "options": [
+   "AlF6(3-) and SF6",
+   "CO3(2-) and NO3-",
+   "PCl4+ and SiCl4",
+   "PF5 and BrF5"
+  ],
+  "answer": 3,
+  "explanation": "PF5 is trigonal bipyramidal; BrF5 is square pyramidal. | Hint: Match each shape.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 34,
+  "question": "IF7 structure:",
+  "options": [
+   "Octahedral",
+   "Pentagonal bipyramid",
+   "Square pyramid",
+   "Trigonal bipyramid"
+  ],
+  "answer": 1,
+  "explanation": "sp3d3 with 7 bond pairs: pentagonal bipyramidal. | Hint: Seven pairs around iodine.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

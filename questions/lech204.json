@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "The product of an aldehyde with a primary amine is:",
+  "options": [
+   "Schiff base",
+   "Ketone",
+   "Carboxylic acid",
+   "Aromatic acid"
+  ],
+  "answer": 0,
+  "explanation": "Carbonyl + primary amine condenses to an imine (Schiff base) with loss of water. | Hint: C=O plus R-NH2 eliminates water to give what?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Reaction converting acetamide (CH3CONH2) to methanamine (CH3NH2):",
+  "options": [
+   "Carbylamine reaction",
+   "Hoffmann hypobromamide reaction",
+   "Stephen reaction",
+   "Gabriel phthalimide synthesis"
+  ],
+  "answer": 1,
+  "explanation": "Hoffmann bromamide degradation shortens the amide by one carbon to a primary amine. | Hint: Which named reaction drops one carbon from an amide?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Statement I: Aniline does not undergo Friedel-Crafts alkylation. Statement II: Aniline cannot be prepared by Gabriel synthesis.",
+  "options": [
+   "Both false",
+   "I correct, II false",
+   "I incorrect, II correct",
+   "Both correct"
+  ],
+  "answer": 3,
+  "explanation": "Aniline forms a salt with AlCl3 (ring deactivated), and aryl halides cannot do SN2 in Gabriel synthesis. | Hint: Why would AlCl3 kill the ring, and can aryl halides do SN2?",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 7,
+  "question": "A nitrogen-containing aromatic A reacts with Sn/HCl, then HNO2, giving unstable B; B with phenol gives coloured C (C12H10N2O). A is:",
+  "options": [
+   "Aniline",
+   "Nitrobenzene",
+   "Benzonitrile",
+   "Benzamide"
+  ],
+  "answer": 1,
+  "explanation": "Only nitrobenzene needs the Sn/HCl reduction step to aniline before diazotisation and coupling. | Hint: Which option needs reducing before it can diazotise?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which of the following reactions will NOT give a primary amine as the product?",
+  "options": [
+   "CH3CN + LiAlH4, then H3O+ (nitrile reduction)",
+   "CH3NC + LiAlH4, then H3O+ (isocyanide reduction)",
+   "CH3CONH2 + LiAlH4, then H3O+ (amide reduction)",
+   "CH3CONH2 + Br2/KOH (Hoffmann degradation)"
+  ],
+  "answer": 1,
+  "explanation": "Nitrile, amide (both reductions) and Hoffmann degradation all yield primary amines; only isocyanide reduction gives a secondary amine (CH3NHCH3). | Hint: Which substrate already has an extra carbon on nitrogen?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Increasing basic strength: (I) Aniline, (II) p-Nitroaniline, (III) p-Toluidine:",
+  "options": [
+   "II < III < I",
+   "III < I < II",
+   "III < II < I",
+   "II < I < III"
+  ],
+  "answer": 3,
+  "explanation": "Electron-withdrawing NO2 weakens and electron-donating CH3 strengthens the base relative to aniline. | Hint: Sort by substituent: withdrawing versus donating.",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Correct order of basic strength of methyl amines in aqueous solution:",
+  "options": [
+   "(CH3)2NH > CH3NH2 > (CH3)3N",
+   "(CH3)3N > CH3NH2 > (CH3)2NH",
+   "(CH3)3N > (CH3)2NH > CH3NH2",
+   "CH3NH2 > (CH3)2NH > (CH3)3N"
+  ],
+  "answer": 0,
+  "explanation": "In water, solvation and inductive effects combine to give secondary > primary > tertiary. | Hint: Aqueous order differs from gas phase: solvation matters.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Which amine gives the carbylamine test?",
+  "options": [
+   "N,N-dimethylaniline",
+   "N-ethylaniline",
+   "Aniline",
+   "N-methylaniline"
+  ],
+  "answer": 2,
+  "explanation": "Only primary amines (here aniline) form foul-smelling isocyanides with CHCl3/KOH. | Hint: Carbylamine needs an -NH2 group.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Compound reacting with Hinsberg reagent to give an alkali-soluble solid:",
+  "options": [
+   "Isopropylamine (primary)",
+   "N,N,N-trimethylamine (tertiary)",
+   "2-nitropropane",
+   "Trimethylamine (tertiary)"
+  ],
+  "answer": 0,
+  "explanation": "Primary amines form sulphonamides with an acidic N-H, soluble in alkali; tertiary amines do not react. | Hint: Alkali-soluble sulphonamide comes from which amine class?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Statement I: Primary aliphatic amines give unstable diazonium salts with HNO2. Statement II: Primary aromatic diazonium salts are stable even above 300 K.",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "Aliphatic diazonium salts decompose instantly; aromatic ones survive only at 273-278 K, not above 300 K. | Hint: At what temperature are diazonium salts actually stable?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Final product: C6H5N2+Cl- --(i) Cu2Br2/HBr-->(ii) Mg/dry ether-->(iii) H2O. Product:",
+  "options": [
+   "Phenol",
+   "Benzene",
+   "Phenylmagnesium bromide",
+   "4-Bromophenol"
+  ],
+  "answer": 1,
+  "explanation": "Sandmeyer bromination, Grignard formation, then hydrolysis replaces -MgBr with H. | Hint: Track the functional group through three steps.",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Reagent sequence converting 4-nitrotoluene to 2-bromotoluene:",
+  "options": [
+   "Br2; Sn/HCl; NaNO2/HCl; H2O/H3PO2",
+   "Sn/HCl; Br2; NaNO2/HCl; H2O/H3PO2",
+   "NaNO2/HCl; Sn/HCl; Br2; H2O/H3PO2",
+   "Sn/HCl; NaNO2/HCl; Br2; H2O/H3PO2"
+  ],
+  "answer": 0,
+  "explanation": "Brominate first (CH3 and NO2 jointly direct ortho to CH3), then reduce, diazotise and deaminate to leave Br ortho to methyl. | Hint: Brominate while NO2 still directs; remove NH2 last.",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Nitration of aniline in strong acid also gives m-nitroaniline because:",
+  "options": [
+   "Nitro always goes meta without substituents",
+   "Amino group is meta directing",
+   "Nitro always goes only meta",
+   "In strong acid aniline exists as anilinium ion"
+  ],
+  "answer": 3,
+  "explanation": "Protonated -NH3+ is deactivating and meta-directing, unlike free -NH2. | Hint: What happens to -NH2 in strong acid?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Correct statement on basicity of aryl amines:",
+  "options": [
+   "Aryl amines are less basic than alkyl amines (lone pair delocalised into ring)",
+   "Aryl amines are more basic (lone pair not delocalised)",
+   "Aryl amines are more basic because of aryl group",
+   "Aryl amines are more basic (N is sp-hybridised)"
+  ],
+  "answer": 0,
+  "explanation": "Delocalisation of the nitrogen lone pair into the aromatic ring makes it unavailable for donation. | Hint: Where does the nitrogen lone pair go in aniline?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Decreasing basic strength: N-ethylethanamine, ethanamine, N-methylaniline, benzenamine:",
+  "options": [
+   "2° ethyl > 1° ethyl > N-methylaniline > aniline",
+   "Aniline > ethanamine > N-methylaniline > 2° ethyl",
+   "N-methylaniline > aniline > ethanamine > 2° ethyl",
+   "2° ethyl > ethanamine > aniline > N-methylaniline"
+  ],
+  "answer": 0,
+  "explanation": "Aliphatics beat aromatics; among aliphatics 2° > 1° in water; methyl donation makes N-methylaniline beat aniline. | Hint: Split into two contests: aliphatic order, then aromatic order.",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ }
+]

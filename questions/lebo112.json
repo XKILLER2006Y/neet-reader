@@ -1,0 +1,226 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "Gross primary productivity (GPP) minus respiration losses (R) is equal to:",
+  "options": [
+   "Gross secondary productivity",
+   "Net primary productivity (NPP)",
+   "Net ecosystem productivity",
+   "Secondary productivity"
+  ],
+  "answer": 1,
+  "explanation": "NPP = GPP − R: what remains after producers' respiration.",
+  "source": "NEET 2020 (official stem restored)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Decomposition statements: I (microbes degrade detritus, true); II (lignin/chitin speed it, false):",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "Lignin and chitin slow decomposition; statement I alone holds. | Hint: What slows decay: lignin or sugar?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Energy flow unidirectional (I, true); ecosystems exempt from 2nd law (II, false):",
+  "options": [
+   "I correct, II incorrect",
+   "I incorrect, II correct",
+   "Both correct",
+   "Both incorrect"
+  ],
+  "answer": 0,
+  "explanation": "Energy flows one way and nothing escapes thermodynamics. | Hint: Does any system escape the 2nd law?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Ecosystem term coined by:",
+  "options": [
+   "E. P. Odum",
+   "A. G. Tansley",
+   "E. Haeckel",
+   "E. Warming"
+  ],
+  "answer": 1,
+  "explanation": "Tansley coined ecosystem in 1935. | Hint: Who coined it in 1935?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "In GPP - R = NPP, R is:",
+  "options": [
+   "Environment factor",
+   "Respiration losses",
+   "Radiant energy",
+   "Retardation factor"
+  ],
+  "answer": 1,
+  "explanation": "R is respiratory loss. | Hint: What is subtracted?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Detritus broken to smaller particles:",
+  "options": [
+   "Catabolism",
+   "Fragmentation",
+   "Humification",
+   "Decomposition"
+  ],
+  "answer": 1,
+  "explanation": "Detritivores fragment detritus first. | Hint: First physical step?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Correct statements (fragmentation/mineralisation/leaching vs DFC-living/catabolism-earthworm):",
+  "options": [
+   "A,B,C only",
+   "B,C,D only",
+   "C,D,E only",
+   "D,E,A only"
+  ],
+  "answer": 0,
+  "explanation": "D is false (detritus food chain starts with dead matter) and E is false (earthworms fragment). | Hint: Which two statements mislabel processes?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Maximum biomass ecosystem:",
+  "options": [
+   "Forest",
+   "Grassland",
+   "Pond",
+   "Lake"
+  ],
+  "answer": 0,
+  "explanation": "Forests hold the most standing biomass. | Hint: Where is biomass densest?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "120g/60g/10g consumer/producer data gives:",
+  "options": [
+   "Upright numbers",
+   "Energy pyramid",
+   "Inverted biomass",
+   "Upright biomass"
+  ],
+  "answer": 2,
+  "explanation": "Biomass rises up the chain: inverted. | Hint: Biomass increasing upward means?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Match trophic levels: grass/rabbit/crow/vulture:",
+  "options": [
+   "iv,iii,ii,i",
+   "i,ii,iii,iv",
+   "ii,iii,iv,i",
+   "iii,ii,i,iv"
+  ],
+  "answer": 0,
+  "explanation": "Producer to top carnivore in order. | Hint: Order the food chain.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Soil nutrient pool at a time:",
+  "options": [
+   "Standing state",
+   "Standing crop",
+   "Climax",
+   "Climax community"
+  ],
+  "answer": 0,
+  "explanation": "Standing state = nutrient stock. | Hint: Stock or biomass?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Soil nutrient pool at a time (C/N/K/Ca):",
+  "options": [
+   "Humus",
+   "Detritus",
+   "Standing state",
+   "Standing crop"
+  ],
+  "answer": 2,
+  "explanation": "Standing state is the nutrient stock. | Hint: Stock or biomass?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Unit of ecosystem productivity:",
+  "options": [
+   "KCal m-3",
+   "(KCal m-2)yr-1",
+   "gm-2",
+   "KCal m-2"
+  ],
+  "answer": 1,
+  "explanation": "Productivity is a rate: mass per area per time. | Hint: Rate needs which three units?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 8,
+  "question": "NOT correct:",
+  "options": [
+   "Energy pyramid always upright",
+   "Grassland numbers upright",
+   "Sea biomass generally inverted",
+   "Sea biomass generally upright"
+  ],
+  "answer": 3,
+  "explanation": "Sea biomass pyramids invert (fish outweigh phytoplankton). | Hint: Which sea pyramid flips?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 8,
+  "question": "In GPP − R = NPP, R is:",
+  "options": [
+   "Light energy",
+   "Respiratory quotient",
+   "Respiratory loss",
+   "Reproductive allocation"
+  ],
+  "answer": 2,
+  "explanation": "R is the respiration cost subtracted from gross production. | Hint: What is subtracted from gross?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Generally inverted pyramid:",
+  "options": [
+   "Grassland numbers",
+   "Energy",
+   "Forest biomass",
+   "Sea biomass"
+  ],
+  "answer": 3,
+  "explanation": "Sea biomass inverts; energy never does. | Hint: Which pyramid can flip?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ }
+]

@@ -1,0 +1,268 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "During human muscle contraction:",
+  "options": [
+   "Actin filaments shorten",
+   "A, I and H bands shorten",
+   "A band stays the same",
+   "Sarcomere does not shorten"
+  ],
+  "answer": 2,
+  "explanation": "Filaments slide, not shrink: A-band length is constant while I and H shrink. | Hint: Which band never changes length?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Ion unmasking myosin active sites for cross-bridge activity:",
+  "options": [
+   "Potassium",
+   "Magnesium",
+   "Calcium",
+   "Sodium"
+  ],
+  "answer": 2,
+  "explanation": "Ca2+ binds troponin, shifting tropomyosin off the active sites. | Hint: Which ion binds troponin?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Motor neuron stimulates a muscle fibre at:",
+  "options": [
+   "Sarcoplasmic reticulum",
+   "Myofibril",
+   "Transverse tubules",
+   "Neuromuscular junction"
+  ],
+  "answer": 3,
+  "explanation": "The nerve meets the fibre at the neuromuscular junction (motor end plate). | Hint: Where do nerve and fibre meet?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 6,
+  "question": "No relaxation between successive stimuli in sustained contraction:",
+  "options": [
+   "Fatigue",
+   "Tonus",
+   "Tetanus",
+   "Spasm"
+  ],
+  "answer": 2,
+  "explanation": "Fused sustained contraction without relaxation is tetanus. | Hint: Sustained contraction with no rest has which name?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Pick the correct statement with regards to locomotion in humans",
+  "options": [
+   "Accumulation of uric acid crystals in joints causes their inflammation",
+   "a decreased level of progesterone causes osteoporosis in old people",
+   "joint between adjacent vertebrae is a fibrous joint",
+   "vertebral column has 10 thoracic vertebrae"
+  ],
+  "answer": 0,
+  "explanation": "Gout = joint inflammation from uric acid crystals.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The H-zone in skeletal muscle fibres is due to:",
+  "options": [
+   "Central gap between myosin filaments in A-band",
+   "No myofibrils in central A-band",
+   "Myosin extension in central A-band",
+   "Central gap between actin filaments running through myosin in A-band"
+  ],
+  "answer": 3,
+  "explanation": "H-zone is the actin-free centre of the A-band (myosin only). | Hint: Which filaments are missing at the very centre?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 6,
+  "question": "This is the correct description of a certain part of a normal human skeleton",
+  "options": [
+   "Glenoid activity is a depression to which the thigh bone articulates",
+   "first vertebra is axis which articulates with the occipital condyles",
+   "the 9th and 10th pairs of ribs are called the floating ribs",
+   "Parietal bone and the temporal bone of the skull are joined by fibrous joint"
+  ],
+  "answer": 3,
+  "explanation": "Skull flat bones meet at fibrous suture joints.",
+  "source": "byjus.com",
+  "year": "AIPMT 2010"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Item with its correct total number:",
+  "options": [
+   "Protein amino acids: 16",
+   "Floating ribs: 4",
+   "Cervical vertebrae: 8",
+   "Diabetes types: 3"
+  ],
+  "answer": 1,
+  "explanation": "Two floating pairs (11th, 12th) make 4 floating ribs. | Hint: Count the ribs attached to nothing.",
+  "source": "NEET NEET 2007 via BYJU'S",
+  "year": "NEET 2007"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The H-zone in the skeletal muscle fibers is due to",
+  "options": [
+   "the central gap between myosin filaments in the A-band",
+   "absence of myofibrils in the central portion of A-band",
+   "extension of myosin filaments in the centre portion of the A-band",
+   "central gap between actin filament extending through myosin filaments in the A-band"
+  ],
+  "answer": 3,
+  "explanation": "H-zone = central gap between actin filaments within the A-band.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 9,
+  "question": "This ion is responsible for unmasking of active sites for myosin or cross-bridge activity during muscle contraction",
+  "options": [
+   "Potassium",
+   "Magnesium",
+   "Calcium",
+   "Sodium"
+  ],
+  "answer": 2,
+  "explanation": "Ca2+ binds troponin, shifting tropomyosin to unmask actin sites.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 9,
+  "question": "This item gives its correct total number",
+  "options": [
+   "Amino acids found in proteins – 16",
+   "Floating ribs in humans – 4",
+   "Cervical vertebrae in humans – 8",
+   "Types of diabetes- 3"
+  ],
+  "answer": 1,
+  "explanation": "Last two rib pairs (11th, 12th) = 4 floating ribs.",
+  "source": "byjus.com",
+  "year": "AIPMT 2007"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct description of a human skeleton part:",
+  "options": [
+   "Glenoid cavity takes the thigh bone",
+   "First vertebra is the axis meeting occipital condyles",
+   "9th-10th ribs are floating ribs",
+   "Parietal and temporal skull bones join by fibrous joint"
+  ],
+  "answer": 3,
+  "explanation": "Skull sutures are fibrous joints; glenoid takes the humerus, atlas is first, floaters are 11th-12th. | Hint: Which skull joint type is fibrous?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010"
+ },
+ {
+  "pdfPage": 10,
+  "question": "In humans, during muscle contraction, the",
+  "options": [
+   "actin filaments shorten",
+   "A, I and H bands shorten",
+   "A band remains the same",
+   "sarcomere does not shorten"
+  ],
+  "answer": 2,
+  "explanation": "Sliding filament: sarcomere/I/H shorten, A-band constant.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as",
+  "options": [
+   "fatigue",
+   "tonus",
+   "tetanus",
+   "spasm"
+  ],
+  "answer": 2,
+  "explanation": "Sustained contraction without relaxation = tetanus.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Correct muscular/skeletal disorder statement:",
+  "options": [
+   "Gout is calcium deposition",
+   "Muscular dystrophy is age-shortening",
+   "Osteoporosis is bone-mass loss with fractures in ageing",
+   "Myasthenia gravis blocks myosin sliding"
+  ],
+  "answer": 2,
+  "explanation": "Osteoporosis is exactly age-related bone loss and fracture risk. | Hint: Which definition matches its textbook line?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Pick the CORRECT statement on human locomotion:",
+  "options": [
+   "Uric acid crystals in joints inflame them",
+   "Low progesterone causes old-age osteoporosis",
+   "Adjacent vertebrae form a fibrous joint",
+   "Vertebral column has 10 thoracic vertebrae"
+  ],
+  "answer": 0,
+  "explanation": "Gout is uric-acid joint inflammation; the rest misstate hormone, joint type and count. | Hint: Which disorder is literally crystal deposits in joints?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Pick the correct statement regarding the specific disorder of muscular or skeletal system",
+  "options": [
+   "Gout – inflammation of joints due to extra deposition of calcium",
+   "Muscular dystrophy – age-related shortening of muscles",
+   "Osteoporosis – decrease in the bone mass and higher chances of fractures with aging",
+   "Myasthenia gravis – an autoimmune disorder which inhibits sliding of myosin filaments"
+  ],
+  "answer": 2,
+  "explanation": "Osteoporosis = age-related bone mass loss raising fracture risk.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Stimulation of a muscle fiber by a motor neuron occurs at",
+  "options": [
+   "the sarcoplasmic reticulum",
+   "the myofibril",
+   "the transverse tubules",
+   "the neuromuscular junction"
+  ],
+  "answer": 3,
+  "explanation": "Motor neuron synapses with sarcolemma at the neuromuscular junction.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 11,
+  "question": "The pivot joint between atlas and axis is a type of:",
+  "options": [
+   "Fibrous joint",
+   "Synovial joint",
+   "Saddle joint",
+   "Cartilaginous joint"
+  ],
+  "answer": 1,
+  "explanation": "Atlas-axis pivot permits rotation and is a synovial joint. | Hint: Which joint class allows rotation?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ }
+]

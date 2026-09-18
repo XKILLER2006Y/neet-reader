@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "Pick the INCORRECT statement:",
+  "options": [
+   "Mycoplasma is wall-less",
+   "Pili/fimbriae drive bacterial motility",
+   "Bacterial wall is peptidoglycan",
+   "Cyanobacteria lack flagellated cells"
+  ],
+  "answer": 1,
+  "explanation": "Pili and fimbriae attach; flagella drive motility. | Hint: What are pili really for?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which of the following pair of organelles does not contain DNA?",
+  "options": [
+   "Lysosomes and Vacuoles",
+   "Nuclear envelope and Mitochondria",
+   "Mitochondria and Lysosomes",
+   "Chloroplast and Vacuoles"
+  ],
+  "answer": 0,
+  "explanation": "Mitochondria and plastids have DNA; lysosomes and vacuoles do not.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which one of the following is the site for active ribosomal RNA synthesis?",
+  "options": [
+   "Centrosome",
+   "Chromatin",
+   "Nucleolus",
+   "Kinetochore"
+  ],
+  "answer": 2,
+  "explanation": "Nucleolus is the site of active rRNA synthesis.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Fluid mosaic membrane is made of:",
+  "options": [
+   "Phospholipids + integral proteins",
+   "Phospholipids + extrinsic + intrinsic proteins",
+   "Phospholipids + hemicellulose",
+   "Phospholipids + oligosaccharides"
+  ],
+  "answer": 1,
+  "explanation": "The classic model: lipid bilayer with extrinsic and intrinsic proteins. | Hint: The full classic composition?",
+  "source": "NEET NEET 1998 via BYJU'S",
+  "year": "NEET 1998"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are",
+  "options": [
+   "Ribosomes",
+   "Lysosomes",
+   "Centrosomes",
+   "Mitochondria"
+  ],
+  "answer": 0,
+  "explanation": "Ribosomes (70S prokaryotic, 80S eukaryotic) are non-membrane bound in both.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Which of the following statements is not correct?",
+  "options": [
+   "Lysosomes are membrane bound structures",
+   "Lysosomes are formed by the process of packaging in the endoplasmic reticulum",
+   "Lysosomes have numerous hydrolytic enzymes",
+   "The hydrolytic enzymes of lysosomes are active under acidic pH"
+  ],
+  "answer": 1,
+  "explanation": "Lysosome packaging is associated with the Golgi apparatus, not the ER.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
+  "options": [
+   "Cristae",
+   "Endoplasmic Reticulum",
+   "Mesosome",
+   "Chromatophores"
+  ],
+  "answer": 2,
+  "explanation": "Mesosome: plasma-membrane extension aiding wall formation, DNA replication, respiration.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct membrane statement:",
+  "options": [
+   "Lipid heads face inward",
+   "Na+/K+ cross passively",
+   "Fluid mosaic by Singer and Nicolson",
+   "Proteins are 60-70% of membrane"
+  ],
+  "answer": 2,
+  "explanation": "Singer and Nicolson proposed the fluid mosaic model in 1972. | Hint: Who proposed the model?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Effective transport path between adjacent plant cells:",
+  "options": [
+   "Plasmalemma",
+   "Plastoquinones",
+   "Plasmodesmata",
+   "Endoplasmic reticulum"
+  ],
+  "answer": 2,
+  "explanation": "Plasmodesmata are cytoplasmic bridges between plant cells. | Hint: Bridges through plant cell walls?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Cellular totipotency is shown by:",
+  "options": [
+   "Only bacteria",
+   "All eukaryotes",
+   "All plant cells",
+   "Only gymnosperms"
+  ],
+  "answer": 2,
+  "explanation": "Plant cells retain totipotency (whole plant from one cell). | Hint: Which cells regrow whole organisms?",
+  "source": "NEET NEET 2003 via BYJU'S",
+  "year": "NEET 2003"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Chemiosmotic ATP synthesis rests on:",
+  "options": [
+   "Proton gradient",
+   "Na+ accumulation",
+   "K+ accumulation",
+   "Membrane potential alone"
+  ],
+  "answer": 0,
+  "explanation": "Mitchell chemiosmosis: proton-motive force drives ATP synthase. | Hint: What gradient powers ATP synthase?",
+  "source": "NEET NEET 2005 via BYJU'S",
+  "year": "NEET 2005"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Match List-I with List-II. List-I: (A) Histones, (B) Nucleosome, (C) Euchromatin, (D) Heterochromatin. List-II: (I) Loosely packed chromatin, (II) Densely packed chromatin, (III) Positively charged basic proteins, (IV) DNA wrapped around histone octamer.",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-IV, C-I, D-II"
+  ],
+  "answer": 3,
+  "explanation": "Histones=basic(III), Nucleosome=octamer wrap(IV), Euchromatin=loose(I), Heterochromatin=dense(II).",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Organelle extracting energy from carbohydrates as ATP:",
+  "options": [
+   "Lysosome",
+   "Ribosome",
+   "Chloroplast",
+   "Mitochondrion"
+  ],
+  "answer": 3,
+  "explanation": "Mitochondria run cellular respiration on carbohydrate fuels. | Hint: Powerhouse of the cell?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Eukaryotic telomeres are short repeats rich in:",
+  "options": [
+   "Guanine",
+   "Thymine",
+   "Cytosine",
+   "Adenine"
+  ],
+  "answer": 0,
+  "explanation": "Telomeric repeats (TTAGGG) are G-rich. | Hint: Which base dominates TTAGGG?",
+  "source": "NEET NEET 2004 via BYJU'S",
+  "year": "NEET 2004"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Given below are two statements: Statement I: Concentrically arranged cisternae of Golgi complex are arranged near the nucleus with distinct convex cis or maturing and concave trans or forming face. Statement II: A number of proteins are modified in the cisternae of Golgi complex before they are released from cis face. In the light of the above statements, choose the correct answer from the options given below.",
+  "options": [
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false"
+  ],
+  "answer": 3,
+  "explanation": "Cis=forming, trans=maturing (I false); proteins released from trans face (II false).",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 15,
+  "question": "INCORRECT cilia statement:",
+  "options": [
+   "Microtubules are tubulin",
+   "Beating controlled by Ca2+ fluxes",
+   "9+2 microtubule ring",
+   "Cilia are hair-like appendages"
+  ],
+  "answer": 1,
+  "explanation": "Ciliary beating runs on dynein ATPase, not Ca2+ flux control. | Hint: What motor drives ciliary beating?",
+  "source": "NEET NEET 2006 via BYJU'S",
+  "year": "NEET 2006"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Ribosomes making protein in animal cells:",
+  "options": [
+   "Cytosol only",
+   "Nuclear membrane + ER + cytosol",
+   "Mitochondria + cytosol only",
+   "Nucleolus + cytosol only"
+  ],
+  "answer": 1,
+  "explanation": "Cytosolic plus RER/nuclear-membrane ribosomes serve animal cells. | Hint: Free plus bound ribosomes?",
+  "source": "NEET NEET 2000 via BYJU'S",
+  "year": "NEET 2000"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Which of the following statements about inclusion bodies is incorrect?",
+  "options": [
+   "These are involved in ingestion of food particles",
+   "They lie free in the cytoplasm",
+   "These represent reserve material in cytoplasm",
+   "They are not bound by any membrane"
+  ],
+  "answer": 0,
+  "explanation": "Inclusion bodies are reserve materials, not involved in food ingestion.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 2,
+  "question": "Colonial alga example:",
+  "options": [
+   "Chlorella",
+   "Volvox",
+   "Ulothrix",
+   "Spirogyra"
+  ],
+  "answer": 1,
+  "explanation": "Volvox forms hollow motile colonies. | Hint: Which green alga forms rolling balls?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 2,
+  "question": "Which among the following is not a prokaryote?",
+  "options": [
+   "Saccharomyces",
+   "Mycobacterium",
+   "Oscillatoria",
+   "Nostoc"
+  ],
+  "answer": 0,
+  "explanation": "Saccharomyces is a eukaryotic (unicellular) yeast; the other three are bacteria/cyanobacteria.",
+  "source": "NEET 2018 (testbook.com + vedantu + allen.in)",
+  "year": "2018"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Incorrectly matched:",
+  "options": [
+   "Ectocarpus - Fucoxanthin",
+   "Ulothrix - Mannitol",
+   "Porphyra - Floridean starch",
+   "Volvox - Starch"
+  ],
+  "answer": 1,
+  "explanation": "Green Ulothrix stores starch, not mannitol (a brown-algal reserve). | Hint: Which reserve belongs to brown algae only?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Methanogens belong to",
+  "options": [
+   "Eubacteria",
+   "Archaebacteria",
+   "Dinoflagellates",
+   "Slime moulds"
+  ],
+  "answer": 1,
+  "explanation": "Methanogens are archaebacteria that produce methane in anaerobic habitats.",
+  "source": "AIPMT 2016-II (neeteqad + brainly + NCERT)",
+  "year": "2016"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Life cycles of Ectocarpus and Fucus:",
+  "options": [
+   "Haplontic, Diplontic",
+   "Diplontic, Haplodiplontic",
+   "Haplodiplontic, Diplontic",
+   "Haplodiplontic, Haplontic"
+  ],
+  "answer": 2,
+  "explanation": "Ectocarpus alternates (haplodiplontic); Fucus is diplontic. | Hint: Which one alternates generations?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "TRUE statement:",
+  "options": [
+   "Most algae diplontic",
+   "Most bryophytes not haplodiplontic",
+   "All pteridophytes haplodiplontic",
+   "Seed plants haplontic"
+  ],
+  "answer": 2,
+  "explanation": "Pteridophytes alternate sporophyte and gametophyte; the rest invert reality. | Hint: Which group truly alternates generations?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Which of the following are found in extreme saline conditions?",
+  "options": [
+   "Archaebacteria",
+   "Eubacteria",
+   "Cyanobacteria",
+   "Mycobacteria"
+  ],
+  "answer": 0,
+  "explanation": "Halophilic archaebacteria (halobacteria) thrive in salt-rich extreme conditions.",
+  "source": "NEET 2017 (gneet.com + allen.in)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Conifers survive extremes because of:",
+  "options": [
+   "Broad hardy leaves",
+   "Superficial stomata",
+   "Thick cuticle",
+   "Presence of vessels"
+  ],
+  "answer": 2,
+  "explanation": "Thick cuticle plus sunken stomata checks water loss. | Hint: What waterproofs conifer needles?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct statement:",
+  "options": [
+   "Gymnosperms homo- and heterosporous",
+   "Salvinia, ginkgo, pinus all gymnosperms",
+   "Sequoia among tallest trees",
+   "Gymnosperm leaves unadapted to extremes"
+  ],
+  "answer": 2,
+  "explanation": "Sequoia (redwood) is among the tallest; Salvinia is a fern. | Hint: Which is the giant tree?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Mismatch:",
+  "options": [
+   "Pinus - Dioecious",
+   "Cycas - Dioecious",
+   "Salvinia - Heterosporous",
+   "Equisetum - Homosporous"
+  ],
+  "answer": 0,
+  "explanation": "Pinus is monoecious (both cones one plant); the rest match. | Hint: Which conifer carries both cone types?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Zygotic meiosis characterises:",
+  "options": [
+   "Marchantia",
+   "Fucus",
+   "Funaria",
+   "Chlamydomonas"
+  ],
+  "answer": 3,
+  "explanation": "Haplontic Chlamydomonas divides its zygote meiotically. | Hint: Which life cycle is haplontic?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Fucoxanthin and phycoerythrin respectively in:",
+  "options": [
+   "Chloro + Rhodo",
+   "Rhodo + Phaeo",
+   "Phaeo + Chloro",
+   "Phaeo + Rhodo"
+  ],
+  "answer": 3,
+  "explanation": "Fucoxanthin marks browns, phycoerythrin marks reds. | Hint: Brown pigment, red pigment: which classes?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Gymnosperm pollen: A says air-carried from microsporangia (true); R says no pollen tube forms (false).",
+  "options": [
+   "Both true, R explains A",
+   "Both true, R not explanation",
+   "A true, R false",
+   "A false, R true"
+  ],
+  "answer": 2,
+  "explanation": "Wind pollination is real, but a pollen tube DOES form (siphonogamy). | Hint: Does the gymnosperm pollen tube form?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Male gamete transport in bryophytes/pteridophytes needs:",
+  "options": [
+   "Wind",
+   "Insects",
+   "Birds",
+   "Water"
+  ],
+  "answer": 3,
+  "explanation": "Swimming antherozoids need a water film. | Hint: How do non-vascular sperms swim?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Wrong algae statement:",
+  "options": [
+   "Algae raise dissolved O2",
+   "Algin from red, carrageenan from brown",
+   "Agar from Gelidium/Gracilaria",
+   "Laminaria/Sargassum as food"
+  ],
+  "answer": 1,
+  "explanation": "Algin comes from brown algae and carrageenan from red; the statement swaps them. | Hint: Which two products swapped their algae?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ }
+]

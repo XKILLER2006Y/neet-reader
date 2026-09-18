@@ -1,0 +1,240 @@
+[
+ {
+  "pdfPage": 5,
+  "question": "According to Robert May, the global species diversity is about",
+  "options": [
+   "7 million",
+   "20 million",
+   "1.5 million",
+   "50 million"
+  ],
+  "answer": 0,
+  "explanation": "Robert May's estimate: ~7 million species.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Humboldt first described:",
+  "options": [
+   "Ecological biodiversity",
+   "Limiting-factor laws",
+   "Species-area relationship",
+   "Population growth equation"
+  ],
+  "answer": 2,
+  "explanation": "S = CA^Z species-area law. | Hint: S = CA^Z is whose law?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 5,
+  "question": "The historic Convention on Biological Diversity, 'The Earth Summit' was held in Rio de Janeiro in the year",
+  "options": [
+   "1992",
+   "1986",
+   "2002",
+   "1985"
+  ],
+  "answer": 0,
+  "explanation": "The Earth Summit was held at Rio de Janeiro in 1992.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Red List holds data on:",
+  "options": [
+   "Economic plants",
+   "Traded plant products",
+   "Threatened species",
+   "Marine vertebrates only"
+  ],
+  "answer": 2,
+  "explanation": "IUCN Red List tracks threatened species. | Hint: Threatened or traded?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Which of the following regions of the globe exhibits highest species diversity?",
+  "options": [
+   "Amazon forests",
+   "Madagascar",
+   "Western Ghats of India",
+   "Himalayas"
+  ],
+  "answer": 0,
+  "explanation": "Amazon rain forest has the greatest biodiversity.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Correctly matched:",
+  "options": [
+   "Aerenchyma-Opuntia",
+   "Age pyramid-Biome",
+   "Parthenium-biodiversity threat",
+   "Stratification-Population"
+  ],
+  "answer": 2,
+  "explanation": "Parthenium invasion threatens biodiversity. | Hint: Which is a biodiversity threat?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Highest species diversity region:",
+  "options": [
+   "Himalayas",
+   "Amazon forests",
+   "Western Ghats",
+   "Madagascar"
+  ],
+  "answer": 1,
+  "explanation": "Amazon holds peak diversity. | Hint: Largest rainforest wins?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Top extinction driver:",
+  "options": [
+   "Over-exploitation",
+   "Alien invasion",
+   "Habitat loss/fragmentation",
+   "Co-extinction"
+  ],
+  "answer": 2,
+  "explanation": "Habitat loss leads the evil quartet. | Hint: First of the evil quartet?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which one of the following is not a method of in situ conservation of biodiversity?",
+  "options": [
+   "Botanical Garden",
+   "Sacred Grove",
+   "Biosphere Reserve",
+   "Wildife Sanctuary"
+  ],
+  "answer": 0,
+  "explanation": "Botanical gardens are ex situ conservation.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "All of the following are included in 'ex-situ conservation' except",
+  "options": [
+   "wildlife safari parks",
+   "sacred groves",
+   "botanical gardens",
+   "seed banks"
+  ],
+  "answer": 1,
+  "explanation": "Sacred groves are in situ conservation.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Myers biodiversity hotspots count:",
+  "options": [
+   "17",
+   "25",
+   "34",
+   "43"
+  ],
+  "answer": 2,
+  "explanation": "34 hotspots originally identified. | Hint: The classic hotspot number?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Ex-situ conservation example:",
+  "options": [
+   "Safari parks",
+   "Hotspots",
+   "Amazon rainforest",
+   "Himalayas"
+  ],
+  "answer": 0,
+  "explanation": "Safari parks keep species outside habitats. | Hint: Outside natural habitat?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "NOT in-situ:",
+  "options": [
+   "Biosphere reserve",
+   "Wildlife sanctuary",
+   "Botanical garden",
+   "Sacred grove"
+  ],
+  "answer": 2,
+  "explanation": "Botanical gardens are ex-situ. | Hint: Garden in or out of habitat?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Western Ghats have a large number of plants and animal species that are not found anywhere else. Which of the following term is used to notify such species?",
+  "options": [
+   "Vulnerable species",
+   "Threatened species",
+   "Keystone species",
+   "Endemic species"
+  ],
+  "answer": 3,
+  "explanation": "Species confined to one area are endemic.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which of the following is NOT an example of ex-situ conservation?",
+  "options": [
+   "Botanical gardens",
+   "Sacred groves",
+   "Safari parks",
+   "Seed banks"
+  ],
+  "answer": 1,
+  "explanation": "Sacred groves protect biodiversity in its natural habitat (in-situ). The rest are ex-situ.",
+  "source": "NEET 2018 (official stem restored)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Among 'The Evil Quartet', which one is considered the most important cause driving extinction of species?",
+  "options": [
+   "Over exploitation for economic gain",
+   "Alien species invasions",
+   "Co-extinctions",
+   "Habitat loss and fragmentation"
+  ],
+  "answer": 3,
+  "explanation": "Habitat loss and fragmentation is the most important cause.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 11,
+  "question": "No-human-activity biosphere zone:",
+  "options": [
+   "Core",
+   "Buffer",
+   "Transition",
+   "Restoration"
+  ],
+  "answer": 0,
+  "explanation": "Core zone is strictly protected. | Hint: Strictest zone?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ }
+]

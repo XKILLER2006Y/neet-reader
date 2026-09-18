@@ -1,0 +1,212 @@
+[
+ {
+  "pdfPage": 4,
+  "question": "A positively charged particle is released from rest in a uniform electric field. Its electric potential energy:",
+  "options": [
+   "Remains constant since the field is uniform",
+   "Increases, as it moves along the field",
+   "Decreases, as it moves along the field",
+   "Decreases, as it moves opposite to the field"
+  ],
+  "answer": 2,
+  "explanation": "Field accelerates it along E; KE gained comes from U, which falls.",
+  "source": "NCERT Exemplar Ch2 Q2.2 via ncert.nic.in (official key)",
+  "year": "NCERT Exemplar"
+ },
+ {
+  "pdfPage": 4,
+  "question": "The distance between the two plates of a parallel plate capacitor is doubled and the area of each plate is halved. If C is its initial capacitance, its final capacitance is equal to",
+  "options": [
+   "2C",
+   "C/2",
+   "4C",
+   "C/4"
+  ],
+  "answer": 3,
+  "explanation": "C = eps0 A/d; d -> 2d and A -> A/2 gives C' = eps0(A/2)/(2d) = C/4.",
+  "source": "neetprep.com Electrostatic Potential and Capacitance PYQ (NEET 2022 Phase-2), questionId=346576 + askfilo smart-solution",
+  "year": "2022"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Assertion A: V at 2 m axial point of dipole (P = 4×10⁻⁶ C·m) is ±9×10³ V. Reason R: V = ±2P/(4πε₀r²).",
+  "options": [
+   "A true, R false",
+   "A false, R true",
+   "Both true, R explains A",
+   "Both true, R does not explain A"
+  ],
+  "answer": 0,
+  "explanation": "V = kP/r² = 9e9×4e-6/4 = 9×10³ V (A ✓); correct formula lacks the 2 (R ✗).",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The effective capacitances of two capacitors are 3 uF and 16 uF, when they are connected in series and parallel respectively. The capacitance of two capacitors are:",
+  "options": [
+   "10 uF, 6 uF",
+   "8 uF, 8 uF",
+   "12 uF, 4 uF",
+   "1.2 uF, 1.8 uF"
+  ],
+  "answer": 2,
+  "explanation": "C1+C2 = 16, C1C2/(C1+C2) = 3 -> C1C2 = 48 -> roots of x^2-16x+48 = 0 -> 12 and 4 uF.",
+  "source": "neetprep.com Electrostatic Potential and Capacitance PYQ (NEET 2022) + askfilo smart-solution (Option: 12 uF, 4 uF)",
+  "year": "2022"
+ },
+ {
+  "pdfPage": 8,
+  "question": "27 identical drops at 220 V each merge. Bigger-drop potential:",
+  "options": [
+   "660 V",
+   "1320 V",
+   "1520 V",
+   "1980 V"
+  ],
+  "answer": 3,
+  "explanation": "R = 3r, Q = 27q → V = 9×220 = 1980 V.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A capacitor is charged by a battery. The battery is removed and another identical uncharged capacitor is connected in parallel. The total electrostatic energy of the resulting system:",
+  "options": [
+   "Increases by a factor of 2",
+   "Increases by a factor of 4",
+   "Decreases by a factor of 2",
+   "Remains the same"
+  ],
+  "answer": 2,
+  "explanation": "Charge Q is conserved and shared equally; U = Q^2/2C halves when C doubles.",
+  "source": "vedantu.com/jee-main/a-capacitor-is-charged-by-a-battery-the-battery-physics-question-answer + shaalaa.com (NEET 2017)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Two hollow conducting spheres of radii R₁ and R₂ (R₁ ≫ R₂) have equal charges. The potential would be:",
+  "options": [
+   "More on smaller sphere",
+   "More on bigger sphere",
+   "Equal on both",
+   "Dependent on material"
+  ],
+  "answer": 0,
+  "explanation": "V = q / (4πε₀ R). For equal charge q, potential is inversely proportional to radius (V ∝ 1/R). Smaller sphere R₂ has higher potential. | Hint: V ∝ 1/R for equal charge.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Parallel-plate capacitor holds uniform field E; plate gap d, area A. Stored energy:",
+  "options": [
+   "½ε₀E²",
+   "ε₀EAd",
+   "½ε₀E²Ad",
+   "E²Ad/ε₀"
+  ],
+  "answer": 2,
+  "explanation": "U = ½CV² = ½(ε₀A/d)(Ed)² = ½ε₀E²Ad.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Air capacitor 6 μF becomes 30 μF with dielectric. Medium permittivity (ε₀ = 8.85×10⁻¹²):",
+  "options": [
+   "0.44×10⁻¹⁰",
+   "5.00",
+   "0.44×10⁻¹³",
+   "1.77×10⁻¹²"
+  ],
+  "answer": 0,
+  "explanation": "K = 5 → ε = 5ε₀ = 0.44×10⁻¹⁰.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Angle between electric lines of force and an equipotential surface:",
+  "options": [
+   "180°",
+   "0°",
+   "45°",
+   "90°"
+  ],
+  "answer": 3,
+  "explanation": "Field is always normal to equipotentials.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 16,
+  "question": "900 pF charged by 100 V, then shared with identical uncharged capacitor. Final stored energy:",
+  "options": [
+   "1.5×10⁻⁶ J",
+   "4.5×10⁻⁶ J",
+   "3.25×10⁻⁶ J",
+   "2.25×10⁻⁶ J"
+  ],
+  "answer": 3,
+  "explanation": "V halves: U = ½(2C)(V/2)² = 2.25×10⁻⁶ J.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Force between plates of isolated charged parallel-plate capacitor vs plate separation:",
+  "options": [
+   "∝ √d",
+   "∝ d",
+   "Independent of d",
+   "∝ 1/d"
+  ],
+  "answer": 2,
+  "explanation": "F = Q²/2Aε₀ — no d.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Plate gap d; slabs K1 (3d/8) + K2 (d/2) double the capacitance. K1 = 1.25K2. K1:",
+  "options": [
+   "1.33",
+   "2.66",
+   "2.33",
+   "1.60"
+  ],
+  "answer": 1,
+  "explanation": "d/(0.3d/K₂+0.5d/K₂+0.125d) = 2 → K₂ ≈ 2.13, K₁ ≈ 2.66.",
+  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 20,
+  "question": "Circular-plate capacitor charged at constant dσ/dt. B-field from displacement current:",
+  "options": [
+   "Zero inside, non-zero outside",
+   "Zero everywhere",
+   "Constant inside, zero outside",
+   "Non-zero everywhere, max at rim"
+  ],
+  "answer": 3,
+  "explanation": "Id threads every Amperian loop inside; B peaks at the plate edge.",
+  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived) (paper files under capacitance)",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 24,
+  "question": "A parallel plate capacitor has a uniform electric field E in the space between the plates. If the distance between the plates is d and area is A, energy stored in capacitor is:",
+  "options": [
+   "(1/2) ε₀ E² A d",
+   "ε₀ E A d",
+   "(1/2) ε₀ E²",
+   "E² A d / ε₀"
+  ],
+  "answer": 0,
+  "explanation": "Energy = Energy density × Volume = [(1/2) ε₀ E²] × (A d) = (1/2) ε₀ E² A d. | Hint: U = energy density × volume.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ }
+]

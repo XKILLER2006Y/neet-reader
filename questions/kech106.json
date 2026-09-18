@@ -1,0 +1,352 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "Kc for 2SO2+O2=2SO3 from Kc=4.9e-2 of reverse-half:",
+  "options": [
+   "4.9",
+   "49",
+   "41.6",
+   "416"
+  ],
+  "answer": 3,
+  "explanation": "Invert and square: 1/(4.9e-2)² = 416. | Hint: Invert, then square.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The correct relation between standard free energy change (ΔG°) and the equilibrium constant (Kc) is:",
+  "options": [
+   "ΔG = RT ln Kc",
+   "−ΔG = RT ln Kc",
+   "ΔG° = RT ln Kc",
+   "−ΔG° = RT ln Kc"
+  ],
+  "answer": 3,
+  "explanation": "ΔG° = −RT ln Kc, i.e. −ΔG° = RT ln Kc. Kc > 1 when ΔG° < 0.",
+  "source": "JEE Main PYQ (official stem restored)",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "A=B (0.5/0.375 M); add 0.1 mol A. New eq concentrations:",
+  "options": [
+   "0.557, 0.418",
+   "0.53, 0.4",
+   "0.742, 0.557",
+   "0.367, 0.275"
+  ],
+  "answer": 0,
+  "explanation": "K = 0.75 fixed; shifting back gives 0.557 and 0.418. | Hint: K never changes at fixed T.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Kc expression for Fe3+ + SCN- = FeSCN2+:",
+  "options": [
+   "[FeSCN]/([Fe][SCN])",
+   "Inverse of that",
+   "Squared denominator",
+   "Squared numerator"
+  ],
+  "answer": 0,
+  "explanation": "Products over reactants, powers as coefficients. | Hint: Write products over reactants.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 19,
+  "question": "More ClF3 at equilibrium (exothermic):",
+  "options": [
+   "Heat it",
+   "Remove Cl2",
+   "Expand volume",
+   "Add F2"
+  ],
+  "answer": 3,
+  "explanation": "Adding reactant drives the exothermic formation forward. | Hint: Le Chatelier on reactants.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 20,
+  "question": "P2+Q2=2PQ (2,2,2 at eq); add 1 mol each P2,Q2. New eq moles:",
+  "options": [
+   "2.67, 2.67, 2.67",
+   "1.21, 2.24, 1.56",
+   "1.66, 1.66, 1.66",
+   "2.56, 1.62, 2.24"
+  ],
+  "answer": 0,
+  "explanation": "K = 1 from first equilibrium; solving with added moles gives 8/3 each. | Hint: Find K first, then re-solve.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "INCORRECT statement (SO2 oxidation, Kc = 1.7e16):",
+  "options": [
+   "Pressure shifts equilibrium forward",
+   "Inert gas at constant V leaves K unchanged",
+   "Huge K means no catalyst needed",
+   "K falls as T rises"
+  ],
+  "answer": 2,
+  "explanation": "Huge K promises completion but the reaction is slow: catalyst still essential. | Hint: K promises extent, not speed.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Which of the following pairs of compounds act as Lewis acids?",
+  "options": [
+   "PH3 and BCl3",
+   "AlCl3 and SiCl4",
+   "PH3 and SiCl4",
+   "BCl3 and AlCl3"
+  ],
+  "answer": 3,
+  "explanation": "Lewis acids are electron-pair acceptors with incomplete octets. BCl3 (B has 6 electrons) and AlCl3 (Al has 6 electrons) fit; PH3 donates its lone pair (base).",
+  "source": "JEE Main PYQ (official stem restored)",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Thunderstorm rainwater pH vs normal rain:",
+  "options": [
+   "Slightly lower",
+   "Slightly higher",
+   "Uninfluenced",
+   "Depends on dust"
+  ],
+  "answer": 0,
+  "explanation": "Lightning fixes nitrogen into acidic oxides; rain turns more acidic (key outcome verified; source mechanism text corrected). | Hint: What do lightning-fixed nitrogen oxides do to rain?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "0.5 atm CO2 + graphite -> total 0.8 atm. Kp:",
+  "options": [
+   "1.8 atm",
+   "3 atm",
+   "0.3 atm",
+   "0.18 atm"
+  ],
+  "answer": 0,
+  "explanation": "Extent 0.3 atm gives (0.6)²/0.2 = 1.8 atm. | Hint: Find extent from total pressure first.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Which of the following is a Lewis acid?",
+  "options": [
+   "NaH",
+   "NF3",
+   "PH3",
+   "B(CH3)3"
+  ],
+  "answer": 3,
+  "explanation": "B(CH3)3 has only 6 electrons around boron → electron-pair acceptor (Lewis acid). NaH and PH3 are bases; NF3's lone pair is withdrawn by the fluorines, making it a very weak base, not an acid.",
+  "source": "JEE Main PYQ (official stem restored)",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "X2Y = X2 + 1/2Y2, tiny x. Relation:",
+  "options": [
+   "x = cbrt(2Kp/p)",
+   "x = cbrt(2Kp²/p)",
+   "x = cbrt(Kp/p)",
+   "x = cbrt(Kp/2p)"
+  ],
+  "answer": 1,
+  "explanation": "Partial-pressure algebra with small-x gives x³ = 2Kp²/p. | Hint: Write each partial pressure in x and p.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Water pH 7 at 25C, heated to 80C. pH:",
+  "options": [
+   "Decreases",
+   "H+ up, OH- down",
+   "Same",
+   "Increases"
+  ],
+  "answer": 0,
+  "explanation": "More ionisation means more H+: pH falls (still neutral). | Hint: Auto-ionisation rises with T.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "AB2 = AB + 1/2B2, tiny x. Relation:",
+  "options": [
+   "4th-root form",
+   "x = cbrt(2Kp/p)",
+   "x = cbrt(2Kp²/p)",
+   "x = sqrt(Kp)"
+  ],
+  "answer": 2,
+  "explanation": "Same algebra as X2Y gives x³ = 2Kp²/p. | Hint: Same derivation as X2Y type.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "NH4Cl before NH4OH in group-III analysis:",
+  "options": [
+   "Raise Cl-",
+   "Raise NH4+",
+   "Block phosphate",
+   "Lower OH-"
+  ],
+  "answer": 3,
+  "explanation": "Common ion suppresses OH- so only group III falls. | Hint: What does extra NH4+ suppress?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Ammonium carbonate solution: I basic (Ka/Kb rule), II rule itself:",
+  "options": [
+   "Both correct",
+   "I correct, II incorrect",
+   "Both incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 0,
+  "explanation": "pH 7.8 basic by the rule, and the rule itself holds. | Hint: Apply pH = 7 + (pKa-pKb)/2.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Both Bronsted acid and base:",
+  "options": [
+   "HSO4-",
+   "Na2CO3",
+   "NH3",
+   "OH-"
+  ],
+  "answer": 0,
+  "explanation": "HSO4- can donate (to SO4²⁻) and accept (to H2SO4) protons. | Hint: Which can both give and take H+?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Decreasing base strength: OH-, RO-, acetate, Cl-:",
+  "options": [
+   "RO > OH > acetate > Cl",
+   "Cl > RO > OH > acetate",
+   "OH > RO > acetate > Cl",
+   "Cl > OH > RO > acetate"
+  ],
+  "answer": 0,
+  "explanation": "Weaker parent acid means stronger conjugate base. | Hint: Invert the acid-strength order.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 26,
+  "question": "Conjugate base of OH-:",
+  "options": [
+   "O2",
+   "H2O",
+   "O-",
+   "O2-"
+  ],
+  "answer": 3,
+  "explanation": "Removing H+ from OH- leaves oxide ion O2-. | Hint: Remove one proton.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 26,
+  "question": "Highest proton affinity: H2S, NH3, PH3, H2O:",
+  "options": [
+   "H2S",
+   "NH3",
+   "PH3",
+   "H2O"
+  ],
+  "answer": 1,
+  "explanation": "Ammonia forms the most stable conjugate acid of the set. | Hint: Strongest base holds protons tightest.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 33,
+  "question": "Increasing Ksp: Ca(OH)2, AgBr, PbS, HgS:",
+  "options": [
+   "HgS<AgBr<PbS<Ca(OH)2",
+   "Ca<AgBr<HgS<PbS",
+   "PbS<HgS<Ca<AgBr",
+   "HgS<PbS<AgBr<Ca"
+  ],
+  "answer": 0,
+  "explanation": "Least soluble sulphide first, hydroxide last. | Hint: Most insoluble first?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 35,
+  "question": "NH4OH added to 1M A2+ and 1M B3+ (Ksp given). First ppt:",
+  "options": [
+   "Neither precipitates",
+   "A(OH)2 first",
+   "B(OH)3 first",
+   "Together"
+  ],
+  "answer": 2,
+  "explanation": "B(OH)3 needs far less OH- to hit Ksp. | Hint: Compare required hydroxide levels.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 36,
+  "question": "20 mL 0.1 M H2SO4 + 30 mL 0.2 M NH4OH (pKb 4.7). pH:",
+  "options": [
+   "9.4",
+   "9.0",
+   "5.0",
+   "5.2"
+  ],
+  "answer": 1,
+  "explanation": "Basic buffer with salt:base 2:1 gives pOH 5.0, pH 9.0. | Hint: Buffer formed: apply Henderson-Hasselbalch.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 40,
+  "question": "Buffer pH 9.25 from NH4OH/HCl (pKb 4.75):",
+  "options": [
+   "0.2M base 0.4L + 0.1M acid 1L",
+   "0.4M base 1L + 0.1M acid 1L",
+   "0.5M base 0.2L + 0.2M acid 0.5L",
+   "0.2M base 0.5L + 0.1M acid 0.5L"
+  ],
+  "answer": 3,
+  "explanation": "Equal salt and leftover base give pOH = pKb: only D balances 0.05/0.05. | Hint: Find the mix leaving equal salt and base.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 41,
+  "question": "Pressure rise on ice-water equilibrium:",
+  "options": [
+   "No effect",
+   "Entropy falls",
+   "Shifts forward (melting)",
+   "Gibbs energy rises"
+  ],
+  "answer": 2,
+  "explanation": "Higher pressure favours denser liquid water: ice melts. | Hint: Which phase is denser?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ }
+]

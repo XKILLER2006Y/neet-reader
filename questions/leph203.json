@@ -1,0 +1,296 @@
+[
+ {
+  "pdfPage": 3,
+  "question": "A source of light is placed at a distance of 50 cm from a photo cell and the stopping potential is found to be V₀. If the distance between the light source and photo cell is made 25 cm, the new stopping potential will be :",
+  "options": [
+   "V₀/2",
+   "V₀",
+   "4V₀",
+   "2V₀"
+  ],
+  "answer": 1,
+  "explanation": "Stopping potential depends on frequency only, not intensity/distance → remains V₀.",
+  "source": "examside.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 3,
+  "question": "An electron is accelerated through a potential difference of 10,000 V. Its de Broglie wavelength is (nearly) : (mₑ = 9×10⁻³¹ kg)",
+  "options": [
+   "12.2 × 10⁻¹² m",
+   "12.2 × 10⁻¹³ m",
+   "12.2 × 10⁻¹⁴ m",
+   "12.2 nm"
+  ],
+  "answer": 0,
+  "explanation": "λ = 12.27/√V Å = 12.27/100 Å = 0.1227 Å ≈ 12.2×10⁻¹² m.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 3,
+  "question": "For a metal of work function 6.6 eV, which of the following wavelengths of incident radiation does not give rise to the photoelectric effect? (Take Planck's constant as 6.6×10⁻³⁴ J s)",
+  "options": [
+   "100 nm",
+   "150 nm",
+   "200 nm",
+   "50 nm"
+  ],
+  "answer": 2,
+  "explanation": "λ₀ = 1240/6.6 ≈ 188 nm. No emission for λ > λ₀; 200 nm > 188 nm.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Frequencies ν and ν/2 give stopping potentials Vs/2 and Vs. Threshold frequency:",
+  "options": [
+   "3ν/2",
+   "2ν",
+   "3ν",
+   "2ν/3"
+  ],
+  "answer": 0,
+  "explanation": "hν−φ = eVs/2 and hν/2−φ = eVs → φ = 3hν/2. (Paper key carries an NTA asterisk; algebra confirms.)",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Light of frequency 1.5× threshold is incident; then frequency is halved and intensity doubled. The photoelectric current becomes:",
+  "options": [
+   "one-fourth",
+   "zero",
+   "doubled",
+   "four times"
+  ],
+  "answer": 1,
+  "explanation": "New f = 0.75× threshold < threshold → no emission at any intensity.",
+  "source": "NEET 2016 Phase 2 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 4,
+  "question": "A parallel beam of fast moving electrons is incident normally on a narrow slit. A fluorescent screen is placed at a large distance from the slit. If the speed of the electrons is increased, which of the following statements is correct ?",
+  "options": [
+   "The angular width of the central maximum will decrease.",
+   "The angular width of the central maximum will be unaffected.",
+   "Diffraction pattern is not observed on the screen in the case of electrons.",
+   "The angular width of the central maximum of the diffraction pattern will increase."
+  ],
+  "answer": 0,
+  "explanation": "λ = h/(mv) decreases with speed; central max width 2λ/a decreases.",
+  "source": "examside.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Correct statements on photons: A. E=hν B. speed c C. p=hν/c D. energy+momentum conserved in photon-electron collision E. photon has positive charge.",
+  "options": [
+   "A, C, D only",
+   "A, B, D, E only",
+   "A, B only",
+   "A, B, C, D only"
+  ],
+  "answer": 3,
+  "explanation": "A–D standard; photons are chargeless (E ✗).",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 4,
+  "question": "De-Broglie wavelength of an electron orbiting in the n = 2 state of hydrogen atom is close to (Given Bohr radius a₀ = 0.529 Å)",
+  "options": [
+   "1.67 nm",
+   "2.67 nm",
+   "0.067 nm",
+   "0.67 nm"
+  ],
+  "answer": 3,
+  "explanation": "r₂ = 4a₀; 2πr = nλ → λ = 2π(4a₀)/2 = 4πa₀ = 6.65 Å ≈ 0.67 nm.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 4,
+  "question": "When the light of frequency 2ν₀ (where ν₀ is threshold frequency), is incident on a metal plate, the maximum velocity of electrons emitted is v₁. When the frequency of the incident radiation is increased to 5ν₀, the maximum velocity of electrons emitted from the same plate is v₂. The ratio of v₁ to v₂ is",
+  "options": [
+   "1 : 2",
+   "1 : 4",
+   "4 : 1",
+   "2 : 1"
+  ],
+  "answer": 0,
+  "explanation": "½mv₁² = hν₀, ½mv₂² = 4hν₀ → v₂ = 2v₁ → v₁:v₂ = 1:2.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 5,
+  "question": "A 200 W sodium street lamp emits yellow light of wavelength 0.6 μm. Assuming it to be 25% efficient in converting electrical energy to light, the number of photons of yellow light it emits per second is",
+  "options": [
+   "1.5 × 10²⁰",
+   "6 × 10¹⁸",
+   "62 × 10²⁰",
+   "3 × 10¹⁹"
+  ],
+  "answer": 0,
+  "explanation": "Light power = 50 W; E = hc/λ = 3.3×10⁻¹⁹ J; n = 50/3.3×10⁻¹⁹ ≈ 1.5×10²⁰.",
+  "source": "examside.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 5,
+  "question": "An electron is accelerated from rest through a potential difference V. If de Broglie wavelength is 1.227 × 10⁻² nm, the potential difference V is:",
+  "options": [
+   "10,000 V (10 kV)",
+   "1000 V",
+   "100 V",
+   "10 V"
+  ],
+  "answer": 0,
+  "explanation": "λ = 1.227 / √V nm ⇒ 1.227 × 10⁻² = 1.227 / √V ⇒ √V = 100 ⇒ V = 10,000 V = 10 kV. | Hint: Solve for V in λ = 1.227 / √V nm.",
+  "source": "NEET NEET 2020 via BYJU'S NEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Photons with energy 5 eV are incident on a cathode C in a photoelectric cell. The maximum energy of emitted photoelectrons is 2 eV. When photons of energy 6 eV are incident on C, no photoelectrons will reach the anode A, if the stopping potential of A relative to C is",
+  "options": [
+   "+3 V",
+   "+4 V",
+   "1 V",
+   "3 V"
+  ],
+  "answer": 3,
+  "explanation": "φ = 5−2 = 3 eV; with 6 eV photons KE_max = 3 eV → stopping potential 3 V.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "The number of photons per second on an average emitted by the source of monochromatic light of wavelength 600 nm, when it delivers the power of 3.3×10⁻³ watt will be : (h = 6.6×10⁻³⁴ J s)",
+  "options": [
+   "10¹⁵",
+   "10¹⁸",
+   "10¹⁷",
+   "10¹⁶"
+  ],
+  "answer": 3,
+  "explanation": "E = hc/λ = 3.3×10⁻¹⁹ J; n = P/E = 3.3×10⁻³/3.3×10⁻¹⁹ = 10¹⁶.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Electron V₀i enters E = −E₀i at t = 0; initial λ₀. λ(t):",
+  "options": [
+   "λ₀t",
+   "λ₀(1+eE₀t/mV₀)",
+   "λ₀/(1+eE₀t/mV₀)",
+   "λ₀"
+  ],
+  "answer": 2,
+  "explanation": "v = V₀+eE₀t/m → λ = h/mv shrinks as shown.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 10,
+  "question": "If the kinetic energy of the particle is increased to 16 times its previous value, the percentage change in the de Broglie wavelength of the particle is",
+  "options": [
+   "25%",
+   "75%",
+   "60%",
+   "50%"
+  ],
+  "answer": 1,
+  "explanation": "λ ∝ 1/√K. K→16K gives λ→λ/4; % change = 75%.",
+  "source": "examside.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Light of frequency 1.5 times the threshold frequency is incident on a photosensitive material. What will be the photoelectric current if the frequency is halved and intensity is doubled?",
+  "options": [
+   "four times",
+   "one-fourth",
+   "zero",
+   "doubled"
+  ],
+  "answer": 2,
+  "explanation": "New frequency = 0.75ν₀ < ν₀ → no emission → zero current.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The threshold frequency for a photosensitive metal is 3.3×10¹⁴ Hz. If light of frequency 8.2×10¹⁴ Hz is incident on this metal, the cut-off voltage for the photoelectron emission is nearly",
+  "options": [
+   "1 V",
+   "2 V",
+   "3 V",
+   "5 V"
+  ],
+  "answer": 1,
+  "explanation": "eV₀ = h(ν−ν₀) = 6.6×10⁻³⁴ × 4.9×10¹⁴ = 3.23×10⁻¹⁹ J → V₀ ≈ 2 V.",
+  "source": "examside.com",
+  "year": "AIPMT 2011"
+ },
+ {
+  "pdfPage": 13,
+  "question": "An electron is accelerated from rest through a potential difference of V volt. If the de-Broglie wavelength of the electron is 1.227×10⁻² nm, the potential difference is :",
+  "options": [
+   "10² V",
+   "10³ V",
+   "10⁴ V",
+   "10 V"
+  ],
+  "answer": 2,
+  "explanation": "λ = 1.227/√V nm → √V = 1.227/(1.227×10⁻²) = 100 → V = 10⁴ V.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Electrons used in an electron microscope are accelerated by a voltage of 25 kV. If the voltage is increased to 100 kV then the de-Broglie wavelength associated with the electrons would",
+  "options": [
+   "increase by 2 times",
+   "decrease by 2 times",
+   "decrease by 4 times",
+   "increase by 4 times"
+  ],
+  "answer": 1,
+  "explanation": "λ ∝ 1/√V. V up 4× → λ halved → decreases by 2 times.",
+  "source": "examside.com",
+  "year": "AIPMT 2011"
+ },
+ {
+  "pdfPage": 13,
+  "question": "The de Broglie wavelength of an electron moving with kinetic energy 100 eV is approximately:",
+  "options": [
+   "1.227 Å (0.123 nm)",
+   "12.27 Å",
+   "0.1227 Å",
+   "0.0123 Å"
+  ],
+  "answer": 0,
+  "explanation": "λ = 12.27 / √V Å = 12.27 / √100 = 12.27 / 10 = 1.227 Å. | Hint: λ = 1.227 / √V nm.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 13,
+  "question": "When the energy of the incident radiation is increased by 20%, the kinetic energy of the photoelectrons emitted from a metal surface increased from 0.5 eV to 0.8 eV. The work function of the metal is",
+  "options": [
+   "0.65 eV",
+   "1.0 eV",
+   "1.3 eV",
+   "1.5 eV"
+  ],
+  "answer": 1,
+  "explanation": "0.5 = E−φ; 0.8 = 1.2E−φ → E = 1.5 eV, φ = 1.0 eV.",
+  "source": "examside.com",
+  "year": "AIPMT 2014"
+ }
+]

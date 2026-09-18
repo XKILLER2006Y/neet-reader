@@ -1,0 +1,268 @@
+[
+ {
+  "pdfPage": 7,
+  "question": "Ideal gas isothermal expansion at constant pressure:",
+  "options": [
+   "H up, S down",
+   "H same, S up",
+   "H down, S up",
+   "Both same"
+  ],
+  "answer": 1,
+  "explanation": "Isothermal ideal gas keeps H fixed while expansion raises S. | Hint: What fixes enthalpy here?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Spring compressed: w = +10 kJ, 2 kJ heat escapes. ΔU:",
+  "options": [
+   "-8 kJ",
+   "12 kJ",
+   "8 kJ",
+   "-12 kJ"
+  ],
+  "answer": 2,
+  "explanation": "ΔU = q + w = -2 + 10 = 8 kJ. | Hint: First law with correct signs.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Which of the following relations between standard Gibbs energy change (ΔG°) and the equilibrium constant (K) is INCORRECT?",
+  "options": [
+   "ΔG° = 0, K = 1",
+   "ΔG° < 0, K < 1",
+   "ΔG° < 0, K > 1",
+   "ΔG° > 0, K < 1"
+  ],
+  "answer": 1,
+  "explanation": "ΔG° = −RT ln K, so ΔG° < 0 implies K > 1. The pair (ΔG°<0, K<1) contradicts this — hence incorrect.",
+  "source": "JEE Main PYQ (official stem restored)",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Diamond/graphite/CO2 Hess relation (X, Y, Z):",
+  "options": [
+   "X = -Y + Z",
+   "-X = Y + Z",
+   "X = Y + Z",
+   "X = Y - Z"
+  ],
+  "answer": 3,
+  "explanation": "Y = X + Z rearranges to X = Y - Z. | Hint: Write Y as X plus Z.",
+  "source": "JEE JEE Main 2025 via cracku",
+  "year": "JEE Main 2025"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Average N-H bond enthalpy (NH3 ΔHf -46; H2 -436; N2 -712 kJ/mol):",
+  "options": [
+   "-1102",
+   "-964",
+   "+352",
+   "+1056"
+  ],
+  "answer": 2,
+  "explanation": "-46 = 356 + 654 - 3x gives x = 352 kJ/mol. | Hint: Atomise reactants, form three N-H bonds.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Acid-base mix with largest temperature rise:",
+  "options": [
+   "30 mL AcOH + 30 mL NaOH",
+   "45 mL AcOH + 25 mL NaOH",
+   "30 mL HCl + 30 mL NaOH",
+   "50 mL HCl + 20 mL NaOH"
+  ],
+  "answer": 2,
+  "explanation": "Most moles of strong-strong neutralisation release most heat. | Hint: Which mix reacts most moles?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Ice-water at 1 atm, pressure doubled isothermally:",
+  "options": [
+   "Volume rises",
+   "Ice vanishes fully",
+   "Liquid vanishes fully",
+   "Ice amount falls"
+  ],
+  "answer": 1,
+  "explanation": "Higher pressure melts ice (denser liquid phase wins). | Hint: Which phase is denser?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
+  "question": "In which thermodynamic process does the change in internal energy of the system equal the work done by the gas?",
+  "options": [
+   "Adiabatic",
+   "Isothermal",
+   "Isochoric",
+   "Isobaric"
+  ],
+  "answer": 0,
+  "explanation": "Adiabatic: Q = 0, so ΔU = −W (work done entirely at the expense of internal energy).",
+  "source": "JEE Main PYQ (official stem restored)",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
+  "question": "ΔH-ΔU for CO formation at 298 K:",
+  "options": [
+   "-1238.78 J",
+   "1238.78 J",
+   "-2477.57 J",
+   "2477.57 J"
+  ],
+  "answer": 1,
+  "explanation": "Δng = +1/2, so ΔngRT = +1238.78 J/mol. | Hint: Count gas moles: products minus reactants.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "X2/Y2/XY bond energies ratio 1:1:0.5; XY ΔHf -200. X2 BDE:",
+  "options": [
+   "100",
+   "200",
+   "800",
+   "400"
+  ],
+  "answer": 2,
+  "explanation": "−200 = x/2 + x/4 − x gives x = 800 kJ/mol. | Hint: Write formation from half-moles.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Negative-entropy process:",
+  "options": [
+   "Iodine dissolving",
+   "Dry ice subliming",
+   "NH3 synthesis from N2/H2",
+   "CaSO4 dissociating"
+  ],
+  "answer": 2,
+  "explanation": "4 gas moles collapsing to 2 cuts disorder. | Hint: Count gas moles before and after.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 24,
+  "question": "20 dm3 ideal gas at 600 K, 0.5 MPa expands isothermally reversibly to 0.2 MPa:",
+  "options": [
+   "w=+4.1kJ, dU=0, dH=0, q=-4.1kJ",
+   "w=+9.1kJ, dU=+9.1J, dH=0, q=0",
+   "w=-3.9kJ, dU=0, dH=0, q=+3.9kJ",
+   "w=-9.1kJ, dU=0, dH=0, q=+9.1kJ"
+  ],
+  "answer": 3,
+  "explanation": "w = -nRT ln(0.5/0.2) = -9.1 kJ; isothermal keeps dU and dH zero. | Hint: Sign of work in expansion?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Reaction enthalpy is independent of:",
+  "options": [
+   "Physical states",
+   "Different reactants, same product",
+   "Intermediate steps",
+   "Initial/final temperatures"
+  ],
+  "answer": 2,
+  "explanation": "Hess law: state function ignores the path. | Hint: Which property ignores the path?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Endothermic, non-spontaneous at 0°C but feasible at 100°C:",
+  "options": [
+   "ΔH -ve, ΔS +ve",
+   "ΔH and ΔS both +ve",
+   "Both -ve",
+   "ΔH +ve, ΔS -ve"
+  ],
+  "answer": 1,
+  "explanation": "Only +ΔH/+ΔS flips ΔG sign with rising temperature. | Hint: Which sign pair flips with temperature?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Correct spontaneity statement:",
+  "options": [
+   "Energy lowering is the only criterion",
+   "Isolated system: ΔS positive",
+   "Endothermic never spontaneous",
+   "Exothermic always spontaneous"
+  ],
+  "answer": 1,
+  "explanation": "Second law: isolated-system entropy must rise. | Hint: What must rise in an isolated system?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Engine with W = J(Q1+Q2):",
+  "options": [
+   "Violates 1st law",
+   "Violates 1st if Q1 -ve",
+   "Violates 1st if Q2 -ve",
+   "Does not violate 1st law"
+  ],
+  "answer": 3,
+  "explanation": "Energy balances (1st law holds); only the 2nd law is offended. | Hint: Energy in equals energy out: which law cares?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Stirred insulated vessel: correct parameters:",
+  "options": [
+   "dU<0, q=0, w>0",
+   "dU=0, q=0, w=0",
+   "dU>0, q=0, w>0",
+   "dU=0, q<0, w>0"
+  ],
+  "answer": 2,
+  "explanation": "Work in, no heat out: internal energy must rise. | Hint: Work in with no escape means what?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Endothermic, non-spontaneous at 0C but spontaneous at 100C:",
+  "options": [
+   "Both negative",
+   "dH negative, dS positive",
+   "dH positive, dS negative",
+   "Both positive"
+  ],
+  "answer": 3,
+  "explanation": "Only +/+ flips ΔG sign with rising temperature. | Hint: Which sign pair flips with T?",
+  "source": "JEE JEE Main 2025 via cracku",
+  "year": "JEE Main 2025"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Heat of formation of SO2 from S+O2/SO3 data (2x, y):",
+  "options": [
+   "x + y",
+   "y - 2x",
+   "2x/y",
+   "2x + y"
+  ],
+  "answer": 1,
+  "explanation": "Hess subtraction gives (2x - y) released, i.e. y - 2x. | Hint: Subtract the two given equations.",
+  "source": "JEE JEE Main 2025 via cracku",
+  "year": "JEE Main 2025"
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "pdfPage": 1,
+  "question": "Adult human RBCs are enucleated. Which of the following statement(s) is/are most appropriate explanation for this feature? I. They are somatic cells II. They do not need to reproduce III. All their internal space is available to transport oxygen IV. They do not metabolize",
+  "options": [
+   "I, II, and IV",
+   "III and IV",
+   "Only III",
+   "Only I"
+  ],
+  "answer": 2,
+  "explanation": "Enucleation frees all internal space for O2 transport by haemoglobin.",
+  "source": "byjus.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 1,
+  "question": "Doctors use stethoscope to hear the sounds produced during each cardiac cycle. The second sound is heard when",
+  "options": [
+   "Semilunar valves close down after the blood flows into vessels from ventricles",
+   "AV valves open up",
+   "Ventricular walls vibrate due to gushing in of blood from atria",
+   "AV node receives signal from SA node"
+  ],
+  "answer": 0,
+  "explanation": "Second sound (dub) = closure of semilunar valves.",
+  "source": "byjus.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 1,
+  "question": "Serum differs from blood in lacking:",
+  "options": [
+   "Antibodies",
+   "Clotting factors",
+   "Albumins",
+   "Globulins"
+  ],
+  "answer": 1,
+  "explanation": "Serum is plasma minus the consumed clotting factors (fibrinogen etc.). | Hint: What gets used up when blood clots?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 3,
+  "question": "AB group is universal recipient because he has:",
+  "options": [
+   "A and B antigens in plasma, no antibodies",
+   "A and B antibodies in plasma",
+   "No antigens and no antibodies",
+   "A and B antigens on RBC, no plasma antibodies"
+  ],
+  "answer": 3,
+  "explanation": "Antigens sit on RBCs (not plasma); with no anti-A/anti-B, any group can be received. | Hint: Where do antigens live, and which antibodies are absent?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Accident victim needs instant transfusion from a friend on the spot. Donor group:",
+  "options": [
+   "AB",
+   "O",
+   "A",
+   "B"
+  ],
+  "answer": 1,
+  "explanation": "O negative RBCs suit any recipient in emergencies. | Hint: Which group donates to all?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Blood cells whose fall causes clotting disorder with excess bleeding:",
+  "options": [
+   "Thrombocytes",
+   "Erythrocytes",
+   "Neutrophils",
+   "Leucocytes"
+  ],
+  "answer": 0,
+  "explanation": "Platelets (thrombocytes) plug vessel breaks; their fall causes bleeding disorders. | Hint: Which cells plug broken vessels?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Name the blood cells whose reduction in number can cause clotting disorder, leading to excessive loss of blood from the body",
+  "options": [
+   "thrombocytes",
+   "erythrocytes",
+   "Neutrophils",
+   "leucocytes"
+  ],
+  "answer": 0,
+  "explanation": "Thrombocytes (platelets) initiate clot formation.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Person with blood group AB is considered a universal recipient because he has",
+  "options": [
+   "both A and B antigens in the plasma but no antibodies",
+   "both A and B antibodies in the plasma",
+   "no antigen on RBC and no antibody in the plasma",
+   "both A and B antigens on RBC but no antibodies in the plasma"
+  ],
+  "answer": 3,
+  "explanation": "AB: both antigens on RBC, no antibodies in plasma.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 4,
+  "question": "How do parasympathetic neural signals affect the working of the heart?",
+  "options": [
+   "both heart rate and cardiac output increase",
+   "reduce both heart rate and cardiac output",
+   "heart rate is increased without affecting the cardiac output",
+   "heart rate decreases but cardiac output increases"
+  ],
+  "answer": 1,
+  "explanation": "Parasympathetic signals decrease both heart rate and cardiac output.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Plasma protein involved in blood coagulation:",
+  "options": [
+   "Fibrinogen",
+   "Serum amylase",
+   "Globulin",
+   "Albumin"
+  ],
+  "answer": 0,
+  "explanation": "Fibrinogen converts to fibrin threads that mesh the clot. | Hint: Which protein becomes the clot mesh?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A certain road accident patient with an unknown blood group needs immediate blood transfusion. His one doctor friend at once offers his blood. What was the blood group of the donor?",
+  "options": [
+   "Blood group AB",
+   "Blood group O",
+   "Blood group A",
+   "Blood group B"
+  ],
+  "answer": 1,
+  "explanation": "Group O = universal donor (no antigens on RBC).",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
+ },
+ {
+  "pdfPage": 8,
+  "question": "The second heart sound is heard when:",
+  "options": [
+   "Semilunar valves close after ventricular ejection",
+   "AV valves open",
+   "Ventricular walls vibrate from atrial gush",
+   "AV node gets SA signal"
+  ],
+  "answer": 0,
+  "explanation": "DUB comes from semilunar valve closure at diastole onset. | Hint: LUB is AV valves; what makes DUB?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Adult human RBCs are enucleated. Most appropriate explanation? I. Somatic cells II. Need not reproduce III. All space free for O2 IV. Do not metabolise:",
+  "options": [
+   "I, II and IV",
+   "III and IV",
+   "Only III",
+   "Only I"
+  ],
+  "answer": 2,
+  "explanation": "Losing the nucleus maximises oxygen-carrying space; III captures the functional reason. | Hint: Why sacrifice the nucleus?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Blood pressure in the pulmonary artery is:",
+  "options": [
+   "More than carotid",
+   "Same as aorta",
+   "Less than venae cavae",
+   "More than pulmonary vein"
+  ],
+  "answer": 3,
+  "explanation": "Pulmonary artery carries blood to lungs at higher pressure than the returning pulmonary vein. | Hint: Artery leaving the heart versus vein returning?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Mammalian vessel typically carrying the most urea:",
+  "options": [
+   "Dorsal aorta",
+   "Renal vein",
+   "Hepatic portal vein",
+   "Hepatic vein"
+  ],
+  "answer": 3,
+  "explanation": "Urea is made in the liver, so the hepatic vein leaving it is richest. | Hint: Where is urea manufactured?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Parasympathetic signals to the heart:",
+  "options": [
+   "Raise rate and output",
+   "Reduce rate and output",
+   "Raise rate only",
+   "Lower rate, raise output"
+  ],
+  "answer": 1,
+  "explanation": "Vagal stimulation slows the SA node, cutting rate and output. | Hint: Vagus nerve: accelerator or brake?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 10,
+  "question": "This blood vessel in mammals would typically carry the largest amount of urea",
+  "options": [
+   "Dorsal aorta",
+   "Renal vein",
+   "Hepatic portal vein",
+   "Hepatic vein"
+  ],
+  "answer": 3,
+  "explanation": "Urea is made in the liver; hepatic vein drains it into systemic circulation.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which one of the following plasma proteins is involved in the coagulation of blood?",
+  "options": [
+   "Fibrinogen",
+   "Serum amylase",
+   "Globulin",
+   "Albumin"
+  ],
+  "answer": 0,
+  "explanation": "Fibrinogen → fibrin during coagulation.",
+  "source": "byjus.com",
+  "year": "AIPMT 2011"
+ }
+]

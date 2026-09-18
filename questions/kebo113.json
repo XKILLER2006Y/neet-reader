@@ -1,0 +1,282 @@
+[
+ {
+  "pdfPage": 6,
+  "question": "Dark-kept tomato seedlings turn white: term:",
+  "options": [
+   "Defoliated",
+   "Etiolated",
+   "Embolised",
+   "Mutated"
+  ],
+  "answer": 1,
+  "explanation": "Dark growth gives pale elongated etiolated seedlings. | Hint: Pale dark-grown seedlings are called?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Formation of interfascicular cambium from fully developed parenchyma cells is an example for",
+  "options": [
+   "Differentiation",
+   "Redifferentiation",
+   "Dedifferentiation",
+   "Maturation"
+  ],
+  "answer": 2,
+  "explanation": "Mature cells regain division capacity = dedifferentiation.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 6,
+  "question": "The Avena curvature is used for bioassay of",
+  "options": [
+   "IAA",
+   "ethylene",
+   "ABA",
+   "GA3"
+  ],
+  "answer": 0,
+  "explanation": "Avena coleoptile curvature = classical auxin bioassay.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Went agar-tip experiment significance (verify):",
+  "options": [
+   "Polar auxin movement",
+   "IAA-is-auxin hypothesis",
+   "Quantitative determination basis",
+   "Exact auxin isolation"
+  ],
+  "answer": 2,
+  "explanation": "The curvature measured auxin amounts: the quantitative bioassay basis. | Hint: What did the bending measure?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Hormone pair for shoots AND roots in culture:",
+  "options": [
+   "Gibberellin + ABA",
+   "Auxin + ABA",
+   "Auxin + cytokinin",
+   "IAA + gibberellin"
+  ],
+  "answer": 2,
+  "explanation": "Auxin-cytokinin balance directs root-shoot organogenesis. | Hint: Which duo runs tissue culture?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Spraying sugarcane crop with which of the following plant growth regulators, increases the length of stem, thus, increasing the yield?",
+  "options": [
+   "Auxin",
+   "Gibberellin",
+   "Cytokinin",
+   "Abscisic acid"
+  ],
+  "answer": 1,
+  "explanation": "Gibberellins increase sugarcane stem length (up to 20 t/acre yield gain).",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Typical growth curve in plants is",
+  "options": [
+   "stair-steps shaped",
+   "parabolic",
+   "sigmoid",
+   "linear"
+  ],
+  "answer": 2,
+  "explanation": "Growth vs time gives a sigmoid (S-shaped) curve.",
+  "source": "examside.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Match List-I with List-II. List-I: (A) Auxin, (B) Gibberellin, (C) Cytokinin, (D) Ethylene. List-II: (I) Promotes female flower formation in cucumber, (II) Overcoming apical dominance, (III) Increase in the length of grape stalks, (IV) Promotes flowering in pineapple.",
+  "options": [
+   "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+   "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+   "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+   "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+  ],
+  "answer": 1,
+  "explanation": "Auxin=pineapple flowering(IV), GA=grape stalk(III), cytokinin=overcomes apical dominance(II), ethylene=female cucumber(I).",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Pea tendril coiling on support:",
+  "options": [
+   "Thermotaxis",
+   "Thigmotaxis",
+   "Thigmonasty",
+   "Thigmotropism"
+  ],
+  "answer": 3,
+  "explanation": "Directional touch response = thigmotropism. | Hint: Touch-directed growth is which tropism?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Avena curvature bioassays:",
+  "options": [
+   "Ethylene",
+   "ABA",
+   "IAA",
+   "GA3"
+  ],
+  "answer": 2,
+  "explanation": "Oat coleoptile bending measures auxin (IAA). | Hint: The classic auxin bioassay?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The site of perception of light in plants during photoperiodism is",
+  "options": [
+   "Leaf",
+   "Shoot apex",
+   "Stem",
+   "Axillary bud"
+  ],
+  "answer": 0,
+  "explanation": "Leaves perceive light/dark duration; hormonal signal migrates to shoot apex.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Year-round pineapple fruiting via:",
+  "options": [
+   "NAA, 2,4-D",
+   "Phenylacetic acid",
+   "IBA, IAA",
+   "Cytokinin"
+  ],
+  "answer": 0,
+  "explanation": "Synthetic auxins force flowering/fruiting. | Hint: Which synthetic auxins?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Preventing early fruit/leaf drop:",
+  "options": [
+   "Cytokinins",
+   "Ethylene",
+   "Gibberellic acid",
+   "Auxins"
+  ],
+  "answer": 3,
+  "explanation": "Auxins suppress abscission-zone formation. | Hint: Which hormone stops organs falling?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The plant hormone used to destroy weeds in a field",
+  "options": [
+   "IBA",
+   "IAA",
+   "NAA",
+   "2, 4-D"
+  ],
+  "answer": 3,
+  "explanation": "2,4-D (synthetic auxin) is a weedicides for broad-leaved weeds.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Senescence as active development shown in:",
+  "options": [
+   "Leaf abscission",
+   "Vessel/tracheid differentiation",
+   "Floral parts",
+   "Annual plants"
+  ],
+  "answer": 1,
+  "explanation": "Xylem differentiation involves programmed cell death. | Hint: Which differentiation is programmed death?",
+  "source": "NEET NEET 2008 via BYJU'S",
+  "year": "NEET 2008"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which of the following is not an inhibitory substance governing seed dormancy?",
+  "options": [
+   "Para-ascorbic acid",
+   "Abscisic acid",
+   "Gibberellic acid",
+   "Phenolic acid"
+  ],
+  "answer": 2,
+  "explanation": "Gibberellins break dormancy; ABA/phenolics/para-ascorbic cause it.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Fruit and leaf drop at early stages can be prevented by the application of",
+  "options": [
+   "ethylene",
+   "auxins",
+   "gibberellic acid",
+   "cytokinins"
+  ],
+  "answer": 1,
+  "explanation": "Auxins prevent pre-harvest fruit/leaf drop (e.g. 2,4-D).",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Stored seed food mobilised by:",
+  "options": [
+   "Ethylene",
+   "ABA",
+   "Cytokinin",
+   "Gibberellin"
+  ],
+  "answer": 3,
+  "explanation": "Gibberellin triggers aleurone amylase for starch mobilisation. | Hint: Which hormone wakes seeds?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Gibberellin antagonist:",
+  "options": [
+   "IAA",
+   "ABA",
+   "Ethylene",
+   "Zeatin"
+  ],
+  "answer": 1,
+  "explanation": "ABA opposes GA in dormancy/germination control. | Hint: Which hormone fights gibberellin?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Which one of the following growth regulators is known as 'stress hormone'?",
+  "options": [
+   "Abscisic acid",
+   "Ethylene",
+   "GA3",
+   "Indole acetic acid"
+  ],
+  "answer": 0,
+  "explanation": "ABA causes stomatal closure and stress tolerance.",
+  "source": "examside.com",
+  "year": "AIPMT 2014"
+ }
+]
