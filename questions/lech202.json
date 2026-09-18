@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 4,
+  "question": "Acetone + methylmagnesium chloride, then hydrolysis, gives:",
+  "options": [
+   "tert-Butyl alcohol",
+   "Isobutyl alcohol",
+   "Isopropyl alcohol",
+   "sec-Butyl alcohol"
+  ],
+  "answer": 0,
+  "explanation": "Grignard adds a methyl to the ketone carbon, giving (CH3)3COH. | Hint: Count carbons on the carbonyl carbon after addition.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
   "pdfPage": 6,
   "question": "IUPAC name of product: CH3COCH3 --(i) C2H5MgBr, dry ether-->(ii) H2O, H+:",
   "options": [
@@ -14,46 +28,18 @@
   "year": "NEET 2021"
  },
  {
-  "pdfPage": 9,
-  "question": "Major products C and D: CH3CH2CH2-O-C(CH3)3 + excess HI -> C + D:",
+  "pdfPage": 15,
+  "question": "Intermediate A: C6H5CH(CH3)2 + O2 -> A; A + H+/H2O -> phenol + acetone. A is:",
   "options": [
-   "n-PrI and t-BuI",
-   "n-PrOH and t-BuI",
-   "n-PrI and t-BuOH",
-   "n-PrOH and t-BuOH"
+   "C6H5-O-CH(CH3)2",
+   "C6H5-C(CH3)2-O-O-H",
+   "C6H5-O-O-CH(CH3)2",
+   "C6H5-CH2-C(CH3)(OOH)H"
   ],
-  "answer": 0,
-  "explanation": "The tertiary side cleaves SN1 and the primary side SN2; excess HI converts both alcohols onward to iodides. | Hint: Tertiary goes SN1, primary goes SN2.",
+  "answer": 1,
+  "explanation": "Cumene auto-oxidises to cumene hydroperoxide, which rearranges under acid to phenol + acetone. | Hint: The cumene process intermediate is a hydroperoxide.",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 9,
-  "question": "Acetone + methylmagnesium chloride, then hydrolysis, gives:",
-  "options": [
-   "tert-Butyl alcohol",
-   "Isobutyl alcohol",
-   "Isopropyl alcohol",
-   "sec-Butyl alcohol"
-  ],
-  "answer": 0,
-  "explanation": "Grignard adds a methyl to the ketone carbon, giving (CH3)3COH. | Hint: Count carbons on the carbonyl carbon after addition.",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 15,
-  "question": "Which is the most acidic compound?",
-  "options": [
-   "o-Cresol",
-   "Phenol",
-   "o-Nitrophenol",
-   "2,4,6-Trinitrophenol (picric acid)"
-  ],
-  "answer": 3,
-  "explanation": "Three nitro groups powerfully stabilise the phenoxide ion; picric acid approaches mineral-acid strength. | Hint: More nitro groups means stronger acid.",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
  },
  {
   "pdfPage": 15,
@@ -70,6 +56,20 @@
   "year": "NEET 2022"
  },
  {
+  "pdfPage": 15,
+  "question": "Which is the most acidic compound?",
+  "options": [
+   "o-Cresol",
+   "Phenol",
+   "o-Nitrophenol",
+   "2,4,6-Trinitrophenol (picric acid)"
+  ],
+  "answer": 3,
+  "explanation": "Three nitro groups powerfully stabilise the phenoxide ion; picric acid approaches mineral-acid strength. | Hint: More nitro groups means stronger acid.",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
   "pdfPage": 16,
   "question": "Statement I: Lucas test distinguishes alcohol classes with conc. HCl + ZnCl2. Statement II: Primary alcohols react fastest, giving instant turbidity.",
   "options": [
@@ -82,6 +82,20 @@
   "explanation": "The test is real, but reactivity runs tertiary > secondary > primary. | Hint: Which alcohol class forms the most stable carbocation?",
   "source": "NEET NEET 2022 via MedicNEET",
   "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Reaction NOT giving benzoic acid as major product:",
+  "options": [
+   "C6H5CH2OH with K2Cr2O7",
+   "C6H5COCH3 with (i) NaOCl, (ii) H3O+",
+   "C6H5CH2OH with PCC",
+   "C6H5CH2OH with KMnO4/H+"
+  ],
+  "answer": 2,
+  "explanation": "PCC stops oxidation of primary alcohols at benzaldehyde; the other three reach benzoic acid. | Hint: Which oxidant stops at the aldehyde?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 18,
@@ -112,18 +126,18 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 19,
-  "question": "Intermediate A: C6H5CH(CH3)2 + O2 -> A; A + H+/H2O -> phenol + acetone. A is:",
+  "pdfPage": 21,
+  "question": "Heating phenyl-methyl ether (anisole) with HI produces:",
   "options": [
-   "C6H5-O-CH(CH3)2",
-   "C6H5-C(CH3)2-O-O-H",
-   "C6H5-O-O-CH(CH3)2",
-   "C6H5-CH2-C(CH3)(OOH)H"
+   "Ethyl chloride",
+   "Iodobenzene",
+   "Phenol",
+   "Benzene"
   ],
-  "answer": 1,
-  "explanation": "Cumene auto-oxidises to cumene hydroperoxide, which rearranges under acid to phenol + acetone. | Hint: The cumene process intermediate is a hydroperoxide.",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "answer": 2,
+  "explanation": "Aryl-O bonds resist cleavage; the methyl-O bond breaks by SN2 giving phenol + methyl iodide. | Hint: Which side of the ether bond breaks?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 21,
@@ -140,7 +154,7 @@
   "year": "NEET 2018"
  },
  {
-  "pdfPage": 21,
+  "pdfPage": 22,
   "question": "Compound A (C8H10O) reacts with NaOI to give a yellow precipitate with characteristic smell. A and Y (iodine source) are:",
   "options": [
    "1-phenylethanol and I2",
@@ -152,20 +166,6 @@
   "explanation": "Only 1-phenylethanol carries the CH3CH(OH)- group needed for the iodoform reaction. | Hint: Which option has the haloform group?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
- },
- {
-  "pdfPage": 21,
-  "question": "Reaction NOT giving benzoic acid as major product:",
-  "options": [
-   "C6H5CH2OH with K2Cr2O7",
-   "C6H5COCH3 with (i) NaOCl, (ii) H3O+",
-   "C6H5CH2OH with PCC",
-   "C6H5CH2OH with KMnO4/H+"
-  ],
-  "answer": 2,
-  "explanation": "PCC stops oxidation of primary alcohols at benzaldehyde; the other three reach benzoic acid. | Hint: Which oxidant stops at the aldehyde?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
  },
  {
   "pdfPage": 23,
@@ -183,20 +183,6 @@
  },
  {
   "pdfPage": 25,
-  "question": "Heating phenyl-methyl ether (anisole) with HI produces:",
-  "options": [
-   "Ethyl chloride",
-   "Iodobenzene",
-   "Phenol",
-   "Benzene"
-  ],
-  "answer": 2,
-  "explanation": "Aryl-O bonds resist cleavage; the methyl-O bond breaks by SN2 giving phenol + methyl iodide. | Hint: Which side of the ether bond breaks?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 25,
   "question": "Anisole on cleavage with HI gives:",
   "options": [
    "C6H5OH + C2H5I",
@@ -210,21 +196,21 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 26,
-  "question": "The compound showing metamerism:",
+  "pdfPage": 25,
+  "question": "Major products C and D: CH3CH2CH2-O-C(CH3)3 + excess HI -> C + D:",
   "options": [
-   "C3H6O",
-   "C4H10O",
-   "C5H12",
-   "C3H8O"
+   "n-PrI and t-BuI",
+   "n-PrOH and t-BuI",
+   "n-PrI and t-BuOH",
+   "n-PrOH and t-BuOH"
   ],
-  "answer": 1,
-  "explanation": "C4H10O supports two ethers with different alkyl-group partitions (metamers); the rest do not. | Hint: Metamers need the same formula split differently around oxygen.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "answer": 0,
+  "explanation": "The tertiary side cleaves SN1 and the primary side SN2; excess HI converts both alcohols onward to iodides. | Hint: Tertiary goes SN1, primary goes SN2.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
  },
  {
-  "pdfPage": 28,
+  "pdfPage": 29,
   "question": "R-ONa + R-X -> R-O-R + NaX is classified as:",
   "options": [
    "Williamson ether synthesis",
@@ -236,6 +222,20 @@
   "explanation": "Alkoxide plus alkyl halide giving an ether is the Williamson ether synthesis. | Hint: Alkoxide + alkyl halide = which named ether synthesis?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 30,
+  "question": "The compound showing metamerism:",
+  "options": [
+   "C3H6O",
+   "C4H10O",
+   "C5H12",
+   "C3H8O"
+  ],
+  "answer": 1,
+  "explanation": "C4H10O supports two ethers with different alkyl-group partitions (metamers); the rest do not. | Hint: Metamers need the same formula split differently around oxygen.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 32,

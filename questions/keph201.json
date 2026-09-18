@@ -1,45 +1,17 @@
 [
  {
-  "pdfPage": 6,
-  "question": "A metallic bar of Young's modulus 0.5 × 10¹¹ N m⁻² and coefficient of linear thermal expansion 10⁻⁵ °C⁻¹, length 1 m and area of cross-section 10⁻³ m² is heated from 0 °C to 100 °C without expansion or bending. The compressive force developed in it is:",
+  "pdfPage": 3,
+  "question": "The stress-strain curves are drawn for two different materials X and Y. It is observed that the ultimate strength point and the fracture point are close to each other for material X, but are far apart for material Y. We can say that materials X and Y are likely to be (respectively)",
   "options": [
-   "50 × 10³ N",
-   "100 × 10³ N",
-   "2 × 10³ N",
-   "5 × 10³ N"
-  ],
-  "answer": 0,
-  "explanation": "Stress = YαΔT = 5×10⁷ Pa; F = 5×10⁷ × 10⁻³ = 5×10⁴ N.",
-  "source": "examside.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 6,
-  "question": "Dimensions of stress are:",
-  "options": [
-   "ML⁰ T⁻²",
-   "ML⁻¹ T⁻²",
-   "MLT⁻²",
-   "ML² T⁻²"
+   "ductile and brittle",
+   "brittle and ductile",
+   "brittle and plastic",
+   "plastic and ductile"
   ],
   "answer": 1,
-  "explanation": "[F/A] = MLT⁻²/L² = ML⁻¹T⁻².",
+  "explanation": "Brittle: fracture soon after ultimate strength. Ductile: far apart (necking).",
   "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 6,
-  "question": "Steel wire 1 m; elastic limit 8×10⁸ Pa, Y = 2×10¹¹ Pa. Maximum elongation:",
-  "options": [
-   "40 mm",
-   "8 mm",
-   "4 mm",
-   "0.4 mm"
-  ],
-  "answer": 2,
-  "explanation": "ΔL = stress×L/Y = 8e8/2e11 = 4×10⁻³ m = 4 mm.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 6,
@@ -54,20 +26,6 @@
   "explanation": "ΔV/V = 3Δr/r; B = p/(ΔV/V) → Δr/r = p/3B.",
   "source": "examside.com",
   "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
-  "question": "The following four wires are made of the same material. Which of these will have the largest extension when the same tension is applied?",
-  "options": [
-   "length = 200 cm, diameter = 2 mm",
-   "length = 300 cm, diameter = 3 mm",
-   "length = 50 cm, diameter = 0.5 mm",
-   "length = 100 cm, diameter = 1 mm"
-  ],
-  "answer": 2,
-  "explanation": "Δl ∝ L/d². Ratios: 50, 33, 200, 100 → largest is 50 cm, 0.5 mm.",
-  "source": "examside.com",
-  "year": "NEET 2013"
  },
  {
   "pdfPage": 8,
@@ -113,6 +71,20 @@
  },
  {
   "pdfPage": 8,
+  "question": "Match List I with List II.\nList I: A. Young's Modulus, B. Compressibility, C. Bulk Modulus, D. Poisson's Ratio.\nList II: I. (Δd/d)/(ΔL/L), II. FL/(A·ΔL), III. −(1/V)(ΔV/P), IV. −V·P/ΔV.\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-IV, B-I, C-II, D-III",
+   "A-III, B-II, C-I, D-IV",
+   "A-I, B-IV, C-III, D-II",
+   "A-II, B-III, C-IV, D-I"
+  ],
+  "answer": 3,
+  "explanation": "Y = FL/(AΔl) → II; Compressibility = −(1/V)(ΔV/p) → III; B = −pV/ΔV → IV; Poisson ratio → I.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 8,
   "question": "The maximum elongation of a steel wire of 1 m length if the elastic limit of steel and its Young's modulus respectively are 8 × 10⁸ N m⁻² and 2 × 10¹¹ N m⁻², is",
   "options": [
    "0.4 mm",
@@ -140,6 +112,34 @@
   "year": "NEET 2018"
  },
  {
+  "pdfPage": 8,
+  "question": "When a block of mass M is suspended by a long wire of length L, the length of the wire becomes (L + l). The elastic potential energy stored in the extended wire is:",
+  "options": [
+   "Mgl",
+   "MgL",
+   "(1/2) Mgl",
+   "(1/2) MgL"
+  ],
+  "answer": 2,
+  "explanation": "Work = average force × extension = (Mg/2) × l = ½Mgl.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "A metallic bar of Young's modulus 0.5 × 10¹¹ N m⁻² and coefficient of linear thermal expansion 10⁻⁵ °C⁻¹, length 1 m and area of cross-section 10⁻³ m² is heated from 0 °C to 100 °C without expansion or bending. The compressive force developed in it is:",
+  "options": [
+   "50 × 10³ N",
+   "100 × 10³ N",
+   "2 × 10³ N",
+   "5 × 10³ N"
+  ],
+  "answer": 0,
+  "explanation": "Stress = YαΔT = 5×10⁷ Pa; F = 5×10⁷ × 10⁻³ = 5×10⁴ N.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
   "pdfPage": 9,
   "question": "A wire is suspended from the ceiling and stretched by a weight W attached at its free end. The longitudinal stress at any point of cross-sectional area A of the wire is:",
   "options": [
@@ -155,20 +155,6 @@
  },
  {
   "pdfPage": 9,
-  "question": "Match List I with List II.\nList I: A. Young's Modulus, B. Compressibility, C. Bulk Modulus, D. Poisson's Ratio.\nList II: I. (Δd/d)/(ΔL/L), II. FL/(A·ΔL), III. −(1/V)(ΔV/P), IV. −V·P/ΔV.\nChoose the correct answer from the options given below:",
-  "options": [
-   "A-IV, B-I, C-II, D-III",
-   "A-III, B-II, C-I, D-IV",
-   "A-I, B-IV, C-III, D-II",
-   "A-II, B-III, C-IV, D-I"
-  ],
-  "answer": 3,
-  "explanation": "Y = FL/(AΔl) → II; Compressibility = −(1/V)(ΔV/p) → III; B = −pV/ΔV → IV; Poisson ratio → I.",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 9,
   "question": "The Young's modulus of a wire of length L and radius r is Y. If length is reduced to L/2 and radius to r/2, its Young's modulus will be:",
   "options": [
    "Y (unchanged)",
@@ -180,34 +166,6 @@
   "explanation": "Young's modulus is an intrinsic material property that depends only on the nature of the material, completely independent of wire dimensions. | Hint: Elastic modulus is an intensive property.",
   "source": "NEET NEET 2021 via BYJU'S NEET",
   "year": "NEET 2021"
- },
- {
-  "pdfPage": 9,
-  "question": "When a block of mass M is suspended by a long wire of length L, the length of the wire becomes (L + l). The elastic potential energy stored in the extended wire is:",
-  "options": [
-   "Mgl",
-   "MgL",
-   "(1/2) Mgl",
-   "(1/2) MgL"
-  ],
-  "answer": 2,
-  "explanation": "Work = average force × extension = (Mg/2) × l = ½Mgl.",
-  "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 10,
-  "question": "(A) Spring stretching is set by shear modulus. (R) Copper coil beats steel in tensile strength (same size).",
-  "options": [
-   "A false, R true",
-   "Both true, R explains A",
-   "Both true, R doesn't explain",
-   "A true, R false"
-  ],
-  "answer": 3,
-  "explanation": "A ✓ (coils shear); R ✗ (steel stronger).",
-  "source": "NEET 2022 Code-R6 official paper + NTA Final",
-  "year": "NEET 2022"
  },
  {
   "pdfPage": 10,
@@ -238,17 +196,59 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 10,
-  "question": "The stress-strain curves are drawn for two different materials X and Y. It is observed that the ultimate strength point and the fracture point are close to each other for material X, but are far apart for material Y. We can say that materials X and Y are likely to be (respectively)",
+  "pdfPage": 11,
+  "question": "Dimensions of stress are:",
   "options": [
-   "ductile and brittle",
-   "brittle and ductile",
-   "brittle and plastic",
-   "plastic and ductile"
+   "ML⁰ T⁻²",
+   "ML⁻¹ T⁻²",
+   "MLT⁻²",
+   "ML² T⁻²"
   ],
   "answer": 1,
-  "explanation": "Brittle: fracture soon after ultimate strength. Ductile: far apart (necking).",
+  "explanation": "[F/A] = MLT⁻²/L² = ML⁻¹T⁻².",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 12,
+  "question": "(A) Spring stretching is set by shear modulus. (R) Copper coil beats steel in tensile strength (same size).",
+  "options": [
+   "A false, R true",
+   "Both true, R explains A",
+   "Both true, R doesn't explain",
+   "A true, R false"
+  ],
+  "answer": 3,
+  "explanation": "A ✓ (coils shear); R ✗ (steel stronger).",
+  "source": "NEET 2022 Code-R6 official paper + NTA Final",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Steel wire 1 m; elastic limit 8×10⁸ Pa, Y = 2×10¹¹ Pa. Maximum elongation:",
+  "options": [
+   "40 mm",
+   "8 mm",
+   "4 mm",
+   "0.4 mm"
+  ],
+  "answer": 2,
+  "explanation": "ΔL = stress×L/Y = 8e8/2e11 = 4×10⁻³ m = 4 mm.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 12,
+  "question": "The following four wires are made of the same material. Which of these will have the largest extension when the same tension is applied?",
+  "options": [
+   "length = 200 cm, diameter = 2 mm",
+   "length = 300 cm, diameter = 3 mm",
+   "length = 50 cm, diameter = 0.5 mm",
+   "length = 100 cm, diameter = 1 mm"
+  ],
+  "answer": 2,
+  "explanation": "Δl ∝ L/d². Ratios: 50, 33, 200, 100 → largest is 50 cm, 0.5 mm.",
+  "source": "examside.com",
+  "year": "NEET 2013"
  }
 ]

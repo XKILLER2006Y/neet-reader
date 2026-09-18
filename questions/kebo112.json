@@ -14,7 +14,7 @@
   "year": "2016"
  },
  {
-  "pdfPage": 2,
+  "pdfPage": 4,
   "question": "Common respiratory metabolite of fats, carbs, proteins:",
   "options": [
    "Fructose-1,6-bisphosphate",
@@ -85,31 +85,17 @@
  },
  {
   "pdfPage": 6,
-  "question": "In alcohol fermentation:",
+  "question": "The chitinous exoskeleton of arthropods is formed by the polymerisation of",
   "options": [
-   "Triose donor, pyruvate acceptor",
-   "Triose donor, acetaldehyde acceptor",
-   "Oxygen acceptor",
-   "No donor"
+   "D-glucosamine",
+   "lipoglycans",
+   "N-acetyl glucosamine",
+   "keratin sulphate and chondroitin sulphate"
   ],
-  "answer": 1,
-  "explanation": "NADH passes electrons to acetaldehyde, making ethanol. | Hint: What accepts electrons without oxygen?",
-  "source": "NEET NEET 2003 via BYJU'S",
-  "year": "NEET 2003"
- },
- {
-  "pdfPage": 6,
-  "question": "Which one of the following is the most abundant protein in the animals?",
-  "options": [
-   "Collagen",
-   "Lectin",
-   "Insulin",
-   "Haemoglobin"
-  ],
-  "answer": 0,
-  "explanation": "Collagen is the most abundant animal protein, forming connective tissue fibres.",
-  "source": "NEET 2020 (questions.examside.com + iitianacademy)",
-  "year": "2020"
+  "answer": 2,
+  "explanation": "Chitin is a polymer of N-acetyl glucosamine (NAG) residues; glycine-rich link to proteins.",
+  "source": "AIPMT 2015 (byjus.com + iitianacademy + NCERT)",
+  "year": "2015"
  },
  {
   "pdfPage": 8,
@@ -127,6 +113,20 @@
  },
  {
   "pdfPage": 8,
+  "question": "In alcohol fermentation:",
+  "options": [
+   "Triose donor, pyruvate acceptor",
+   "Triose donor, acetaldehyde acceptor",
+   "Oxygen acceptor",
+   "No donor"
+  ],
+  "answer": 1,
+  "explanation": "NADH passes electrons to acetaldehyde, making ethanol. | Hint: What accepts electrons without oxygen?",
+  "source": "NEET NEET 2003 via BYJU'S",
+  "year": "NEET 2003"
+ },
+ {
+  "pdfPage": 8,
   "question": "Oxidation without external electron acceptor:",
   "options": [
    "Photorespiration",
@@ -138,20 +138,6 @@
   "explanation": "Fermentation oxidises substrate using internal acceptors only. | Hint: Which process needs no outside acceptor?",
   "source": "NEET NEET 2010 via BYJU'S",
   "year": "NEET 2010"
- },
- {
-  "pdfPage": 8,
-  "question": "The chitinous exoskeleton of arthropods is formed by the polymerisation of",
-  "options": [
-   "D-glucosamine",
-   "lipoglycans",
-   "N-acetyl glucosamine",
-   "keratin sulphate and chondroitin sulphate"
-  ],
-  "answer": 2,
-  "explanation": "Chitin is a polymer of N-acetyl glucosamine (NAG) residues; glycine-rich link to proteins.",
-  "source": "AIPMT 2015 (byjus.com + iitianacademy + NCERT)",
-  "year": "2015"
  },
  {
   "pdfPage": 9,
@@ -166,6 +152,20 @@
   "explanation": "686/12 = 57 theoretical maximum. | Hint: Divide total energy by per-ATP energy.",
   "source": "NEET NEET 2006 via BYJU'S",
   "year": "NEET 2006"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Which one of the following is the most abundant protein in the animals?",
+  "options": [
+   "Collagen",
+   "Lectin",
+   "Insulin",
+   "Haemoglobin"
+  ],
+  "answer": 0,
+  "explanation": "Collagen is the most abundant animal protein, forming connective tissue fibres.",
+  "source": "NEET 2020 (questions.examside.com + iitianacademy)",
+  "year": "2020"
  },
  {
   "pdfPage": 13,

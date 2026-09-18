@@ -1,6 +1,6 @@
 [
  {
-  "pdfPage": 7,
+  "pdfPage": 4,
   "question": "First-order A → Products: [A]₀ = 0.1 M falls to 0.001 M in 5 min. Rate constant (min⁻¹):",
   "options": [
    "0.2303",
@@ -12,34 +12,6 @@
   "explanation": "k = (2.303/5)·log(0.1/0.001) = 0.9212.",
   "source": "NEET 2022 Phase 1 official paper via Aakash + MedicNEET + EduRev (all agree)",
   "year": "NEET 2022"
- },
- {
-  "pdfPage": 7,
-  "question": "First-order reaction with half-life 1 minute. Time for 99.9% completion is closest to:",
-  "options": [
-   "5 minutes",
-   "10 minutes",
-   "2 minutes",
-   "4 minutes"
-  ],
-  "answer": 1,
-  "explanation": "99.9% ≈ 10 half-lives (2¹⁰ = 1024) → ~10 min.",
-  "source": "NEET 2023 Phase 1 via MedicNEET (key derived first-principles)",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 7,
-  "question": "The major product formed in the dehydrohalogenation reaction of 2-Bromo pentane is Pent-2-ene. This product formation is based on?",
-  "options": [
-   "Huckel's Rule",
-   "Saytzeff's Rule",
-   "Hund's Rule",
-   "Hofmann Rule"
-  ],
-  "answer": 1,
-  "explanation": "Saytzeff's rule: the preferred alkene has more alkyl groups on the doubly bonded carbons.",
-  "source": "testbook.com/question-answer/the-major-product-formed-in-the-dehydrohalogenatio--62b8375b06b317eeddc243aa",
-  "year": "2021"
  },
  {
   "pdfPage": 8,
@@ -56,20 +28,6 @@
   "year": "AIEEE 2002"
  },
  {
-  "pdfPage": 8,
-  "question": "Which of the following alkane cannot be made in good yield by Wurtz reaction?",
-  "options": [
-   "n-Heptane",
-   "n-Butane",
-   "n-Hexane",
-   "2,3-Dimethylbutane"
-  ],
-  "answer": 0,
-  "explanation": "Wurtz coupling of two different alkyl halides gives a mixture; odd-carbon n-heptane needs two unlike partners.",
-  "source": "testbook.com/question-answer/which-of-the-following-alkane-cannot-be-made-in-go--62b81841f22ffad8afc351ab",
-  "year": "2020"
- },
- {
   "pdfPage": 10,
   "question": "Higher-order (>3) reactions are rare because of:",
   "options": [
@@ -82,34 +40,6 @@
   "explanation": "Four or more molecules colliding at once with proper orientation is vanishingly improbable. | Hint: How likely is a 4-body collision?",
   "source": "JEE JEE Main 2015 via BYJU'S",
   "year": "JEE Main 2015"
- },
- {
-  "pdfPage": 10,
-  "question": "In an SN1 reaction on chiral centres, there is",
-  "options": [
-   "100% retention",
-   "100% inversion",
-   "100% racemization",
-   "inversion more than retention leading to partial racemization"
-  ],
-  "answer": 3,
-  "explanation": "The planar carbocation is attacked from both faces, but the leaving group shields its side, so inversion exceeds retention.",
-  "source": "tardigrade.in/question/in-an-s-n1-reaction-on-chiral-centres-there-is-z11opkmz + sarthaks.com/14860",
-  "year": "2015"
- },
- {
-  "pdfPage": 12,
-  "question": "At 518 °C, gaseous acetaldehyde at 363 Torr decomposes at 1.00 Torr/s when 5% has reacted and 0.5 Torr/s when 33% has reacted. The reaction order is:",
-  "options": [
-   "2",
-   "3",
-   "1",
-   "0"
-  ],
-  "answer": 0,
-  "explanation": "Rate ratio 2 = (344.85/243.21)ⁿ → n ≈ 2.",
-  "source": "JEE JEE Main 2018 via BYJU'S",
-  "year": "JEE Main 2018"
  },
  {
   "pdfPage": 12,
@@ -168,6 +98,48 @@
   "year": "AIEEE 2009"
  },
  {
+  "pdfPage": 19,
+  "question": "At 518 °C, gaseous acetaldehyde at 363 Torr decomposes at 1.00 Torr/s when 5% has reacted and 0.5 Torr/s when 33% has reacted. The reaction order is:",
+  "options": [
+   "2",
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "Rate ratio 2 = (344.85/243.21)ⁿ → n ≈ 2.",
+  "source": "JEE JEE Main 2018 via BYJU'S",
+  "year": "JEE Main 2018"
+ },
+ {
+  "pdfPage": 20,
+  "question": "A reaction is second order in carbon monoxide. Doubling [CO] with everything else fixed changes the rate by:",
+  "options": [
+   "unchanged",
+   "tripled",
+   "a factor of 4",
+   "doubled"
+  ],
+  "answer": 2,
+  "explanation": "Rate is proportional to [CO]^2, so doubling gives 2^2 = 4 times. | Hint: Square the concentration factor.",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006"
+ },
+ {
+  "pdfPage": 20,
+  "question": "In an SN1 reaction on chiral centres, there is",
+  "options": [
+   "100% retention",
+   "100% inversion",
+   "100% racemization",
+   "inversion more than retention leading to partial racemization"
+  ],
+  "answer": 3,
+  "explanation": "The planar carbocation is attacked from both faces, but the leaving group shields its side, so inversion exceeds retention.",
+  "source": "tardigrade.in/question/in-an-s-n1-reaction-on-chiral-centres-there-is-z11opkmz + sarthaks.com/14860",
+  "year": "2015"
+ },
+ {
   "pdfPage": 20,
   "question": "The rate of a chemical reaction doubles for every 10°C rise of temperature. If the temperature is raised by 50°C, the rate increases by about:",
   "options": [
@@ -180,6 +152,34 @@
   "explanation": "Five 10-degree steps give 2^5 = 32 times. | Hint: How many 10-degree steps fit in 50?",
   "source": "JEE AIEEE 2011 via BYJU'S",
   "year": "AIEEE 2011"
+ },
+ {
+  "pdfPage": 22,
+  "question": "Which of the following alkane cannot be made in good yield by Wurtz reaction?",
+  "options": [
+   "n-Heptane",
+   "n-Butane",
+   "n-Hexane",
+   "2,3-Dimethylbutane"
+  ],
+  "answer": 0,
+  "explanation": "Wurtz coupling of two different alkyl halides gives a mixture; odd-carbon n-heptane needs two unlike partners.",
+  "source": "testbook.com/question-answer/which-of-the-following-alkane-cannot-be-made-in-go--62b81841f22ffad8afc351ab",
+  "year": "2020"
+ },
+ {
+  "pdfPage": 23,
+  "question": "The major product formed in the dehydrohalogenation reaction of 2-Bromo pentane is Pent-2-ene. This product formation is based on?",
+  "options": [
+   "Huckel's Rule",
+   "Saytzeff's Rule",
+   "Hund's Rule",
+   "Hofmann Rule"
+  ],
+  "answer": 1,
+  "explanation": "Saytzeff's rule: the preferred alkene has more alkyl groups on the doubly bonded carbons.",
+  "source": "testbook.com/question-answer/the-major-product-formed-in-the-dehydrohalogenatio--62b8375b06b317eeddc243aa",
+  "year": "2021"
  },
  {
   "pdfPage": 27,
@@ -197,17 +197,17 @@
  },
  {
   "pdfPage": 28,
-  "question": "A reaction is second order in carbon monoxide. Doubling [CO] with everything else fixed changes the rate by:",
+  "question": "First-order reaction with half-life 1 minute. Time for 99.9% completion is closest to:",
   "options": [
-   "unchanged",
-   "tripled",
-   "a factor of 4",
-   "doubled"
+   "5 minutes",
+   "10 minutes",
+   "2 minutes",
+   "4 minutes"
   ],
-  "answer": 2,
-  "explanation": "Rate is proportional to [CO]^2, so doubling gives 2^2 = 4 times. | Hint: Square the concentration factor.",
-  "source": "JEE AIEEE 2006 via BYJU'S",
-  "year": "AIEEE 2006"
+  "answer": 1,
+  "explanation": "99.9% ≈ 10 half-lives (2¹⁰ = 1024) → ~10 min.",
+  "source": "NEET 2023 Phase 1 via MedicNEET (key derived first-principles)",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 28,

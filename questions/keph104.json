@@ -1,17 +1,17 @@
 [
  {
   "pdfPage": 4,
-  "question": "An object of mass 1 kg, initially at rest, explodes into three fragments of masses in ratio 1 : 1 : 3. The two fragments of equal mass fly off with a speed of 30 m/s in mutually perpendicular directions. The speed of the heaviest fragment is:",
+  "question": "Block on smooth wedge (angle θ), wedge accelerated right at a. Block stays iff:",
   "options": [
-   "10√2 m/s",
-   "10 m/s",
-   "20√2 m/s",
-   "30 m/s"
+   "a = gcosθ",
+   "a = g/sinθ",
+   "a = g/cosecθ",
+   "a = gtanθ"
   ],
-  "answer": 0,
-  "explanation": "Total mass = 5m = 1 kg ⇒ m = 0.2 kg. Two pieces of mass m have momentum p₁ = m v i and p₂ = m v j. Net momentum = √2 m v. Heaviest piece (3m) must balance it: (3m) v₃ = √2 m v ⇒ v₃ = (√2 / 3) v = (√2 / 3) × 30 = 10√2 m/s. | Hint: Momentum of third fragment equals magnitude of resultant of first two.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "answer": 3,
+  "explanation": "Nsinθ = ma, Ncosθ = mg → a = gtanθ.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 4,
@@ -28,21 +28,7 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 7,
-  "question": "A box of mass 15 kg is kept on the floor of a stationary trolley. The coefficient of static friction between the box and the trolley is 0.12. Keeping the box in stationary state over the trolley, the maximum acceleration with which the trolley can be moved horizontally in ms⁻² is: (g = 10 m/s²)",
-  "options": [
-   "2.1",
-   "1.8",
-   "1.5",
-   "1.2"
-  ],
-  "answer": 3,
-  "explanation": "a_max = μg = 0.12 × 10 = 1.2 m/s².",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 7,
+  "pdfPage": 5,
   "question": "A machine gun fires a bullet of mass 40 g with velocity 1200 m/s. The man holding it can exert a maximum force of 144 N. The maximum number of bullets he can fire per second is:",
   "options": [
    "3",
@@ -56,7 +42,7 @@
   "year": "JEE Main 2022"
  },
  {
-  "pdfPage": 9,
+  "pdfPage": 7,
   "question": "A football player is moving southward and suddenly turns eastward with the same speed to avoid an opponent. The force that acts on the player while turning is:",
   "options": [
    "Along North-East",
@@ -127,20 +113,6 @@
  },
  {
   "pdfPage": 12,
-  "question": "A person of mass 60 kg is inside a lift of mass 940 kg and presses the button on control panel. The lift starts moving upwards with an acceleration 1.0 m/s². If g = 10 ms⁻², the tension in the supporting cable is",
-  "options": [
-   "8600 N",
-   "9680 N",
-   "11000 N",
-   "1200 N"
-  ],
-  "answer": 2,
-  "explanation": "T = (940+60)(10+1) = 11000 N.",
-  "source": "examside.com",
-  "year": "AIPMT 2011"
- },
- {
-  "pdfPage": 12,
   "question": "Incorrect statement:",
   "options": [
    "Friction opposes relative motion",
@@ -169,6 +141,20 @@
  },
  {
   "pdfPage": 13,
+  "question": "A box of mass 15 kg is kept on the floor of a stationary trolley. The coefficient of static friction between the box and the trolley is 0.12. Keeping the box in stationary state over the trolley, the maximum acceleration with which the trolley can be moved horizontally in ms⁻² is: (g = 10 m/s²)",
+  "options": [
+   "2.1",
+   "1.8",
+   "1.5",
+   "1.2"
+  ],
+  "answer": 3,
+  "explanation": "a_max = μg = 0.12 × 10 = 1.2 m/s².",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 13,
   "question": "The mass of a lift is 2000 kg. When the tension in the supporting cable is 28000 N, then its acceleration is :",
   "options": [
    "4 m s⁻² upwards",
@@ -182,7 +168,35 @@
   "year": "AIPMT 2009"
  },
  {
-  "pdfPage": 14,
+  "pdfPage": 21,
+  "question": "A person of mass 60 kg is inside a lift of mass 940 kg and presses the button on control panel. The lift starts moving upwards with an acceleration 1.0 m/s². If g = 10 ms⁻², the tension in the supporting cable is",
+  "options": [
+   "8600 N",
+   "9680 N",
+   "11000 N",
+   "1200 N"
+  ],
+  "answer": 2,
+  "explanation": "T = (940+60)(10+1) = 11000 N.",
+  "source": "examside.com",
+  "year": "AIPMT 2011"
+ },
+ {
+  "pdfPage": 21,
+  "question": "An object of mass 1 kg, initially at rest, explodes into three fragments of masses in ratio 1 : 1 : 3. The two fragments of equal mass fly off with a speed of 30 m/s in mutually perpendicular directions. The speed of the heaviest fragment is:",
+  "options": [
+   "10√2 m/s",
+   "10 m/s",
+   "20√2 m/s",
+   "30 m/s"
+  ],
+  "answer": 0,
+  "explanation": "Total mass = 5m = 1 kg ⇒ m = 0.2 kg. Two pieces of mass m have momentum p₁ = m v i and p₂ = m v j. Net momentum = √2 m v. Heaviest piece (3m) must balance it: (3m) v₃ = √2 m v ⇒ v₃ = (√2 / 3) v = (√2 / 3) × 30 = 10√2 m/s. | Hint: Momentum of third fragment equals magnitude of resultant of first two.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 22,
   "question": "Mass on a wire whirled in a vertical circle. The wire breaks most likely when the mass is:",
   "options": [
    "At the highest point",
@@ -194,19 +208,5 @@
   "explanation": "Tension max at bottom: T = mg + mv²/r.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 16,
-  "question": "Block on smooth wedge (angle θ), wedge accelerated right at a. Block stays iff:",
-  "options": [
-   "a = gcosθ",
-   "a = g/sinθ",
-   "a = g/cosecθ",
-   "a = gtanθ"
-  ],
-  "answer": 3,
-  "explanation": "Nsinθ = ma, Ncosθ = mg → a = gtanθ.",
-  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
  }
 ]

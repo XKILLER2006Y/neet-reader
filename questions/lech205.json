@@ -14,49 +14,7 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 6,
-  "question": "DNA pyrimidines:",
-  "options": [
-   "Cytosine + adenine",
-   "Cytosine + guanine",
-   "Cytosine + thymine",
-   "Cytosine + uracil"
-  ],
-  "answer": 2,
-  "explanation": "DNA pyrimidines are C and T. | Hint: Two rings or one: which bases?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 6,
-  "question": "Molisch test detects:",
-  "options": [
-   "Nitro compounds",
-   "Sugars",
-   "Amines",
-   "Primary alcohols"
-  ],
-  "answer": 1,
-  "explanation": "Purple ring proves carbohydrates. | Hint: Purple ring means which class?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 6,
-  "question": "Alpha and beta D-glucose are:",
-  "options": [
-   "Conformers",
-   "Epimers",
-   "Anomers",
-   "Enantiomers"
-  ],
-  "answer": 2,
-  "explanation": "C-1 variants are anomers. | Hint: Same as the anomer question above?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 6,
+  "pdfPage": 7,
   "question": "Cellulose hydrolysis gives:",
   "options": [
    "D-ribose",
@@ -66,20 +24,6 @@
   ],
   "answer": 1,
   "explanation": "Cellulose is beta-D-glucose polymer. | Hint: Cellulose monomer?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 8,
-  "question": "Biuret test NOT given by:",
-  "options": [
-   "Proteins",
-   "Carbohydrates",
-   "Polypeptides",
-   "Urea"
-  ],
-  "answer": 1,
-  "explanation": "Biuret needs amide linkages, absent in carbohydrates. | Hint: What linkage does biuret detect?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -113,6 +57,20 @@
  },
  {
   "pdfPage": 16,
+  "question": "Alpha and beta D-glucose are:",
+  "options": [
+   "Conformers",
+   "Epimers",
+   "Anomers",
+   "Enantiomers"
+  ],
+  "answer": 2,
+  "explanation": "C-1 variants are anomers. | Hint: Same as the anomer question above?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 16,
   "question": "Water-soluble vitamin:",
   "options": [
    "Vitamin E",
@@ -126,16 +84,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 18,
-  "question": "Base in RNA but not DNA:",
+  "pdfPage": 17,
+  "question": "Molisch test detects:",
   "options": [
-   "Uracil",
-   "Thymine",
-   "Guanine",
-   "Cytosine"
+   "Nitro compounds",
+   "Sugars",
+   "Amines",
+   "Primary alcohols"
   ],
-  "answer": 0,
-  "explanation": "Uracil replaces thymine in RNA. | Hint: T or U: which is RNA-only?",
+  "answer": 1,
+  "explanation": "Purple ring proves carbohydrates. | Hint: Purple ring means which class?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -154,16 +112,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 19,
-  "question": "RNA differs from DNA (sugar + base):",
+  "pdfPage": 18,
+  "question": "Base in RNA but not DNA:",
   "options": [
-   "Ribose + thymine",
-   "Ribose + uracil",
-   "Deoxyribose + thymine",
-   "Deoxyribose + uracil"
+   "Uracil",
+   "Thymine",
+   "Guanine",
+   "Cytosine"
   ],
-  "answer": 1,
-  "explanation": "RNA pairs ribose with uracil. | Hint: Sugar and base swap?",
+  "answer": 0,
+  "explanation": "Uracil replaces thymine in RNA. | Hint: T or U: which is RNA-only?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -182,7 +140,49 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 20,
+  "pdfPage": 19,
+  "question": "RNA differs from DNA (sugar + base):",
+  "options": [
+   "Ribose + thymine",
+   "Ribose + uracil",
+   "Deoxyribose + thymine",
+   "Deoxyribose + uracil"
+  ],
+  "answer": 1,
+  "explanation": "RNA pairs ribose with uracil. | Hint: Sugar and base swap?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Biuret test NOT given by:",
+  "options": [
+   "Proteins",
+   "Carbohydrates",
+   "Polypeptides",
+   "Urea"
+  ],
+  "answer": 1,
+  "explanation": "Biuret needs amide linkages, absent in carbohydrates. | Hint: What linkage does biuret detect?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
+  "question": "DNA pyrimidines:",
+  "options": [
+   "Cytosine + adenine",
+   "Cytosine + guanine",
+   "Cytosine + thymine",
+   "Cytosine + uracil"
+  ],
+  "answer": 2,
+  "explanation": "DNA pyrimidines are C and T. | Hint: Two rings or one: which bases?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
   "question": "Rhumann purple confirms:",
   "options": [
    "Starch",

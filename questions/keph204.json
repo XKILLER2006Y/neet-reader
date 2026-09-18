@@ -1,34 +1,6 @@
 [
  {
   "pdfPage": 2,
-  "question": "An ideal gas expands isothermally from 10⁻³ m³ to 10⁻² m³ at 300 K against constant external pressure 10⁵ Pa. Work done ON the gas:",
-  "options": [
-   "+270 kJ",
-   "−900 J",
-   "+900 kJ",
-   "−900 kJ"
-  ],
-  "answer": 1,
-  "explanation": "W(by) = PΔV = 10⁵×9×10⁻³ = 900 J → W(on) = −900 J.",
-  "source": "NEET 2019 Odisha via MedicNEET (key verified first-principles)",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 2,
-  "question": "The temperature of a metallic sphere of radius R is increased by a small amount ΔT. If the linear coefficient of thermal expansion of the metal is α, the approximate increase in the volume of the sphere is:",
-  "options": [
-   "6πR³αΔT",
-   "2πR³αΔT",
-   "3πR³αΔT",
-   "4πR³αΔT"
-  ],
-  "answer": 3,
-  "explanation": "ΔV = 3VαΔT = 3×(4/3)πR³×αΔT = 4πR³αΔT.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
-  "pdfPage": 2,
   "question": "Two rods one made of copper and other made of steel of same length and same cross sectional area are joined together. The thermal conductivity of copper and steel are 385 J s⁻¹ K⁻¹ m⁻¹ and 50 J s⁻¹ K⁻¹ m⁻¹ respectively. The free ends of copper and steel are held at 100°C and 0°C respectively. The temperature at the junction is, nearly :",
   "options": [
    "88.5°C",
@@ -56,62 +28,6 @@
   "year": "RE-NEET 2026"
  },
  {
-  "pdfPage": 4,
-  "question": "In an adiabatic process, the volume of a gas is decreased to 1/4th of its initial volume. If γ = 1.5, the pressure of the gas increases by a factor of:",
-  "options": [
-   "8",
-   "4",
-   "16",
-   "2"
-  ],
-  "answer": 0,
-  "explanation": "P₁ V₁^γ = P₂ V₂^γ ⇒ P₂ = P₁ (V₁/V₂)^γ = P₁ (4)^(1.5) = P₁ (4)^(3/2) = P₁ (2)³ = 8 P₁. | Hint: P ∝ 1 / V^γ.",
-  "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 4,
-  "question": "Insulated vessel: gas at STP in A, vacuum in B; stopcock opened. The process is:",
-  "options": [
-   "Isochoric",
-   "Isobaric",
-   "Isothermal",
-   "Adiabatic"
-  ],
-  "answer": 3,
-  "explanation": "Free expansion, Q = 0, W = 0 → adiabatic (ΔU = 0).",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 4,
-  "question": "Process with constant internal energy:",
-  "options": [
-   "Isobaric",
-   "Isochoric",
-   "Adiabatic",
-   "Isothermal"
-  ],
-  "answer": 3,
-  "explanation": "Ideal gas U(T): constant T → ΔU = 0.",
-  "source": "JEE Main 2023 (11 Apr E) via ExamSIDE",
-  "year": "JEE Main 2023"
- },
- {
-  "pdfPage": 4,
-  "question": "Process with no heat exchange:",
-  "options": [
-   "Adiabatic",
-   "Isobaric",
-   "Isochoric",
-   "Isothermal"
-  ],
-  "answer": 0,
-  "explanation": "Adiabatic: Q = 0 by definition.",
-  "source": "NEET 2019 via ExamSIDE",
-  "year": "NEET 2019"
- },
- {
   "pdfPage": 6,
   "question": "0.1 g water at 100 °C takes 54 cal to become steam (167.1 cc) at 1 atm. ΔU:",
   "options": [
@@ -124,20 +40,6 @@
   "explanation": "ΔQ = 226 J; W = 16.9 J → ΔU ≈ 208.7 J.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
   "year": "NEET 2018"
- },
- {
-  "pdfPage": 6,
-  "question": "An electric heater supplies heat to a system at a rate of 100 W. If the system performs work at a rate of 75 J/s, then the rate at which internal energy increases will be:",
-  "options": [
-   "75 W",
-   "100 W",
-   "125 W",
-   "25 W"
-  ],
-  "answer": 3,
-  "explanation": "First law: ΔU/Δt = Q/Δt − W/Δt = 100 − 75 = 25 W.",
-  "source": "examside.com",
-  "year": "NEET 2026"
  },
  {
   "pdfPage": 6,
@@ -154,7 +56,7 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 10,
+  "pdfPage": 8,
   "question": "A container has two chambers of volumes V₁ = 2 litres and V₂ = 3 litres separated by a partition made of a thermal insulator. The chambers contain n₁ = 5 and n₂ = 4 moles of ideal gas at pressures p₁ = 1 atm and p₂ = 2 atm, respectively. When the partition is removed, the mixture attains an equilibrium pressure of",
   "options": [
    "1.4 atm",
@@ -168,32 +70,60 @@
   "year": "NEET 2025"
  },
  {
-  "pdfPage": 10,
-  "question": "Carnot 50% with source at 327 °C. Sink:",
+  "pdfPage": 9,
+  "question": "An ideal gas expands isothermally from 10⁻³ m³ to 10⁻² m³ at 300 K against constant external pressure 10⁵ Pa. Work done ON the gas:",
   "options": [
-   "27 °C",
-   "15 °C",
-   "100 °C",
-   "200 °C"
+   "+270 kJ",
+   "−900 J",
+   "+900 kJ",
+   "−900 kJ"
   ],
-  "answer": 0,
-  "explanation": "T₂ = 600×0.5 = 300 K = 27 °C.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final",
-  "year": "NEET 2023"
+  "answer": 1,
+  "explanation": "W(by) = PΔV = 10⁵×9×10⁻³ = 900 J → W(on) = −900 J.",
+  "source": "NEET 2019 Odisha via MedicNEET (key verified first-principles)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The temperature of a metallic sphere of radius R is increased by a small amount ΔT. If the linear coefficient of thermal expansion of the metal is α, the approximate increase in the volume of the sphere is:",
+  "options": [
+   "6πR³αΔT",
+   "2πR³αΔT",
+   "3πR³αΔT",
+   "4πR³αΔT"
+  ],
+  "answer": 3,
+  "explanation": "ΔV = 3VαΔT = 3×(4/3)πR³×αΔT = 4πR³αΔT.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
  },
  {
   "pdfPage": 10,
-  "question": "Ideal engine between freezing and boiling water. Efficiency:",
+  "question": "Process with constant internal energy:",
   "options": [
-   "6.25%",
-   "20%",
-   "26.8%",
-   "12.5%"
+   "Isobaric",
+   "Isochoric",
+   "Adiabatic",
+   "Isothermal"
   ],
-  "answer": 2,
-  "explanation": "1 − 273/373 = 26.8%.",
-  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "answer": 3,
+  "explanation": "Ideal gas U(T): constant T → ΔU = 0.",
+  "source": "JEE Main 2023 (11 Apr E) via ExamSIDE",
+  "year": "JEE Main 2023"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Process with no heat exchange:",
+  "options": [
+   "Adiabatic",
+   "Isobaric",
+   "Isochoric",
+   "Isothermal"
+  ],
+  "answer": 0,
+  "explanation": "Adiabatic: Q = 0 by definition.",
+  "source": "NEET 2019 via ExamSIDE",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 12,
@@ -222,5 +152,75 @@
   "explanation": "η = 1 - T₂/T₁ = 1 - 250/373 = (373 - 250)/373 = 123 / 373 ≈ 0.33 = 33%. | Hint: Convert Celsius to Kelvin before computing efficiency.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Carnot 50% with source at 327 °C. Sink:",
+  "options": [
+   "27 °C",
+   "15 °C",
+   "100 °C",
+   "200 °C"
+  ],
+  "answer": 0,
+  "explanation": "T₂ = 600×0.5 = 300 K = 27 °C.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Ideal engine between freezing and boiling water. Efficiency:",
+  "options": [
+   "6.25%",
+   "20%",
+   "26.8%",
+   "12.5%"
+  ],
+  "answer": 2,
+  "explanation": "1 − 273/373 = 26.8%.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 17,
+  "question": "An electric heater supplies heat to a system at a rate of 100 W. If the system performs work at a rate of 75 J/s, then the rate at which internal energy increases will be:",
+  "options": [
+   "75 W",
+   "100 W",
+   "125 W",
+   "25 W"
+  ],
+  "answer": 3,
+  "explanation": "First law: ΔU/Δt = Q/Δt − W/Δt = 100 − 75 = 25 W.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 17,
+  "question": "In an adiabatic process, the volume of a gas is decreased to 1/4th of its initial volume. If γ = 1.5, the pressure of the gas increases by a factor of:",
+  "options": [
+   "8",
+   "4",
+   "16",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "P₁ V₁^γ = P₂ V₂^γ ⇒ P₂ = P₁ (V₁/V₂)^γ = P₁ (4)^(1.5) = P₁ (4)^(3/2) = P₁ (2)³ = 8 P₁. | Hint: P ∝ 1 / V^γ.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Insulated vessel: gas at STP in A, vacuum in B; stopcock opened. The process is:",
+  "options": [
+   "Isochoric",
+   "Isobaric",
+   "Isothermal",
+   "Adiabatic"
+  ],
+  "answer": 3,
+  "explanation": "Free expansion, Q = 0, W = 0 → adiabatic (ΔU = 0).",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  }
 ]

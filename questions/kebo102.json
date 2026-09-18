@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 4,
-  "question": "Wrong statement:",
-  "options": [
-   "Cyanobacteria = blue-green algae",
-   "Golden algae = desmids",
-   "Eubacteria = false bacteria",
-   "Phycomycetes = algal fungi"
-  ],
-  "answer": 2,
-  "explanation": "Eubacteria are the TRUE bacteria; the label is wrong. | Hint: Which label contradicts itself?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 4,
   "question": "Biogas-from-dung prokaryotes:",
   "options": [
    "Halophiles",
@@ -40,6 +26,90 @@
   "explanation": "Salt, heat-acid, guts, water in order. | Hint: Match habitat to microbe.",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Methanogens belong to:",
+  "options": [
+   "Eubacteria",
+   "Archaebacteria",
+   "Dinoflagellates",
+   "Slime moulds"
+  ],
+  "answer": 1,
+  "explanation": "Methanogens are archaebacteria. | Hint: Which domain makes methane?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 4,
+  "question": "NOT correct about methanogens:",
+  "options": [
+   "Make biogas",
+   "Live in cattle rumen",
+   "Grow aerobically on cellulose",
+   "Produce methane"
+  ],
+  "answer": 2,
+  "explanation": "Methanogens are strict anaerobes. | Hint: Aerobic or anaerobic?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Wrong statement:",
+  "options": [
+   "Cyanobacteria = blue-green algae",
+   "Golden algae = desmids",
+   "Eubacteria = false bacteria",
+   "Phycomycetes = algal fungi"
+  ],
+  "answer": 2,
+  "explanation": "Eubacteria are the TRUE bacteria; the label is wrong. | Hint: Which label contradicts itself?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Correct statement:",
+  "options": [
+   "Cyanobacteria are autotrophs in Monera",
+   "Bacteria all heterotrophic",
+   "Slime moulds in Monera",
+   "Mycoplasma have walls"
+  ],
+  "answer": 0,
+  "explanation": "Only the cyanobacteria statement survives; the rest misplace groups. | Hint: Which statement has no error?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Wrong diatom statement:",
+  "options": [
+   "Walls easily destructible",
+   "Diatomaceous earth from walls",
+   "Chief ocean producers",
+   "Microscopic passive floaters"
+  ],
+  "answer": 0,
+  "explanation": "Silica walls are practically indestructible. | Hint: What makes diatom walls special?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Wrong statement:",
+  "options": [
+   "Bacterial wall is peptidoglycan",
+   "Pili/fimbriae drive motility",
+   "Cyanobacteria lack flagella",
+   "Mycoplasma is wall-less"
+  ],
+  "answer": 1,
+  "explanation": "Pili and fimbriae attach; they do not propel. | Hint: Attachment versus propulsion?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 6,
@@ -71,17 +141,17 @@
  },
  {
   "pdfPage": 7,
-  "question": "Wrong diatom statement:",
+  "question": "Match: saprophyte/parasite/lichens/mycorrhiza to decomposition/hosts/algae-fungi/roots:",
   "options": [
-   "Walls easily destructible",
-   "Diatomaceous earth from walls",
-   "Chief ocean producers",
-   "Microscopic passive floaters"
+   "a-i,b-iii,c-ii,d-iv",
+   "a-iii,b-ii,c-i,d-iv",
+   "a-ii,b-i,c-iii,d-iv",
+   "a-ii,b-iii,c-iv,d-i"
   ],
-  "answer": 0,
-  "explanation": "Silica walls are practically indestructible. | Hint: What makes diatom walls special?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "answer": 3,
+  "explanation": "Saprophytes decompose, parasites live on hosts, lichens pair algae+fungi, mycorrhizae join roots. | Hint: Pair each lifestyle.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 7,
@@ -98,21 +168,7 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 7,
-  "question": "Match: saprophyte/parasite/lichens/mycorrhiza to decomposition/hosts/algae-fungi/roots:",
-  "options": [
-   "a-i,b-iii,c-ii,d-iv",
-   "a-iii,b-ii,c-i,d-iv",
-   "a-ii,b-i,c-iii,d-iv",
-   "a-ii,b-iii,c-iv,d-i"
-  ],
-  "answer": 3,
-  "explanation": "Saprophytes decompose, parasites live on hosts, lichens pair algae+fungi, mycorrhizae join roots. | Hint: Pair each lifestyle.",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 7,
+  "pdfPage": 9,
   "question": "INCORRECT statement:",
   "options": [
    "Morels/truffles edible",
@@ -124,34 +180,6 @@
   "explanation": "Yeasts are unicellular without hyphae. | Hint: Which fungi lack hyphae?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 8,
-  "question": "Methanogens belong to:",
-  "options": [
-   "Eubacteria",
-   "Archaebacteria",
-   "Dinoflagellates",
-   "Slime moulds"
-  ],
-  "answer": 1,
-  "explanation": "Methanogens are archaebacteria. | Hint: Which domain makes methane?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 8,
-  "question": "NOT correct about methanogens:",
-  "options": [
-   "Make biogas",
-   "Live in cattle rumen",
-   "Grow aerobically on cellulose",
-   "Produce methane"
-  ],
-  "answer": 2,
-  "explanation": "Methanogens are strict anaerobes. | Hint: Aerobic or anaerobic?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
  },
  {
   "pdfPage": 9,
@@ -166,48 +194,6 @@
   "explanation": "Penicillium makes exogenous conidia. | Hint: Exogenous spores of Penicillium?",
   "source": "NEET NEET 2022 via MedicNEET",
   "year": "NEET 2022"
- },
- {
-  "pdfPage": 10,
-  "question": "Wrong statement:",
-  "options": [
-   "Sporozoans use pseudopodia",
-   "Mushrooms are basidiomycetes",
-   "Fungi and Plantae have walls",
-   "Mitochondria power all but Monera"
-  ],
-  "answer": 0,
-  "explanation": "Sporozoans lack locomotory organelles entirely. | Hint: Which protozoans lack locomotion?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 10,
-  "question": "Wrong statement:",
-  "options": [
-   "Bacterial wall is peptidoglycan",
-   "Pili/fimbriae drive motility",
-   "Cyanobacteria lack flagella",
-   "Mycoplasma is wall-less"
-  ],
-  "answer": 1,
-  "explanation": "Pili and fimbriae attach; they do not propel. | Hint: Attachment versus propulsion?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 10,
-  "question": "Correct statement:",
-  "options": [
-   "Cyanobacteria are autotrophs in Monera",
-   "Bacteria all heterotrophic",
-   "Slime moulds in Monera",
-   "Mycoplasma have walls"
-  ],
-  "answer": 0,
-  "explanation": "Only the cyanobacteria statement survives; the rest misplace groups. | Hint: Which statement has no error?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
  },
  {
   "pdfPage": 10,
@@ -236,6 +222,20 @@
   "explanation": "Unstable RNA plus short generations drive fast evolution. | Hint: Unstable genome plus fast generations?",
   "source": "NEET NEET 2023 via MedicNEET",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Wrong statement:",
+  "options": [
+   "Sporozoans use pseudopodia",
+   "Mushrooms are basidiomycetes",
+   "Fungi and Plantae have walls",
+   "Mitochondria power all but Monera"
+  ],
+  "answer": 0,
+  "explanation": "Sporozoans lack locomotory organelles entirely. | Hint: Which protozoans lack locomotion?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 11,

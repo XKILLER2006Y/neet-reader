@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 4,
+  "question": "Ethylenediaminetetraacetate (EDTA) ion is:",
+  "options": [
+   "Bidentate ligand with two N donor atoms",
+   "Tridentate ligand with three N donor atoms",
+   "Hexadentate ligand with four O and two N donor atoms",
+   "Unidentate ligand"
+  ],
+  "answer": 2,
+  "explanation": "EDTA grips the metal with two nitrogens and four oxygens: hexadentate. | Hint: Count the donor atoms: Ns plus Os.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
   "pdfPage": 7,
   "question": "The IUPAC name of the complex [Ag(H2O)2][Ag(CN)2] is:",
   "options": [
@@ -99,20 +113,6 @@
  },
  {
   "pdfPage": 12,
-  "question": "Statement I: Both [Co(NH3)6]3+ and [CoF6]3- are octahedral but differ in magnetic behaviour. Statement II: [Co(NH3)6]3+ is diamagnetic whereas [CoF6]3- is paramagnetic.",
-  "options": [
-   "Both I and II are false",
-   "I true, II false",
-   "I false, II true",
-   "Both I and II are true"
-  ],
-  "answer": 3,
-  "explanation": "NH3 is strong-field (pairs electrons, diamagnetic) while F- is weak-field (4 unpaired, paramagnetic); geometry stays octahedral. | Hint: Strong-field versus weak-field ligands.",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 12,
   "question": "Geometry + magnetism of Ni(CO)4:",
   "options": [
    "Square planar, paramagnetic",
@@ -126,32 +126,18 @@
   "year": "NEET 2018"
  },
  {
-  "pdfPage": 13,
-  "question": "Ethylenediaminetetraacetate (EDTA) ion is:",
+  "pdfPage": 12,
+  "question": "Statement I: Both [Co(NH3)6]3+ and [CoF6]3- are octahedral but differ in magnetic behaviour. Statement II: [Co(NH3)6]3+ is diamagnetic whereas [CoF6]3- is paramagnetic.",
   "options": [
-   "Bidentate ligand with two N donor atoms",
-   "Tridentate ligand with three N donor atoms",
-   "Hexadentate ligand with four O and two N donor atoms",
-   "Unidentate ligand"
+   "Both I and II are false",
+   "I true, II false",
+   "I false, II true",
+   "Both I and II are true"
   ],
-  "answer": 2,
-  "explanation": "EDTA grips the metal with two nitrogens and four oxygens: hexadentate. | Hint: Count the donor atoms: Ns plus Os.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 13,
-  "question": "Match List-I with List-II. List-I: (a) [Fe(CN)6]3-, (b) [Fe(H2O)6]3+, (c) [Fe(CN)6]4-, (d) [Fe(H2O)6]2+. List-II: (i) 5.92 BM, (ii) 0 BM, (iii) 4.90 BM, (iv) 1.73 BM.",
-  "options": [
-   "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
-   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
-   "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
-   "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
-  ],
-  "answer": 1,
-  "explanation": "Unpaired electrons: (a) 1 -> 1.73, (b) 5 -> 5.92, (c) 0 -> 0, (d) 4 -> 4.90 BM. | Hint: Find unpaired electrons for each oxidation and spin state.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "answer": 3,
+  "explanation": "NH3 is strong-field (pairs electrons, diamagnetic) while F- is weak-field (4 unpaired, paramagnetic); geometry stays octahedral. | Hint: Strong-field versus weak-field ligands.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024"
  },
  {
   "pdfPage": 13,
@@ -168,20 +154,6 @@
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 13,
-  "question": "Match Co3+/Cr3+/Fe3+/Ni2+ to moments √24/√15/√35/√8:",
-  "options": [
-   "a-iv,b-i,c-ii,d-iii",
-   "a-i,b-ii,c-iii,d-iv",
-   "a-iv,b-v,c-ii,d-i",
-   "a-iii,b-v,c-i,d-ii"
-  ],
-  "answer": 2,
-  "explanation": "Unpaired counts 4,3,5,2 map to √24,√15,√35,√8 respectively. | Hint: Find unpaired electrons for each ion.",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
   "pdfPage": 14,
   "question": "Spin-only moment of Cr2+ ion:",
   "options": [
@@ -192,20 +164,6 @@
   ],
   "answer": 3,
   "explanation": "Cr2+ is d4: 4 unpaired give sqrt(24) = 4.90 BM. | Hint: Count d electrons, apply sqrt(n(n+2)).",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 15,
-  "question": "Increasing field strength order:",
-  "options": [
-   "F- < SCN- < C2O4(2-) < CN-",
-   "CN- < C2O4(2-) < SCN- < F-",
-   "SCN- < F- < C2O4(2-) < CN-",
-   "SCN- < F- < CN- < C2O4(2-)"
-  ],
-  "answer": 0,
-  "explanation": "Spectrochemical series runs SCN- < F- < oxalato < CN-. | Hint: Weak to strong field: halide to cyanide?",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020"
  },
@@ -224,7 +182,35 @@
   "year": "NEET 2022"
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 15,
+  "question": "Increasing field strength order:",
+  "options": [
+   "F- < SCN- < C2O4(2-) < CN-",
+   "CN- < C2O4(2-) < SCN- < F-",
+   "SCN- < F- < C2O4(2-) < CN-",
+   "SCN- < F- < CN- < C2O4(2-)"
+  ],
+  "answer": 0,
+  "explanation": "Spectrochemical series runs SCN- < F- < oxalato < CN-. | Hint: Weak to strong field: halide to cyanide?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Match Co3+/Cr3+/Fe3+/Ni2+ to moments √24/√15/√35/√8:",
+  "options": [
+   "a-iv,b-i,c-ii,d-iii",
+   "a-i,b-ii,c-iii,d-iv",
+   "a-iv,b-v,c-ii,d-i",
+   "a-iii,b-v,c-i,d-ii"
+  ],
+  "answer": 2,
+  "explanation": "Unpaired counts 4,3,5,2 map to √24,√15,√35,√8 respectively. | Hint: Find unpaired electrons for each ion.",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 22,
   "question": "CFSE of [CoCl4]2- given [CoCl6]4- = 18000 cm-1:",
   "options": [
    "6000 cm-1",
@@ -236,6 +222,20 @@
   "explanation": "Tetrahedral splitting is 4/9 of octahedral: 18000 x 4/9 = 8000. | Hint: Tetrahedral delta is what fraction?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Match List-I with List-II. List-I: (a) [Fe(CN)6]3-, (b) [Fe(H2O)6]3+, (c) [Fe(CN)6]4-, (d) [Fe(H2O)6]2+. List-II: (i) 5.92 BM, (ii) 0 BM, (iii) 4.90 BM, (iv) 1.73 BM.",
+  "options": [
+   "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+   "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+   "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+  ],
+  "answer": 1,
+  "explanation": "Unpaired electrons: (a) 1 -> 1.73, (b) 5 -> 5.92, (c) 0 -> 0, (d) 4 -> 4.90 BM. | Hint: Find unpaired electrons for each oxidation and spin state.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 23,

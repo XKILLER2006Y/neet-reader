@@ -14,7 +14,21 @@
   "year": "NEET 2021"
  },
  {
-  "pdfPage": 6,
+  "pdfPage": 4,
+  "question": "Central dogma flow (a)DNA->DNA, (b)DNA->RNA, (c)RNA->?, (d)?:",
+  "options": [
+   "Replication, Transcription, Translation, Protein",
+   "Transduction, Translation, Replication, Protein",
+   "Replication, Transcription, Transduction, Protein",
+   "Translation, Replication, Transcription, Transduction"
+  ],
+  "answer": 0,
+  "explanation": "The classic DNA to RNA to protein flow. | Hint: Recite the central dogma.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 5,
   "question": "Association of histone H1 with a nucleosome indicates:",
   "options": [
    "DNA condensed into chromatin fibres",
@@ -43,34 +57,6 @@
  },
  {
   "pdfPage": 9,
-  "question": "Spliceosomes are NOT found in cells of:",
-  "options": [
-   "Bacteria",
-   "Animals",
-   "Plants",
-   "Fungi"
-  ],
-  "answer": 0,
-  "explanation": "Bacteria lack introns and splicing machinery entirely. | Hint: Which cells have no introns to splice?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 9,
-  "question": "Match: (A) Griffith, (B) Jacob and Monod, (C) Khorana, (D) Meselson and Stahl with (I) Genetic code, (II) Semiconservative replication, (III) Transformation, (IV) Lac operon.",
-  "options": [
-   "A-III, B-IV, C-I, D-II",
-   "A-II, B-III, C-IV, D-I",
-   "A-IV, B-I, C-II, D-III",
-   "A-III, B-II, C-I, D-IV"
-  ],
-  "answer": 0,
-  "explanation": "Each scientist maps to exactly one landmark: transformation, lac operon, code, replication. | Hint: Pair each name with its one famous experiment.",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 9,
   "question": "DNA with 6.6e9 bp (0.34 nm each) is about:",
   "options": [
    "2 metres",
@@ -82,34 +68,6 @@
   "explanation": "6.6e9 x 0.34e-9 m = 2.24 m, about 2 metres. | Hint: Multiply base pairs by rise per pair.",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020"
- },
- {
-  "pdfPage": 10,
-  "question": "Central dogma flow (a)DNA->DNA, (b)DNA->RNA, (c)RNA->?, (d)?:",
-  "options": [
-   "Replication, Transcription, Translation, Protein",
-   "Transduction, Translation, Replication, Protein",
-   "Replication, Transcription, Transduction, Protein",
-   "Translation, Replication, Transcription, Transduction"
-  ],
-  "answer": 0,
-  "explanation": "The classic DNA to RNA to protein flow. | Hint: Recite the central dogma.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 11,
-  "question": "The most abundant RNA in animal cells:",
-  "options": [
-   "tRNA",
-   "rRNA",
-   "mRNA",
-   "None of the above"
-  ],
-  "answer": 1,
-  "explanation": "rRNA forms ribosomes and dominates cellular RNA mass (~80%). | Hint: Which RNA builds ribosomes?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
  },
  {
   "pdfPage": 12,
@@ -126,18 +84,18 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 13,
-  "question": "First phase of translation:",
+  "pdfPage": 15,
+  "question": "Correct statement:",
   "options": [
-   "Aminoacylation of tRNA",
-   "Anticodon recognition",
-   "mRNA-ribosome binding",
-   "DNA recognition"
+   "Coding strand copied to mRNA",
+   "Split genes mark prokaryotes",
+   "Capping adds methyl-G to 3-prime end",
+   "Rho terminates bacterial transcription"
   ],
-  "answer": 0,
-  "explanation": "Charging tRNA with amino acids precedes everything. | Hint: What must be ready before ribosomes work?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "answer": 3,
+  "explanation": "Template (not coding) is copied; split genes/capping are eukaryotic-5-prime features; rho ends bacterial transcription. | Hint: Test each statement.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 15,
@@ -152,20 +110,6 @@
   "explanation": "Cistron = the unit of function, i.e. the structural gene. | Hint: Unit of function equals which -on?",
   "source": "NEET NEET 2016 via BYJU'S",
   "year": "NEET 2016"
- },
- {
-  "pdfPage": 15,
-  "question": "Correct statement:",
-  "options": [
-   "Coding strand copied to mRNA",
-   "Split genes mark prokaryotes",
-   "Capping adds methyl-G to 3-prime end",
-   "Rho terminates bacterial transcription"
-  ],
-  "answer": 3,
-  "explanation": "Template (not coding) is copied; split genes/capping are eukaryotic-5-prime features; rho ends bacterial transcription. | Hint: Test each statement.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
  },
  {
   "pdfPage": 16,
@@ -238,6 +182,20 @@
   "year": "NEET 2023"
  },
  {
+  "pdfPage": 20,
+  "question": "First phase of translation:",
+  "options": [
+   "Aminoacylation of tRNA",
+   "Anticodon recognition",
+   "mRNA-ribosome binding",
+   "DNA recognition"
+  ],
+  "answer": 0,
+  "explanation": "Charging tRNA with amino acids precedes everything. | Hint: What must be ready before ribosomes work?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
   "pdfPage": 21,
   "question": "Which rRNA acts as structural RNA and ribozyme in bacteria?",
   "options": [
@@ -252,6 +210,20 @@
   "year": "NEET 2016"
  },
  {
+  "pdfPage": 22,
+  "question": "Match: (A) Griffith, (B) Jacob and Monod, (C) Khorana, (D) Meselson and Stahl with (I) Genetic code, (II) Semiconservative replication, (III) Transformation, (IV) Lac operon.",
+  "options": [
+   "A-III, B-IV, C-I, D-II",
+   "A-II, B-III, C-IV, D-I",
+   "A-IV, B-I, C-II, D-III",
+   "A-III, B-II, C-I, D-IV"
+  ],
+  "answer": 0,
+  "explanation": "Each scientist maps to exactly one landmark: transformation, lac operon, code, replication. | Hint: Pair each name with its one famous experiment.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024"
+ },
+ {
   "pdfPage": 25,
   "question": "Commonly used vectors for human genome sequencing:",
   "options": [
@@ -264,6 +236,20 @@
   "explanation": "Bacterial and yeast artificial chromosomes carry the huge inserts HGP needed. | Hint: Which vectors carry the largest inserts?",
   "source": "NEET NEET 2014 via BYJU'S",
   "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Spliceosomes are NOT found in cells of:",
+  "options": [
+   "Bacteria",
+   "Animals",
+   "Plants",
+   "Fungi"
+  ],
+  "answer": 0,
+  "explanation": "Bacteria lack introns and splicing machinery entirely. | Hint: Which cells have no introns to splice?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 27,
@@ -306,5 +292,19 @@
   "explanation": "A-T pairs through two hydrogen bonds (G-C uses three). | Hint: How many bonds: A-T versus G-C?",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 30,
+  "question": "The most abundant RNA in animal cells:",
+  "options": [
+   "tRNA",
+   "rRNA",
+   "mRNA",
+   "None of the above"
+  ],
+  "answer": 1,
+  "explanation": "rRNA forms ribosomes and dominates cellular RNA mass (~80%). | Hint: Which RNA builds ribosomes?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
  }
 ]

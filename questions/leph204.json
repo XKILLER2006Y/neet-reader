@@ -1,31 +1,31 @@
 [
  {
-  "pdfPage": 4,
-  "question": "(I) Atoms neutral (equal ± charges). (II) Atoms of each element stable, emitting characteristic spectra.",
+  "pdfPage": 2,
+  "question": "Match Balmer lines: (A) 3→2 (B) 4→2 (C) 5→2 (D) 6→2 with I.410.2 II.434.1 III.656.3 IV.486.1 nm.",
   "options": [
-   "I right, II wrong",
-   "I wrong, II right",
-   "Both right",
-   "Both wrong"
+   "A-IV, B-III, C-I, D-II",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III",
+   "A-III, B-IV, C-II, D-I"
   ],
-  "answer": 0,
-  "explanation": "I ✓; II misstates stability/emission (NTA key).",
-  "source": "NEET 2024 Code-T3 official paper + NTA key",
+  "answer": 3,
+  "explanation": "Hα 656.3 (3→2), Hβ 486.1 (4→2), Hγ 434.1 (5→2), Hδ 410.2 (6→2).",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 4,
-  "question": "Hydrogen atom in ground state is excited by a monochromatic radiation of λ = 975 Å. Number of spectral lines in the resulting spectrum emitted will be",
+  "pdfPage": 2,
+  "question": "The wavelength of the Lyman series of the hydrogen atom appears in the :",
   "options": [
-   "6",
-   "10",
-   "3",
-   "2"
+   "visible region",
+   "far infrared region",
+   "ultraviolet region",
+   "infrared region"
   ],
-  "answer": 0,
-  "explanation": "Photon energy ≈ 12.7 eV → electron reaches n=4; lines = n(n−1)/2 = 6.",
+  "answer": 2,
+  "explanation": "Lyman transitions end at n=1; wavelengths 91–122 nm → ultraviolet.",
   "source": "examside.com",
-  "year": "AIPMT 2014"
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 4,
@@ -38,20 +38,6 @@
   ],
   "answer": 0,
   "explanation": "mvr = nh/2π; 1.5h/π = 3h/2π → n=3; E₃ = −13.6/9 ≈ −1.5 eV.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 4,
-  "question": "The radius of inner most orbit of hydrogen atom is 5.3 × 10⁻¹¹ m. What is the radius of third allowed orbit of hydrogen atom?",
-  "options": [
-   "0.53 Å",
-   "1.06 Å",
-   "1.59 Å",
-   "4.77 Å"
-  ],
-  "answer": 3,
-  "explanation": "rₙ = n²a₀; r₃ = 9 × 5.3×10⁻¹¹ = 4.77 Å.",
   "source": "examside.com",
   "year": "NEET 2023"
  },
@@ -84,18 +70,18 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 7,
-  "question": "Consider 3rd orbit of He⁺ (Helium), using non-relativistic approach, the speed of electron in this orbit will be [given K = 9 × 10⁹ constant, Z = 2 and h (Planck's Constant) = 6.6 × 10⁻³⁴ J s]",
+  "pdfPage": 5,
+  "question": "In the first excited state of hydrogen atom, the energy of its electron is –3.4 eV. The radial distance of the electron from the hydrogen nucleus in this case is approximately : (Take 1 eV = 1.6 × 10⁻¹⁹ J, e = 1.6 × 10⁻¹⁹ C and 1/(4πε₀) = 9 × 10⁹ Nm²/C²)",
   "options": [
-   "3.0 × 10⁸ m/s",
-   "2.92 × 10⁶ m/s",
-   "1.46 × 10⁶ m/s",
-   "0.73 × 10⁶ m/s"
+   "2.1 × 10⁻⁸ m",
+   "2.1 × 10⁻¹¹ m",
+   "2.1 × 10⁻⁹ m",
+   "2.1 × 10⁻¹⁰ m"
   ],
-  "answer": 2,
-  "explanation": "vₙ = Zc/(137n) = 2 × 3×10⁸/(137 × 3) ≈ 1.46 × 10⁶ m/s.",
+  "answer": 3,
+  "explanation": "First excited state n=2: r = 4a₀ = 4 × 0.529 Å = 2.12 Å ≈ 2.1 × 10⁻¹⁰ m.",
   "source": "examside.com",
-  "year": "AIPMT 2015"
+  "year": "NEET 2026"
  },
  {
   "pdfPage": 7,
@@ -124,20 +110,6 @@
   "explanation": "Series limit λ = n₁²/R. Balmer n₁=2: 4/R. Brackett n₁=4: 16/R = 4λ.",
   "source": "examside.com",
   "year": "NEET 2023"
- },
- {
-  "pdfPage": 7,
-  "question": "Let T₁ and T₂ be the energy of an electron in the first and second excited states of hydrogen atoms, respectively. According to the Bohr's model of an atom, the ratio T₁ : T₂ is",
-  "options": [
-   "4 : 1",
-   "4 : 9",
-   "9 : 4",
-   "1 : 4"
-  ],
-  "answer": 2,
-  "explanation": "T₁ = E₂ = −3.4 eV, T₂ = E₃ = −1.51 eV; ratio of magnitudes 3.4:1.51 = 9:4.",
-  "source": "examside.com",
-  "year": "NEET 2022"
  },
  {
   "pdfPage": 7,
@@ -183,62 +155,6 @@
  },
  {
   "pdfPage": 8,
-  "question": "In the first excited state of hydrogen atom, the energy of its electron is –3.4 eV. The radial distance of the electron from the hydrogen nucleus in this case is approximately : (Take 1 eV = 1.6 × 10⁻¹⁹ J, e = 1.6 × 10⁻¹⁹ C and 1/(4πε₀) = 9 × 10⁹ Nm²/C²)",
-  "options": [
-   "2.1 × 10⁻⁸ m",
-   "2.1 × 10⁻¹¹ m",
-   "2.1 × 10⁻⁹ m",
-   "2.1 × 10⁻¹⁰ m"
-  ],
-  "answer": 3,
-  "explanation": "First excited state n=2: r = 4a₀ = 4 × 0.529 Å = 2.12 Å ≈ 2.1 × 10⁻¹⁰ m.",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 8,
-  "question": "Innermost H orbit 5.3×10⁻¹¹ m. Third allowed orbit:",
-  "options": [
-   "1.06 Å",
-   "1.59 Å",
-   "4.77 Å",
-   "0.53 Å"
-  ],
-  "answer": 2,
-  "explanation": "r₃ = 9r₁ = 4.77 Å.",
-  "source": "NEET 2023 Code-F3 official paper",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 8,
-  "question": "Let R₁ be the radius of the second stationary orbit and R₂ be the radius of the fourth stationary orbit of an electron in Bohr's model. The ratio R₁/R₂ is :",
-  "options": [
-   "4",
-   "0.25",
-   "0.5",
-   "2"
-  ],
-  "answer": 1,
-  "explanation": "r ∝ n²: R₁ ∝ 4, R₂ ∝ 16 → R₁/R₂ = 0.25.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 8,
-  "question": "Match Balmer lines: (A) 3→2 (B) 4→2 (C) 5→2 (D) 6→2 with I.410.2 II.434.1 III.656.3 IV.486.1 nm.",
-  "options": [
-   "A-IV, B-III, C-I, D-II",
-   "A-I, B-II, C-III, D-IV",
-   "A-II, B-I, C-IV, D-III",
-   "A-III, B-IV, C-II, D-I"
-  ],
-  "answer": 3,
-  "explanation": "Hα 656.3 (3→2), Hβ 486.1 (4→2), Hγ 434.1 (5→2), Hδ 410.2 (6→2).",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 8,
   "question": "The ground state energy of hydrogen atom is –13.6 eV. The energy needed to ionize the hydrogen atom from its second excited state will be :",
   "options": [
    "13.6 eV",
@@ -266,7 +182,63 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 8,
+  "pdfPage": 11,
+  "question": "Innermost H orbit 5.3×10⁻¹¹ m. Third allowed orbit:",
+  "options": [
+   "1.06 Å",
+   "1.59 Å",
+   "4.77 Å",
+   "0.53 Å"
+  ],
+  "answer": 2,
+  "explanation": "r₃ = 9r₁ = 4.77 Å.",
+  "source": "NEET 2023 Code-F3 official paper",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Let R₁ be the radius of the second stationary orbit and R₂ be the radius of the fourth stationary orbit of an electron in Bohr's model. The ratio R₁/R₂ is :",
+  "options": [
+   "4",
+   "0.25",
+   "0.5",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "r ∝ n²: R₁ ∝ 4, R₂ ∝ 16 → R₁/R₂ = 0.25.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Let T₁ and T₂ be the energy of an electron in the first and second excited states of hydrogen atoms, respectively. According to the Bohr's model of an atom, the ratio T₁ : T₂ is",
+  "options": [
+   "4 : 1",
+   "4 : 9",
+   "9 : 4",
+   "1 : 4"
+  ],
+  "answer": 2,
+  "explanation": "T₁ = E₂ = −3.4 eV, T₂ = E₃ = −1.51 eV; ratio of magnitudes 3.4:1.51 = 9:4.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 11,
+  "question": "The radius of inner most orbit of hydrogen atom is 5.3 × 10⁻¹¹ m. What is the radius of third allowed orbit of hydrogen atom?",
+  "options": [
+   "0.53 Å",
+   "1.06 Å",
+   "1.59 Å",
+   "4.77 Å"
+  ],
+  "answer": 3,
+  "explanation": "rₙ = n²a₀; r₃ = 9 × 5.3×10⁻¹¹ = 4.77 Å.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 12,
   "question": "The spectral series which corresponds to the electronic transition from the levels n₂ = 5, 6, ... to the level n₁ = 4 is",
   "options": [
    "Pfund series",
@@ -280,7 +252,7 @@
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 14,
+  "pdfPage": 13,
   "question": "For which one of the following, Bohr model is not valid?",
   "options": [
    "Deuteron atom",
@@ -292,6 +264,20 @@
   "explanation": "Bohr model is exact only for single-electron systems; Ne⁺ has 9 electrons.",
   "source": "examside.com",
   "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 14,
+  "question": "(I) Atoms neutral (equal ± charges). (II) Atoms of each element stable, emitting characteristic spectra.",
+  "options": [
+   "I right, II wrong",
+   "I wrong, II right",
+   "Both right",
+   "Both wrong"
+  ],
+  "answer": 0,
+  "explanation": "I ✓; II misstates stability/emission (NTA key).",
+  "source": "NEET 2024 Code-T3 official paper + NTA key",
+  "year": "NEET 2024"
  },
  {
   "pdfPage": 14,
@@ -323,6 +309,20 @@
  },
  {
   "pdfPage": 14,
+  "question": "Hydrogen atom in ground state is excited by a monochromatic radiation of λ = 975 Å. Number of spectral lines in the resulting spectrum emitted will be",
+  "options": [
+   "6",
+   "10",
+   "3",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "Photon energy ≈ 12.7 eV → electron reaches n=4; lines = n(n−1)/2 = 6.",
+  "source": "examside.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 14,
   "question": "The ratio of radii of the 2nd and 3rd Bohr orbits of hydrogen atom is:",
   "options": [
    "4 : 9",
@@ -336,17 +336,17 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 14,
-  "question": "The wavelength of the Lyman series of the hydrogen atom appears in the :",
+  "pdfPage": 16,
+  "question": "Consider 3rd orbit of He⁺ (Helium), using non-relativistic approach, the speed of electron in this orbit will be [given K = 9 × 10⁹ constant, Z = 2 and h (Planck's Constant) = 6.6 × 10⁻³⁴ J s]",
   "options": [
-   "visible region",
-   "far infrared region",
-   "ultraviolet region",
-   "infrared region"
+   "3.0 × 10⁸ m/s",
+   "2.92 × 10⁶ m/s",
+   "1.46 × 10⁶ m/s",
+   "0.73 × 10⁶ m/s"
   ],
   "answer": 2,
-  "explanation": "Lyman transitions end at n=1; wavelengths 91–122 nm → ultraviolet.",
+  "explanation": "vₙ = Zc/(137n) = 2 × 3×10⁸/(137 × 3) ≈ 1.46 × 10⁶ m/s.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "AIPMT 2015"
  }
 ]

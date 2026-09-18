@@ -15,17 +15,17 @@
  },
  {
   "pdfPage": 2,
-  "question": "Which among the following is not a prokaryote?",
+  "question": "Methanogens belong to",
   "options": [
-   "Saccharomyces",
-   "Mycobacterium",
-   "Oscillatoria",
-   "Nostoc"
+   "Eubacteria",
+   "Archaebacteria",
+   "Dinoflagellates",
+   "Slime moulds"
   ],
-  "answer": 0,
-  "explanation": "Saccharomyces is a eukaryotic (unicellular) yeast; the other three are bacteria/cyanobacteria.",
-  "source": "NEET 2018 (testbook.com + vedantu + allen.in)",
-  "year": "2018"
+  "answer": 1,
+  "explanation": "Methanogens are archaebacteria that produce methane in anaerobic habitats.",
+  "source": "AIPMT 2016-II (neeteqad + brainly + NCERT)",
+  "year": "2016"
  },
  {
   "pdfPage": 4,
@@ -43,20 +43,6 @@
  },
  {
   "pdfPage": 4,
-  "question": "Methanogens belong to",
-  "options": [
-   "Eubacteria",
-   "Archaebacteria",
-   "Dinoflagellates",
-   "Slime moulds"
-  ],
-  "answer": 1,
-  "explanation": "Methanogens are archaebacteria that produce methane in anaerobic habitats.",
-  "source": "AIPMT 2016-II (neeteqad + brainly + NCERT)",
-  "year": "2016"
- },
- {
-  "pdfPage": 8,
   "question": "Life cycles of Ectocarpus and Fucus:",
   "options": [
    "Haplontic, Diplontic",
@@ -68,6 +54,48 @@
   "explanation": "Ectocarpus alternates (haplodiplontic); Fucus is diplontic. | Hint: Which one alternates generations?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Which among the following is not a prokaryote?",
+  "options": [
+   "Saccharomyces",
+   "Mycobacterium",
+   "Oscillatoria",
+   "Nostoc"
+  ],
+  "answer": 0,
+  "explanation": "Saccharomyces is a eukaryotic (unicellular) yeast; the other three are bacteria/cyanobacteria.",
+  "source": "NEET 2018 (testbook.com + vedantu + allen.in)",
+  "year": "2018"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Wrong algae statement:",
+  "options": [
+   "Algae raise dissolved O2",
+   "Algin from red, carrageenan from brown",
+   "Agar from Gelidium/Gracilaria",
+   "Laminaria/Sargassum as food"
+  ],
+  "answer": 1,
+  "explanation": "Algin comes from brown algae and carrageenan from red; the statement swaps them. | Hint: Which two products swapped their algae?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Fucoxanthin and phycoerythrin respectively in:",
+  "options": [
+   "Chloro + Rhodo",
+   "Rhodo + Phaeo",
+   "Phaeo + Chloro",
+   "Phaeo + Rhodo"
+  ],
+  "answer": 3,
+  "explanation": "Fucoxanthin marks browns, phycoerythrin marks reds. | Hint: Brown pigment, red pigment: which classes?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 8,
@@ -85,17 +113,17 @@
  },
  {
   "pdfPage": 8,
-  "question": "Which of the following are found in extreme saline conditions?",
+  "question": "Zygotic meiosis characterises:",
   "options": [
-   "Archaebacteria",
-   "Eubacteria",
-   "Cyanobacteria",
-   "Mycobacteria"
+   "Marchantia",
+   "Fucus",
+   "Funaria",
+   "Chlamydomonas"
   ],
-  "answer": 0,
-  "explanation": "Halophilic archaebacteria (halobacteria) thrive in salt-rich extreme conditions.",
-  "source": "NEET 2017 (gneet.com + allen.in)",
-  "year": "2017"
+  "answer": 3,
+  "explanation": "Haplontic Chlamydomonas divides its zygote meiotically. | Hint: Which life cycle is haplontic?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 10,
@@ -126,6 +154,20 @@
   "year": "NEET 2016"
  },
  {
+  "pdfPage": 10,
+  "question": "Which of the following are found in extreme saline conditions?",
+  "options": [
+   "Archaebacteria",
+   "Eubacteria",
+   "Cyanobacteria",
+   "Mycobacteria"
+  ],
+  "answer": 0,
+  "explanation": "Halophilic archaebacteria (halobacteria) thrive in salt-rich extreme conditions.",
+  "source": "NEET 2017 (gneet.com + allen.in)",
+  "year": "2017"
+ },
+ {
   "pdfPage": 11,
   "question": "Mismatch:",
   "options": [
@@ -138,34 +180,6 @@
   "explanation": "Pinus is monoecious (both cones one plant); the rest match. | Hint: Which conifer carries both cone types?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
- },
- {
-  "pdfPage": 11,
-  "question": "Zygotic meiosis characterises:",
-  "options": [
-   "Marchantia",
-   "Fucus",
-   "Funaria",
-   "Chlamydomonas"
-  ],
-  "answer": 3,
-  "explanation": "Haplontic Chlamydomonas divides its zygote meiotically. | Hint: Which life cycle is haplontic?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 13,
-  "question": "Fucoxanthin and phycoerythrin respectively in:",
-  "options": [
-   "Chloro + Rhodo",
-   "Rhodo + Phaeo",
-   "Phaeo + Chloro",
-   "Phaeo + Rhodo"
-  ],
-  "answer": 3,
-  "explanation": "Fucoxanthin marks browns, phycoerythrin marks reds. | Hint: Brown pigment, red pigment: which classes?",
-  "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
  },
  {
   "pdfPage": 13,
@@ -192,20 +206,6 @@
   ],
   "answer": 3,
   "explanation": "Swimming antherozoids need a water film. | Hint: How do non-vascular sperms swim?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 13,
-  "question": "Wrong algae statement:",
-  "options": [
-   "Algae raise dissolved O2",
-   "Algin from red, carrageenan from brown",
-   "Agar from Gelidium/Gracilaria",
-   "Laminaria/Sargassum as food"
-  ],
-  "answer": 1,
-  "explanation": "Algin comes from brown algae and carrageenan from red; the statement swaps them. | Hint: Which two products swapped their algae?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  }

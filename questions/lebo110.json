@@ -1,5 +1,47 @@
 [
  {
+  "pdfPage": 3,
+  "question": "Bt protoxin activates in bollworm by:",
+  "options": [
+   "Body temperature",
+   "Midgut moisture",
+   "Alkaline gut pH",
+   "Acidic stomach"
+  ],
+  "answer": 2,
+  "explanation": "Alkaline pH solubilises and activates the crystals. | Hint: Acid or alkali in the gut?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 3,
+  "question": "True for Golden Rice:",
+  "options": [
+   "Vitamin A enriched, daffodil gene",
+   "Bt pest resistance",
+   "Drought tolerant via Agrobacterium",
+   "Yellow from primitive rice gene"
+  ],
+  "answer": 0,
+  "explanation": "Daffodil phytoene-synthase gene adds provitamin A. | Hint: Which gene, which vitamin?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Which of the following Bt crops is being grown in India by the farmers?",
+  "options": [
+   "Maize",
+   "Cotton",
+   "Brinjal",
+   "Soyabean"
+  ],
+  "answer": 1,
+  "explanation": "Bt cotton (cry toxin from Bacillus thuringiensis) is the only Bt crop commercially cultivated in India.",
+  "source": "NEET 2013 (iitianacademy.com + askfilo.com)",
+  "year": "2013"
+ },
+ {
   "pdfPage": 4,
   "question": "RNAi silences genes using:",
   "options": [
@@ -14,30 +56,16 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 4,
-  "question": "The first human hormone produced by recombinant DNA technology is :",
+  "pdfPage": 5,
+  "question": "Insulin polypeptides linked by:",
   "options": [
-   "Insulin",
-   "Estrogen",
-   "Thyroxin",
-   "Progesterone"
-  ],
-  "answer": 0,
-  "explanation": "Human insulin was the first recombinant-DNA product (Eli Lilly, 1983) made in E. coli.",
-  "source": "AIPMT 2014 (careers360.com + iitianacademy + edurev.in)",
-  "year": "2014"
- },
- {
-  "pdfPage": 4,
-  "question": "Tobacco part attacked by Meloidogyne incognita:",
-  "options": [
-   "Flower",
-   "Leaf",
-   "Stem",
-   "Root"
+   "Hydrogen bonds",
+   "Phosphodiester",
+   "Covalent (nonspecific)",
+   "Disulphide bridges"
   ],
   "answer": 3,
-  "explanation": "Root-knot nematode infects roots. | Hint: Knot nematode attacks where?",
+  "explanation": "Two interchain disulphides join A and B. | Hint: Which covalent link?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -71,17 +99,17 @@
  },
  {
   "pdfPage": 6,
-  "question": "True for Golden Rice:",
+  "question": "The first human hormone produced by recombinant DNA technology is :",
   "options": [
-   "Vitamin A enriched, daffodil gene",
-   "Bt pest resistance",
-   "Drought tolerant via Agrobacterium",
-   "Yellow from primitive rice gene"
+   "Insulin",
+   "Estrogen",
+   "Thyroxin",
+   "Progesterone"
   ],
   "answer": 0,
-  "explanation": "Daffodil phytoene-synthase gene adds provitamin A. | Hint: Which gene, which vitamin?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "explanation": "Human insulin was the first recombinant-DNA product (Eli Lilly, 1983) made in E. coli.",
+  "source": "AIPMT 2014 (careers360.com + iitianacademy + edurev.in)",
+  "year": "2014"
  },
  {
   "pdfPage": 6,
@@ -96,34 +124,6 @@
   "explanation": "Animal-cell gene delivery uses retroviruses. | Hint: Animal-cell vector?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
- },
- {
-  "pdfPage": 6,
-  "question": "Which of the following Bt crops is being grown in India by the farmers?",
-  "options": [
-   "Maize",
-   "Cotton",
-   "Brinjal",
-   "Soyabean"
-  ],
-  "answer": 1,
-  "explanation": "Bt cotton (cry toxin from Bacillus thuringiensis) is the only Bt crop commercially cultivated in India.",
-  "source": "NEET 2013 (iitianacademy.com + askfilo.com)",
-  "year": "2013"
- },
- {
-  "pdfPage": 7,
-  "question": "Insulin polypeptides linked by:",
-  "options": [
-   "Hydrogen bonds",
-   "Phosphodiester",
-   "Covalent (nonspecific)",
-   "Disulphide bridges"
-  ],
-  "answer": 3,
-  "explanation": "Two interchain disulphides join A and B. | Hint: Which covalent link?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
  },
  {
   "pdfPage": 7,
@@ -152,6 +152,20 @@
   "explanation": "GEAC approves GMOs for public use. | Hint: Approval committee acronym?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Tobacco part attacked by Meloidogyne incognita:",
+  "options": [
+   "Flower",
+   "Leaf",
+   "Stem",
+   "Root"
+  ],
+  "answer": 3,
+  "explanation": "Root-knot nematode infects roots. | Hint: Knot nematode attacks where?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 9,
@@ -192,20 +206,6 @@
   ],
   "answer": 2,
   "explanation": "Universality lets bacterial ribosomes read human genes. | Hint: Same code everywhere?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 10,
-  "question": "Bt protoxin activates in bollworm by:",
-  "options": [
-   "Body temperature",
-   "Midgut moisture",
-   "Alkaline gut pH",
-   "Acidic stomach"
-  ],
-  "answer": 2,
-  "explanation": "Alkaline pH solubilises and activates the crystals. | Hint: Acid or alkali in the gut?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
  }

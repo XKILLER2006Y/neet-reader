@@ -1,5 +1,33 @@
 [
  {
+  "pdfPage": 4,
+  "question": "Tubectomy is a method of sterilization in which",
+  "options": [
+   "small part of the Fallopian tube is removed or tied up",
+   "ovaries are removed surgically",
+   "small part of vas deferens is removed or tied up",
+   "uterus is removed surgically"
+  ],
+  "answer": 0,
+  "explanation": "Tubectomy blocks the Fallopian tubes so the ovum cannot reach the uterus; vasectomy (option C) is the male equivalent.",
+  "source": "AIPMT 2014 (questions.collegedunia.com + careers360)",
+  "year": "2014"
+ },
+ {
+  "pdfPage": 5,
+  "question": "INCORRECT divergent-evolution set:",
+  "options": [
+   "Bat/man/cheetah brains",
+   "Bat/man/cheetah hearts",
+   "Man/bat/cheetah forelimbs",
+   "Octopus/bat/man eyes"
+  ],
+  "answer": 3,
+  "explanation": "Octopus and vertebrate eyes evolved independently (analogous). | Hint: Which eyes evolved separately?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
+ },
+ {
   "pdfPage": 6,
   "question": "Analogous structures result from:",
   "options": [
@@ -43,20 +71,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "INCORRECT divergent-evolution set:",
-  "options": [
-   "Bat/man/cheetah brains",
-   "Bat/man/cheetah hearts",
-   "Man/bat/cheetah forelimbs",
-   "Octopus/bat/man eyes"
-  ],
-  "answer": 3,
-  "explanation": "Octopus and vertebrate eyes evolved independently (analogous). | Hint: Which eyes evolved separately?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 6,
   "question": "NOT true:",
   "options": [
    "Analogous = convergent",
@@ -70,32 +84,32 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 6,
-  "question": "The contraceptive 'Saheli'",
+  "pdfPage": 10,
+  "question": "Genetic drift operates in:",
   "options": [
-   "is an IUD",
-   "increases the concentration of estrogen and prevents ovulation in females",
-   "blocks estrogen receptors in the uterus preventing eggs from getting implanted",
-   "is a post-coital contraceptive"
+   "Small isolated population",
+   "Large isolated population",
+   "Non-reproductive population",
+   "Slow-reproducing population"
   ],
-  "answer": 2,
-  "explanation": "Saheli (centchroman) is a non-steroidal, once-weekly pill that blocks estrogen receptors, preventing implantation.",
-  "source": "NEET 2018 (sarthaks.com + edurev.in)",
-  "year": "2018"
+  "answer": 0,
+  "explanation": "Chance fixation bites hardest in tiny isolated gene pools. | Hint: Where does chance rule?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 10,
-  "question": "The function of copper ions in copper releasing IUD's is :",
+  "question": "Origin-of-life sequence:",
   "options": [
-   "They inhibit gametogenesis",
-   "They make uterus unsuitable for implantation",
-   "They inhibit ovulation",
-   "They suppress sperm motility and fertilising capacity of sperms"
+   "Protobionts, monomers, polymers, DNA",
+   "Protobionts, polymers, monomers, DNA",
+   "Monomers, polymers, protobionts, DNA",
+   "Monomers, polymers, DNA, protobionts"
   ],
-  "answer": 3,
-  "explanation": "Cu2+ ions suppress sperm motility and the fertilising capacity of sperms.",
-  "source": "NEET 2017 (questions.collegedunia.com + testbook.com)",
-  "year": "2017"
+  "answer": 2,
+  "explanation": "Chemistry first (monomers→polymers), then cells, then DNA systems. | Hint: Molecules before cells?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 10,
@@ -113,20 +127,6 @@
  },
  {
   "pdfPage": 11,
-  "question": "Genetic drift operates in:",
-  "options": [
-   "Small isolated population",
-   "Large isolated population",
-   "Non-reproductive population",
-   "Slow-reproducing population"
-  ],
-  "answer": 0,
-  "explanation": "Chance fixation bites hardest in tiny isolated gene pools. | Hint: Where does chance rule?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 11,
   "question": "High-milk cows by artificial selection =:",
   "options": [
    "Stabilising",
@@ -138,20 +138,6 @@
   "explanation": "Pushing the mean one way is directional selection. | Hint: Mean pushed one way?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
- },
- {
-  "pdfPage": 11,
-  "question": "Tubectomy is a method of sterilization in which",
-  "options": [
-   "small part of the Fallopian tube is removed or tied up",
-   "ovaries are removed surgically",
-   "small part of vas deferens is removed or tied up",
-   "uterus is removed surgically"
-  ],
-  "answer": 0,
-  "explanation": "Tubectomy blocks the Fallopian tubes so the ovum cannot reach the uterus; vasectomy (option C) is the male equivalent.",
-  "source": "AIPMT 2014 (questions.collegedunia.com + careers360)",
-  "year": "2014"
  },
  {
   "pdfPage": 12,
@@ -166,6 +152,34 @@
   "explanation": "2pq counts the heterozygotes. | Hint: The middle term?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 12,
+  "question": "The function of copper ions in copper releasing IUD's is :",
+  "options": [
+   "They inhibit gametogenesis",
+   "They make uterus unsuitable for implantation",
+   "They inhibit ovulation",
+   "They suppress sperm motility and fertilising capacity of sperms"
+  ],
+  "answer": 3,
+  "explanation": "Cu2+ ions suppress sperm motility and the fertilising capacity of sperms.",
+  "source": "NEET 2017 (questions.collegedunia.com + testbook.com)",
+  "year": "2017"
+ },
+ {
+  "pdfPage": 14,
+  "question": "The contraceptive 'Saheli'",
+  "options": [
+   "is an IUD",
+   "increases the concentration of estrogen and prevents ovulation in females",
+   "blocks estrogen receptors in the uterus preventing eggs from getting implanted",
+   "is a post-coital contraceptive"
+  ],
+  "answer": 2,
+  "explanation": "Saheli (centchroman) is a non-steroidal, once-weekly pill that blocks estrogen receptors, preventing implantation.",
+  "source": "NEET 2018 (sarthaks.com + edurev.in)",
+  "year": "2018"
  },
  {
   "pdfPage": 15,
@@ -192,20 +206,6 @@
   ],
   "answer": 2,
   "explanation": "Both match the standard origin narrative. | Hint: Anaerobes first, then chemoautotrophs?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 17,
-  "question": "Origin-of-life sequence:",
-  "options": [
-   "Protobionts, monomers, polymers, DNA",
-   "Protobionts, polymers, monomers, DNA",
-   "Monomers, polymers, protobionts, DNA",
-   "Monomers, polymers, DNA, protobionts"
-  ],
-  "answer": 2,
-  "explanation": "Chemistry first (monomers→polymers), then cells, then DNA systems. | Hint: Molecules before cells?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  }

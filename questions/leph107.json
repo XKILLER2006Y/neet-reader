@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 4,
-  "question": "1000-turn coil, radius 10 m, spins at 2 rad/s in Earth's vertical 2×10⁻⁵ T; R = 12.56 Ω. Max induced current:",
-  "options": [
-   "2 A",
-   "0.25 A",
-   "1.5 A",
-   "1 A"
-  ],
-  "answer": 3,
-  "explanation": "ε₀ = NBAω = 1000×π×100×2e-5×2 = 12.56 V → I = 1 A.",
-  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 4,
   "question": "An ac voltage V = 220 sin(2×10³ t) volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given : L = 10 mH, C = 25 μF, R = 100 Ω)",
   "options": [
    "22.0 A",
@@ -28,32 +14,18 @@
   "year": "RE-NEET 2026"
  },
  {
-  "pdfPage": 7,
-  "question": "10 μF capacitor on 210 V, 50 Hz. Peak current ≈ (π = 3.14):",
+  "pdfPage": 5,
+  "question": "1000-turn coil, radius 10 m, spins at 2 rad/s in Earth's vertical 2×10⁻⁵ T; R = 12.56 Ω. Max induced current:",
   "options": [
-   "1.20 A",
-   "0.35 A",
-   "0.58 A",
-   "0.93 A"
+   "2 A",
+   "0.25 A",
+   "1.5 A",
+   "1 A"
   ],
   "answer": 3,
-  "explanation": "Xc = 1/(2πfC) ≈ 318 Ω; Irms ≈ 0.66 A → I₀ ≈ 0.93 A.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 7,
-  "question": "AC source on capacitor C; operating frequency is decreased. Then:",
-  "options": [
-   "Xc decreases",
-   "Displacement current increases",
-   "Displacement current decreases",
-   "Xc unchanged"
-  ],
-  "answer": 2,
-  "explanation": "Xc = 1/2πfC rises → current (conduction = displacement) falls.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "explanation": "ε₀ = NBAω = 1000×π×100×2e-5×2 = 12.56 V → I = 1 A.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
  },
  {
   "pdfPage": 7,
@@ -98,18 +70,32 @@
   "year": "NEET 2024 (Re-Examination)"
  },
  {
-  "pdfPage": 12,
-  "question": "A 12 V, 60 W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding ?",
+  "pdfPage": 10,
+  "question": "AC source on capacitor C; operating frequency is decreased. Then:",
   "options": [
-   "2.7 A",
-   "3.7 A",
-   "0.37 A",
-   "0.27 A"
+   "Xc decreases",
+   "Displacement current increases",
+   "Displacement current decreases",
+   "Xc unchanged"
+  ],
+  "answer": 2,
+  "explanation": "Xc = 1/2πfC rises → current (conduction = displacement) falls.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The magnetic potential energy stored in a certain inductor is 25 mJ, when the current in the inductor is 60 mA. This inductor is of inductance",
+  "options": [
+   "0.138 H",
+   "138.88 H",
+   "1.389 H",
+   "13.89 H"
   ],
   "answer": 3,
-  "explanation": "Ideal transformer: power is conserved ⇒ P_p = P_s = 60 W ⇒ I_p = 60/220 = 0.27 A.",
+  "explanation": "U = ½LI² ⇒ L = 2U/I² = 2×25×10⁻³/(60×10⁻³)² = 0.05/3.6×10⁻³ = 13.89 H.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 12,
@@ -140,18 +126,18 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 16,
-  "question": "The magnetic potential energy stored in a certain inductor is 25 mJ, when the current in the inductor is 60 mA. This inductor is of inductance",
+  "pdfPage": 19,
+  "question": "Ideal transformer with Np/Ns = 1/2. The ratio Vs:Vp equals:",
   "options": [
-   "0.138 H",
-   "138.88 H",
-   "1.389 H",
-   "13.89 H"
+   "1:1",
+   "1:4",
+   "1:2",
+   "2:1"
   ],
   "answer": 3,
-  "explanation": "U = ½LI² ⇒ L = 2U/I² = 2×25×10⁻³/(60×10⁻³)² = 0.05/3.6×10⁻³ = 13.89 H.",
-  "source": "examside.com",
-  "year": "NEET 2018"
+  "explanation": "Vs/Vp = Ns/Np = 2/1.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
  },
  {
   "pdfPage": 20,
@@ -169,6 +155,20 @@
  },
  {
   "pdfPage": 20,
+  "question": "A 12 V, 60 W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding ?",
+  "options": [
+   "2.7 A",
+   "3.7 A",
+   "0.37 A",
+   "0.27 A"
+  ],
+  "answer": 3,
+  "explanation": "Ideal transformer: power is conserved ⇒ P_p = P_s = 60 W ⇒ I_p = 60/220 = 0.27 A.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 20,
   "question": "An inductor 20 mH, a capacitor 100 μF and a resistor 50 Ω are connected in series across a source of emf, V = 10 sin 314 t. The power loss in the circuit is",
   "options": [
    "0.79 W",
@@ -182,16 +182,16 @@
   "year": "NEET 2018"
  },
  {
-  "pdfPage": 20,
-  "question": "Ideal transformer with Np/Ns = 1/2. The ratio Vs:Vp equals:",
+  "pdfPage": 24,
+  "question": "10 μF capacitor on 210 V, 50 Hz. Peak current ≈ (π = 3.14):",
   "options": [
-   "1:1",
-   "1:4",
-   "1:2",
-   "2:1"
+   "1.20 A",
+   "0.35 A",
+   "0.58 A",
+   "0.93 A"
   ],
   "answer": 3,
-  "explanation": "Vs/Vp = Ns/Np = 2/1.",
+  "explanation": "Xc = 1/(2πfC) ≈ 318 Ω; Irms ≈ 0.66 A → I₀ ≈ 0.93 A.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
   "year": "NEET 2024"
  }

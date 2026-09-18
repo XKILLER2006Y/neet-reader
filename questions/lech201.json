@@ -1,48 +1,6 @@
 [
  {
   "pdfPage": 6,
-  "question": "Gives precipitate with AgNO3 solution:",
-  "options": [
-   "(CH3)3CCl",
-   "CHCl3",
-   "CH2=CH-Cl",
-   "CCl4"
-  ],
-  "answer": 0,
-  "explanation": "Tert-butyl chloride ionises fastest (stable 3° carbocation), precipitating AgCl at once. | Hint: Which forms the most stable carbocation?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 6,
-  "question": "Chlorobenzene + chloral, conc. H2SO4 gives:",
-  "options": [
-   "Gammexene",
-   "DDT",
-   "Freon",
-   "Hexachloroethane"
-  ],
-  "answer": 1,
-  "explanation": "This condensation is the classic DDT preparation. | Hint: Name the famous insecticide synthesis.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 6,
-  "question": "Iodoform from all EXCEPT:",
-  "options": [
-   "Isopropyl alcohol",
-   "3-Methyl-2-butanone",
-   "Isobutyl alcohol",
-   "Ethyl methyl ketone"
-  ],
-  "answer": 2,
-  "explanation": "Isobutyl alcohol lacks the CH3CH(OH)-/CH3CO- group iodoform needs. | Hint: Which lacks the haloform group?",
-  "source": "JEE AIEEE 2012 via BYJU'S",
-  "year": "AIEEE 2012"
- },
- {
-  "pdfPage": 6,
   "question": "Heating with aqueous KOH gives acetaldehyde:",
   "options": [
    "CH3COCl",
@@ -57,31 +15,31 @@
  },
  {
   "pdfPage": 7,
-  "question": "Lab synthesis of fluorobenzene:",
+  "question": "Gives precipitate with AgNO3 solution:",
   "options": [
-   "Phenol + HF/KF",
-   "Aniline, diazotise, then HBF4/heat",
-   "Direct F2 fluorination",
-   "Bromobenzene + NaF"
+   "(CH3)3CCl",
+   "CHCl3",
+   "CH2=CH-Cl",
+   "CCl4"
   ],
-  "answer": 1,
-  "explanation": "Balz-Schiemann: diazonium tetrafluoroborate decomposes to fluorobenzene. | Hint: Which route goes through a diazonium salt?",
-  "source": "JEE AIEEE 2006 via BYJU'S",
-  "year": "AIEEE 2006"
+  "answer": 0,
+  "explanation": "Tert-butyl chloride ionises fastest (stable 3° carbocation), precipitating AgCl at once. | Hint: Which forms the most stable carbocation?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 8,
-  "question": "DDT is:",
+  "pdfPage": 13,
+  "question": "2-Bromobutane dehydrohalogenation gives mainly:",
   "options": [
-   "A fertilizer",
-   "A biodegradable pollutant",
-   "A non-biodegradable pollutant",
-   "A greenhouse gas"
+   "Equimolar 1- and 2-butene",
+   "Predominantly 2-butene",
+   "Predominantly 1-butene",
+   "Predominantly 2-butyne"
   ],
-  "answer": 2,
-  "explanation": "DDT persists in nature and biomagnifies. | Hint: Why was DDT banned?",
-  "source": "JEE AIEEE 2012 via BYJU'S",
-  "year": "AIEEE 2012"
+  "answer": 1,
+  "explanation": "Saytzeff rule favours the more substituted alkene. | Hint: Most substituted alkene wins.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
  },
  {
   "pdfPage": 15,
@@ -96,20 +54,6 @@
   "explanation": "SN2 rate falls as steric crowding rises. | Hint: Less crowding means faster SN2.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 17,
-  "question": "(-)-1-Chloro-1-phenylethane racemises with SbCl5 via:",
-  "options": [
-   "Free radical",
-   "Carbanion",
-   "Carbene",
-   "Carbocation"
-  ],
-  "answer": 3,
-  "explanation": "Ionisation to a planar carbocation erases chirality and racemises. | Hint: Which planar intermediate kills chirality?",
-  "source": "JEE JEE Main 2013 via BYJU'S",
-  "year": "JEE Main 2013"
  },
  {
   "pdfPage": 17,
@@ -140,32 +84,32 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 18,
-  "question": "Has a meso isomer too:",
+  "pdfPage": 30,
+  "question": "(-)-1-Chloro-1-phenylethane racemises with SbCl5 via:",
   "options": [
-   "2-Chlorobutane",
-   "2,3-Dichlorobutane",
-   "2,3-Dichloropentane",
-   "2-Hydroxypropanoic acid"
+   "Free radical",
+   "Carbanion",
+   "Carbene",
+   "Carbocation"
   ],
-  "answer": 1,
-  "explanation": "2,3-Dichlorobutane has an achiral meso form with a plane of symmetry. | Hint: Which has an internal mirror plane?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "answer": 3,
+  "explanation": "Ionisation to a planar carbocation erases chirality and racemises. | Hint: Which planar intermediate kills chirality?",
+  "source": "JEE JEE Main 2013 via BYJU'S",
+  "year": "JEE Main 2013"
  },
  {
-  "pdfPage": 22,
-  "question": "2-Bromobutane dehydrohalogenation gives mainly:",
+  "pdfPage": 30,
+  "question": "DDT is:",
   "options": [
-   "Equimolar 1- and 2-butene",
-   "Predominantly 2-butene",
-   "Predominantly 1-butene",
-   "Predominantly 2-butyne"
+   "A fertilizer",
+   "A biodegradable pollutant",
+   "A non-biodegradable pollutant",
+   "A greenhouse gas"
   ],
-  "answer": 1,
-  "explanation": "Saytzeff rule favours the more substituted alkene. | Hint: Most substituted alkene wins.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "answer": 2,
+  "explanation": "DDT persists in nature and biomagnifies. | Hint: Why was DDT banned?",
+  "source": "JEE AIEEE 2012 via BYJU'S",
+  "year": "AIEEE 2012"
  },
  {
   "pdfPage": 31,
@@ -194,5 +138,61 @@
   "explanation": "R2CuLi couples R-X into a longer alkane R-R. | Hint: Coupling two alkyls gives which class?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 31,
+  "question": "Chlorobenzene + chloral, conc. H2SO4 gives:",
+  "options": [
+   "Gammexene",
+   "DDT",
+   "Freon",
+   "Hexachloroethane"
+  ],
+  "answer": 1,
+  "explanation": "This condensation is the classic DDT preparation. | Hint: Name the famous insecticide synthesis.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 31,
+  "question": "Has a meso isomer too:",
+  "options": [
+   "2-Chlorobutane",
+   "2,3-Dichlorobutane",
+   "2,3-Dichloropentane",
+   "2-Hydroxypropanoic acid"
+  ],
+  "answer": 1,
+  "explanation": "2,3-Dichlorobutane has an achiral meso form with a plane of symmetry. | Hint: Which has an internal mirror plane?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 33,
+  "question": "Iodoform from all EXCEPT:",
+  "options": [
+   "Isopropyl alcohol",
+   "3-Methyl-2-butanone",
+   "Isobutyl alcohol",
+   "Ethyl methyl ketone"
+  ],
+  "answer": 2,
+  "explanation": "Isobutyl alcohol lacks the CH3CH(OH)-/CH3CO- group iodoform needs. | Hint: Which lacks the haloform group?",
+  "source": "JEE AIEEE 2012 via BYJU'S",
+  "year": "AIEEE 2012"
+ },
+ {
+  "pdfPage": 33,
+  "question": "Lab synthesis of fluorobenzene:",
+  "options": [
+   "Phenol + HF/KF",
+   "Aniline, diazotise, then HBF4/heat",
+   "Direct F2 fluorination",
+   "Bromobenzene + NaF"
+  ],
+  "answer": 1,
+  "explanation": "Balz-Schiemann: diazonium tetrafluoroborate decomposes to fluorobenzene. | Hint: Which route goes through a diazonium salt?",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006"
  }
 ]

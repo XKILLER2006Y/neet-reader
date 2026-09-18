@@ -15,6 +15,20 @@
  },
  {
   "pdfPage": 3,
+  "question": "Adult GH hypersecretion adds no height because:",
+  "options": [
+   "GH goes inactive in adults",
+   "Muscle fibres stop growing after birth",
+   "Bones lose GH sensitivity",
+   "Epiphyseal plates close after adolescence"
+  ],
+  "answer": 3,
+  "explanation": "Fused growth plates cannot lengthen bones further. | Hint: What closes in long bones after adolescence?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 3,
   "question": "Hormone made elsewhere but stored/released by the master gland:",
   "options": [
    "Luteinising hormone",
@@ -26,6 +40,34 @@
   "explanation": "ADH is synthesised in the hypothalamus, stored in the posterior pituitary. | Hint: Which hormone travels down from the hypothalamus?",
   "source": "NEET NEET 2015 via BYJU'S",
   "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Match: exophthalmic/acromegaly/Cushing/cretinism:",
+  "options": [
+   "A-IV,B-II,C-I,D-II",
+   "A-III,B-IV,C-II,D-II",
+   "A-III,B-IV,C-I,D-II",
+   "A-I,B-III,C-II,D-IV"
+  ],
+  "answer": 2,
+  "explanation": "Goitre-eyes, GH excess, cortisol excess, thyroid lack in order. | Hint: Pair each disease.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Posterior pituitary is not a true endocrine gland because:",
+  "options": [
+   "It only stores and releases hormones",
+   "It has a duct",
+   "It secretes enzymes",
+   "It obeys the hypothalamus"
+  ],
+  "answer": 0,
+  "explanation": "It merely stores hypothalamic oxytocin and ADH made above. | Hint: Where are its hormones actually made?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 4,
@@ -40,6 +82,20 @@
   "explanation": "Maternal/infant iodine lack causes cretinism with exactly this picture. | Hint: Which deficiency stunts brain and body from birth?",
   "source": "NEET NEET 2013 via BYJU'S",
   "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Insulin cannot be oral because:",
+  "options": [
+   "Structural variation",
+   "Higher bioavailability",
+   "Immune response",
+   "Digested in GI tract"
+  ],
+  "answer": 3,
+  "explanation": "Protein insulin digests like food in the gut. | Hint: Protein drug through stomach acid?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
  },
  {
   "pdfPage": 6,
@@ -57,34 +113,6 @@
  },
  {
   "pdfPage": 7,
-  "question": "Peptide hormone acting on hepatocytes/adipocytes, boosting glucose uptake:",
-  "options": [
-   "Gastrin",
-   "Insulin",
-   "Secretin",
-   "Glucagon"
-  ],
-  "answer": 1,
-  "explanation": "Insulin drives glucose into liver and fat cells. | Hint: Which hormone clears glucose into cells?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 7,
-  "question": "Hormone pair NOT antagonistic:",
-  "options": [
-   "Relaxin - Inhibin",
-   "Insulin - Glucagon",
-   "Parathormone - Calcitonin",
-   "Aldosterone - ANF"
-  ],
-  "answer": 0,
-  "explanation": "Insulin/glucagon, PTH/calcitonin and aldosterone/ANF oppose each other; relaxin-inhibin do not. | Hint: Which pair never opposes?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 7,
   "question": "Hormone NOT involved in sugar metabolism:",
   "options": [
    "Glucagon",
@@ -96,6 +124,34 @@
   "explanation": "Aldosterone is a mineralocorticoid (salt/water); the rest tune glucose. | Hint: Which one handles salt, not sugar?",
   "source": "NEET NEET 2015 via BYJU'S",
   "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 7,
+  "question": "NOT effects of parathyroid hormone (b lowers Ca, d lowers absorption, e carb metabolism):",
+  "options": [
+   "(a) and (c) only",
+   "(b) and (e) only",
+   "(c) and (e) only",
+   "(b), (d) and (e) only"
+  ],
+  "answer": 3,
+  "explanation": "PTH raises calcium and bone turnover; b, d, e contradict it. | Hint: Which three oppose PTH action?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Peptide hormone acting on hepatocytes/adipocytes, boosting glucose uptake:",
+  "options": [
+   "Gastrin",
+   "Insulin",
+   "Secretin",
+   "Glucagon"
+  ],
+  "answer": 1,
+  "explanation": "Insulin drives glucose into liver and fat cells. | Hint: Which hormone clears glucose into cells?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 7,
@@ -127,20 +183,6 @@
  },
  {
   "pdfPage": 8,
-  "question": "Diabetes mellitus signs:",
-  "options": [
-   "Ketonuria + glycosuria",
-   "Calculi + hyperglycaemia",
-   "Uremia + ketonuria",
-   "Uremia + calculi"
-  ],
-  "answer": 0,
-  "explanation": "Sugar plus ketones in urine mark diabetes. | Hint: Sugar and ketones in urine?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 8,
   "question": "Relaxin in late pregnancy from:",
   "options": [
    "Foetus",
@@ -152,20 +194,6 @@
   "explanation": "Corpus luteum (and placenta) secrete relaxin. | Hint: Which ovarian structure persists?",
   "source": "NEET NEET 2021 via MedicNEET",
   "year": "NEET 2021"
- },
- {
-  "pdfPage": 8,
-  "question": "Insulin cannot be oral because:",
-  "options": [
-   "Structural variation",
-   "Higher bioavailability",
-   "Immune response",
-   "Digested in GI tract"
-  ],
-  "answer": 3,
-  "explanation": "Protein insulin digests like food in the gut. | Hint: Protein drug through stomach acid?",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
  },
  {
   "pdfPage": 9,
@@ -183,20 +211,6 @@
  },
  {
   "pdfPage": 10,
-  "question": "Match: exophthalmic/acromegaly/Cushing/cretinism:",
-  "options": [
-   "A-IV,B-II,C-I,D-II",
-   "A-III,B-IV,C-II,D-II",
-   "A-III,B-IV,C-I,D-II",
-   "A-I,B-III,C-II,D-IV"
-  ],
-  "answer": 2,
-  "explanation": "Goitre-eyes, GH excess, cortisol excess, thyroid lack in order. | Hint: Pair each disease.",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 10,
   "question": "NOT a steroid hormone:",
   "options": [
    "Testosterone",
@@ -210,63 +224,35 @@
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 11,
-  "question": "Adult GH hypersecretion adds no height because:",
+  "pdfPage": 12,
+  "question": "Hormone pair NOT antagonistic:",
   "options": [
-   "GH goes inactive in adults",
-   "Muscle fibres stop growing after birth",
-   "Bones lose GH sensitivity",
-   "Epiphyseal plates close after adolescence"
-  ],
-  "answer": 3,
-  "explanation": "Fused growth plates cannot lengthen bones further. | Hint: What closes in long bones after adolescence?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 11,
-  "question": "Posterior pituitary is not a true endocrine gland because:",
-  "options": [
-   "It only stores and releases hormones",
-   "It has a duct",
-   "It secretes enzymes",
-   "It obeys the hypothalamus"
+   "Relaxin - Inhibin",
+   "Insulin - Glucagon",
+   "Parathormone - Calcitonin",
+   "Aldosterone - ANF"
   ],
   "answer": 0,
-  "explanation": "It merely stores hypothalamic oxytocin and ADH made above. | Hint: Where are its hormones actually made?",
+  "explanation": "Insulin/glucagon, PTH/calcitonin and aldosterone/ANF oppose each other; relaxin-inhibin do not. | Hint: Which pair never opposes?",
   "source": "NEET NEET 2016 via BYJU'S",
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 11,
-  "question": "Match glands to diseases (pituitary-insipidus, thyroid-Grave, adrenal-Addison, pancreas-mellitus):",
+  "pdfPage": 13,
+  "question": "Diabetes mellitus signs:",
   "options": [
-   "a-iii,b-i,c-iv,d-ii",
-   "a-ii,b-i,c-iv,d-iii",
-   "a-iv,b-iii,c-i,d-ii",
-   "a-iii,b-ii,c-i,d-iv"
+   "Ketonuria + glycosuria",
+   "Calculi + hyperglycaemia",
+   "Uremia + ketonuria",
+   "Uremia + calculi"
   ],
   "answer": 0,
-  "explanation": "Each gland pairs its classic disorder. | Hint: Pair each gland.",
+  "explanation": "Sugar plus ketones in urine mark diabetes. | Hint: Sugar and ketones in urine?",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 11,
-  "question": "NOT effects of parathyroid hormone (b lowers Ca, d lowers absorption, e carb metabolism):",
-  "options": [
-   "(a) and (c) only",
-   "(b) and (e) only",
-   "(c) and (e) only",
-   "(b), (d) and (e) only"
-  ],
-  "answer": 3,
-  "explanation": "PTH raises calcium and bone turnover; b, d, e contradict it. | Hint: Which three oppose PTH action?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 11,
+  "pdfPage": 13,
   "question": "Hypothalamic-made, pituitary-released hormone:",
   "options": [
    "FSH",
@@ -278,5 +264,19 @@
   "explanation": "ADH is made above and stored behind. | Hint: Made in hypothalamus, stored in posterior?",
   "source": "NEET NEET 2025 via MedicNEET",
   "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Match glands to diseases (pituitary-insipidus, thyroid-Grave, adrenal-Addison, pancreas-mellitus):",
+  "options": [
+   "a-iii,b-i,c-iv,d-ii",
+   "a-ii,b-i,c-iv,d-iii",
+   "a-iv,b-iii,c-i,d-ii",
+   "a-iii,b-ii,c-i,d-iv"
+  ],
+  "answer": 0,
+  "explanation": "Each gland pairs its classic disorder. | Hint: Pair each gland.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
  }
 ]

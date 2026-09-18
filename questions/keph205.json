@@ -112,20 +112,6 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 3,
-  "question": "The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of B. If number densities of the gases A and B are n_A and n_B, respectively, the correct option is:",
-  "options": [
-   "n_A = (1/2)n_B",
-   "n_A = n_B",
-   "n_A = 2n_B",
-   "n_A = (1/4)n_B"
-  ],
-  "answer": 0,
-  "explanation": "λ = 1/(√2 π d² n) ⇒ λ_A/λ_B = (d_B² n_B)/(d_A² n_A) = n_B/(4n_A) = 1/2 ⇒ n_A = n_B/2.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
   "pdfPage": 4,
   "question": "A flask contains argon and chlorine in the ratio of 2:1 by mass. The temperature of the mixture is 27°C. The ratio of root mean square speed of the molecules of the two gases (V_Ar^rms / V_Cl^rms) is: (Atomic mass of argon = 40.0 u and molecular mass of chlorine = 70.0 u)",
   "options": [
@@ -154,20 +140,6 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 4,
-  "question": "Average thermal energy of a monoatomic gas molecule (k_B, T):",
-  "options": [
-   "5kT/2",
-   "7kT/2",
-   "kT/2",
-   "3kT/2"
-  ],
-  "answer": 3,
-  "explanation": "3 translational degrees × kT/2.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
   "pdfPage": 5,
   "question": "The mean free path for a gas, with molecular diameter d and number density n, can be expressed as:",
   "options": [
@@ -180,6 +152,20 @@
   "explanation": "Standard Clausius-Maxwell formula: λ = 1 / (√2 n π d²). | Hint: Standard mean free path formula.",
   "source": "NEET NEET 2020 via BYJU'S NEET",
   "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 5,
+  "question": "The mean free path of molecules in an ideal gas A is half that of another ideal gas B. The diameter of the spherical molecules of gas A is twice the diameter of the molecules of B. If number densities of the gases A and B are n_A and n_B, respectively, the correct option is:",
+  "options": [
+   "n_A = (1/2)n_B",
+   "n_A = n_B",
+   "n_A = 2n_B",
+   "n_A = (1/4)n_B"
+  ],
+  "answer": 0,
+  "explanation": "λ = 1/(√2 π d² n) ⇒ λ_A/λ_B = (d_B² n_B)/(d_A² n_A) = n_B/(4n_A) = 1/2 ⇒ n_A = n_B/2.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
  },
  {
   "pdfPage": 5,
@@ -222,5 +208,19 @@
   "explanation": "Equipartition over 3 translational degrees of freedom gives ⟨E⟩ = 3×(1/2)k_B T = (3/2)k_B T.",
   "source": "examside.com",
   "year": "NEET 2020 Phase 1"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Average thermal energy of a monoatomic gas molecule (k_B, T):",
+  "options": [
+   "5kT/2",
+   "7kT/2",
+   "kT/2",
+   "3kT/2"
+  ],
+  "answer": 3,
+  "explanation": "3 translational degrees × kT/2.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  }
 ]

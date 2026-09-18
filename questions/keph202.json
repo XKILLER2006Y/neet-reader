@@ -1,6 +1,34 @@
 [
  {
-  "pdfPage": 12,
+  "pdfPage": 4,
+  "question": "A submarine is designed to withstand an absolute pressure of 100 atm. How deep can it go below the water surface? (density of water = 1000 kg m⁻³, 1 atm = 1 × 10⁵ Pa, g = 10 m s⁻²)",
+  "options": [
+   "990 m",
+   "9900 m",
+   "99 m",
+   "9000 m"
+  ],
+  "answer": 0,
+  "explanation": "Gauge pressure = 99×10⁵ Pa; h = 99×10⁵/(10³×10) = 990 m.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Two copper vessels A and B have the same base area but of different shapes. A takes twice the volume of water as that B requires to fill upto a particular common height. Then the correct statement among the following is :",
+  "options": [
+   "Vessel B weighs twice that of A.",
+   "Pressure on the base area of vessels A and B is same.",
+   "Pressure on the base area of vessels A and B is not same.",
+   "Both vessels A and B weigh the same."
+  ],
+  "answer": 1,
+  "explanation": "p = ρgh depends only on depth, not vessel shape → same pressure.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 5,
   "question": "A U-tube with both ends open to the atmosphere, is partially filled with water. Oil, which is immiscible with water, is poured into one side until it stands at a distance of 10 mm above the water level on the other side. Meanwhile the water rises by 65 mm from its original level. The density of the oil is:",
   "options": [
    "650 kg m⁻³",
@@ -14,35 +42,7 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 12,
-  "question": "A simple pendulum oscillating in air has a period of √3 s. If it is completely immersed in a non-viscous liquid having density 1/4 th of the material of the bob, the new period will be:",
-  "options": [
-   "2 s",
-   "(√3)/2 s",
-   "2√3 s",
-   "2/√3 s"
-  ],
-  "answer": 0,
-  "explanation": "g_eff = g(1−1/4) = 3g/4; T_new = √3 × 2/√3 = 2 s.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 12,
-  "question": "A soap bubble of radius 1 mm is blown from a detergent solution of surface tension 2.5 × 10⁻² N m⁻¹. The pressure inside the bubble equals the pressure at a point Z₀ below the free surface of water in a container. Taking g = 10 m s⁻² and density of water = 10³ kg m⁻³, the value of Z₀ is:",
-  "options": [
-   "100 cm",
-   "10 cm",
-   "1 cm",
-   "0.5 cm"
-  ],
-  "answer": 2,
-  "explanation": "4S/R = 100 Pa = ρgZ₀ → Z₀ = 0.01 m = 1 cm.",
-  "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 12,
+  "pdfPage": 8,
   "question": "A spherical ball is dropped in a long column of a highly viscous liquid. The curve representing the variation of velocity v with time t is:",
   "options": [
    "Increases initially and then approaches a constant horizontal terminal value",
@@ -56,18 +56,46 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 12,
-  "question": "A submarine is designed to withstand an absolute pressure of 100 atm. How deep can it go below the water surface? (density of water = 1000 kg m⁻³, 1 atm = 1 × 10⁵ Pa, g = 10 m s⁻²)",
+  "pdfPage": 8,
+  "question": "The venturi-meter works on:",
   "options": [
-   "990 m",
-   "9900 m",
-   "99 m",
-   "9000 m"
+   "Huygens's principle",
+   "Bernoulli's principle",
+   "the principle of parallel axes",
+   "the principle of perpendicular axes"
   ],
-  "answer": 0,
-  "explanation": "Gauge pressure = 99×10⁵ Pa; h = 99×10⁵/(10³×10) = 990 m.",
+  "answer": 1,
+  "explanation": "Venturi-meter measures flow speed via Bernoulli's pressure difference.",
+  "source": "examside.com",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Water flows in streamline motion through a horizontal pipe of circular cross-section. The pressure difference of water between P and Q is 15 N m⁻². The areas of cross-section at P and Q are 40 cm² and 20 cm² respectively. The rate of flow of water through the pipe (in cm³ s⁻¹) is: (density of water = 1000 kg m⁻³)",
+  "options": [
+   "100",
+   "200",
+   "300",
+   "400"
+  ],
+  "answer": 3,
+  "explanation": "v₂ = 2v₁; Δp = ½ρ(3v₁²) = 15 → v₁ = 0.1 m/s; Q = 40 cm² × 0.1 m/s = 400 cm³/s.",
   "source": "examside.com",
   "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 10,
+  "question": "A small hole of cross-sectional area 2 mm² is present near the bottom of a fully filled open tank of height 2 m. Taking g = 10 m s⁻², the rate of flow of water through the open hole would be nearly :",
+  "options": [
+   "12.6 × 10⁻⁶ m³ s⁻¹",
+   "8.9 × 10⁻⁶ m³ s⁻¹",
+   "2.23 × 10⁻⁶ m³ s⁻¹",
+   "6.4 × 10⁻⁶ m³ s⁻¹"
+  ],
+  "answer": 0,
+  "explanation": "v = √(2gh) = 6.32 m/s; Q = Av = 2×10⁻⁶ × 6.32 ≈ 12.6×10⁻⁶ m³/s.",
+  "source": "examside.com",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 12,
@@ -84,88 +112,46 @@
   "year": "NEET 2021"
  },
  {
-  "pdfPage": 12,
-  "question": "The venturi-meter works on:",
+  "pdfPage": 13,
+  "question": "A simple pendulum oscillating in air has a period of √3 s. If it is completely immersed in a non-viscous liquid having density 1/4 th of the material of the bob, the new period will be:",
   "options": [
-   "Huygens's principle",
-   "Bernoulli's principle",
-   "the principle of parallel axes",
-   "the principle of perpendicular axes"
+   "2 s",
+   "(√3)/2 s",
+   "2√3 s",
+   "2/√3 s"
   ],
-  "answer": 1,
-  "explanation": "Venturi-meter measures flow speed via Bernoulli's pressure difference.",
+  "answer": 0,
+  "explanation": "g_eff = g(1−1/4) = 3g/4; T_new = √3 × 2/√3 = 2 s.",
   "source": "examside.com",
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 12,
-  "question": "Venturi-meter works on:",
+  "pdfPage": 13,
+  "question": "The viscous drag acting on a metal sphere of diameter 1 mm, falling through a fluid of viscosity 0.8 Pa·s with a velocity of 2 m s⁻¹, is equal to:",
   "options": [
-   "Bernoulli's principle",
-   "Parallel-axes principle",
-   "Perpendicular-axes principle",
-   "Huygen's principle"
+   "1.5 × 10⁻³ N",
+   "20 × 10⁻³ N",
+   "15 × 10⁻³ N",
+   "30 × 10⁻³ N"
   ],
-  "answer": 0,
-  "explanation": "Pressure-velocity tradeoff along a streamline.",
-  "source": "NEET 2023 Code-F3 official paper",
+  "answer": 2,
+  "explanation": "F = 6πηrv = 6π(0.8)(0.5×10⁻³)(2) ≈ 15.08×10⁻³ N.",
+  "source": "examside.com",
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 16,
-  "question": "A capillary tube of radius r is immersed in water and water rises in it to a height h. The mass of the water in the capillary is 5 g. Another capillary tube of radius 2r is immersed in water. The mass of water that will rise in this tube is :",
+  "pdfPage": 13,
+  "question": "Two small spherical metal balls of equal mass are made from materials of densities ρ₁ and ρ₂ (ρ₁ = 8ρ₂) and have radii 1 mm and 2 mm respectively. They fall vertically from rest in a viscous medium of coefficient of viscosity η and density 0.1ρ₂. The ratio of their terminal velocities is:",
   "options": [
-   "5.0 g",
-   "10.0 g",
-   "20.0 g",
-   "2.5 g"
+   "79/72",
+   "19/36",
+   "39/72",
+   "79/36"
   ],
-  "answer": 1,
-  "explanation": "m = 2πrS/g ∝ r → doubling r doubles m → 10 g.",
-  "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 16,
-  "question": "A small hole of cross-sectional area 2 mm² is present near the bottom of a fully filled open tank of height 2 m. Taking g = 10 m s⁻², the rate of flow of water through the open hole would be nearly :",
-  "options": [
-   "12.6 × 10⁻⁶ m³ s⁻¹",
-   "8.9 × 10⁻⁶ m³ s⁻¹",
-   "2.23 × 10⁻⁶ m³ s⁻¹",
-   "6.4 × 10⁻⁶ m³ s⁻¹"
-  ],
-  "answer": 0,
-  "explanation": "v = √(2gh) = 6.32 m/s; Q = Av = 2×10⁻⁶ × 6.32 ≈ 12.6×10⁻⁶ m³/s.",
+  "answer": 3,
+  "explanation": "v_t ∝ r²(σ−ρ_m): [1²(7.9ρ₂)]/[2²(0.9ρ₂)] = 7.9/3.6 = 79/36.",
   "source": "examside.com",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 16,
-  "question": "Capillary dipped first in hot then cold water vs first cold then hot. (i) Rise higher in hot. (ii) Rise higher in cold.",
-  "options": [
-   "(i) true, (ii) false",
-   "(i) false, (ii) true",
-   "Both true",
-   "Both false"
-  ],
-  "answer": 1,
-  "explanation": "Surface tension falls with T → cold water climbs higher.",
-  "source": "JEE Main 2024 (29 Jan S1) (key derived first-principles)",
-  "year": "JEE Main 2024"
- },
- {
-  "pdfPage": 16,
-  "question": "Energy to blow a 2 cm soap bubble (T = 0.03 N/m):",
-  "options": [
-   "5.06×10⁻⁴ J",
-   "3.01×10⁻⁴ J",
-   "50.1×10⁻⁴ J",
-   "30.16×10⁻⁴ J"
-  ],
-  "answer": 1,
-  "explanation": "2 films: E = 2×4πr²T ≈ 3.01×10⁻⁴ J.",
-  "source": "NEET 2023 Code-F3 official paper (key derived first-principles)",
-  "year": "NEET 2023"
  },
  {
   "pdfPage": 16,
@@ -182,60 +168,18 @@
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 16,
-  "question": "The viscous drag acting on a metal sphere of diameter 1 mm, falling through a fluid of viscosity 0.8 Pa·s with a velocity of 2 m s⁻¹, is equal to:",
+  "pdfPage": 17,
+  "question": "A capillary tube of radius r is immersed in water and water rises in it to a height h. The mass of the water in the capillary is 5 g. Another capillary tube of radius 2r is immersed in water. The mass of water that will rise in this tube is :",
   "options": [
-   "1.5 × 10⁻³ N",
-   "20 × 10⁻³ N",
-   "15 × 10⁻³ N",
-   "30 × 10⁻³ N"
-  ],
-  "answer": 2,
-  "explanation": "F = 6πηrv = 6π(0.8)(0.5×10⁻³)(2) ≈ 15.08×10⁻³ N.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 16,
-  "question": "Two copper vessels A and B have the same base area but of different shapes. A takes twice the volume of water as that B requires to fill upto a particular common height. Then the correct statement among the following is :",
-  "options": [
-   "Vessel B weighs twice that of A.",
-   "Pressure on the base area of vessels A and B is same.",
-   "Pressure on the base area of vessels A and B is not same.",
-   "Both vessels A and B weigh the same."
+   "5.0 g",
+   "10.0 g",
+   "20.0 g",
+   "2.5 g"
   ],
   "answer": 1,
-  "explanation": "p = ρgh depends only on depth, not vessel shape → same pressure.",
+  "explanation": "m = 2πrS/g ∝ r → doubling r doubles m → 10 g.",
   "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 16,
-  "question": "Two non-mixing liquids of densities ρ and nρ (n > 1) are put in a container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. The cylinder floats with its axis vertical and length pL (p < 1) in the denser liquid. The density d is equal to:",
-  "options": [
-   "{1 + (n + 1)p} ρ",
-   "{2 + (n + 1)p} ρ",
-   "{2 + (n − 1)p} ρ",
-   "{1 + (n − 1)p} ρ"
-  ],
-  "answer": 3,
-  "explanation": "dL = nρ(pL) + ρ(1−p)L → d = ρ[1 + (n−1)p].",
-  "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 16,
-  "question": "Water flows in streamline motion through a horizontal pipe of circular cross-section. The pressure difference of water between P and Q is 15 N m⁻². The areas of cross-section at P and Q are 40 cm² and 20 cm² respectively. The rate of flow of water through the pipe (in cm³ s⁻¹) is: (density of water = 1000 kg m⁻³)",
-  "options": [
-   "100",
-   "200",
-   "300",
-   "400"
-  ],
-  "answer": 3,
-  "explanation": "v₂ = 2v₁; Δp = ½ρ(3v₁²) = 15 → v₁ = 0.1 m/s; Q = 40 cm² × 0.1 m/s = 400 cm³/s.",
-  "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 17,
@@ -267,6 +211,20 @@
  },
  {
   "pdfPage": 17,
+  "question": "A soap bubble of radius 1 mm is blown from a detergent solution of surface tension 2.5 × 10⁻² N m⁻¹. The pressure inside the bubble equals the pressure at a point Z₀ below the free surface of water in a container. Taking g = 10 m s⁻² and density of water = 10³ kg m⁻³, the value of Z₀ is:",
+  "options": [
+   "100 cm",
+   "10 cm",
+   "1 cm",
+   "0.5 cm"
+  ],
+  "answer": 2,
+  "explanation": "4S/R = 100 Pa = ρgZ₀ → Z₀ = 0.01 m = 1 cm.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 17,
   "question": "A soap bubble of radius r has excess pressure ΔP. What will be the radius of another soap bubble having excess pressure 2ΔP?",
   "options": [
    "r / 2",
@@ -292,6 +250,20 @@
   "explanation": "F = 2πrS = 2π(0.045)(0.07) = 0.0198 N = 19.8 mN.",
   "source": "examside.com",
   "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Energy to blow a 2 cm soap bubble (T = 0.03 N/m):",
+  "options": [
+   "5.06×10⁻⁴ J",
+   "3.01×10⁻⁴ J",
+   "50.1×10⁻⁴ J",
+   "30.16×10⁻⁴ J"
+  ],
+  "answer": 1,
+  "explanation": "2 films: E = 2×4πr²T ≈ 3.01×10⁻⁴ J.",
+  "source": "NEET 2023 Code-F3 official paper (key derived first-principles)",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 17,
@@ -322,17 +294,45 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 17,
-  "question": "Two small spherical metal balls of equal mass are made from materials of densities ρ₁ and ρ₂ (ρ₁ = 8ρ₂) and have radii 1 mm and 2 mm respectively. They fall vertically from rest in a viscous medium of coefficient of viscosity η and density 0.1ρ₂. The ratio of their terminal velocities is:",
+  "pdfPage": 18,
+  "question": "Capillary dipped first in hot then cold water vs first cold then hot. (i) Rise higher in hot. (ii) Rise higher in cold.",
   "options": [
-   "79/72",
-   "19/36",
-   "39/72",
-   "79/36"
+   "(i) true, (ii) false",
+   "(i) false, (ii) true",
+   "Both true",
+   "Both false"
+  ],
+  "answer": 1,
+  "explanation": "Surface tension falls with T → cold water climbs higher.",
+  "source": "JEE Main 2024 (29 Jan S1) (key derived first-principles)",
+  "year": "JEE Main 2024"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Two non-mixing liquids of densities ρ and nρ (n > 1) are put in a container. The height of each liquid is h. A solid cylinder of length L and density d is put in this container. The cylinder floats with its axis vertical and length pL (p < 1) in the denser liquid. The density d is equal to:",
+  "options": [
+   "{1 + (n + 1)p} ρ",
+   "{2 + (n + 1)p} ρ",
+   "{2 + (n − 1)p} ρ",
+   "{1 + (n − 1)p} ρ"
   ],
   "answer": 3,
-  "explanation": "v_t ∝ r²(σ−ρ_m): [1²(7.9ρ₂)]/[2²(0.9ρ₂)] = 7.9/3.6 = 79/36.",
+  "explanation": "dL = nρ(pL) + ρ(1−p)L → d = ρ[1 + (n−1)p].",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Venturi-meter works on:",
+  "options": [
+   "Bernoulli's principle",
+   "Parallel-axes principle",
+   "Perpendicular-axes principle",
+   "Huygen's principle"
+  ],
+  "answer": 0,
+  "explanation": "Pressure-velocity tradeoff along a streamline.",
+  "source": "NEET 2023 Code-F3 official paper",
+  "year": "NEET 2023"
  }
 ]

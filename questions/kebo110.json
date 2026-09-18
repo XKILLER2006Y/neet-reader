@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 2,
+  "question": "Identify the correct statement with regard to G1 phase (Gap 1) of interphase",
+  "options": [
+   "Cell is metabolically active, grows but does not replicate its DNA",
+   "DNA synthesis or replication takes place",
+   "Nuclear division takes place",
+   "Reorganisation of all cell components takes place"
+  ],
+  "answer": 0,
+  "explanation": "G1: metabolically active, grows, no DNA replication.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
   "pdfPage": 3,
   "question": "DNA stays 4C (from 2C) during (key corrected during verification):",
   "options": [
@@ -12,20 +26,6 @@
   "explanation": "After S phase the 4C content persists through G2 and M until division. | Hint: When after S phase does content halve?",
   "source": "NEET NEET 2014 via BYJU'S",
   "year": "NEET 2014"
- },
- {
-  "pdfPage": 3,
-  "question": "Dissolution of the synaptonemal complex occurs during",
-  "options": [
-   "Diplotene",
-   "Zygotene",
-   "Pachytene",
-   "Leptotene"
-  ],
-  "answer": 0,
-  "explanation": "Diplotene begins with dissolution of synaptonemal complex.",
-  "source": "examside.com",
-  "year": "NEET 2020"
  },
  {
   "pdfPage": 3,
@@ -42,7 +42,7 @@
   "year": "NEET 2026"
  },
  {
-  "pdfPage": 6,
+  "pdfPage": 4,
   "question": "NOT a somatic-mitosis feature:",
   "options": [
    "Nucleolus disappears",
@@ -54,6 +54,20 @@
   "explanation": "Synapsis (homologue pairing) happens only in meiosis. | Hint: Which belongs to meiosis?",
   "source": "NEET NEET 2016 via BYJU'S",
   "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Defective APC in animal cells causes:",
+  "options": [
+   "No condensation",
+   "No segregation",
+   "Arm recombination",
+   "Fragmentation"
+  ],
+  "answer": 1,
+  "explanation": "Without APC, securin persists and sister chromatids cannot separate. | Hint: What fails if securin never degrades?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 6,
@@ -70,44 +84,16 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 6,
-  "question": "Stalled replication fork activates mainly:",
-  "options": [
-   "G2/M checkpoint",
-   "G1/M checkpoint",
-   "M checkpoint",
-   "G2/M and M"
-  ],
-  "answer": 0,
-  "explanation": "Unreplicated DNA holds the G2/M checkpoint. | Hint: Which checkpoint watches replication?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Which stage of meiosis can last for months or years in the oocytes of some vertebrates?",
-  "options": [
-   "Diakinesis",
-   "Leptotene",
-   "Pachytene",
-   "Diplotene"
-  ],
-  "answer": 3,
-  "explanation": "Diplotene (dictyotene) can last months/years in some vertebrate oocytes.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
   "pdfPage": 7,
-  "question": "Identify the correct statement with regard to G1 phase (Gap 1) of interphase",
+  "question": "Dissolution of the synaptonemal complex occurs during",
   "options": [
-   "Cell is metabolically active, grows but does not replicate its DNA",
-   "DNA synthesis or replication takes place",
-   "Nuclear division takes place",
-   "Reorganisation of all cell components takes place"
+   "Diplotene",
+   "Zygotene",
+   "Pachytene",
+   "Leptotene"
   ],
   "answer": 0,
-  "explanation": "G1: metabolically active, grows, no DNA replication.",
+  "explanation": "Diplotene begins with dissolution of synaptonemal complex.",
   "source": "examside.com",
   "year": "NEET 2020"
  },
@@ -169,6 +155,34 @@
  },
  {
   "pdfPage": 7,
+  "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes:",
+  "options": [
+   "Synaptonemal complex",
+   "Bivalent",
+   "Sites at which crossing over occurs",
+   "Terminalization"
+  ],
+  "answer": 2,
+  "explanation": "Recombination nodules mark crossing-over sites (pachytene).",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Which stage of meiosis can last for months or years in the oocytes of some vertebrates?",
+  "options": [
+   "Diakinesis",
+   "Leptotene",
+   "Pachytene",
+   "Diplotene"
+  ],
+  "answer": 3,
+  "explanation": "Diplotene (dictyotene) can last months/years in some vertebrate oocytes.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
   "question": "With respect to metaphase, which of the following statements is incorrect?",
   "options": [
    "Chromosomes lie at the equator of the cell",
@@ -194,20 +208,6 @@
   "explanation": "Anaphase I disjoins homologues with centromeres intact. | Hint: Reduction happens in which anaphase?",
   "source": "NEET NEET 2012 via BYJU'S",
   "year": "NEET 2012"
- },
- {
-  "pdfPage": 8,
-  "question": "The appearance of recombination nodules on homologous chromosomes during meiosis characterizes:",
-  "options": [
-   "Synaptonemal complex",
-   "Bivalent",
-   "Sites at which crossing over occurs",
-   "Terminalization"
-  ],
-  "answer": 2,
-  "explanation": "Recombination nodules mark crossing-over sites (pachytene).",
-  "source": "examside.com",
-  "year": "NEET 2022"
  },
  {
   "pdfPage": 10,
@@ -239,20 +239,6 @@
  },
  {
   "pdfPage": 11,
-  "question": "Defective APC in animal cells causes:",
-  "options": [
-   "No condensation",
-   "No segregation",
-   "Arm recombination",
-   "Fragmentation"
-  ],
-  "answer": 1,
-  "explanation": "Without APC, securin persists and sister chromatids cannot separate. | Hint: What fails if securin never degrades?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 11,
   "question": "Match the following with respect to meiosis. (A) Zygotene, (B) Pachytene, (C) Diplotene, (D) Diakinesis with (i) Terminalization, (ii) Chiasmata, (iii) Crossing over, (iv) Synapsis. Select the correct option from the following.",
   "options": [
    "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)",
@@ -264,5 +250,19 @@
   "explanation": "Zygotene=synapsis, Pachytene=crossing over, Diplotene=chiasmata, Diakinesis=terminalisation.",
   "source": "examside.com",
   "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Stalled replication fork activates mainly:",
+  "options": [
+   "G2/M checkpoint",
+   "G1/M checkpoint",
+   "M checkpoint",
+   "G2/M and M"
+  ],
+  "answer": 0,
+  "explanation": "Unreplicated DNA holds the G2/M checkpoint. | Hint: Which checkpoint watches replication?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
  }
 ]

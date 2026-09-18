@@ -140,21 +140,7 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 20,
-  "question": "Object 60 cm from convex lens (f = 30 cm); plane mirror ⟂ axis, 40 cm past the lens. Final image:",
-  "options": [
-   "20 cm from lens, real",
-   "30 cm from lens, real",
-   "30 cm from mirror, virtual",
-   "20 cm from mirror, virtual"
-  ],
-  "answer": 3,
-  "explanation": "Lens images at 60 cm (20 cm behind mirror) → mirror returns it 20 cm in front → virtual, 20 cm from mirror.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 22,
+  "pdfPage": 17,
   "question": "Four identical thin convex lenses in axial contact. Combined power and magnification vs single (p, m):",
   "options": [
    "p⁴ and m⁴",
@@ -168,32 +154,18 @@
   "year": "NEET 2025"
  },
  {
-  "pdfPage": 23,
-  "question": "Convex and concave lenses, each of focal length 25 cm, in contact. Power of combination (diopters):",
+  "pdfPage": 20,
+  "question": "Object 60 cm from convex lens (f = 30 cm); plane mirror ⟂ axis, 40 cm past the lens. Final image:",
   "options": [
-   "25",
-   "50",
-   "Infinite",
-   "Zero"
+   "20 cm from lens, real",
+   "30 cm from lens, real",
+   "30 cm from mirror, virtual",
+   "20 cm from mirror, virtual"
   ],
   "answer": 3,
-  "explanation": "P = 1/0.25 − 1/0.25 = 0 D (infinite focal length).",
-  "source": "NEET-pattern lens combination via Allen (key verified first-principles)",
-  "year": "NEET pattern"
- },
- {
-  "pdfPage": 24,
-  "question": "Ray hits small-angle prism (angle A) and exits the far face normally. Angle of incidence ≈ (prism index μ):",
-  "options": [
-   "μA",
-   "μA/2",
-   "A/2μ",
-   "2A/μ"
-  ],
-  "answer": 0,
-  "explanation": "r₂ = 0 → r₁ = A; sin i = μ sin A ≈ μA.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
+  "explanation": "Lens images at 60 cm (20 cm behind mirror) → mirror returns it 20 cm in front → virtual, 20 cm from mirror.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 26,
@@ -210,6 +182,20 @@
   "year": "NEET 2019"
  },
  {
+  "pdfPage": 27,
+  "question": "Convex and concave lenses, each of focal length 25 cm, in contact. Power of combination (diopters):",
+  "options": [
+   "25",
+   "50",
+   "Infinite",
+   "Zero"
+  ],
+  "answer": 3,
+  "explanation": "P = 1/0.25 − 1/0.25 = 0 D (infinite focal length).",
+  "source": "NEET-pattern lens combination via Allen (key verified first-principles)",
+  "year": "NEET pattern"
+ },
+ {
   "pdfPage": 28,
   "question": "Astronomical telescope wants large-focal-length, large-aperture objective because:",
   "options": [
@@ -222,6 +208,20 @@
   "explanation": "Light grasp + resolution + quality all scale with aperture.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
   "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Ray hits small-angle prism (angle A) and exits the far face normally. Angle of incidence ≈ (prism index μ):",
+  "options": [
+   "μA",
+   "μA/2",
+   "A/2μ",
+   "2A/μ"
+  ],
+  "answer": 0,
+  "explanation": "r₂ = 0 → r₁ = A; sin i = μ sin A ≈ μA.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 30,

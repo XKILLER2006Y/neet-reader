@@ -1,34 +1,6 @@
 [
  {
   "pdfPage": 6,
-  "question": "Emerson enhancement and Red drop revealed:",
-  "options": [
-   "Two photosystems together",
-   "Oxidative phosphorylation",
-   "Photophosphorylation + cyclic flow",
-   "Photophosphorylation + non-cyclic flow"
-  ],
-  "answer": 0,
-  "explanation": "The effects proved PS-I and PS-II cooperate. | Hint: Why does two-wavelength light outperform one?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Kranz anatomy leaves among: potato, sugarcane, wheat, mustard:",
-  "options": [
-   "Potato",
-   "Sugarcane",
-   "Wheat",
-   "Mustard"
-  ],
-  "answer": 1,
-  "explanation": "Sugarcane is the classic C4 Kranz example. | Hint: Which is the C4 crop?",
-  "source": "NEET NEET 2010 via BYJU'S",
-  "year": "NEET 2010"
- },
- {
-  "pdfPage": 6,
   "question": "Which of the following is not a product of light reaction of photosynthesis?",
   "options": [
    "Oxygen",
@@ -42,7 +14,21 @@
   "year": "NEET 2018"
  },
  {
-  "pdfPage": 6,
+  "pdfPage": 7,
+  "question": "Match List-I with List-II. List-I: A. Chlorophyll a, B. Chlorophyll b, C. Xanthophylls, D. Carotenoids. List-II: I. Yellow-green, II. Yellow, III. Blue-green, IV. Yellow to Yellow-orange. Choose the option with all correct matches.",
+  "options": [
+   "A-I, B-II, C-IV, D-III",
+   "A-I, B-IV, C-III, D-II",
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-I, C-II, D-IV"
+  ],
+  "answer": 3,
+  "explanation": "Chl a=blue-green(III), Chl b=yellow-green(I), xanthophyll=yellow(II), carotenoid=yellow-orange(IV).",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 8,
   "question": "Which pigment has absorption peak at 700 nm in the photosynthetic reaction centre PS I (P700)?",
   "options": [
    "Carotenoids",
@@ -56,46 +42,18 @@
   "year": "NEET 2026"
  },
  {
-  "pdfPage": 8,
-  "question": "Phosphoenol pyruvate (PEP) is the primary CO2 acceptor in",
+  "pdfPage": 10,
+  "question": "Emerson enhancement and Red drop revealed:",
   "options": [
-   "C4 plants",
-   "C2 plants",
-   "C3 and C4 plants",
-   "C3 plants"
+   "Two photosystems together",
+   "Oxidative phosphorylation",
+   "Photophosphorylation + cyclic flow",
+   "Photophosphorylation + non-cyclic flow"
   ],
   "answer": 0,
-  "explanation": "PEP is the primary CO2 acceptor in C4 mesophyll cells.",
-  "source": "examside.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 8,
-  "question": "Stomatal water loss and CO2 entry together because:",
-  "options": [
-   "Diffusion coefficients of water and CO2 differ",
-   "Both cannot occur together",
-   "One by day, one by night",
-   "Only at night"
-  ],
-  "answer": 0,
-  "explanation": "Different diffusion coefficients let both fluxes share the pore. | Hint: Why can two gases share one pore?",
+  "explanation": "The effects proved PS-I and PS-II cooperate. | Hint: Why does two-wavelength light outperform one?",
   "source": "NEET NEET 2016 via BYJU'S",
   "year": "NEET 2016"
- },
- {
-  "pdfPage": 8,
-  "question": "The enzyme required for carboxylation in the Calvin cycle is",
-  "options": [
-   "Hexokinase",
-   "PEP carboxylase",
-   "RuBP carboxylase - oxygenase",
-   "Carboxypeptidase"
-  ],
-  "answer": 2,
-  "explanation": "RuBisCO catalyses carboxylation of RuBP.",
-  "source": "examside.com",
-  "year": "NEET 2026"
  },
  {
   "pdfPage": 10,
@@ -126,21 +84,7 @@
   "year": "AIPMT 2015"
  },
  {
-  "pdfPage": 10,
-  "question": "Match List-I with List-II. List-I: A. Chlorophyll a, B. Chlorophyll b, C. Xanthophylls, D. Carotenoids. List-II: I. Yellow-green, II. Yellow, III. Blue-green, IV. Yellow to Yellow-orange. Choose the option with all correct matches.",
-  "options": [
-   "A-I, B-II, C-IV, D-III",
-   "A-I, B-IV, C-III, D-II",
-   "A-III, B-IV, C-II, D-I",
-   "A-III, B-I, C-II, D-IV"
-  ],
-  "answer": 3,
-  "explanation": "Chl a=blue-green(III), Chl b=yellow-green(I), xanthophyll=yellow(II), carotenoid=yellow-orange(IV).",
-  "source": "examside.com",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 10,
+  "pdfPage": 12,
   "question": "Statements: I. Symbiotic N-fixers also live free; II. Gloriosa/Petunia stamens polyandrous; III. Dicot-stem new cambium from pericycle; IV. Both phosphorylations pump protons uphill. How many true? (established Mains key)",
   "options": [
    "One",
@@ -152,6 +96,20 @@
   "explanation": "I and IV hold; II and III fail on botanical detail (established key: Two). | Hint: Test each statement against NCERT lines.",
   "source": "NEET NEET 2012 via BYJU'S",
   "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 13,
+  "question": "The enzyme required for carboxylation in the Calvin cycle is",
+  "options": [
+   "Hexokinase",
+   "PEP carboxylase",
+   "RuBP carboxylase - oxygenase",
+   "Carboxypeptidase"
+  ],
+  "answer": 2,
+  "explanation": "RuBisCO catalyses carboxylation of RuBP.",
+  "source": "examside.com",
+  "year": "NEET 2026"
  },
  {
   "pdfPage": 15,
@@ -183,6 +141,20 @@
  },
  {
   "pdfPage": 15,
+  "question": "The first stable product of CO2 fixation in Sorghum is",
+  "options": [
+   "Phosphoglyceric acid",
+   "Pyruvic acid",
+   "Oxaloacetic acid",
+   "Succinic acid"
+  ],
+  "answer": 2,
+  "explanation": "Sorghum is C4: PEP acceptor → oxaloacetic acid (4-C).",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 15,
   "question": "Which one of the following products diffuses out of the chloroplast during photosynthesis?",
   "options": [
    "ADP",
@@ -194,6 +166,48 @@
   "explanation": "Oxygen is released; ATP/NADPH used in the Calvin cycle within the chloroplast.",
   "source": "examside.com",
   "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Phosphoenol pyruvate (PEP) is the primary CO2 acceptor in",
+  "options": [
+   "C4 plants",
+   "C2 plants",
+   "C3 and C4 plants",
+   "C3 plants"
+  ],
+  "answer": 0,
+  "explanation": "PEP is the primary CO2 acceptor in C4 mesophyll cells.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Stomatal water loss and CO2 entry together because:",
+  "options": [
+   "Diffusion coefficients of water and CO2 differ",
+   "Both cannot occur together",
+   "One by day, one by night",
+   "Only at night"
+  ],
+  "answer": 0,
+  "explanation": "Different diffusion coefficients let both fluxes share the pore. | Hint: Why can two gases share one pore?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Kranz anatomy leaves among: potato, sugarcane, wheat, mustard:",
+  "options": [
+   "Potato",
+   "Sugarcane",
+   "Wheat",
+   "Mustard"
+  ],
+  "answer": 1,
+  "explanation": "Sugarcane is the classic C4 Kranz example. | Hint: Which is the C4 crop?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010"
  },
  {
   "pdfPage": 20,
@@ -208,20 +222,6 @@
   "explanation": "C4 plants actually have the HIGHER temperature optimum; the statement reverses them. | Hint: Which plant type loves heat more?",
   "source": "NEET NEET 2017 via BYJU'S",
   "year": "NEET 2017"
- },
- {
-  "pdfPage": 20,
-  "question": "The first stable product of CO2 fixation in Sorghum is",
-  "options": [
-   "Phosphoglyceric acid",
-   "Pyruvic acid",
-   "Oxaloacetic acid",
-   "Succinic acid"
-  ],
-  "answer": 2,
-  "explanation": "Sorghum is C4: PEP acceptor → oxaloacetic acid (4-C).",
-  "source": "examside.com",
-  "year": "NEET 2021"
  },
  {
   "pdfPage": 21,

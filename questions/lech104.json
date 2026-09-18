@@ -29,20 +29,6 @@
  },
  {
   "pdfPage": 7,
-  "question": "Copper becomes green when exposed to moist air for a long period. This is due to:",
-  "options": [
-   "a layer of cupric oxide on the surface",
-   "a layer of basic copper sulphate on the surface",
-   "a layer of cupric hydroxide on the surface",
-   "a layer of basic copper carbonate on the surface"
-  ],
-  "answer": 3,
-  "explanation": "Moist air forms a green patina of basic copper carbonate (verdigris) on copper. | Hint: Think of green copper statues and roofs.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 7,
   "question": "V(23), Cr(24), Mn(25), Fe(26): which has the highest second ionisation enthalpy?",
   "options": [
    "V",
@@ -54,34 +40,6 @@
   "explanation": "Removing a second electron from Cr gives Cr+ with stable half-filled 3d5, costing the most energy. | Hint: Removing from which ion breaks a half-filled shell?",
   "source": "JEE JEE Main 2024 via BYJU'S",
   "year": "JEE Main 2024"
- },
- {
-  "pdfPage": 9,
-  "question": "Which one of the following exhibits the largest number of oxidation states? (atomic numbers in brackets)",
-  "options": [
-   "Mn (25)",
-   "V (23)",
-   "Cr (24)",
-   "Ti (22)"
-  ],
-  "answer": 0,
-  "explanation": "Manganese spans +2 to +7 (five unpaired d electrons plus two s electrons). | Hint: Which has the most unpaired d electrons to share?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 9,
-  "question": "The type of isomerism in nitro-pentamminechromium(III) chloride is:",
-  "options": [
-   "optical",
-   "linkage",
-   "ionization",
-   "polymerisation"
-  ],
-  "answer": 1,
-  "explanation": "The nitro group binds through N (-NO2) or O (-ONO); ambidentate ligands give linkage isomerism. | Hint: Nitro can attach through N or through O.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
  },
  {
   "pdfPage": 9,
@@ -99,6 +57,20 @@
  },
  {
   "pdfPage": 9,
+  "question": "The element that usually does NOT show variable oxidation states:",
+  "options": [
+   "V",
+   "Ti",
+   "Cu",
+   "Sc"
+  ],
+  "answer": 3,
+  "explanation": "Scandium is essentially only +3 (noble-gas d0 configuration). | Hint: Which reaches a noble-gas core at +3?",
+  "source": "JEE JEE Main 2019 via BYJU'S",
+  "year": "JEE Main 2019"
+ },
+ {
+  "pdfPage": 9,
   "question": "Which of the following is NOT formed when H2S reacts with acidic K2Cr2O7 solution?",
   "options": [
    "K2SO4",
@@ -113,29 +85,15 @@
  },
  {
   "pdfPage": 9,
-  "question": "The element that usually does NOT show variable oxidation states:",
+  "question": "Which one of the following exhibits the largest number of oxidation states? (atomic numbers in brackets)",
   "options": [
-   "V",
-   "Ti",
-   "Cu",
-   "Sc"
+   "Mn (25)",
+   "V (23)",
+   "Cr (24)",
+   "Ti (22)"
   ],
-  "answer": 3,
-  "explanation": "Scandium is essentially only +3 (noble-gas d0 configuration). | Hint: Which reaches a noble-gas core at +3?",
-  "source": "JEE JEE Main 2019 via BYJU'S",
-  "year": "JEE Main 2019"
- },
- {
-  "pdfPage": 14,
-  "question": "In the context of lanthanoids, which statement is NOT correct?",
-  "options": [
-   "Radii decrease gradually with atomic number",
-   "All members exhibit +3 oxidation state",
-   "Similar properties make separation difficult",
-   "4f electrons give +4 state for ALL members"
-  ],
-  "answer": 3,
-  "explanation": "Only some lanthanoids (Ce, Tb, Pr) reach +4; it is not universal. | Hint: Is +4 really available to every member?",
+  "answer": 0,
+  "explanation": "Manganese spans +2 to +7 (five unpaired d electrons plus two s electrons). | Hint: Which has the most unpaired d electrons to share?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -154,6 +112,20 @@
   "year": "JEE Main PYQ"
  },
  {
+  "pdfPage": 17,
+  "question": "Copper becomes green when exposed to moist air for a long period. This is due to:",
+  "options": [
+   "a layer of cupric oxide on the surface",
+   "a layer of basic copper sulphate on the surface",
+   "a layer of cupric hydroxide on the surface",
+   "a layer of basic copper carbonate on the surface"
+  ],
+  "answer": 3,
+  "explanation": "Moist air forms a green patina of basic copper carbonate (verdigris) on copper. | Hint: Think of green copper statues and roofs.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
   "pdfPage": 18,
   "question": "Potassium dichromate heated with concentrated sulphuric acid and a soluble chloride gives brown-red vapours of:",
   "options": [
@@ -168,18 +140,32 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 25,
-  "question": "The actinoids exhibit more oxidation states than the lanthanoids because:",
+  "pdfPage": 18,
+  "question": "The type of isomerism in nitro-pentamminechromium(III) chloride is:",
   "options": [
-   "5f orbitals extend further from the nucleus than 4f",
-   "5f orbitals are more buried than 4f",
-   "4f and 5f are similar in angular wave function",
-   "actinoids are more reactive"
+   "optical",
+   "linkage",
+   "ionization",
+   "polymerisation"
   ],
-  "answer": 0,
-  "explanation": "The 5f electrons feel less nuclear hold, so more of them can participate in bonding. | Hint: Compare how buried 5f is versus 4f.",
-  "source": "JEE AIEEE 2007 via BYJU'S",
-  "year": "AIEEE 2007"
+  "answer": 1,
+  "explanation": "The nitro group binds through N (-NO2) or O (-ONO); ambidentate ligands give linkage isomerism. | Hint: Nitro can attach through N or through O.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "In the context of lanthanoids, which statement is NOT correct?",
+  "options": [
+   "Radii decrease gradually with atomic number",
+   "All members exhibit +3 oxidation state",
+   "Similar properties make separation difficult",
+   "4f electrons give +4 state for ALL members"
+  ],
+  "answer": 3,
+  "explanation": "Only some lanthanoids (Ce, Tb, Pr) reach +4; it is not universal. | Hint: Is +4 really available to every member?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
  },
  {
   "pdfPage": 25,
@@ -208,5 +194,19 @@
   "explanation": "Unpaired f electrons undergo f-f transitions, so most Ln(III) compounds are coloured. | Hint: Do lanthanides have unpaired f electrons?",
   "source": "JEE AIEEE 2009 via BYJU'S",
   "year": "AIEEE 2009"
+ },
+ {
+  "pdfPage": 25,
+  "question": "The actinoids exhibit more oxidation states than the lanthanoids because:",
+  "options": [
+   "5f orbitals extend further from the nucleus than 4f",
+   "5f orbitals are more buried than 4f",
+   "4f and 5f are similar in angular wave function",
+   "actinoids are more reactive"
+  ],
+  "answer": 0,
+  "explanation": "The 5f electrons feel less nuclear hold, so more of them can participate in bonding. | Hint: Compare how buried 5f is versus 4f.",
+  "source": "JEE AIEEE 2007 via BYJU'S",
+  "year": "AIEEE 2007"
  }
 ]

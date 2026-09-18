@@ -1,76 +1,20 @@
 [
  {
-  "pdfPage": 7,
-  "question": "Tyndall INCORRECT statement:",
+  "pdfPage": 2,
+  "question": "Better protective colloid (gold numbers):",
   "options": [
-   "Index mismatch needed",
-   "Particles much smaller than wavelength",
-   "Distinguishes true solution",
-   "Cinema projector beams"
+   "Gelatin",
+   "Starch",
+   "Oleate",
+   "Gum arabic"
   ],
-  "answer": 1,
-  "explanation": "Particles must be comparable to wavelength, not much smaller. | Hint: Size versus wavelength?",
-  "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
+  "answer": 0,
+  "explanation": "Lowest gold number protects best. | Hint: Lower gold number means?",
+  "source": "JEE JEE Main 2016 via cracku",
+  "year": "JEE Main 2016"
  },
  {
   "pdfPage": 7,
-  "question": "Too little soap fails because:",
-  "options": [
-   "Ions float free",
-   "Structure disturbed",
-   "Grease untouched",
-   "Below CMC, no micelles"
-  ],
-  "answer": 3,
-  "explanation": "No micelles form below critical concentration. | Hint: What needs minimum concentration?",
-  "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
- },
- {
-  "pdfPage": 7,
-  "question": "Vapour-phase mole fraction (100g/100 + 100g/50, 300/600 torr):",
-  "options": [
-   "0.16",
-   "0.20",
-   "0.33",
-   "0.80"
-  ],
-  "answer": 1,
-  "explanation": "Raoult then Dalton give 100/500 = 0.20. | Hint: Partial over total pressure?",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 8,
-  "question": "Li bcc, a=351 pm. Atomic radius:",
-  "options": [
-   "75 pm",
-   "300 pm",
-   "240 pm",
-   "152 pm"
-  ],
-  "answer": 3,
-  "explanation": "r = sqrt(3)a/4 = 152 pm. | Hint: BCC radius formula?",
-  "source": "JEE AIEEE 2012 via cracku",
-  "year": "AIEEE 2012"
- },
- {
-  "pdfPage": 8,
-  "question": "Lowest-CMC surfactant:",
-  "options": [
-   "C12 cationic",
-   "C14 anionic",
-   "C16 cationic",
-   "C10 anionic"
-  ],
-  "answer": 2,
-  "explanation": "Longest tail (C16) micellises easiest. | Hint: Longest tail wins?",
-  "source": "JEE JEE Main 2015 via cracku",
-  "year": "JEE Main 2015"
- },
- {
-  "pdfPage": 8,
   "question": "Tyndall effect is observed only when: (i) diameter of dispersed particle is much smaller than wavelength of light; (ii) diameter is NOT much smaller than wavelength; (iii) refractive indices of dispersed phase and medium are almost similar; (iv) the refractive indices differ greatly. Correct pair?",
   "options": [
    "ii and iv",
@@ -98,20 +42,6 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 11,
-  "question": "Better protective colloid (gold numbers):",
-  "options": [
-   "Gelatin",
-   "Starch",
-   "Oleate",
-   "Gum arabic"
-  ],
-  "answer": 0,
-  "explanation": "Lowest gold number protects best. | Hint: Lower gold number means?",
-  "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
- },
- {
   "pdfPage": 12,
   "question": "10 g glucose (P1), 10 g urea (P2), 10 g sucrose (P3), each in 250 mL water. Decreasing osmotic pressure order:",
   "options": [
@@ -124,6 +54,20 @@
   "explanation": "Moles: urea 0.167 > glucose 0.056 > sucrose 0.029, and osmotic pressure follows molarity. | Hint: Smallest molar mass gives most particles.",
   "source": "NEET NEET 2021 via MedicNEET",
   "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Physisorption INCORRECT:",
+  "options": [
+   "van der Waals forces",
+   "Liquefiable gases adsorb",
+   "Multilayers at high P",
+   "Enthalpy low and positive"
+  ],
+  "answer": 3,
+  "explanation": "Adsorption releases heat: enthalpy is low and negative. | Hint: Exothermic or endothermic?",
+  "source": "JEE AIEEE 2009 via cracku",
+  "year": "AIEEE 2009"
  },
  {
   "pdfPage": 14,
@@ -141,6 +85,20 @@
  },
  {
   "pdfPage": 14,
+  "question": "Positive deviation pair:",
+  "options": [
+   "Acetone+aniline",
+   "CHCl3+benzene",
+   "CHCl3+acetone",
+   "Acetone+CS2"
+  ],
+  "answer": 3,
+  "explanation": "Weak unlike-attraction lets vapour escape easier. | Hint: Weak cross-attraction means?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 14,
   "question": "The mixture showing positive deviation from Raoult law:",
   "options": [
    "Acetone + Chloroform",
@@ -154,18 +112,18 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 14,
-  "question": "Positive deviation pair:",
+  "pdfPage": 15,
+  "question": "2% A boils as 8% B solution. Relation:",
   "options": [
-   "Acetone+aniline",
-   "CHCl3+benzene",
-   "CHCl3+acetone",
-   "Acetone+CS2"
+   "MA=4MB",
+   "MB=4MA",
+   "MA=8MB",
+   "MB=8MA"
   ],
-  "answer": 3,
-  "explanation": "Weak unlike-attraction lets vapour escape easier. | Hint: Weak cross-attraction means?",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "answer": 1,
+  "explanation": "Equal boiling rise with 4x mass means 4x molar mass. | Hint: Same effect, 4x mass?",
+  "source": "JEE JEE Main 2022 via cracku",
+  "year": "JEE Main 2022"
  },
  {
   "pdfPage": 15,
@@ -196,74 +154,18 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 15,
-  "question": "Physisorption INCORRECT:",
+  "pdfPage": 18,
+  "question": "If molality of a dilute solution is doubled, the molal depression constant (Kf) will be:",
   "options": [
-   "van der Waals forces",
-   "Liquefiable gases adsorb",
-   "Multilayers at high P",
-   "Enthalpy low and positive"
+   "Doubled",
+   "Halved",
+   "Tripled",
+   "Unchanged"
   ],
   "answer": 3,
-  "explanation": "Adsorption releases heat: enthalpy is low and negative. | Hint: Exothermic or endothermic?",
-  "source": "JEE AIEEE 2009 via cracku",
-  "year": "AIEEE 2009"
- },
- {
-  "pdfPage": 15,
-  "question": "2% A boils as 8% B solution. Relation:",
-  "options": [
-   "MA=4MB",
-   "MB=4MA",
-   "MA=8MB",
-   "MB=8MA"
-  ],
-  "answer": 1,
-  "explanation": "Equal boiling rise with 4x mass means 4x molar mass. | Hint: Same effect, 4x mass?",
-  "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
- },
- {
-  "pdfPage": 15,
-  "question": "4% X freezes as 12% Y solution. If X = A, Y =:",
-  "options": [
-   "2A",
-   "A",
-   "4A",
-   "3A"
-  ],
-  "answer": 3,
-  "explanation": "Triple mass for equal effect means triple molar mass. | Hint: Same depression, 3x mass?",
-  "source": "JEE JEE Main 2019 via cracku",
-  "year": "JEE Main 2019"
- },
- {
-  "pdfPage": 19,
-  "question": "Green dry-cleaning solvent:",
-  "options": [
-   "SO2",
-   "CO2",
-   "NO2",
-   "C2Cl4"
-  ],
-  "answer": 1,
-  "explanation": "Supercritical CO2 replaces polluting solvents. | Hint: Supercritical green solvent?",
-  "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
- },
- {
-  "pdfPage": 20,
-  "question": "Ethylene glycol to freeze 1 kg water at -2.8C:",
-  "options": [
-   "72 g",
-   "93 g",
-   "39 g",
-   "27 g"
-  ],
-  "answer": 1,
-  "explanation": "m = 2.8/1.86 = 1.505 mol x 62 g. | Hint: Molality from depression, then mass.",
-  "source": "JEE AIEEE 2012 via cracku",
-  "year": "AIEEE 2012"
+  "explanation": "Kf is a solvent property; it never depends on solute concentration. | Hint: Is Kf about the solute or the solvent?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 20,
@@ -280,32 +182,32 @@
   "year": "JEE Main 2022"
  },
  {
-  "pdfPage": 21,
-  "question": "If molality of a dilute solution is doubled, the molal depression constant (Kf) will be:",
+  "pdfPage": 20,
+  "question": "Ethylene glycol to freeze 1 kg water at -2.8C:",
   "options": [
-   "Doubled",
-   "Halved",
-   "Tripled",
-   "Unchanged"
+   "72 g",
+   "93 g",
+   "39 g",
+   "27 g"
   ],
-  "answer": 3,
-  "explanation": "Kf is a solvent property; it never depends on solute concentration. | Hint: Is Kf about the solute or the solvent?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "answer": 1,
+  "explanation": "m = 2.8/1.86 = 1.505 mol x 62 g. | Hint: Molality from depression, then mass.",
+  "source": "JEE AIEEE 2012 via cracku",
+  "year": "AIEEE 2012"
  },
  {
   "pdfPage": 21,
-  "question": "Which of the following depends on temperature?",
+  "question": "False colloid statement:",
   "options": [
-   "Molality",
-   "Molarity",
-   "Mole fraction",
-   "Weight percentage"
+   "AgNO3+KI gives negative sol",
+   "Colloid FP lower than true solution",
+   "Colloids pass filter paper",
+   "Excess electrolyte precipitates"
   ],
   "answer": 1,
-  "explanation": "Molarity uses solution volume, which expands with temperature; the rest are mass-based. | Hint: Which unit involves volume?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "explanation": "Fewer particles mean HIGHER freezing point, not lower. | Hint: Fewer particles: higher or lower FP?",
+  "source": "JEE JEE Main 2018 via cracku",
+  "year": "JEE Main 2018"
  },
  {
   "pdfPage": 21,
@@ -322,6 +224,20 @@
   "year": "JEE Main PYQ"
  },
  {
+  "pdfPage": 21,
+  "question": "Which of the following depends on temperature?",
+  "options": [
+   "Molality",
+   "Molarity",
+   "Mole fraction",
+   "Weight percentage"
+  ],
+  "answer": 1,
+  "explanation": "Molarity uses solution volume, which expands with temperature; the rest are mass-based. | Hint: Which unit involves volume?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
   "pdfPage": 22,
   "question": "Density of 2 M aqueous NaOH is 1.28 g/cm3 (M NaOH = 40). Molality:",
   "options": [
@@ -336,32 +252,18 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 22,
-  "question": "Sulphate solubility order:",
+  "pdfPage": 23,
+  "question": "Tyndall INCORRECT statement:",
   "options": [
-   "Mg>Ca>Sr>Ba",
-   "Mg>Sr>Ca>Ba",
-   "Mg<Ca<Sr<Ba",
-   "Mg<Sr<Ca<Ba"
+   "Index mismatch needed",
+   "Particles much smaller than wavelength",
+   "Distinguishes true solution",
+   "Cinema projector beams"
   ],
-  "answer": 0,
-  "explanation": "Solubility falls down the group. | Hint: Down the group: up or down?",
-  "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
- },
- {
-  "pdfPage": 25,
-  "question": "The van-t Hoff factor (i) for dilute aqueous barium hydroxide is:",
-  "options": [
-   "0",
-   "1",
-   "2",
-   "3"
-  ],
-  "answer": 3,
-  "explanation": "Strong electrolyte Ba(OH)2 dissociates into 3 ions: Ba2+ + 2OH-. | Hint: Count the ions formed.",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "answer": 1,
+  "explanation": "Particles must be comparable to wavelength, not much smaller. | Hint: Size versus wavelength?",
+  "source": "JEE JEE Main 2022 via cracku",
+  "year": "JEE Main 2022"
  },
  {
   "pdfPage": 25,
@@ -379,6 +281,20 @@
  },
  {
   "pdfPage": 25,
+  "question": "The van-t Hoff factor (i) for dilute aqueous barium hydroxide is:",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "Strong electrolyte Ba(OH)2 dissociates into 3 ions: Ba2+ + 2OH-. | Hint: Count the ions formed.",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 25,
   "question": "van-t Hoff factor, formic acid case:",
   "options": [
    "0.8",
@@ -392,7 +308,21 @@
   "year": "JEE Main 2022"
  },
  {
-  "pdfPage": 27,
+  "pdfPage": 28,
+  "question": "Li bcc, a=351 pm. Atomic radius:",
+  "options": [
+   "75 pm",
+   "300 pm",
+   "240 pm",
+   "152 pm"
+  ],
+  "answer": 3,
+  "explanation": "r = sqrt(3)a/4 = 152 pm. | Hint: BCC radius formula?",
+  "source": "JEE AIEEE 2012 via cracku",
+  "year": "AIEEE 2012"
+ },
+ {
+  "pdfPage": 28,
   "question": "Which statement about the vapour over an ideal 1:1 benzene-toluene mixture at 25C is correct? (P benzene = 12.8 kPa, P toluene = 3.85 kPa)",
   "options": [
    "Vapour richer in benzene",
@@ -406,32 +336,88 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 27,
-  "question": "False colloid statement:",
+  "pdfPage": 29,
+  "question": "Green dry-cleaning solvent:",
   "options": [
-   "AgNO3+KI gives negative sol",
-   "Colloid FP lower than true solution",
-   "Colloids pass filter paper",
-   "Excess electrolyte precipitates"
+   "SO2",
+   "CO2",
+   "NO2",
+   "C2Cl4"
   ],
   "answer": 1,
-  "explanation": "Fewer particles mean HIGHER freezing point, not lower. | Hint: Fewer particles: higher or lower FP?",
-  "source": "JEE JEE Main 2018 via cracku",
-  "year": "JEE Main 2018"
+  "explanation": "Supercritical CO2 replaces polluting solvents. | Hint: Supercritical green solvent?",
+  "source": "JEE JEE Main 2016 via cracku",
+  "year": "JEE Main 2016"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Match sols: negative-CdS, macro-starch, positive-Fe2O3, cheese-gel:",
+  "options": [
+   "ii,iii,iv,i",
+   "ii,i,ii,iv",
+   "ii,iii,i,iv",
+   "i,iii,ii,iv"
+  ],
+  "answer": 2,
+  "explanation": "CdS negative, starch macromolecular, ferric positive, cheese gel. | Hint: Pair each colloid.",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Sulphate solubility order:",
+  "options": [
+   "Mg>Ca>Sr>Ba",
+   "Mg>Sr>Ca>Ba",
+   "Mg<Ca<Sr<Ba",
+   "Mg<Sr<Ca<Ba"
+  ],
+  "answer": 0,
+  "explanation": "Solubility falls down the group. | Hint: Down the group: up or down?",
+  "source": "JEE JEE Main 2016 via cracku",
+  "year": "JEE Main 2016"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Too little soap fails because:",
+  "options": [
+   "Ions float free",
+   "Structure disturbed",
+   "Grease untouched",
+   "Below CMC, no micelles"
+  ],
+  "answer": 3,
+  "explanation": "No micelles form below critical concentration. | Hint: What needs minimum concentration?",
+  "source": "JEE JEE Main 2022 via cracku",
+  "year": "JEE Main 2022"
+ },
+ {
+  "pdfPage": 29,
+  "question": "Vapour-phase mole fraction (100g/100 + 100g/50, 300/600 torr):",
+  "options": [
+   "0.16",
+   "0.20",
+   "0.33",
+   "0.80"
+  ],
+  "answer": 1,
+  "explanation": "Raoult then Dalton give 100/500 = 0.20. | Hint: Partial over total pressure?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ"
  },
  {
   "pdfPage": 30,
-  "question": "Which one is INCORRECT for an ideal solution?",
+  "question": "4% X freezes as 12% Y solution. If X = A, Y =:",
   "options": [
-   "dHmix = 0",
-   "dUmix = 0",
-   "dP = Pobs - Praoult = 0",
-   "dGmix = 0"
+   "2A",
+   "A",
+   "4A",
+   "3A"
   ],
   "answer": 3,
-  "explanation": "Mixing is spontaneous so dGmix is negative, never zero; the other three are defining traits. | Hint: Which quantity must be negative for spontaneous mixing?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "explanation": "Triple mass for equal effect means triple molar mass. | Hint: Same depression, 3x mass?",
+  "source": "JEE JEE Main 2019 via cracku",
+  "year": "JEE Main 2019"
  },
  {
   "pdfPage": 30,
@@ -449,16 +435,30 @@
  },
  {
   "pdfPage": 30,
-  "question": "Match sols: negative-CdS, macro-starch, positive-Fe2O3, cheese-gel:",
+  "question": "Lowest-CMC surfactant:",
   "options": [
-   "ii,iii,iv,i",
-   "ii,i,ii,iv",
-   "ii,iii,i,iv",
-   "i,iii,ii,iv"
+   "C12 cationic",
+   "C14 anionic",
+   "C16 cationic",
+   "C10 anionic"
   ],
   "answer": 2,
-  "explanation": "CdS negative, starch macromolecular, ferric positive, cheese gel. | Hint: Pair each colloid.",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "explanation": "Longest tail (C16) micellises easiest. | Hint: Longest tail wins?",
+  "source": "JEE JEE Main 2015 via cracku",
+  "year": "JEE Main 2015"
+ },
+ {
+  "pdfPage": 30,
+  "question": "Which one is INCORRECT for an ideal solution?",
+  "options": [
+   "dHmix = 0",
+   "dUmix = 0",
+   "dP = Pobs - Praoult = 0",
+   "dGmix = 0"
+  ],
+  "answer": 3,
+  "explanation": "Mixing is spontaneous so dGmix is negative, never zero; the other three are defining traits. | Hint: Which quantity must be negative for spontaneous mixing?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  }
 ]

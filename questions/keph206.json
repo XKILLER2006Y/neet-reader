@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 2,
+  "question": "A pendulum is hung from the roof of a sufficiently high building and is moving freely to and fro like a simple harmonic oscillator. The acceleration of the bob of the pendulum is 20 m s–2 at a distance of 5 m from the mean position. The time period of oscillation is:",
+  "options": [
+   "2π s",
+   "π s",
+   "2 s",
+   "1 s"
+  ],
+  "answer": 1,
+  "explanation": "|a| = ω²y → 20 = 5ω² → ω = 2; T = 2π/2 = π s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2018"
+ },
+ {
   "pdfPage": 3,
   "question": "A body of mass m is attached to the lower end of a spring whose upper end is fixed. The spring has negligible mass. When the mass m is slightly pulled down and released, it oscillates with a time period of 3 s. When the mass m is increased by 1 kg, the time period of oscillations becomes 5 s. The value of m in kg is:",
   "options": [
@@ -26,20 +40,6 @@
   "explanation": "A = 5 m, ω = π rad/s; T = 2π/ω = 2 s.",
   "source": "smartachievers.online",
   "year": "NEET 2024"
- },
- {
-  "pdfPage": 3,
-  "question": "Phase difference between displacement and acceleration in SHM:",
-  "options": [
-   "π/2",
-   "zero",
-   "π",
-   "3π/2"
-  ],
-  "answer": 2,
-  "explanation": "a = −ω²x → antiphase, π.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
  },
  {
   "pdfPage": 3,
@@ -71,20 +71,6 @@
  },
  {
   "pdfPage": 4,
-  "question": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is x/2 times its original time period. Then the value of x is:",
-  "options": [
-   "√3",
-   "√2",
-   "2√3",
-   "√4"
-  ],
-  "answer": 1,
-  "explanation": "T independent of mass; L/2 → T′ = T/√2 = (x/2)T → x = √2.",
-  "source": "shaalaa.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 4,
   "question": "The phase difference between displacement and acceleration of a particle in a simple harmonic motion is :",
   "options": [
    "π rad",
@@ -113,20 +99,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "Spring stretched 5 cm by 10 N. Period with 2 kg hung:",
-  "options": [
-   "0.0628 s",
-   "6.28 s",
-   "3.14 s",
-   "0.628 s"
-  ],
-  "answer": 3,
-  "explanation": "k = 200 N/m; T = 2π√(2/200) = 0.628 s.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 6,
   "question": "The distance covered by a particle undergoing SHM in one time period is (amplitude = A)",
   "options": [
    "zero",
@@ -138,6 +110,34 @@
   "explanation": "A + 2A + A = 4A per full period.",
   "source": "smartachievers.online",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 9,
+  "question": "A spring of force constant k is cut into lengths of ratio 1 : 2 : 3. They are connected in series and the new force constant is k'. Then they are connected in parallel and the force constant is k''. Then k' : k'' is:",
+  "options": [
+   "1 : 9",
+   "1 : 11",
+   "1 : 14",
+   "1 : 6"
+  ],
+  "answer": 1,
+  "explanation": "Pieces k₁=6k, k₂=3k, k₃=2k. Series k′=k; parallel k″=11k → 1:11.",
+  "source": "smartachievers.online",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Phase difference between displacement and acceleration in SHM:",
+  "options": [
+   "π/2",
+   "zero",
+   "π",
+   "3π/2"
+  ],
+  "answer": 2,
+  "explanation": "a = −ω²x → antiphase, π.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 12,
@@ -152,6 +152,20 @@
   "explanation": "T ∝ √L only: T′ = T/√2 = (√2/2)T → x = √2.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
   "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Guitar strings A (530 Hz) and B beat at 6 Hz; loosening B raises beats to 7 Hz. Original f_B:",
+  "options": [
+   "536 Hz",
+   "537 Hz",
+   "523 Hz",
+   "524 Hz"
+  ],
+  "answer": 3,
+  "explanation": "f_B = 524 or 536; loosening lowers f_B, and only 524→523 widens the gap to 7.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 12,
@@ -196,6 +210,20 @@
   "year": "NEET 2022"
  },
  {
+  "pdfPage": 13,
+  "question": "If the mass of the bob in a simple pendulum is increased to thrice its original mass and its length is made half its original length, then the new time period of oscillation is x/2 times its original time period. Then the value of x is:",
+  "options": [
+   "√3",
+   "√2",
+   "2√3",
+   "√4"
+  ],
+  "answer": 1,
+  "explanation": "T independent of mass; L/2 → T′ = T/√2 = (x/2)T → x = √2.",
+  "source": "shaalaa.com",
+  "year": "NEET 2024"
+ },
+ {
   "pdfPage": 14,
   "question": "A particle executes linear simple harmonic motion with an amplitude of 3 cm. When the particle is at 2 cm from the mean position, the magnitude of its velocity is equal to that of its acceleration. Then its time period in seconds is",
   "options": [
@@ -238,34 +266,6 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 16,
-  "question": "A pendulum is hung from the roof of a sufficiently high building and is moving freely to and fro like a simple harmonic oscillator. The acceleration of the bob of the pendulum is 20 m s–2 at a distance of 5 m from the mean position. The time period of oscillation is:",
-  "options": [
-   "2π s",
-   "π s",
-   "2 s",
-   "1 s"
-  ],
-  "answer": 1,
-  "explanation": "|a| = ω²y → 20 = 5ω² → ω = 2; T = 2π/2 = π s.",
-  "source": "smartachievers.online",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 16,
-  "question": "Guitar strings A (530 Hz) and B beat at 6 Hz; loosening B raises beats to 7 Hz. Original f_B:",
-  "options": [
-   "536 Hz",
-   "537 Hz",
-   "523 Hz",
-   "524 Hz"
-  ],
-  "answer": 3,
-  "explanation": "f_B = 524 or 536; loosening lowers f_B, and only 524→523 widens the gap to 7.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
   "pdfPage": 18,
   "question": "A spring is stretched by 5 cm by a force 10 N. The time period of the oscillations when a mass of 2 kg is suspended by it is:",
   "options": [
@@ -281,16 +281,16 @@
  },
  {
   "pdfPage": 18,
-  "question": "A spring of force constant k is cut into lengths of ratio 1 : 2 : 3. They are connected in series and the new force constant is k'. Then they are connected in parallel and the force constant is k''. Then k' : k'' is:",
+  "question": "Spring stretched 5 cm by 10 N. Period with 2 kg hung:",
   "options": [
-   "1 : 9",
-   "1 : 11",
-   "1 : 14",
-   "1 : 6"
+   "0.0628 s",
+   "6.28 s",
+   "3.14 s",
+   "0.628 s"
   ],
-  "answer": 1,
-  "explanation": "Pieces k₁=6k, k₂=3k, k₃=2k. Series k′=k; parallel k″=11k → 1:11.",
-  "source": "smartachievers.online",
-  "year": "NEET 2017"
+  "answer": 3,
+  "explanation": "k = 200 N/m; T = 2π√(2/200) = 0.628 s.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
  }
 ]

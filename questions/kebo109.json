@@ -1,34 +1,20 @@
 [
  {
-  "pdfPage": 6,
-  "question": "Alpha-helix is found in which level of protein structure?",
+  "pdfPage": 3,
+  "question": "Correctly characterised biomolecule:",
   "options": [
-   "Secondary structure",
-   "Tertiary structure",
-   "Primary structure",
-   "Quaternary structure"
+   "Alanine has amino+acidic groups anywhere",
+   "Palmitic acid is C18 unsaturated",
+   "Lecithin is membrane phosphoglyceride",
+   "Adenylic acid is adenosine-glucose-phosphate"
   ],
-  "answer": 0,
-  "explanation": "α-helix and β-pleated sheet are secondary structures held by H-bonds.",
-  "source": "examside.com",
-  "year": "NEET 2026"
+  "answer": 2,
+  "explanation": "Lecithin (phosphatidyl choline) sits in membranes; the rest misdescribe. | Hint: Which description survives scrutiny?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012"
  },
  {
-  "pdfPage": 6,
-  "question": "INCORRECT about enzymes:",
-  "options": [
-   "Highly specific",
-   "Denatured at high temperature",
-   "Need optimum pH/temperature",
-   "Mostly proteins but some are lipids"
-  ],
-  "answer": 3,
-  "explanation": "Some enzymes are RNA (ribozymes), never lipids. | Hint: RNA or lipid: which can catalyse?",
-  "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 6,
+  "pdfPage": 3,
   "question": "Identify the basic amino acid from the following",
   "options": [
    "Valine",
@@ -40,6 +26,62 @@
   "explanation": "Lysine has two amino groups → basic; glutamic acid is acidic.",
   "source": "examside.com",
   "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 3,
+  "question": "The two functional groups characteristic of sugars are",
+  "options": [
+   "carbonyl and methyl",
+   "carbonyl and hydroxyl",
+   "hydroxyl and methyl",
+   "carbonyl and phosphate"
+  ],
+  "answer": 1,
+  "explanation": "Sugars are polyhydroxy aldehydes/ketones: carbonyl + hydroxyl.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 3,
+  "question": "Which of the following is a nucleotide?",
+  "options": [
+   "Uridine",
+   "Adenylic acid",
+   "Guanine",
+   "Guanosine"
+  ],
+  "answer": 1,
+  "explanation": "Adenylic acid = base+sugar+phosphate; uridine/guanosine are nucleosides, guanine a base.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Match List-I with List-II. List-I: A. Adenosine, B. Adenylic acid, C. Adenine, D. Alanine. List-II: I. Nitrogen base, II. Nucleotide, III. Nucleoside, IV. Amino acid. Choose the option with all correct matches.",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-II, B-III, C-I, D-IV",
+   "A-III, B-IV, C-II, D-I",
+   "A-III, B-II, C-IV, D-I"
+  ],
+  "answer": 0,
+  "explanation": "Adenosine=nucleoside(III), adenylic acid=nucleotide(II), adenine=base(I), alanine=amino acid(IV).",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Which of the following are not polymeric?",
+  "options": [
+   "Proteins",
+   "Polysaccharides",
+   "Lipids",
+   "Nucleic acids"
+  ],
+  "answer": 2,
+  "explanation": "Lipids are not polymers; proteins/polysaccharides/nucleic acids are.",
+  "source": "examside.com",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 8,
@@ -71,90 +113,6 @@
  },
  {
   "pdfPage": 8,
-  "question": "The protein portion of an enzyme is called:",
-  "options": [
-   "Apoenzyme",
-   "Prosthetic group",
-   "Cofactor",
-   "Coenzyme"
-  ],
-  "answer": 0,
-  "explanation": "Protein portion = apoenzyme; cofactor is the non-protein part.",
-  "source": "examside.com",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 8,
-  "question": "The two functional groups characteristic of sugars are",
-  "options": [
-   "carbonyl and methyl",
-   "carbonyl and hydroxyl",
-   "hydroxyl and methyl",
-   "carbonyl and phosphate"
-  ],
-  "answer": 1,
-  "explanation": "Sugars are polyhydroxy aldehydes/ketones: carbonyl + hydroxyl.",
-  "source": "examside.com",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 11,
-  "question": "Correctly characterised biomolecule:",
-  "options": [
-   "Alanine has amino+acidic groups anywhere",
-   "Palmitic acid is C18 unsaturated",
-   "Lecithin is membrane phosphoglyceride",
-   "Adenylic acid is adenosine-glucose-phosphate"
-  ],
-  "answer": 2,
-  "explanation": "Lecithin (phosphatidyl choline) sits in membranes; the rest misdescribe. | Hint: Which description survives scrutiny?",
-  "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
- },
- {
-  "pdfPage": 11,
-  "question": "Match List-I with List-II. List-I: A. Adenosine, B. Adenylic acid, C. Adenine, D. Alanine. List-II: I. Nitrogen base, II. Nucleotide, III. Nucleoside, IV. Amino acid. Choose the option with all correct matches.",
-  "options": [
-   "A-III, B-II, C-I, D-IV",
-   "A-II, B-III, C-I, D-IV",
-   "A-III, B-IV, C-II, D-I",
-   "A-III, B-II, C-IV, D-I"
-  ],
-  "answer": 0,
-  "explanation": "Adenosine=nucleoside(III), adenylic acid=nucleotide(II), adenine=base(I), alanine=amino acid(IV).",
-  "source": "examside.com",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 11,
-  "question": "Non-proteinaceous enzyme:",
-  "options": [
-   "Deoxyribonuclease",
-   "Ligase",
-   "Ribozyme",
-   "Lysozyme"
-  ],
-  "answer": 2,
-  "explanation": "Ribozymes are catalytic RNAs, not proteins. | Hint: Which enzyme is RNA?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 11,
-  "question": "Phosphodiester bonds occur in:",
-  "options": [
-   "Fatty acids in diglyceride",
-   "Amino acids in polypeptide",
-   "Monosaccharides in polysaccharide",
-   "Nucleic acids in a nucleotide chain"
-  ],
-  "answer": 3,
-  "explanation": "Nucleotides link via phosphodiester bonds. | Hint: Which polymer uses phosphate links?",
-  "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
- },
- {
-  "pdfPage": 11,
   "question": "Pick the INCORRECT statement:",
   "options": [
    "Sucrose is a disaccharide",
@@ -168,32 +126,18 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 11,
-  "question": "Which of the following are not polymeric?",
+  "pdfPage": 9,
+  "question": "Alpha-helix is found in which level of protein structure?",
   "options": [
-   "Proteins",
-   "Polysaccharides",
-   "Lipids",
-   "Nucleic acids"
+   "Secondary structure",
+   "Tertiary structure",
+   "Primary structure",
+   "Quaternary structure"
   ],
-  "answer": 2,
-  "explanation": "Lipids are not polymers; proteins/polysaccharides/nucleic acids are.",
+  "answer": 0,
+  "explanation": "α-helix and β-pleated sheet are secondary structures held by H-bonds.",
   "source": "examside.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 14,
-  "question": "A typical fat molecule is made up of",
-  "options": [
-   "one glycerol and one fatty acid molecule",
-   "three glycerol and three fatty acid molecules",
-   "three glycerol molecules and one fatty acid molecule",
-   "one glycerol and three fatty acid molecules"
-  ],
-  "answer": 3,
-  "explanation": "Triglyceride = glycerol + 3 fatty acids (esterification).",
-  "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2026"
  },
  {
   "pdfPage": 14,
@@ -211,31 +155,31 @@
  },
  {
   "pdfPage": 14,
-  "question": "LEAST likely to stabilise protein 3D folding:",
+  "question": "Inhibition of Succinic dehydrogenase enzyme by malonate is a classical example of:",
   "options": [
-   "Hydrophobic interaction",
-   "Electrostatic interaction",
-   "Hydrogen bonds",
-   "Ester bonds"
+   "Cofactor inhibition",
+   "Feedback inhibition",
+   "Competitive inhibition",
+   "Enzyme activation"
   ],
-  "answer": 3,
-  "explanation": "Ester bonds do not hold protein tertiary structure together. | Hint: Which bond type is absent in proteins?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 14,
-  "question": "Which of the following is a nucleotide?",
-  "options": [
-   "Uridine",
-   "Adenylic acid",
-   "Guanine",
-   "Guanosine"
-  ],
-  "answer": 1,
-  "explanation": "Adenylic acid = base+sugar+phosphate; uridine/guanosine are nucleosides, guanine a base.",
+  "answer": 2,
+  "explanation": "Malonate resembles succinate and competes for the active site.",
   "source": "examside.com",
   "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 15,
+  "question": "A typical fat molecule is made up of",
+  "options": [
+   "one glycerol and one fatty acid molecule",
+   "three glycerol and three fatty acid molecules",
+   "three glycerol molecules and one fatty acid molecule",
+   "one glycerol and three fatty acid molecules"
+  ],
+  "answer": 3,
+  "explanation": "Triglyceride = glycerol + 3 fatty acids (esterification).",
+  "source": "examside.com",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 15,
@@ -253,16 +197,72 @@
  },
  {
   "pdfPage": 15,
-  "question": "Inhibition of Succinic dehydrogenase enzyme by malonate is a classical example of:",
+  "question": "LEAST likely to stabilise protein 3D folding:",
   "options": [
-   "Cofactor inhibition",
-   "Feedback inhibition",
-   "Competitive inhibition",
-   "Enzyme activation"
+   "Hydrophobic interaction",
+   "Electrostatic interaction",
+   "Hydrogen bonds",
+   "Ester bonds"
+  ],
+  "answer": 3,
+  "explanation": "Ester bonds do not hold protein tertiary structure together. | Hint: Which bond type is absent in proteins?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Phosphodiester bonds occur in:",
+  "options": [
+   "Fatty acids in diglyceride",
+   "Amino acids in polypeptide",
+   "Monosaccharides in polysaccharide",
+   "Nucleic acids in a nucleotide chain"
+  ],
+  "answer": 3,
+  "explanation": "Nucleotides link via phosphodiester bonds. | Hint: Which polymer uses phosphate links?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 15,
+  "question": "The protein portion of an enzyme is called:",
+  "options": [
+   "Apoenzyme",
+   "Prosthetic group",
+   "Cofactor",
+   "Coenzyme"
+  ],
+  "answer": 0,
+  "explanation": "Protein portion = apoenzyme; cofactor is the non-protein part.",
+  "source": "examside.com",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 16,
+  "question": "INCORRECT about enzymes:",
+  "options": [
+   "Highly specific",
+   "Denatured at high temperature",
+   "Need optimum pH/temperature",
+   "Mostly proteins but some are lipids"
+  ],
+  "answer": 3,
+  "explanation": "Some enzymes are RNA (ribozymes), never lipids. | Hint: RNA or lipid: which can catalyse?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Non-proteinaceous enzyme:",
+  "options": [
+   "Deoxyribonuclease",
+   "Ligase",
+   "Ribozyme",
+   "Lysozyme"
   ],
   "answer": 2,
-  "explanation": "Malonate resembles succinate and competes for the active site.",
-  "source": "examside.com",
-  "year": "NEET 2024"
+  "explanation": "Ribozymes are catalytic RNAs, not proteins. | Hint: Which enzyme is RNA?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
  }
 ]

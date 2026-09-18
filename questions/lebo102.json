@@ -85,6 +85,20 @@
  },
  {
   "pdfPage": 7,
+  "question": "Match sperm parts: Head/Middle piece/Acrosome/Tail to Genetic material/Energy/Enzymes/Motility:",
+  "options": [
+   "A-III,B-IV,C-II,D-I",
+   "A-III,B-II,C-I,D-IV",
+   "A-IV,B-III,C-I,D-II",
+   "A-IV,B-III,C-II,D-I"
+  ],
+  "answer": 2,
+  "explanation": "Head carries DNA, middle piece makes energy, acrosome holds enzymes, tail moves. | Hint: Pair each part with its job.",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 7,
   "question": "Oogenesis is initiated at:",
   "options": [
    "Puberty",
@@ -98,16 +112,16 @@
   "year": "NEET 2022"
  },
  {
-  "pdfPage": 7,
-  "question": "Match sperm parts: Head/Middle piece/Acrosome/Tail to Genetic material/Energy/Enzymes/Motility:",
+  "pdfPage": 8,
+  "question": "First menstruation is called:",
   "options": [
-   "A-III,B-IV,C-II,D-I",
-   "A-III,B-II,C-I,D-IV",
-   "A-IV,B-III,C-I,D-II",
-   "A-IV,B-III,C-II,D-I"
+   "Diapause",
+   "Ovulation",
+   "Menopause",
+   "Menarche"
   ],
-  "answer": 2,
-  "explanation": "Head carries DNA, middle piece makes energy, acrosome holds enzymes, tail moves. | Hint: Pair each part with its job.",
+  "answer": 3,
+  "explanation": "Menarche is the first menstrual bleed at puberty. | Hint: First bleed at puberty?",
   "source": "NEET NEET 2025 via MedicNEET",
   "year": "NEET 2025"
  },
@@ -126,35 +140,7 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 8,
-  "question": "Sperm-binding receptors in mammals on:",
-  "options": [
-   "Perivitelline space",
-   "Zona pellucida",
-   "Corona radiata",
-   "Vitelline membrane"
-  ],
-  "answer": 1,
-  "explanation": "ZP3 glycoproteins of the zona pellucida bind sperm. | Hint: Which egg coat meets sperm first?",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 8,
-  "question": "First menstruation is called:",
-  "options": [
-   "Diapause",
-   "Ovulation",
-   "Menopause",
-   "Menarche"
-  ],
-  "answer": 3,
-  "explanation": "Menarche is the first menstrual bleed at puberty. | Hint: First bleed at puberty?",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 12,
+  "pdfPage": 10,
   "question": "Assertion A: The endometrium is necessary for the implantation of a blastocyst. Reason R: In the absence of fertilisation, the corpus luteum degenerates, which causes the disintegration of the endometrium.",
   "options": [
    "Both A and R are true, and R is the correct explanation of A",
@@ -166,6 +152,20 @@
   "explanation": "The endometrium is indeed needed for blastocyst implantation, and the corpus luteum's degeneration does shed the endometrium — but that fact does not explain why the endometrium is necessary, so R is not the correct explanation of A. | Hint: Both facts are true — but does the reason explain the assertion?",
   "source": "NEET NEET 2023 via careers360",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Sperm-binding receptors in mammals on:",
+  "options": [
+   "Perivitelline space",
+   "Zona pellucida",
+   "Corona radiata",
+   "Vitelline membrane"
+  ],
+  "answer": 1,
+  "explanation": "ZP3 glycoproteins of the zona pellucida bind sperm. | Hint: Which egg coat meets sperm first?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 12,

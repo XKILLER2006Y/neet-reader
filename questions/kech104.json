@@ -1,71 +1,43 @@
 [
  {
-  "pdfPage": 9,
-  "question": "B-F (BF3, 646 kJ/mol) beats C-F (CF4, 515) because:",
+  "pdfPage": 1,
+  "question": "Both species unlikely to exist:",
   "options": [
-   "pπ-pπ back-bonding in BF3 only",
-   "Weaker pπ-pπ in BF3",
-   "Smaller B atom",
-   "Just a stronger B-F bond"
-  ],
-  "answer": 0,
-  "explanation": "Back-bonding gives B-F partial double-bond character. | Hint: Which molecule has empty-p back-bonding?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 9,
-  "question": "Bonds between carbons in calcium carbide:",
-  "options": [
-   "One σ, two π",
-   "One σ, one π",
-   "Two σ, one π",
-   "Two σ, two π"
-  ],
-  "answer": 0,
-  "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Triple bond anatomy.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 9,
-  "question": "Smallest bond angle: PCl3, NCl3, AsCl3, SbCl3:",
-  "options": [
-   "PCl3",
-   "NCl3",
-   "AsCl3",
-   "SbCl3"
-  ],
-  "answer": 3,
-  "explanation": "Angle shrinks down the group as bonding orbitals gain p-character. | Hint: Down the group, angles shrink.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 10,
-  "question": "Shortest bond by MO theory: O2-, O2(2-), O2(2+), O2+:",
-  "options": [
-   "O2-",
-   "O2(2-)",
-   "O2(2+)",
-   "O2+"
+   "H2+ and He2(2-)",
+   "H2- and He2(2-)",
+   "H2(2+) and He2",
+   "H2- and He2(2+)"
   ],
   "answer": 2,
-  "explanation": "Bond orders 1.5, 1, 3, 2.5: highest order is shortest. | Hint: Highest bond order wins.",
+  "explanation": "Both have zero bond order and cannot exist. | Hint: Zero bond order means no molecule.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 10,
-  "question": "Smallest bond among NO, NO+, O2, NO-:",
+  "pdfPage": 7,
+  "question": "Most Xe lone pairs: XeO3, XeF4, XeF6, XeF2:",
   "options": [
-   "NO",
-   "NO+",
-   "O2",
-   "NO-"
+   "XeO3",
+   "XeF4",
+   "XeF6",
+   "XeF2"
   ],
-  "answer": 1,
-  "explanation": "NO+ has bond order 3, the largest of the set. | Hint: Largest bond order means shortest.",
+  "answer": 3,
+  "explanation": "Lone pairs: 1, 2, 1, 3 respectively. | Hint: Count bonds, subtract from 8 electrons.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Xenon compound with zero dipole:",
+  "options": [
+   "XeO3",
+   "XeO2",
+   "XeF4",
+   "XeOF4"
+  ],
+  "answer": 2,
+  "explanation": "Symmetric square-planar XeF4 cancels all dipoles. | Hint: Which xenon shape is fully symmetric?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -84,44 +56,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 10,
-  "question": "Both species unlikely to exist:",
-  "options": [
-   "H2+ and He2(2-)",
-   "H2- and He2(2-)",
-   "H2(2+) and He2",
-   "H2- and He2(2+)"
-  ],
-  "answer": 2,
-  "explanation": "Both have zero bond order and cannot exist. | Hint: Zero bond order means no molecule.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 12,
-  "question": "Xenon compound with zero dipole:",
-  "options": [
-   "XeO3",
-   "XeO2",
-   "XeF4",
-   "XeOF4"
-  ],
-  "answer": 2,
-  "explanation": "Symmetric square-planar XeF4 cancels all dipoles. | Hint: Which xenon shape is fully symmetric?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
   "pdfPage": 13,
-  "question": "Maximum covalent character: AlCl3, MgCl2, FeCl2, SnCl2:",
+  "question": "B-F (BF3, 646 kJ/mol) beats C-F (CF4, 515) because:",
   "options": [
-   "AlCl3",
-   "MgCl2",
-   "FeCl2",
-   "SnCl2"
+   "pπ-pπ back-bonding in BF3 only",
+   "Weaker pπ-pπ in BF3",
+   "Smaller B atom",
+   "Just a stronger B-F bond"
   ],
   "answer": 0,
-  "explanation": "Al3+ has the highest polarising power (Fajans). | Hint: Highest charge density polarises most.",
+  "explanation": "Back-bonding gives B-F partial double-bond character. | Hint: Which molecule has empty-p back-bonding?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -140,30 +84,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 16,
-  "question": "Square planar structure:",
+  "pdfPage": 13,
+  "question": "Maximum covalent character: AlCl3, MgCl2, FeCl2, SnCl2:",
   "options": [
-   "NH4+",
-   "CCl4",
-   "XeF4",
-   "BF4-"
+   "AlCl3",
+   "MgCl2",
+   "FeCl2",
+   "SnCl2"
   ],
-  "answer": 2,
-  "explanation": "sp3d2 XeF4 with two lone pairs sits square planar. | Hint: Which has two lone pairs on square corners?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 17,
-  "question": "Most Xe lone pairs: XeO3, XeF4, XeF6, XeF2:",
-  "options": [
-   "XeO3",
-   "XeF4",
-   "XeF6",
-   "XeF2"
-  ],
-  "answer": 3,
-  "explanation": "Lone pairs: 1, 2, 1, 3 respectively. | Hint: Count bonds, subtract from 8 electrons.",
+  "answer": 0,
+  "explanation": "Al3+ has the highest polarising power (Fajans). | Hint: Highest charge density polarises most.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -182,7 +112,7 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 20,
+  "pdfPage": 22,
   "question": "All isostructural set:",
   "options": [
    "BF3,NF3,PF3,AlF3",
@@ -192,20 +122,6 @@
   ],
   "answer": 2,
   "explanation": "All four are tetrahedral AX4 species. | Hint: Which set shares one geometry?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 22,
-  "question": "Underlined sp3 carbon in: CH3COOH, CH3CH2OH, CH3COCH3, CH2=CH-CH3:",
-  "options": [
-   "CH3COOH",
-   "CH3CH2OH",
-   "CH3COCH3",
-   "CH2=CH-CH3"
-  ],
-  "answer": 1,
-  "explanation": "Only ethanol has all-sigma carbons; the rest carry multiple bonds. | Hint: Which molecule has no multiple bonds?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -224,7 +140,7 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 23,
+  "pdfPage": 25,
   "question": "NOT isostructural pair:",
   "options": [
    "AlF6(3-) and SF6",
@@ -238,7 +154,7 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 34,
+  "pdfPage": 26,
   "question": "IF7 structure:",
   "options": [
    "Octahedral",
@@ -248,6 +164,90 @@
   ],
   "answer": 1,
   "explanation": "sp3d3 with 7 bond pairs: pentagonal bipyramidal. | Hint: Seven pairs around iodine.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 26,
+  "question": "Smallest bond angle: PCl3, NCl3, AsCl3, SbCl3:",
+  "options": [
+   "PCl3",
+   "NCl3",
+   "AsCl3",
+   "SbCl3"
+  ],
+  "answer": 3,
+  "explanation": "Angle shrinks down the group as bonding orbitals gain p-character. | Hint: Down the group, angles shrink.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 30,
+  "question": "Smallest bond among NO, NO+, O2, NO-:",
+  "options": [
+   "NO",
+   "NO+",
+   "O2",
+   "NO-"
+  ],
+  "answer": 1,
+  "explanation": "NO+ has bond order 3, the largest of the set. | Hint: Largest bond order means shortest.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 35,
+  "question": "Bonds between carbons in calcium carbide:",
+  "options": [
+   "One σ, two π",
+   "One σ, one π",
+   "Two σ, one π",
+   "Two σ, two π"
+  ],
+  "answer": 0,
+  "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Triple bond anatomy.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 35,
+  "question": "Square planar structure:",
+  "options": [
+   "NH4+",
+   "CCl4",
+   "XeF4",
+   "BF4-"
+  ],
+  "answer": 2,
+  "explanation": "sp3d2 XeF4 with two lone pairs sits square planar. | Hint: Which has two lone pairs on square corners?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 36,
+  "question": "Shortest bond by MO theory: O2-, O2(2-), O2(2+), O2+:",
+  "options": [
+   "O2-",
+   "O2(2-)",
+   "O2(2+)",
+   "O2+"
+  ],
+  "answer": 2,
+  "explanation": "Bond orders 1.5, 1, 3, 2.5: highest order is shortest. | Hint: Highest bond order wins.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 36,
+  "question": "Underlined sp3 carbon in: CH3COOH, CH3CH2OH, CH3COCH3, CH2=CH-CH3:",
+  "options": [
+   "CH3COOH",
+   "CH3CH2OH",
+   "CH3COCH3",
+   "CH2=CH-CH3"
+  ],
+  "answer": 1,
+  "explanation": "Only ethanol has all-sigma carbons; the rest carry multiple bonds. | Hint: Which molecule has no multiple bonds?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  }

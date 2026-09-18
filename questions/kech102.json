@@ -29,20 +29,6 @@
  },
  {
   "pdfPage": 16,
-  "question": "Wavelength absorbed exciting H from n=1 to n=2:",
-  "options": [
-   "2.650e-7 m",
-   "1.325e-7 m",
-   "1.325e-10 m",
-   "5.300e-10 m"
-  ],
-  "answer": 1,
-  "explanation": "Gap 1.5e-18 J gives hc/E = 1.325e-7 m. | Hint: Energy gap first, then wavelength.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 16,
   "question": "Third Balmer line from red end corresponds to:",
   "options": [
    "5 -> 2",
@@ -56,16 +42,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 18,
-  "question": "Radius of second Bohr orbit of hydrogen:",
+  "pdfPage": 16,
+  "question": "Wavelength absorbed exciting H from n=1 to n=2:",
   "options": [
-   "1.65 A",
-   "4.76 A",
-   "0.529 A",
-   "2.12 A"
+   "2.650e-7 m",
+   "1.325e-7 m",
+   "1.325e-10 m",
+   "5.300e-10 m"
   ],
-  "answer": 3,
-  "explanation": "0.53 x n^2/Z = 0.53 x 4 = 2.12 A. | Hint: Radius scales with n squared.",
+  "answer": 1,
+  "explanation": "Gap 1.5e-18 J gives hc/E = 1.325e-7 m. | Hint: Energy gap first, then wavelength.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -94,6 +80,20 @@
   ],
   "answer": 2,
   "explanation": "4f needs n=4, l=3, and |m| <= 3. | Hint: Check n, l and the m-range.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 18,
+  "question": "Radius of second Bohr orbit of hydrogen:",
+  "options": [
+   "1.65 A",
+   "4.76 A",
+   "0.529 A",
+   "2.12 A"
+  ],
+  "answer": 3,
+  "explanation": "0.53 x n^2/Z = 0.53 x 4 = 2.12 A. | Hint: Radius scales with n squared.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -168,20 +168,6 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 40,
-  "question": "d-electrons retained in Fe2+ (Z=26):",
-  "options": [
-   "4",
-   "5",
-   "6",
-   "3"
-  ],
-  "answer": 2,
-  "explanation": "Fe2+ is 3d6 (4s empties first). | Hint: Remove 4s electrons before 3d.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
   "pdfPage": 42,
   "question": "Energy to remove electron from Li++ first excited state (H BE 13.6 eV):",
   "options": [
@@ -206,6 +192,20 @@
   ],
   "answer": 0,
   "explanation": "2nd excited means n=3: 13.6/9 = 1.51 eV magnitude. | Hint: Which n is the second excited state?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 45,
+  "question": "d-electrons retained in Fe2+ (Z=26):",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "3"
+  ],
+  "answer": 2,
+  "explanation": "Fe2+ is 3d6 (4s empties first). | Hint: Remove 4s electrons before 3d.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  }

@@ -1,61 +1,5 @@
 [
  {
-  "pdfPage": 1,
-  "question": "A uniform wire of diameter d carries 100 mA when mean drift velocity is v. For a wire of diameter d/2 of the same material carrying 200 mA, the mean drift velocity is:",
-  "options": [
-   "4v",
-   "8v",
-   "v",
-   "2v"
-  ],
-  "answer": 1,
-  "explanation": "I = neAv, A ∝ d². v₂/v₁ = (I₂/I₁)·(A₁/A₂) = 2·4 = 8.",
-  "source": "NEET 2024 Re-exam via ExamSIDE",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 2,
-  "question": "Carbon resistor (22000 ± 5%) Ω. Third colour band:",
-  "options": [
-   "Red",
-   "Green",
-   "Orange",
-   "Yellow"
-  ],
-  "answer": 2,
-  "explanation": "22000 = 22×10³ → multiplier 10³ = orange.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 2,
-  "question": "Copper wire 10 m, radius 10⁻²/√π m, R = 10 Ω, in E = 10 V/m. Current density:",
-  "options": [
-   "10⁵ A/m²",
-   "10⁴ A/m²",
-   "10⁶ A/m²",
-   "10⁻⁵ A/m²"
-  ],
-  "answer": 0,
-  "explanation": "A = 10⁻⁴ m²; ρ = RA/l = 10⁻⁴; J = E/ρ = 10⁵.",
-  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 2,
-  "question": "Which acts as a circuit protection device?",
-  "options": [
-   "Conductor",
-   "Inductor",
-   "Switch",
-   "Fuse"
-  ],
-  "answer": 3,
-  "explanation": "Fuse melts open on overcurrent.",
-  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
- },
- {
   "pdfPage": 3,
   "question": "Wire length l, resistance 100 Ω, cut into 10 equal parts. First 5 in series, next 5 in parallel; the two groups in series. Final resistance:",
   "options": [
@@ -68,48 +12,6 @@
   "explanation": "Each part 10 Ω: series group 50 Ω, parallel group 2 Ω → 52 Ω.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
   "year": "NEET 2024"
- },
- {
-  "pdfPage": 3,
-  "question": "Heaters A (1 kW) and B (2 kW) on a fixed supply, first in series then in parallel. Ratio of total power outputs (series : parallel):",
-  "options": [
-   "1:2",
-   "2:3",
-   "1:1",
-   "2:9"
-  ],
-  "answer": 3,
-  "explanation": "R1=2R2: series V²/3R2 vs parallel 3V²/2R2 → 2:9.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 3,
-  "question": "10 resistors R in series on emf E, then all in parallel on E. Current rises n times. n equals:",
-  "options": [
-   "10",
-   "100",
-   "1",
-   "1000"
-  ],
-  "answer": 1,
-  "explanation": "E/10R → E/(R/10): factor 100.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 3,
-  "question": "Four equal wires in parallel give 0.25 Ω. In series they give:",
-  "options": [
-   "0.25 Ω",
-   "0.5 Ω",
-   "1 Ω",
-   "4 Ω"
-  ],
-  "answer": 3,
-  "explanation": "Each R = 1 Ω; series = 4 Ω (16× the parallel value).",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
  },
  {
   "pdfPage": 4,
@@ -127,45 +29,17 @@
  },
  {
   "pdfPage": 4,
-  "question": "Battery emf 10 V, internal resistance 1 Ω, external resistance 4 Ω. Terminal voltage:",
+  "question": "Galvanometer: 5 div/mA current sensitivity, 20 div/V voltage sensitivity. Resistance:",
   "options": [
-   "8 V",
-   "10 V",
-   "4 V",
-   "6 V"
+   "250 Ω",
+   "25 Ω",
+   "40 Ω",
+   "500 Ω"
   ],
   "answer": 0,
-  "explanation": "I = 10/(4+1) = 2 A; V = 10 − 2×1 = 8 V.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 4,
-  "question": "For a cell, V–I graph is a straight line. Its slope and intercept respectively equal:",
-  "options": [
-   "−r and E",
-   "r and −E",
-   "−E and r",
-   "E and −r"
-  ],
-  "answer": 0,
-  "explanation": "V = E − Ir: slope −r, intercept E.",
-  "source": "AIPMT 2009 via Disha (key verified first-principles)",
-  "year": "AIPMT 2009"
- },
- {
-  "pdfPage": 4,
-  "question": "A 2.1 V cell gives 0.2 A through a 10 Ω resistor. Its internal resistance is:",
-  "options": [
-   "0.5 Ω",
-   "0.8 Ω",
-   "1.0 Ω",
-   "0.2 Ω"
-  ],
-  "answer": 0,
-  "explanation": "E = I(R+r) → 2.1 = 0.2(10+r) → r = 0.5 Ω.",
-  "source": "NEET Kar. 2013 via Disha PYQ book (key verified first-principles)",
-  "year": "NEET 2013"
+  "explanation": "Rg = 5000/20 = 250 Ω.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 5,
@@ -180,6 +54,118 @@
   "explanation": "Same V: P = V²/R → ratio = 200/100 = 2:1.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
   "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Assertion (A): In a metre bridge experiment the null point should be obtained near the middle of the wire. Reason (R): The bridge is most sensitive and percentage error is least when the null is near the centre.",
+  "options": [
+   "Both A and R true, R explains A",
+   "Both true, R does not explain A",
+   "A true, R false",
+   "A false, R true"
+  ],
+  "answer": 0,
+  "explanation": "Sensitivity is maximum and end-correction errors least near the centre — R is exactly why A is done.",
+  "source": "NEET-pattern Assertion-Reason, key verified first-principles",
+  "year": "NEET pattern"
+ },
+ {
+  "pdfPage": 10,
+  "question": "For a cell, V–I graph is a straight line. Its slope and intercept respectively equal:",
+  "options": [
+   "−r and E",
+   "r and −E",
+   "−E and r",
+   "E and −r"
+  ],
+  "answer": 0,
+  "explanation": "V = E − Ir: slope −r, intercept E.",
+  "source": "AIPMT 2009 via Disha (key verified first-principles)",
+  "year": "AIPMT 2009"
+ },
+ {
+  "pdfPage": 13,
+  "question": "Battery emf 10 V, internal resistance 1 Ω, external resistance 4 Ω. Terminal voltage:",
+  "options": [
+   "8 V",
+   "10 V",
+   "4 V",
+   "6 V"
+  ],
+  "answer": 0,
+  "explanation": "I = 10/(4+1) = 2 A; V = 10 − 2×1 = 8 V.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Potentiometer: cell 1.5 V balances at 36 cm. Replaced by 2.5 V cell. New balance length:",
+  "options": [
+   "60 cm",
+   "21.6 cm",
+   "64 cm",
+   "62 cm"
+  ],
+  "answer": 0,
+  "explanation": "l₂ = 36×2.5/1.5 = 60 cm.",
+  "source": "NEET 2021 via neet.training + ExamSIDE listing (key verified first-principles)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 17,
+  "question": "10 resistors R in series on emf E, then all in parallel on E. Current rises n times. n equals:",
+  "options": [
+   "10",
+   "100",
+   "1",
+   "1000"
+  ],
+  "answer": 1,
+  "explanation": "E/10R → E/(R/10): factor 100.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Four equal wires in parallel give 0.25 Ω. In series they give:",
+  "options": [
+   "0.25 Ω",
+   "0.5 Ω",
+   "1 Ω",
+   "4 Ω"
+  ],
+  "answer": 3,
+  "explanation": "Each R = 1 Ω; series = 4 Ω (16× the parallel value).",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 19,
+  "question": "Heaters A (1 kW) and B (2 kW) on a fixed supply, first in series then in parallel. Ratio of total power outputs (series : parallel):",
+  "options": [
+   "1:2",
+   "2:3",
+   "1:1",
+   "2:9"
+  ],
+  "answer": 3,
+  "explanation": "R1=2R2: series V²/3R2 vs parallel 3V²/2R2 → 2:9.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 20,
+  "question": "A 2.1 V cell gives 0.2 A through a 10 Ω resistor. Its internal resistance is:",
+  "options": [
+   "0.5 Ω",
+   "0.8 Ω",
+   "1.0 Ω",
+   "0.2 Ω"
+  ],
+  "answer": 0,
+  "explanation": "E = I(R+r) → 2.1 = 0.2(10+r) → r = 0.5 Ω.",
+  "source": "NEET Kar. 2013 via Disha PYQ book (key verified first-principles)",
+  "year": "NEET 2013"
  },
  {
   "pdfPage": 20,
@@ -210,18 +196,18 @@
   "year": "AIPMT 2014"
  },
  {
-  "pdfPage": 21,
-  "question": "Assertion (A): In a metre bridge experiment the null point should be obtained near the middle of the wire. Reason (R): The bridge is most sensitive and percentage error is least when the null is near the centre.",
+  "pdfPage": 20,
+  "question": "Potentiometer wire 4 m, driver 2.0 V. With R = ∞ balance at 3 m; with R = 9.5 Ω across the cell, balance at 2.85 m. Internal resistance:",
   "options": [
-   "Both A and R true, R explains A",
-   "Both true, R does not explain A",
-   "A true, R false",
-   "A false, R true"
+   "0.25 Ω",
+   "0.95 Ω",
+   "0.5 Ω",
+   "0.75 Ω"
   ],
-  "answer": 0,
-  "explanation": "Sensitivity is maximum and end-correction errors least near the centre — R is exactly why A is done.",
-  "source": "NEET-pattern Assertion-Reason, key verified first-principles",
-  "year": "NEET pattern"
+  "answer": 2,
+  "explanation": "r = R(l₀−l)/l = 9.5×0.15/2.85 = 0.5 Ω.",
+  "source": "AIPMT 2014 via Disha PYQ book (key verified first-principles)",
+  "year": "AIPMT 2014"
  },
  {
   "pdfPage": 23,
@@ -238,48 +224,6 @@
   "year": "NEET 2022"
  },
  {
-  "pdfPage": 23,
-  "question": "Potentiometer: cell 1.5 V balances at 36 cm. Replaced by 2.5 V cell. New balance length:",
-  "options": [
-   "60 cm",
-   "21.6 cm",
-   "64 cm",
-   "62 cm"
-  ],
-  "answer": 0,
-  "explanation": "l₂ = 36×2.5/1.5 = 60 cm.",
-  "source": "NEET 2021 via neet.training + ExamSIDE listing (key verified first-principles)",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 23,
-  "question": "Potentiometer wire 4 m, driver 2.0 V. With R = ∞ balance at 3 m; with R = 9.5 Ω across the cell, balance at 2.85 m. Internal resistance:",
-  "options": [
-   "0.25 Ω",
-   "0.95 Ω",
-   "0.5 Ω",
-   "0.75 Ω"
-  ],
-  "answer": 2,
-  "explanation": "r = R(l₀−l)/l = 9.5×0.15/2.85 = 0.5 Ω.",
-  "source": "AIPMT 2014 via Disha PYQ book (key verified first-principles)",
-  "year": "AIPMT 2014"
- },
- {
-  "pdfPage": 24,
-  "question": "Galvanometer: 5 div/mA current sensitivity, 20 div/V voltage sensitivity. Resistance:",
-  "options": [
-   "250 Ω",
-   "25 Ω",
-   "40 Ω",
-   "500 Ω"
-  ],
-  "answer": 0,
-  "explanation": "Rg = 5000/20 = 250 Ω.",
-  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
- },
- {
   "pdfPage": 25,
   "question": "The resistance of a platinum wire is 2 Ω at 0 °C and 2.5 Ω at 100 °C. The temperature coefficient of resistance of the platinum wire is:",
   "options": [
@@ -292,5 +236,61 @@
   "explanation": "R = R₀ (1 + α ΔT) ⇒ 2.5 = 2 (1 + 100α) ⇒ 1.25 = 1 + 100α ⇒ 100α = 0.25 ⇒ α = 0.0025 °C⁻¹. | Hint: α = (R - R₀) / (R₀ ΔT).",
   "source": "NEET NEET 2023 via BYJU'S NEET",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 25,
+  "question": "Which acts as a circuit protection device?",
+  "options": [
+   "Conductor",
+   "Inductor",
+   "Switch",
+   "Fuse"
+  ],
+  "answer": 3,
+  "explanation": "Fuse melts open on overcurrent.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 26,
+  "question": "A uniform wire of diameter d carries 100 mA when mean drift velocity is v. For a wire of diameter d/2 of the same material carrying 200 mA, the mean drift velocity is:",
+  "options": [
+   "4v",
+   "8v",
+   "v",
+   "2v"
+  ],
+  "answer": 1,
+  "explanation": "I = neAv, A ∝ d². v₂/v₁ = (I₂/I₁)·(A₁/A₂) = 2·4 = 8.",
+  "source": "NEET 2024 Re-exam via ExamSIDE",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 26,
+  "question": "Carbon resistor (22000 ± 5%) Ω. Third colour band:",
+  "options": [
+   "Red",
+   "Green",
+   "Orange",
+   "Yellow"
+  ],
+  "answer": 2,
+  "explanation": "22000 = 22×10³ → multiplier 10³ = orange.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 26,
+  "question": "Copper wire 10 m, radius 10⁻²/√π m, R = 10 Ω, in E = 10 V/m. Current density:",
+  "options": [
+   "10⁵ A/m²",
+   "10⁴ A/m²",
+   "10⁶ A/m²",
+   "10⁻⁵ A/m²"
+  ],
+  "answer": 0,
+  "explanation": "A = 10⁻⁴ m²; ρ = RA/l = 10⁻⁴; J = E/ρ = 10⁵.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022"
  }
 ]

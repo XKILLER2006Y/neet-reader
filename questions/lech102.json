@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 4,
-  "question": "In a hydrogen-oxygen fuel cell, combustion of hydrogen occurs to",
-  "options": [
-   "Generate heat",
-   "Create a potential difference between the two electrodes",
-   "Produce high purity water",
-   "Remove adsorbed oxygen from the electrode surface"
-  ],
-  "answer": 1,
-  "explanation": "In a hydrogen-oxygen fuel cell, hydrogen is oxidised at the anode and oxygen reduced at the cathode; the useful output is the potential difference between the electrodes that drives current through the external circuit. | Hint: A fuel cell converts chemical energy directly into electrical energy — what does it deliver to the circuit?",
-  "source": "JEE AIEEE 2004 via BYJU'S",
-  "year": "AIEEE 2004"
- },
- {
-  "pdfPage": 4,
   "question": "EMF of a cell in terms of the reduction potentials of its left and right electrodes is",
   "options": [
    "E = E_left − E_right",
@@ -40,20 +26,6 @@
   "explanation": "ΔG° = −nFE° = −2 × 96000 × 2 = −384000 J/mol; −RT ln K = −384000 → ln K = 384000/(8×300) = 160, so K = e¹⁶⁰. | Hint: Equate −nFE° to −RT ln K and solve for ln K.",
   "source": "JEE JEE Main 2019 via BYJU'S",
   "year": "JEE Main 2019"
- },
- {
-  "pdfPage": 6,
-  "question": "The correct order of E°(M²⁺/M) values with negative sign for the four successive elements Cr, Mn, Fe and Co is",
-  "options": [
-   "Mn > Cr > Fe > Co",
-   "Cr > Fe > Mn > Co",
-   "Fe > Mn > Cr > Co",
-   "Cr > Mn > Fe > Co"
-  ],
-  "answer": 0,
-  "explanation": "E°(M²⁺/M) becomes less negative across the series, except Mn which is anomalously negative due to its stable half-filled d⁵ configuration: Mn > Cr > Fe > Co in magnitude of the negative value. | Hint: Remember the d⁵ exception — manganese breaks the trend.",
-  "source": "JEE AIEEE 2010 via BYJU'S",
-  "year": "AIEEE 2010"
  },
  {
   "pdfPage": 10,
@@ -82,20 +54,6 @@
   "explanation": "Use ΔG° = −nFE°: −FE°cell = (−2Fy) + (−Fx) − (−3Fz), giving E°cell = x + 2y − 3z. | Hint: Combine the half-reactions with ΔG° = −nFE° (potentials don't add directly — free energies do).",
   "source": "JEE JEE Main 2025 via BYJU'S",
   "year": "JEE Main 2025"
- },
- {
-  "pdfPage": 13,
-  "question": "Galvanization is applying a coating of",
-  "options": [
-   "Pb",
-   "Cr",
-   "Cu",
-   "Zn"
-  ],
-  "answer": 3,
-  "explanation": "Galvanization coats iron with zinc. Zinc is more electropositive, so it corrodes preferentially (sacrificial protection) even if the coating is scratched. | Hint: Which metal protects iron sacrificially — the one above iron in the electrochemical series?",
-  "source": "JEE JEE Main 2016 via BYJU'S",
-  "year": "JEE Main 2016"
  },
  {
   "pdfPage": 14,
@@ -169,20 +127,6 @@
  },
  {
   "pdfPage": 23,
-  "question": "Identify the correct statement.",
-  "options": [
-   "Corrosion of iron can be minimized by forming contact with another metal with a higher reduction potential",
-   "Iron corrodes in oxygen-free water",
-   "Corrosion of iron can be minimized by forming an impermeable barrier at its surface",
-   "Iron corrodes more rapidly in salt water because its electrochemical potential is higher"
-  ],
-  "answer": 2,
-  "explanation": "Contact with a higher-reduction-potential metal makes iron the anode (worse). Iron needs both oxygen and water to rust, and salt water speeds it up. An impermeable barrier (paint/oil) blocks both, so it minimizes corrosion. | Hint: Iron rusts only with both air and water — which option blocks both?",
-  "source": "JEE JEE Main 2016 via BYJU'S",
-  "year": "JEE Main 2016"
- },
- {
-  "pdfPage": 23,
   "question": "If φ denotes reduction potential, then which is true?",
   "options": [
    "E°cell = φ_right − φ_left",
@@ -194,6 +138,62 @@
   "explanation": "E°cell = E°cathode − E°anode = φ_right − φ_left. | Hint: Same cathode-minus-anode rule, just written with φ.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 26,
+  "question": "In a hydrogen-oxygen fuel cell, combustion of hydrogen occurs to",
+  "options": [
+   "Generate heat",
+   "Create a potential difference between the two electrodes",
+   "Produce high purity water",
+   "Remove adsorbed oxygen from the electrode surface"
+  ],
+  "answer": 1,
+  "explanation": "In a hydrogen-oxygen fuel cell, hydrogen is oxidised at the anode and oxygen reduced at the cathode; the useful output is the potential difference between the electrodes that drives current through the external circuit. | Hint: A fuel cell converts chemical energy directly into electrical energy — what does it deliver to the circuit?",
+  "source": "JEE AIEEE 2004 via BYJU'S",
+  "year": "AIEEE 2004"
+ },
+ {
+  "pdfPage": 26,
+  "question": "The correct order of E°(M²⁺/M) values with negative sign for the four successive elements Cr, Mn, Fe and Co is",
+  "options": [
+   "Mn > Cr > Fe > Co",
+   "Cr > Fe > Mn > Co",
+   "Fe > Mn > Cr > Co",
+   "Cr > Mn > Fe > Co"
+  ],
+  "answer": 0,
+  "explanation": "E°(M²⁺/M) becomes less negative across the series, except Mn which is anomalously negative due to its stable half-filled d⁵ configuration: Mn > Cr > Fe > Co in magnitude of the negative value. | Hint: Remember the d⁵ exception — manganese breaks the trend.",
+  "source": "JEE AIEEE 2010 via BYJU'S",
+  "year": "AIEEE 2010"
+ },
+ {
+  "pdfPage": 27,
+  "question": "Galvanization is applying a coating of",
+  "options": [
+   "Pb",
+   "Cr",
+   "Cu",
+   "Zn"
+  ],
+  "answer": 3,
+  "explanation": "Galvanization coats iron with zinc. Zinc is more electropositive, so it corrodes preferentially (sacrificial protection) even if the coating is scratched. | Hint: Which metal protects iron sacrificially — the one above iron in the electrochemical series?",
+  "source": "JEE JEE Main 2016 via BYJU'S",
+  "year": "JEE Main 2016"
+ },
+ {
+  "pdfPage": 27,
+  "question": "Identify the correct statement.",
+  "options": [
+   "Corrosion of iron can be minimized by forming contact with another metal with a higher reduction potential",
+   "Iron corrodes in oxygen-free water",
+   "Corrosion of iron can be minimized by forming an impermeable barrier at its surface",
+   "Iron corrodes more rapidly in salt water because its electrochemical potential is higher"
+  ],
+  "answer": 2,
+  "explanation": "Contact with a higher-reduction-potential metal makes iron the anode (worse). Iron needs both oxygen and water to rust, and salt water speeds it up. An impermeable barrier (paint/oil) blocks both, so it minimizes corrosion. | Hint: Iron rusts only with both air and water — which option blocks both?",
+  "source": "JEE JEE Main 2016 via BYJU'S",
+  "year": "JEE Main 2016"
  },
  {
   "pdfPage": 28,

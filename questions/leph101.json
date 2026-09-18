@@ -1,17 +1,17 @@
 [
  {
-  "pdfPage": 2,
-  "question": "+Q and −Q attract with F. 25% of A's charge moved to B. New force:",
+  "pdfPage": 4,
+  "question": "Identical charged spheres A, B (charge q each) repel with F. Uncharged identical C touches A, then B, then removed. New force:",
   "options": [
-   "F",
-   "9F/16",
-   "16F/9",
-   "4F/3"
+   "3F/8",
+   "3F/5",
+   "2F/3",
+   "F/2"
   ],
-  "answer": 1,
-  "explanation": "(+0.75Q)(−0.75Q) → 0.5625 = 9/16 of F.",
-  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "answer": 0,
+  "explanation": "A→q/2; B→(q+q/2)/2 = 3q/4: F′ = (1/2)(3/4)F = 3F/8.",
+  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived) (3F/8 in all mirrors; Aakash option order)",
+  "year": "NEET 2025"
  },
  {
   "pdfPage": 4,
@@ -28,91 +28,21 @@
   "year": "NEET 2021"
  },
  {
-  "pdfPage": 4,
-  "question": "Identical charged spheres A, B (charge q each) repel with F. Uncharged identical C touches A, then B, then removed. New force:",
+  "pdfPage": 14,
+  "question": "+Q and −Q attract with F. 25% of A's charge moved to B. New force:",
   "options": [
-   "3F/8",
-   "3F/5",
-   "2F/3",
-   "F/2"
+   "F",
+   "9F/16",
+   "16F/9",
+   "4F/3"
   ],
-  "answer": 0,
-  "explanation": "A→q/2; B→(q+q/2)/2 = 3q/4: F′ = (1/2)(3/4)F = 3F/8.",
-  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived) (3F/8 in all mirrors; Aakash option order)",
-  "year": "NEET 2025"
+  "answer": 1,
+  "explanation": "(+0.75Q)(−0.75Q) → 0.5625 = 9/16 of F.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
  },
  {
-  "pdfPage": 6,
-  "question": "Dipole moment 16×10⁻⁹ C·m. Potential at 0.6 m on a line 60° from axis (k = 9×10⁹):",
-  "options": [
-   "400 V",
-   "zero",
-   "50 V",
-   "200 V"
-  ],
-  "answer": 3,
-  "explanation": "V = kPcosθ/r² = 9e9×16e-9×0.5/0.36 = 200 V.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 8,
-  "question": "Charged sphere R = 10 cm, Q = 3.2×10⁻⁷ C. Field at 15 cm from centre:",
-  "options": [
-   "1.28×10⁶ N/C",
-   "1.28×10⁷ N/C",
-   "1.28×10⁴ N/C",
-   "1.28×10⁵ N/C"
-  ],
-  "answer": 3,
-  "explanation": "E = kQ/r² = 9e9×3.2e-7/0.0225 = 1.28×10⁵ N/C.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 10,
-  "question": "In a region (0.2 m³) the potential is 5 V everywhere. Field magnitude:",
-  "options": [
-   "1 N/C",
-   "5 N/C",
-   "zero",
-   "0.5 N/C"
-  ],
-  "answer": 2,
-  "explanation": "No gradient → E = 0.",
-  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 20,
-  "question": "Dipole at 30° to E = 2×10⁵ N/C feels torque 4 N·m; dipole length 2 cm. Charge magnitude:",
-  "options": [
-   "8 mC",
-   "6 mC",
-   "4 mC",
-   "2 mC"
-  ],
-  "answer": 3,
-  "explanation": "τ = q·l·E·sin30 → q = 4/(0.02×2e5×0.5) = 2×10⁻³ C.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 20,
-  "question": "Electron falls h in upward E; then proton falls h in reversed (same magnitude) E. Electron's time vs proton's:",
-  "options": [
-   "10× greater",
-   "5× greater",
-   "Smaller",
-   "Equal"
-  ],
-  "answer": 2,
-  "explanation": "t = √(2hm/eE) ∝ √m → electron faster.",
-  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 20,
+  "pdfPage": 17,
   "question": "Charge q on frictionless plane in uniform E: 0→6 m/s in 1 s; field reversed for 2 s more. Avg velocity and speed over 0–3 s:",
   "options": [
    "1, 3.5",
@@ -122,6 +52,20 @@
   ],
   "answer": 1,
   "explanation": "Displacement 3 m, distance 9 m over 3 s.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Electron falls h in upward E; then proton falls h in reversed (same magnitude) E. Electron's time vs proton's:",
+  "options": [
+   "10× greater",
+   "5× greater",
+   "Smaller",
+   "Equal"
+  ],
+  "answer": 2,
+  "explanation": "t = √(2hm/eE) ∝ √m → electron faster.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
   "year": "NEET 2018"
  },
@@ -140,18 +84,18 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 22,
-  "question": "Dipole 5×10⁻⁶ C·m aligned with E = 4×10⁵ N/C, rotated 60°. ΔU:",
+  "pdfPage": 25,
+  "question": "Dipole moment 16×10⁻⁹ C·m. Potential at 0.6 m on a line 60° from axis (k = 9×10⁹):",
   "options": [
-   "1.5 J",
-   "0.8 J",
-   "1.0 J",
-   "1.2 J"
+   "400 V",
+   "zero",
+   "50 V",
+   "200 V"
   ],
-  "answer": 2,
-  "explanation": "ΔU = pE(1−cos60) = 5e-6×4e5×0.5 = 1.0 J.",
-  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2025"
+  "answer": 3,
+  "explanation": "V = kPcosθ/r² = 9e9×16e-9×0.5/0.36 = 200 V.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 32,
@@ -168,6 +112,20 @@
   "year": "NEET 2023"
  },
  {
+  "pdfPage": 33,
+  "question": "In a region (0.2 m³) the potential is 5 V everywhere. Field magnitude:",
+  "options": [
+   "1 N/C",
+   "5 N/C",
+   "zero",
+   "0.5 N/C"
+  ],
+  "answer": 2,
+  "explanation": "No gradient → E = 0.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
   "pdfPage": 35,
   "question": "A spherical conductor of radius 10 cm has a charge of 3.2 × 10⁻⁷ C distributed uniformly. What is the magnitude of electric field at a point 15 cm from the centre?",
   "options": [
@@ -182,7 +140,49 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 38,
+  "pdfPage": 42,
+  "question": "Charged sphere R = 10 cm, Q = 3.2×10⁻⁷ C. Field at 15 cm from centre:",
+  "options": [
+   "1.28×10⁶ N/C",
+   "1.28×10⁷ N/C",
+   "1.28×10⁴ N/C",
+   "1.28×10⁵ N/C"
+  ],
+  "answer": 3,
+  "explanation": "E = kQ/r² = 9e9×3.2e-7/0.0225 = 1.28×10⁵ N/C.",
+  "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 42,
+  "question": "Dipole 5×10⁻⁶ C·m aligned with E = 4×10⁵ N/C, rotated 60°. ΔU:",
+  "options": [
+   "1.5 J",
+   "0.8 J",
+   "1.0 J",
+   "1.2 J"
+  ],
+  "answer": 2,
+  "explanation": "ΔU = pE(1−cos60) = 5e-6×4e5×0.5 = 1.0 J.",
+  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 42,
+  "question": "Dipole at 30° to E = 2×10⁵ N/C feels torque 4 N·m; dipole length 2 cm. Charge magnitude:",
+  "options": [
+   "8 mC",
+   "6 mC",
+   "4 mC",
+   "2 mC"
+  ],
+  "answer": 3,
+  "explanation": "τ = q·l·E·sin30 → q = 4/(0.02×2e5×0.5) = 2×10⁻³ C.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 42,
   "question": "Hollow spheres R1 ≫ ... R1, R2 (R1 >> R2), equal charges. Potential is:",
   "options": [
    "Material-dependent",

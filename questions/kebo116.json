@@ -1,31 +1,17 @@
 [
  {
-  "pdfPage": 7,
-  "question": "A decrease in blood pressure/volume will not cause the release of",
+  "pdfPage": 4,
+  "question": "Human urine is typically acidic because:",
   "options": [
-   "ADH",
-   "renin",
-   "atrial natriuretic factor",
-   "aldosterone"
+   "H+ actively secreted into filtrate",
+   "Na+ transporter swaps H+ in peritubular capillaries",
+   "Plasma proteins are acidic",
+   "K+/Na+ exchange makes acidity"
   ],
-  "answer": 2,
-  "explanation": "ANF is released when blood pressure/volume INCREASES.",
-  "source": "byjus.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 7,
-  "question": "A fall in glomerular filtration rate (GFR) activates",
-  "options": [
-   "posterior pituitary to release vasopressin",
-   "adrenal medulla to release adrenaline",
-   "juxtaglomerular cells to release renin",
-   "adrenal cortex to release aldosterone"
-  ],
-  "answer": 2,
-  "explanation": "Fall in GFR activates JG cells to release renin (RAAS).",
-  "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "answer": 0,
+  "explanation": "Tubular secretion of H+ acidifies the forming urine. | Hint: What secretion acidifies urine?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
  },
  {
   "pdfPage": 7,
@@ -39,6 +25,20 @@
   "answer": 0,
   "explanation": "The ascending limb pumps out NaCl but blocks water, building medullary gradient. | Hint: Which limb lets salt out but keeps water in?",
   "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A decrease in blood pressure/volume will not cause the release of",
+  "options": [
+   "ADH",
+   "renin",
+   "atrial natriuretic factor",
+   "aldosterone"
+  ],
+  "answer": 2,
+  "explanation": "ANF is released when blood pressure/volume INCREASES.",
+  "source": "byjus.com",
   "year": "NEET 2017"
  },
  {
@@ -71,15 +71,15 @@
  },
  {
   "pdfPage": 8,
-  "question": "This is a common characteristic observed in both human beings and adult frogs",
+  "question": "A fall in glomerular filtration rate (GFR) activates",
   "options": [
-   "ureotelic mode of excretion",
-   "internal fertilization",
-   "nucleated RBCs",
-   "four-chambered heart"
+   "posterior pituitary to release vasopressin",
+   "adrenal medulla to release adrenaline",
+   "juxtaglomerular cells to release renin",
+   "adrenal cortex to release aldosterone"
   ],
-  "answer": 0,
-  "explanation": "Both mammals and adult amphibians are ureotelic.",
+  "answer": 2,
+  "explanation": "Fall in GFR activates JG cells to release renin (RAAS).",
   "source": "byjus.com",
   "year": "AIPMT 2012"
  },
@@ -96,20 +96,6 @@
   "explanation": "Aldosterone drives DCT/collecting-duct Na+ reabsorption (and K+ loss). | Hint: Which hormone saves sodium?",
   "source": "NEET NEET 2014 via BYJU'S",
   "year": "NEET 2014"
- },
- {
-  "pdfPage": 9,
-  "question": "Human urine is typically acidic because:",
-  "options": [
-   "H+ actively secreted into filtrate",
-   "Na+ transporter swaps H+ in peritubular capillaries",
-   "Plasma proteins are acidic",
-   "K+/Na+ exchange makes acidity"
-  ],
-  "answer": 0,
-  "explanation": "Tubular secretion of H+ acidifies the forming urine. | Hint: What secretion acidifies urine?",
-  "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
  },
  {
   "pdfPage": 9,
@@ -166,6 +152,20 @@
   "explanation": "Convoluted tubules sit in the cortex; loops, collecting ducts and capillaries dip into pyramids. | Hint: Which structures stay in the cortex?",
   "source": "NEET NEET 2011 via BYJU'S",
   "year": "NEET 2011"
+ },
+ {
+  "pdfPage": 10,
+  "question": "This is a common characteristic observed in both human beings and adult frogs",
+  "options": [
+   "ureotelic mode of excretion",
+   "internal fertilization",
+   "nucleated RBCs",
+   "four-chambered heart"
+  ],
+  "answer": 0,
+  "explanation": "Both mammals and adult amphibians are ureotelic.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012"
  },
  {
   "pdfPage": 10,

@@ -28,60 +28,18 @@
   "year": "AIPMT 2010 Prelims"
  },
  {
-  "pdfPage": 4,
-  "question": "Match: (A) Diamagnetic (B) Ferromagnetic (C) Paramagnetic (D) Non-magnetic with (I) χ=0 (II) −1≤χ<0 (III) χ≫1 (IV) small positive χ.",
+  "pdfPage": 7,
+  "question": "Dip δ = +25° at A, −25° at B. Then:",
   "options": [
-   "A-III, B-II, C-I, D-IV",
-   "A-IV, B-III, C-IV, D-I",
-   "A-II, B-III, C-IV, D-I",
-   "C-II, B-I, C-III, D-IV"
+   "Both northern",
+   "A southern, B northern",
+   "A northern, B southern",
+   "Both southern"
   ],
   "answer": 2,
-  "explanation": "Dia → negative small (II); ferro → huge (III); para → small positive (IV); non-magnetic → 0 (I).",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 6,
-  "question": "If θ₁ and θ₂ be the apparent angles of dip observed in two vertical planes at right angles to each other, then the true angle of dip θ is given by",
-  "options": [
-   "tan²θ = tan²θ₁ + tan²θ₂",
-   "cot²θ = cot²θ₁ − cot²θ₂",
-   "tan²θ = tan²θ₁ − tan²θ₂",
-   "cot²θ = cot²θ₁ + cot²θ₂"
-  ],
-  "answer": 3,
-  "explanation": "tanθ = V/H with H² = H₁² + H₂² ⇒ 1/tan²θ = 1/tan²θ₁ + 1/tan²θ₂ ⇒ cot²θ = cot²θ₁ + cot²θ₂.",
-  "source": "examside.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
-  "question": "Magnetic susceptibility is negative for:",
-  "options": [
-   "Ferromagnetic only",
-   "Para- and ferromagnetic",
-   "Diamagnetic only",
-   "Paramagnetic only"
-  ],
-  "answer": 2,
-  "explanation": "Diamagnets oppose the field (χ < 0).",
-  "source": "NEET 2016 Phase 1 via ExamSIDE",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Net magnetic flux through any closed surface is:",
-  "options": [
-   "Zero",
-   "Positive",
-   "Infinity",
-   "Negative"
-  ],
-  "answer": 0,
-  "explanation": "No magnetic monopoles — Gauss's law for magnetism.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "explanation": "+dip = northern hemisphere, −dip = southern.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 10,
@@ -98,18 +56,18 @@
   "year": "NEET 2013"
  },
  {
-  "pdfPage": 10,
-  "question": "Dip δ = +25° at A, −25° at B. Then:",
+  "pdfPage": 12,
+  "question": "Magnetic susceptibility is negative for:",
   "options": [
-   "Both northern",
-   "A southern, B northern",
-   "A northern, B southern",
-   "Both southern"
+   "Ferromagnetic only",
+   "Para- and ferromagnetic",
+   "Diamagnetic only",
+   "Paramagnetic only"
   ],
   "answer": 2,
-  "explanation": "+dip = northern hemisphere, −dip = southern.",
-  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "explanation": "Diamagnets oppose the field (χ < 0).",
+  "source": "NEET 2016 Phase 1 via ExamSIDE",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 13,
@@ -152,6 +110,20 @@
   "explanation": "B = μ H = μ₀ μ_r H ⇒ μ_r = B / (μ₀ H) = (8π × 10⁻⁷) / (4π × 10⁻⁷ × 4) = 2 / 4... wait, (8π × 10⁻⁷) / (4π × 10⁻⁷ × 4) = 2/4 = 0.5. If field was 1600 A/m => standard value is 500. | Hint: μ_r = B / (μ₀ H).",
   "source": "NEET NEET 2022 via BYJU'S NEET",
   "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "If θ₁ and θ₂ be the apparent angles of dip observed in two vertical planes at right angles to each other, then the true angle of dip θ is given by",
+  "options": [
+   "tan²θ = tan²θ₁ + tan²θ₂",
+   "cot²θ = cot²θ₁ − cot²θ₂",
+   "tan²θ = tan²θ₁ − tan²θ₂",
+   "cot²θ = cot²θ₁ + cot²θ₂"
+  ],
+  "answer": 3,
+  "explanation": "tanθ = V/H with H² = H₁² + H₂² ⇒ 1/tan²θ = 1/tan²θ₁ + 1/tan²θ₂ ⇒ cot²θ = cot²θ₁ + cot²θ₂.",
+  "source": "examside.com",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 14,
@@ -208,5 +180,33 @@
   "explanation": "Feebly attracted ⇒ paramagnetic (B); strongly attracted ⇒ ferromagnetic (C); feebly repelled ⇒ diamagnetic (A); unaffected ⇒ non-magnetic (D).",
   "source": "examside.com",
   "year": "AIPMT 2011 Prelims"
+ },
+ {
+  "pdfPage": 15,
+  "question": "Net magnetic flux through any closed surface is:",
+  "options": [
+   "Zero",
+   "Positive",
+   "Infinity",
+   "Negative"
+  ],
+  "answer": 0,
+  "explanation": "No magnetic monopoles — Gauss's law for magnetism.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 16,
+  "question": "Match: (A) Diamagnetic (B) Ferromagnetic (C) Paramagnetic (D) Non-magnetic with (I) χ=0 (II) −1≤χ<0 (III) χ≫1 (IV) small positive χ.",
+  "options": [
+   "A-III, B-II, C-I, D-IV",
+   "A-IV, B-III, C-IV, D-I",
+   "A-II, B-III, C-IV, D-I",
+   "C-II, B-I, C-III, D-IV"
+  ],
+  "answer": 2,
+  "explanation": "Dia → negative small (II); ferro → huge (III); para → small positive (IV); non-magnetic → 0 (I).",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
  }
 ]

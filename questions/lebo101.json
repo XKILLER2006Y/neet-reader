@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 5,
-  "question": "NOT true:",
-  "options": [
-   "Tapetum aids anther dehiscence",
-   "Exine is sporopollenin",
-   "Pollen causes severe allergies",
-   "LN2-stored pollen breeds crops"
-  ],
-  "answer": 0,
-  "explanation": "Tapetum nourishes; dehiscence is endothecium work. The rest are true. | Hint: Who actually opens the anther?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 5,
   "question": "Filament proximal end attaches to:",
   "options": [
    "Anther",
@@ -24,6 +10,20 @@
   ],
   "answer": 3,
   "explanation": "Filaments arise from thalamus (or petals). | Hint: Where does the stalk start?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "NOT true:",
+  "options": [
+   "Tapetum aids anther dehiscence",
+   "Exine is sporopollenin",
+   "Pollen causes severe allergies",
+   "LN2-stored pollen breeds crops"
+  ],
+  "answer": 0,
+  "explanation": "Tapetum nourishes; dehiscence is endothecium work. The rest are true. | Hint: Who actually opens the anther?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -40,20 +40,6 @@
   "explanation": "Sporopollenin resists decay for millennia. | Hint: Toughest biopolymer known?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
- },
- {
-  "pdfPage": 8,
-  "question": "Edible part of coconut (morphology):",
-  "options": [
-   "Perisperm",
-   "Cotyledon",
-   "Endosperm",
-   "Pericarp"
-  ],
-  "answer": 2,
-  "explanation": "Coconut meat is endosperm. | Hint: What is coconut flesh?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
  },
  {
   "pdfPage": 9,
@@ -84,7 +70,7 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 15,
+  "pdfPage": 14,
   "question": "Yucca-moth obligate partnership:",
   "options": [
    "Banana",
@@ -141,6 +127,20 @@
  },
  {
   "pdfPage": 20,
+  "question": "Edible part of coconut (morphology):",
+  "options": [
+   "Perisperm",
+   "Cotyledon",
+   "Endosperm",
+   "Pericarp"
+  ],
+  "answer": 2,
+  "explanation": "Coconut meat is endosperm. | Hint: What is coconut flesh?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 20,
   "question": "Persistent nucellus in seed:",
   "options": [
    "Chalaza",
@@ -152,20 +152,6 @@
   "explanation": "Leftover nucellus is perisperm. | Hint: Nucellus remnant name?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 24,
-  "question": "Seed formation without fertilisation:",
-  "options": [
-   "Sporulation",
-   "Budding",
-   "Somatic hybridisation",
-   "Apomixis"
-  ],
-  "answer": 3,
-  "explanation": "Apomixis makes seeds asexually. | Hint: Seeds without fertilisation?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
  },
  {
   "pdfPage": 24,
@@ -194,5 +180,19 @@
   "explanation": "Parthenogenesis develops the unfertilised egg. | Hint: Egg developing alone?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Seed formation without fertilisation:",
+  "options": [
+   "Sporulation",
+   "Budding",
+   "Somatic hybridisation",
+   "Apomixis"
+  ],
+  "answer": 3,
+  "explanation": "Apomixis makes seeds asexually. | Hint: Seeds without fertilisation?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  }
 ]

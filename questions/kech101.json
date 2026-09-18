@@ -1,20 +1,34 @@
 [
  {
-  "pdfPage": 10,
-  "question": "The number of moles of hydrogen molecules required to produce 20 moles of ammonia through Haber's process is:",
+  "pdfPage": 2,
+  "question": "3 g charcoal in 50 mL 0.06 N acetic acid; filtrate 0.042 N. Adsorbed per gram:",
   "options": [
-   "10",
-   "20",
-   "30",
-   "40"
+   "42 mg",
+   "54 mg",
+   "18 mg",
+   "36 mg"
   ],
   "answer": 2,
-  "explanation": "N2 + 3H2 -> 2NH3; 20 mol NH3 needs 3/2 x 20 = 30 mol H2.",
-  "source": "testbook.com/question-answer/the-number-of-moles-of-hydrogen-molecules-required--62b7e5082bbdfe428942a5f1",
-  "year": "2019"
+  "explanation": "Adsorbed = (0.06-0.042) x 0.05 L x 60 g/mol = 54 mg total, i.e. 18 mg/g. | Hint: Normality drop times volume times equivalent mass.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 10,
+  "pdfPage": 5,
+  "question": "Equal masses of H2, O2 and methane have been taken in a container of volume V at temperature 27°C in identical conditions. The ratio of the volumes of gases H2 : O2 : CH4 would be",
+  "options": [
+   "8 : 16 : 1",
+   "16 : 8 : 1",
+   "16 : 1 : 2",
+   "8 : 1 : 2"
+  ],
+  "answer": 2,
+  "explanation": "Equal masses -> V ∝ n ∝ 1/M; (1/2):(1/32):(1/16) = 16:1:2.",
+  "source": "vedantu.com/question-answer/equal-masses-of-h2-o2-and-methane-have-been-class-11-chemistry-cbse-5f6d8484bdd5e06b58f95b23",
+  "year": "2014"
+ },
+ {
+  "pdfPage": 11,
   "question": "Vessel at 300 K loses 2/5 of its air at constant V. Final temperature:",
   "options": [
    "750 K",
@@ -29,20 +43,6 @@
  },
  {
   "pdfPage": 18,
-  "question": "Equal masses of H2, O2 and methane have been taken in a container of volume V at temperature 27°C in identical conditions. The ratio of the volumes of gases H2 : O2 : CH4 would be",
-  "options": [
-   "8 : 16 : 1",
-   "16 : 8 : 1",
-   "16 : 1 : 2",
-   "8 : 1 : 2"
-  ],
-  "answer": 2,
-  "explanation": "Equal masses -> V ∝ n ∝ 1/M; (1/2):(1/32):(1/16) = 16:1:2.",
-  "source": "vedantu.com/question-answer/equal-masses-of-h2-o2-and-methane-have-been-class-11-chemistry-cbse-5f6d8484bdd5e06b58f95b23",
-  "year": "2014"
- },
- {
-  "pdfPage": 18,
   "question": "Largest atom count among: 127g iodine, 48g magnesium, 71g chlorine, 4g hydrogen:",
   "options": [
    "127.0 g iodine",
@@ -52,20 +52,6 @@
   ],
   "answer": 3,
   "explanation": "Moles of atoms: I 1, Mg 2, Cl 2, H 4 — hydrogen wins with 4 moles. | Hint: Convert each mass to moles of atoms.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 18,
-  "question": "O2:N2 mass ratio 1:4. Molecule-number ratio:",
-  "options": [
-   "1:8",
-   "3:16",
-   "1:4",
-   "7:32"
-  ],
-  "answer": 3,
-  "explanation": "(w/32)/(4w/28) = 28/128 = 7/32. | Hint: Divide each mass by its molar mass.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -112,34 +98,6 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 21,
-  "question": "0.5 L CO2 over red-hot coke grows to 700 mL (STP). Mixture:",
-  "options": [
-   "CO2 200 mL, CO 500 mL",
-   "CO2 350 mL, CO 350 mL",
-   "CO2 0 mL, CO 700 mL",
-   "CO2 300 mL, CO 400 mL"
-  ],
-  "answer": 3,
-  "explanation": "CO2 + C -> 2CO: each reacted mL adds one net mL; x = 200 reacted, leaving 300 CO2 + 400 CO. | Hint: Each reacted CO2 adds exactly one extra mL.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 21,
-  "question": "0.6 g urea heated with NaOH; NH3 neutralises which HCl?",
-  "options": [
-   "100 mL of 0.2 N HCl",
-   "400 mL of 0.2 N HCl",
-   "100 mL of 0.1 N HCl",
-   "200 mL of 0.2 N HCl"
-  ],
-  "answer": 0,
-  "explanation": "0.01 mol urea gives 0.02 mol NH3, needing 0.02 mol HCl = 100 mL of 0.2 N. | Hint: Each urea yields two ammonias.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
   "pdfPage": 23,
   "question": "10 mL 2 M NaOH + 200 mL 0.5 M NaOH. Final concentration:",
   "options": [
@@ -182,7 +140,7 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 23,
+  "pdfPage": 24,
   "question": "Molality of 3 M NaCl, density 1.252 g/mL (M = 58.5):",
   "options": [
    "2.18 m",
@@ -196,16 +154,58 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 26,
-  "question": "3 g charcoal in 50 mL 0.06 N acetic acid; filtrate 0.042 N. Adsorbed per gram:",
+  "pdfPage": 25,
+  "question": "The number of moles of hydrogen molecules required to produce 20 moles of ammonia through Haber's process is:",
   "options": [
-   "42 mg",
-   "54 mg",
-   "18 mg",
-   "36 mg"
+   "10",
+   "20",
+   "30",
+   "40"
   ],
   "answer": 2,
-  "explanation": "Adsorbed = (0.06-0.042) x 0.05 L x 60 g/mol = 54 mg total, i.e. 18 mg/g. | Hint: Normality drop times volume times equivalent mass.",
+  "explanation": "N2 + 3H2 -> 2NH3; 20 mol NH3 needs 3/2 x 20 = 30 mol H2.",
+  "source": "testbook.com/question-answer/the-number-of-moles-of-hydrogen-molecules-required--62b7e5082bbdfe428942a5f1",
+  "year": "2019"
+ },
+ {
+  "pdfPage": 26,
+  "question": "O2:N2 mass ratio 1:4. Molecule-number ratio:",
+  "options": [
+   "1:8",
+   "3:16",
+   "1:4",
+   "7:32"
+  ],
+  "answer": 3,
+  "explanation": "(w/32)/(4w/28) = 28/128 = 7/32. | Hint: Divide each mass by its molar mass.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 28,
+  "question": "0.5 L CO2 over red-hot coke grows to 700 mL (STP). Mixture:",
+  "options": [
+   "CO2 200 mL, CO 500 mL",
+   "CO2 350 mL, CO 350 mL",
+   "CO2 0 mL, CO 700 mL",
+   "CO2 300 mL, CO 400 mL"
+  ],
+  "answer": 3,
+  "explanation": "CO2 + C -> 2CO: each reacted mL adds one net mL; x = 200 reacted, leaving 300 CO2 + 400 CO. | Hint: Each reacted CO2 adds exactly one extra mL.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 28,
+  "question": "0.6 g urea heated with NaOH; NH3 neutralises which HCl?",
+  "options": [
+   "100 mL of 0.2 N HCl",
+   "400 mL of 0.2 N HCl",
+   "100 mL of 0.1 N HCl",
+   "200 mL of 0.2 N HCl"
+  ],
+  "answer": 0,
+  "explanation": "0.01 mol urea gives 0.02 mol NH3, needing 0.02 mol HCl = 100 mL of 0.2 N. | Hint: Each urea yields two ammonias.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  }

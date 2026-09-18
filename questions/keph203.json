@@ -1,104 +1,6 @@
 [
  {
   "pdfPage": 6,
-  "question": "A cup of coffee cools from 90°C to 80°C in t minutes when the room temperature is 20°C. The time taken by the similar cup of coffee to cool from 80°C to 60°C at the same room temperature is:",
-  "options": [
-   "13/5 t",
-   "10/13 t",
-   "13/10 t",
-   "5/13 t"
-  ],
-  "answer": 0,
-  "explanation": "t ∝ ΔT/mean excess: (20/50)/(10/65) = 2.6 = 13/5.",
-  "source": "examside.com",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 6,
-  "question": "A spherical black body with a radius of 12 cm radiates 450 watt power at 500 K. If the radius were halved and the temperature doubled, the power radiated in watt would be:",
-  "options": [
-   "450",
-   "1000",
-   "1800",
-   "225"
-  ],
-  "answer": 2,
-  "explanation": "P ∝ r²T⁴: (1/4)(16) = 4 → 4 × 450 = 1800 W.",
-  "source": "examside.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
-  "question": "Certain quantity of water cools from 70°C to 60°C in the first 5 minutes and to 54°C in the next 5 minutes. The temperature of the surroundings is",
-  "options": [
-   "42°C",
-   "10°C",
-   "45°C",
-   "20°C"
-  ],
-  "answer": 2,
-  "explanation": "10/(65−Ts) = 6/(57−Ts) → Ts = 45°C.",
-  "source": "examside.com",
-  "year": "NEET 2014"
- },
- {
-  "pdfPage": 6,
-  "question": "Heat to raise two solid Cu spheres (r₁ = 1.5r₂) by 1 K. Ratio:",
-  "options": [
-   "3/2",
-   "5/3",
-   "27/8",
-   "9/4"
-  ],
-  "answer": 2,
-  "explanation": "Q ∝ mass ∝ r³: 1.5³ = 27/8.",
-  "source": "NEET 2020 Code-F1 official paper (key derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 6,
-  "question": "Two identical bodies are made of a material for which the heat capacity increases with temperature. One of these is at 100°C, while the other one is at 0°C. If the two bodies are brought into contact, then, assuming no heat loss, the final common temperature is:",
-  "options": [
-   "50°C",
-   "more than 50°C",
-   "less than 50°C but greater than 0°C",
-   "0°C"
-  ],
-  "answer": 1,
-  "explanation": "C(T) increasing → F(T) convex → T_f > 50°C.",
-  "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 9,
-  "question": "A body cools from a temperature 3T to 2T in 10 minutes. The room temperature is T. Assume that Newton's law of cooling is applicable. The temperature of the body at the end of next 10 minutes will be:",
-  "options": [
-   "7/4 T",
-   "3/2 T",
-   "4/3 T",
-   "T"
-  ],
-  "answer": 1,
-  "explanation": "k = 1/15 per min; (T−θ)/10 = (1/15)(T+θ)/2 → θ = T/2 → final = 3T/2.",
-  "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 9,
-  "question": "Coefficient of linear expansion of brass and steel rods are α1 and α2. Lengths of brass and steel rods are ℓ1 and ℓ2 respectively. If (ℓ2 − ℓ1) is maintained same at all temperatures, which one of the following relations holds good?",
-  "options": [
-   "α1ℓ1 = α2ℓ2",
-   "α1ℓ2 = α2ℓ1",
-   "α1ℓ2² = α2ℓ1²",
-   "α1²ℓ2 = α2²ℓ1"
-  ],
-  "answer": 0,
-  "explanation": "Difference constant → ℓ1α1 = ℓ2α2.",
-  "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 9,
   "question": "Cu rod 88 cm and Al rod of unknown length expand equally with T (α_Cu = 1.7e-5, α_Al = 2.2e-5). Al length:",
   "options": [
    "6.8 cm",
@@ -110,6 +12,20 @@
   "explanation": "L_Al = 88×1.7/2.2 = 68 cm.",
   "source": "NEET 2019 Code-P1 (key derived first-principles)",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Steel bar Y = 0.5×10¹¹ Pa, α = 10⁻⁵/°C, L = 1 m, A = 10⁻³ m², heated 0→100 °C with expansion blocked. Compressive force:",
+  "options": [
+   "100×10³ N",
+   "2×10³ N",
+   "5×10³ N",
+   "50×10³ N"
+  ],
+  "answer": 3,
+  "explanation": "F = YAαΔT = 0.5e11×1e-3×1e-5×100 = 5×10⁴ N.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
  },
  {
   "pdfPage": 9,
@@ -127,20 +43,6 @@
  },
  {
   "pdfPage": 9,
-  "question": "Steel bar Y = 0.5×10¹¹ Pa, α = 10⁻⁵/°C, L = 1 m, A = 10⁻³ m², heated 0→100 °C with expansion blocked. Compressive force:",
-  "options": [
-   "100×10³ N",
-   "2×10³ N",
-   "5×10³ N",
-   "50×10³ N"
-  ],
-  "answer": 3,
-  "explanation": "F = YAαΔT = 0.5e11×1e-3×1e-5×100 = 5×10⁴ N.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 9,
   "question": "The quantities of heat required to raise the temperature of two solid copper spheres of radii r1 and r2 (r1 = 1.5 r2) through 1 K are in the ratio:",
   "options": [
    "3 : 2",
@@ -151,6 +53,34 @@
   "answer": 2,
   "explanation": "Q ∝ m ∝ r³; (1.5)³ = 27/8.",
   "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Certain quantity of water cools from 70°C to 60°C in the first 5 minutes and to 54°C in the next 5 minutes. The temperature of the surroundings is",
+  "options": [
+   "42°C",
+   "10°C",
+   "45°C",
+   "20°C"
+  ],
+  "answer": 2,
+  "explanation": "10/(65−Ts) = 6/(57−Ts) → Ts = 45°C.",
+  "source": "examside.com",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Heat to raise two solid Cu spheres (r₁ = 1.5r₂) by 1 K. Ratio:",
+  "options": [
+   "3/2",
+   "5/3",
+   "27/8",
+   "9/4"
+  ],
+  "answer": 2,
+  "explanation": "Q ∝ mass ∝ r³: 1.5³ = 27/8.",
+  "source": "NEET 2020 Code-F1 official paper (key derived)",
   "year": "NEET 2020"
  },
  {
@@ -169,20 +99,6 @@
  },
  {
   "pdfPage": 14,
-  "question": "A piece of ice falls from a height h so that it melts completely. Only one-quarter of the heat produced is absorbed by the ice and all energy of ice gets converted into heat during its fall. The value of h is: [Latent heat of ice is 3.4 × 10⁵ J/kg and g = 10 N/kg]",
-  "options": [
-   "68 km",
-   "34 km",
-   "544 km",
-   "136 km"
-  ],
-  "answer": 3,
-  "explanation": "¼mgh = mL → h = 4L/g = 4 × 3.4×10⁵/10 = 136 km.",
-  "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 14,
   "question": "Coffee 90→80 °C in t min (room 20 °C). Same cup 80→60 °C takes:",
   "options": [
    "13t/10",
@@ -196,18 +112,32 @@
   "year": "NEET 2021"
  },
  {
-  "pdfPage": 14,
-  "question": "The value of coefficient of volume expansion of glycerin is 5 × 10⁻⁴ K⁻¹. The fractional change in the density of glycerin for a rise of 40°C in its temperature, is",
+  "pdfPage": 16,
+  "question": "Two identical bodies are made of a material for which the heat capacity increases with temperature. One of these is at 100°C, while the other one is at 0°C. If the two bodies are brought into contact, then, assuming no heat loss, the final common temperature is:",
   "options": [
-   "0.025",
-   "0.010",
-   "0.015",
-   "0.020"
+   "50°C",
+   "more than 50°C",
+   "less than 50°C but greater than 0°C",
+   "0°C"
+  ],
+  "answer": 1,
+  "explanation": "C(T) increasing → F(T) convex → T_f > 50°C.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 17,
+  "question": "A piece of ice falls from a height h so that it melts completely. Only one-quarter of the heat produced is absorbed by the ice and all energy of ice gets converted into heat during its fall. The value of h is: [Latent heat of ice is 3.4 × 10⁵ J/kg and g = 10 N/kg]",
+  "options": [
+   "68 km",
+   "34 km",
+   "544 km",
+   "136 km"
   ],
   "answer": 3,
-  "explanation": "Δρ/ρ = γΔT = 5×10⁻⁴ × 40 = 0.020.",
+  "explanation": "¼mgh = mL → h = 4L/g = 4 × 3.4×10⁵/10 = 136 km.",
   "source": "examside.com",
-  "year": "NEET 2015"
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 18,
@@ -253,6 +183,34 @@
  },
  {
   "pdfPage": 18,
+  "question": "A body cools from a temperature 3T to 2T in 10 minutes. The room temperature is T. Assume that Newton's law of cooling is applicable. The temperature of the body at the end of next 10 minutes will be:",
+  "options": [
+   "7/4 T",
+   "3/2 T",
+   "4/3 T",
+   "T"
+  ],
+  "answer": 1,
+  "explanation": "k = 1/15 per min; (T−θ)/10 = (1/15)(T+θ)/2 → θ = T/2 → final = 3T/2.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 18,
+  "question": "A spherical black body with a radius of 12 cm radiates 450 watt power at 500 K. If the radius were halved and the temperature doubled, the power radiated in watt would be:",
+  "options": [
+   "450",
+   "1000",
+   "1800",
+   "225"
+  ],
+  "answer": 2,
+  "explanation": "P ∝ r²T⁴: (1/4)(16) = 4 → 4 × 450 = 1800 W.",
+  "source": "examside.com",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 18,
   "question": "On observing light from three different stars P, Q and R, it was found that intensity of violet colour is maximum in the spectrum of P, the intensity of green colour is maximum in the spectrum of R and the intensity of red colour is maximum in the spectrum of Q. If TP, TQ and TR are the respective absolute temperatures of P, Q and R, then it can be concluded from the above observations that:",
   "options": [
    "TP < TQ < TR",
@@ -278,5 +236,47 @@
   "explanation": "T ∝ 1/λm → T′/T = 4/3; P ∝ T⁴ → n = (4/3)⁴ = 256/81.",
   "source": "examside.com",
   "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 20,
+  "question": "A cup of coffee cools from 90°C to 80°C in t minutes when the room temperature is 20°C. The time taken by the similar cup of coffee to cool from 80°C to 60°C at the same room temperature is:",
+  "options": [
+   "13/5 t",
+   "10/13 t",
+   "13/10 t",
+   "5/13 t"
+  ],
+  "answer": 0,
+  "explanation": "t ∝ ΔT/mean excess: (20/50)/(10/65) = 2.6 = 13/5.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 23,
+  "question": "Coefficient of linear expansion of brass and steel rods are α1 and α2. Lengths of brass and steel rods are ℓ1 and ℓ2 respectively. If (ℓ2 − ℓ1) is maintained same at all temperatures, which one of the following relations holds good?",
+  "options": [
+   "α1ℓ1 = α2ℓ2",
+   "α1ℓ2 = α2ℓ1",
+   "α1ℓ2² = α2ℓ1²",
+   "α1²ℓ2 = α2²ℓ1"
+  ],
+  "answer": 0,
+  "explanation": "Difference constant → ℓ1α1 = ℓ2α2.",
+  "source": "examside.com",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 23,
+  "question": "The value of coefficient of volume expansion of glycerin is 5 × 10⁻⁴ K⁻¹. The fractional change in the density of glycerin for a rise of 40°C in its temperature, is",
+  "options": [
+   "0.025",
+   "0.010",
+   "0.015",
+   "0.020"
+  ],
+  "answer": 3,
+  "explanation": "Δρ/ρ = γΔT = 5×10⁻⁴ × 40 = 0.020.",
+  "source": "examside.com",
+  "year": "NEET 2015"
  }
 ]

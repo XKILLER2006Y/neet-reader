@@ -56,20 +56,6 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 13,
-  "question": "Main cause of lanthanide contraction:",
-  "options": [
-   "Poor 4f shielding by other 4f",
-   "Effective 4f shielding",
-   "Poorer 5d shielding by 4f",
-   "Greater 5d shielding by 4f"
-  ],
-  "answer": 0,
-  "explanation": "Diffuse 4f electrons shield poorly, so rising charge pulls shells in. | Hint: Why does f-block shielding fail?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
   "pdfPage": 15,
   "question": "Highest first ionisation energy: Sc, Rb, Na, K:",
   "options": [
@@ -84,30 +70,16 @@
   "year": "JEE Main PYQ"
  },
  {
-  "pdfPage": 15,
-  "question": "Increasing polarising power: K+, Ca2+, Mg2+, Be2+:",
+  "pdfPage": 16,
+  "question": "Main cause of lanthanide contraction:",
   "options": [
-   "Mg,Be,K,Ca",
-   "Be,K,Ca,Mg",
-   "K,Ca,Mg,Be",
-   "Ca,Mg,Be,K"
+   "Poor 4f shielding by other 4f",
+   "Effective 4f shielding",
+   "Poorer 5d shielding by 4f",
+   "Greater 5d shielding by 4f"
   ],
-  "answer": 2,
-  "explanation": "Polarising power rises with charge density: smallest, most charged wins. | Hint: Charge density decides.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 15,
-  "question": "Incorrect iron statement (same Q as d-block bank, key re-confirmed):",
-  "options": [
-   "Ferrous oxide more basic",
-   "Ferrous more ionic",
-   "Ferrous less volatile",
-   "Ferrous hydrolyses more easily"
-  ],
-  "answer": 3,
-  "explanation": "Ferric (higher charge) hydrolyses more easily, so the ferrous claim is wrong. | Hint: Higher charge hydrolyses faster.",
+  "answer": 0,
+  "explanation": "Diffuse 4f electrons shield poorly, so rising charge pulls shells in. | Hint: Why does f-block shielding fail?",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -122,6 +94,20 @@
   ],
   "answer": 1,
   "explanation": "Adding an electron to Na+ reverses its ionisation: -5.1 eV. | Hint: Reverse the ionisation process exactly.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 21,
+  "question": "Amphoteric oxide among CaO, CO2, SiO2, SnO2:",
+  "options": [
+   "CaO",
+   "CO2",
+   "SiO2",
+   "SnO2"
+  ],
+  "answer": 3,
+  "explanation": "SnO2 reacts with both acids and bases. | Hint: Spot the amphoteric one.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -155,29 +141,15 @@
  },
  {
   "pdfPage": 21,
-  "question": "Amphoteric oxide among CaO, CO2, SiO2, SnO2:",
+  "question": "Incorrect iron statement (same Q as d-block bank, key re-confirmed):",
   "options": [
-   "CaO",
-   "CO2",
-   "SiO2",
-   "SnO2"
+   "Ferrous oxide more basic",
+   "Ferrous more ionic",
+   "Ferrous less volatile",
+   "Ferrous hydrolyses more easily"
   ],
   "answer": 3,
-  "explanation": "SnO2 reacts with both acids and bases. | Hint: Spot the amphoteric one.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 22,
-  "question": "Increasing ionic radii: K+, S2-, Ca2+, Cl- (isoelectronic):",
-  "options": [
-   "K+, S2-, Ca2+, Cl-",
-   "Cl-, Ca2+, K+, S2-",
-   "S2-, Cl-, Ca2+, K+",
-   "Ca2+, K+, Cl-, S2-"
-  ],
-  "answer": 3,
-  "explanation": "More protons pull harder: highest charge smallest. | Hint: Same electrons: most protons wins.",
+  "explanation": "Ferric (higher charge) hydrolyses more easily, so the ferrous claim is wrong. | Hint: Higher charge hydrolyses faster.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  },
@@ -197,6 +169,20 @@
  },
  {
   "pdfPage": 22,
+  "question": "Increasing ionic radii: K+, S2-, Ca2+, Cl- (isoelectronic):",
+  "options": [
+   "K+, S2-, Ca2+, Cl-",
+   "Cl-, Ca2+, K+, S2-",
+   "S2-, Cl-, Ca2+, K+",
+   "Ca2+, K+, Cl-, S2-"
+  ],
+  "answer": 3,
+  "explanation": "More protons pull harder: highest charge smallest. | Hint: Same electrons: most protons wins.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 22,
   "question": "Lanthanide contraction makes equal radii for:",
   "options": [
    "Zr and Y",
@@ -206,6 +192,20 @@
   ],
   "answer": 2,
   "explanation": "Contraction shrinks Hf to Zr size (also Mo/W, Nb/Ta). | Hint: The famous identical pair.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ"
+ },
+ {
+  "pdfPage": 24,
+  "question": "Increasing polarising power: K+, Ca2+, Mg2+, Be2+:",
+  "options": [
+   "Mg,Be,K,Ca",
+   "Be,K,Ca,Mg",
+   "K,Ca,Mg,Be",
+   "Ca,Mg,Be,K"
+  ],
+  "answer": 2,
+  "explanation": "Polarising power rises with charge density: smallest, most charged wins. | Hint: Charge density decides.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ"
  }

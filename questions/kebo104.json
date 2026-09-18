@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 3,
+  "question": "NOT present in Periplaneta americana:",
+  "options": [
+   "Schizocoelom body cavity",
+   "Indeterminate radial cleavage",
+   "N-acetylglucosamine exoskeleton",
+   "Metameric segmentation"
+  ],
+  "answer": 1,
+  "explanation": "Arthropods show determinate spiral cleavage, not radial indeterminate. | Hint: Radial cleavage belongs to which embryos?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
   "pdfPage": 4,
   "question": "Spongocoel lined with flagellated cells:",
   "options": [
@@ -12,6 +26,20 @@
   "explanation": "Choanocytes (collar cells) line the spongocoel. | Hint: Collar cells line which cavity?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Bilateral acoelomate exemplified by:",
+  "options": [
+   "Aschelminthes",
+   "Annelida",
+   "Ctenophora",
+   "Platyhelminthes"
+  ],
+  "answer": 3,
+  "explanation": "Flatworms lack any body cavity. | Hint: No cavity at all?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 7,
@@ -40,48 +68,6 @@
   "explanation": "Annelids are schizocoelomate bilaterians; the rest fail one test. | Hint: True coelom plus bilateral: which phylum?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
- },
- {
-  "pdfPage": 7,
-  "question": "Animal skipping metamorphosis:",
-  "options": [
-   "Moth",
-   "Tunicate",
-   "Earthworm",
-   "Starfish"
-  ],
-  "answer": 2,
-  "explanation": "Moth, tunicate and starfish all metamorphose; earthworm develops directly. | Hint: Who develops directly?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 7,
-  "question": "Bilateral acoelomate exemplified by:",
-  "options": [
-   "Aschelminthes",
-   "Annelida",
-   "Ctenophora",
-   "Platyhelminthes"
-  ],
-  "answer": 3,
-  "explanation": "Flatworms lack any body cavity. | Hint: No cavity at all?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 8,
-  "question": "NOT present in Periplaneta americana:",
-  "options": [
-   "Schizocoelom body cavity",
-   "Indeterminate radial cleavage",
-   "N-acetylglucosamine exoskeleton",
-   "Metameric segmentation"
-  ],
-  "answer": 1,
-  "explanation": "Arthropods show determinate spiral cleavage, not radial indeterminate. | Hint: Radial cleavage belongs to which embryos?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
  },
  {
   "pdfPage": 8,
@@ -124,6 +110,20 @@
   "explanation": "Brittle-star, Portuguese-man-o-war, pearl-oyster, flatworm in order. | Hint: Know each animal.",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "True chordate statements (urochordate lifelong/Hemichordata subphylum false):",
+  "options": [
+   "(a) and (b)",
+   "(b) and (c)",
+   "(d) and (c)",
+   "(c) and (a)"
+  ],
+  "answer": 1,
+  "explanation": "Embryonic vertebrate notochord and dorsal hollow CNS hold; the rest err. | Hint: Test each statement.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 11,
@@ -169,20 +169,6 @@
  },
  {
   "pdfPage": 12,
-  "question": "Which of the following animals is not a homeotherm?",
-  "options": [
-   "Camelus",
-   "Chelone",
-   "Macropus",
-   "Psittacula"
-  ],
-  "answer": 1,
-  "explanation": "Chelone (turtle) is a poikilotherm — body temperature varies with the environment. Camel (mammal), Macropus (kangaroo, mammal) and Psittacula (bird) are homeotherms.",
-  "source": "NEET 2018 (official stem restored)",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 12,
   "question": "Match gill-slits/heterocercal/air-bladder/sting to cyclostomes/sharks/bony/Trygon:",
   "options": [
    "iv,ii,iii,i",
@@ -210,6 +196,20 @@
   "year": "NEET 2022"
  },
  {
+  "pdfPage": 15,
+  "question": "Which of the following animals is not a homeotherm?",
+  "options": [
+   "Camelus",
+   "Chelone",
+   "Macropus",
+   "Psittacula"
+  ],
+  "answer": 1,
+  "explanation": "Chelone (turtle) is a poikilotherm — body temperature varies with the environment. Camel (mammal), Macropus (kangaroo, mammal) and Psittacula (bird) are homeotherms.",
+  "source": "NEET 2018 (official stem restored)",
+  "year": "NEET 2018"
+ },
+ {
   "pdfPage": 16,
   "question": "Hemichordate-chordate shared trait:",
   "options": [
@@ -224,18 +224,18 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 16,
-  "question": "True chordate statements (urochordate lifelong/Hemichordata subphylum false):",
+  "pdfPage": 17,
+  "question": "Animal skipping metamorphosis:",
   "options": [
-   "(a) and (b)",
-   "(b) and (c)",
-   "(d) and (c)",
-   "(c) and (a)"
+   "Moth",
+   "Tunicate",
+   "Earthworm",
+   "Starfish"
   ],
-  "answer": 1,
-  "explanation": "Embryonic vertebrate notochord and dorsal hollow CNS hold; the rest err. | Hint: Test each statement.",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "answer": 2,
+  "explanation": "Moth, tunicate and starfish all metamorphose; earthworm develops directly. | Hint: Who develops directly?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 17,

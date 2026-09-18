@@ -1,34 +1,6 @@
 [
  {
   "pdfPage": 1,
-  "question": "Adult human RBCs are enucleated. Which of the following statement(s) is/are most appropriate explanation for this feature? I. They are somatic cells II. They do not need to reproduce III. All their internal space is available to transport oxygen IV. They do not metabolize",
-  "options": [
-   "I, II, and IV",
-   "III and IV",
-   "Only III",
-   "Only I"
-  ],
-  "answer": 2,
-  "explanation": "Enucleation frees all internal space for O2 transport by haemoglobin.",
-  "source": "byjus.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 1,
-  "question": "Doctors use stethoscope to hear the sounds produced during each cardiac cycle. The second sound is heard when",
-  "options": [
-   "Semilunar valves close down after the blood flows into vessels from ventricles",
-   "AV valves open up",
-   "Ventricular walls vibrate due to gushing in of blood from atria",
-   "AV node receives signal from SA node"
-  ],
-  "answer": 0,
-  "explanation": "Second sound (dub) = closure of semilunar valves.",
-  "source": "byjus.com",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 1,
   "question": "Serum differs from blood in lacking:",
   "options": [
    "Antibodies",
@@ -40,6 +12,20 @@
   "explanation": "Serum is plasma minus the consumed clotting factors (fibrinogen etc.). | Hint: What gets used up when blood clots?",
   "source": "NEET NEET 2016 via BYJU'S",
   "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 2,
+  "question": "Which one of the following plasma proteins is involved in the coagulation of blood?",
+  "options": [
+   "Fibrinogen",
+   "Serum amylase",
+   "Globulin",
+   "Albumin"
+  ],
+  "answer": 0,
+  "explanation": "Fibrinogen → fibrin during coagulation.",
+  "source": "byjus.com",
+  "year": "AIPMT 2011"
  },
  {
   "pdfPage": 3,
@@ -113,20 +99,6 @@
  },
  {
   "pdfPage": 4,
-  "question": "How do parasympathetic neural signals affect the working of the heart?",
-  "options": [
-   "both heart rate and cardiac output increase",
-   "reduce both heart rate and cardiac output",
-   "heart rate is increased without affecting the cardiac output",
-   "heart rate decreases but cardiac output increases"
-  ],
-  "answer": 1,
-  "explanation": "Parasympathetic signals decrease both heart rate and cardiac output.",
-  "source": "byjus.com",
-  "year": "AIPMT 2014"
- },
- {
-  "pdfPage": 4,
   "question": "Plasma protein involved in blood coagulation:",
   "options": [
    "Fibrinogen",
@@ -155,6 +127,34 @@
  },
  {
   "pdfPage": 8,
+  "question": "Blood pressure in the pulmonary artery is:",
+  "options": [
+   "More than carotid",
+   "Same as aorta",
+   "Less than venae cavae",
+   "More than pulmonary vein"
+  ],
+  "answer": 3,
+  "explanation": "Pulmonary artery carries blood to lungs at higher pressure than the returning pulmonary vein. | Hint: Artery leaving the heart versus vein returning?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Doctors use stethoscope to hear the sounds produced during each cardiac cycle. The second sound is heard when",
+  "options": [
+   "Semilunar valves close down after the blood flows into vessels from ventricles",
+   "AV valves open up",
+   "Ventricular walls vibrate due to gushing in of blood from atria",
+   "AV node receives signal from SA node"
+  ],
+  "answer": 0,
+  "explanation": "Second sound (dub) = closure of semilunar valves.",
+  "source": "byjus.com",
+  "year": "AIPMT 2015"
+ },
+ {
+  "pdfPage": 8,
   "question": "The second heart sound is heard when:",
   "options": [
    "Semilunar valves close after ventricular ejection",
@@ -169,31 +169,17 @@
  },
  {
   "pdfPage": 10,
-  "question": "Adult human RBCs are enucleated. Most appropriate explanation? I. Somatic cells II. Need not reproduce III. All space free for O2 IV. Do not metabolise:",
+  "question": "How do parasympathetic neural signals affect the working of the heart?",
   "options": [
-   "I, II and IV",
-   "III and IV",
-   "Only III",
-   "Only I"
+   "both heart rate and cardiac output increase",
+   "reduce both heart rate and cardiac output",
+   "heart rate is increased without affecting the cardiac output",
+   "heart rate decreases but cardiac output increases"
   ],
-  "answer": 2,
-  "explanation": "Losing the nucleus maximises oxygen-carrying space; III captures the functional reason. | Hint: Why sacrifice the nucleus?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 10,
-  "question": "Blood pressure in the pulmonary artery is:",
-  "options": [
-   "More than carotid",
-   "Same as aorta",
-   "Less than venae cavae",
-   "More than pulmonary vein"
-  ],
-  "answer": 3,
-  "explanation": "Pulmonary artery carries blood to lungs at higher pressure than the returning pulmonary vein. | Hint: Artery leaving the heart versus vein returning?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "answer": 1,
+  "explanation": "Parasympathetic signals decrease both heart rate and cardiac output.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
  },
  {
   "pdfPage": 10,
@@ -238,17 +224,31 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 10,
-  "question": "Which one of the following plasma proteins is involved in the coagulation of blood?",
+  "pdfPage": 11,
+  "question": "Adult human RBCs are enucleated. Most appropriate explanation? I. Somatic cells II. Need not reproduce III. All space free for O2 IV. Do not metabolise:",
   "options": [
-   "Fibrinogen",
-   "Serum amylase",
-   "Globulin",
-   "Albumin"
+   "I, II and IV",
+   "III and IV",
+   "Only III",
+   "Only I"
   ],
-  "answer": 0,
-  "explanation": "Fibrinogen → fibrin during coagulation.",
+  "answer": 2,
+  "explanation": "Losing the nucleus maximises oxygen-carrying space; III captures the functional reason. | Hint: Why sacrifice the nucleus?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Adult human RBCs are enucleated. Which of the following statement(s) is/are most appropriate explanation for this feature? I. They are somatic cells II. They do not need to reproduce III. All their internal space is available to transport oxygen IV. They do not metabolize",
+  "options": [
+   "I, II, and IV",
+   "III and IV",
+   "Only III",
+   "Only I"
+  ],
+  "answer": 2,
+  "explanation": "Enucleation frees all internal space for O2 transport by haemoglobin.",
   "source": "byjus.com",
-  "year": "AIPMT 2011"
+  "year": "NEET 2017"
  }
 ]

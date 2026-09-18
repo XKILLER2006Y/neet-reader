@@ -1,6 +1,6 @@
 [
  {
-  "pdfPage": 8,
+  "pdfPage": 3,
   "question": "(I) Moving screen back keeps angular fringe separation constant. (II) Larger λ shrinks angular separation.",
   "options": [
    "Both false",
@@ -14,7 +14,7 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 8,
+  "pdfPage": 13,
   "question": "A beam of light of λ = 600 nm from a distant source falls on a single slit 1 mm wide and the resulting diffraction pattern is observed on a screen 2 m away. The distance between first dark fringes on either side of the central bright fringe is",
   "options": [
    "1.2 cm",
@@ -28,7 +28,7 @@
   "year": "AIPMT 2014"
  },
  {
-  "pdfPage": 8,
+  "pdfPage": 13,
   "question": "Assume that light of wavelength 600 nm is coming from a star. The limit of resolution of telescope whose objective has a diameter of 2 m is :",
   "options": [
    "1.83 × 10⁻⁷ rad",
@@ -42,35 +42,21 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 8,
-  "question": "If the monochromatic source in Young's double slit experiment is replaced by white light, then",
+  "pdfPage": 13,
+  "question": "For Young's double slit experiment, two statements are given below : Statement I : If screen is moved away from the plane of slits, angular separation of the fringes remains constant. Statement II : If the monochromatic source is replaced by another monochromatic source of larger wavelength, the angular separation of fringes decreases. In the light of the above statements, choose the correct answer from the options given below :",
   "options": [
-   "Interference pattern will disappear",
-   "There will be a central dark fringe surrounded by a few coloured fringes",
-   "There will be a central bright white fringe surrounded by a few coloured fringes",
-   "All bright fringes will be of equal width"
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true"
   ],
-  "answer": 2,
-  "explanation": "Zero path difference at centre for all λ → white central fringe; different λ give different β → coloured fringes around it.",
+  "answer": 1,
+  "explanation": "θ = λ/d independent of D (I true); θ ∝ λ so larger λ increases θ (II false).",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2023"
  },
  {
-  "pdfPage": 8,
-  "question": "If the screen is moved away from the plane of the slits in a Young's double slit experiment, then the :",
-  "options": [
-   "linear separation of the fringes decreases",
-   "angular separation of the fringes increases",
-   "angular separation of the fringes decreases",
-   "linear separation of the fringes increase"
-  ],
-  "answer": 3,
-  "explanation": "β = λD/d increases with D; θ = λ/d is unchanged. So linear separation increases.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 8,
+  "pdfPage": 13,
   "question": "In YDSE the monochromatic source is replaced by white light. Then:",
   "options": [
    "Central white fringe with few coloured fringes",
@@ -84,18 +70,18 @@
   "year": "NEET 2024"
  },
  {
-  "pdfPage": 8,
-  "question": "In Young's double slit experiment the separation d between the slits is 2 mm, the wavelength λ of the light used is 5896 Å and distance D between the screen and slits is 100 cm. It is found that the angular width of the fringes is 0.20°. To increase the fringe angular width to 0.21° (with same λ and D) the separation between the slits needs to be changed to",
+  "pdfPage": 13,
+  "question": "In a double slit experiment, the two slits are 1 mm apart and the screen is placed 1 m away. A monochromatic light of wavelength 500 nm is used. What will be the width of each slit for obtaining ten maxima of double slit within the central maxima of single slit pattern ?",
   "options": [
-   "1.9 mm",
-   "1.8 mm",
-   "2.1 mm",
-   "1.7 mm"
+   "0.5 mm",
+   "0.02 mm",
+   "0.2 mm",
+   "0.1 mm"
   ],
-  "answer": 0,
-  "explanation": "θ = λ/d so d ∝ 1/θ. d′ = 2 × (0.20/0.21) = 1.905 mm ≈ 1.9 mm.",
+  "answer": 2,
+  "explanation": "β = 5×10⁻⁴ m; 10β = 5×10⁻³ m = 2λD/a → a = 2×500×10⁻⁹/5×10⁻³ = 0.2 mm.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "AIPMT 2015"
  },
  {
   "pdfPage": 14,
@@ -127,6 +113,48 @@
  },
  {
   "pdfPage": 14,
+  "question": "If the monochromatic source in Young's double slit experiment is replaced by white light, then",
+  "options": [
+   "Interference pattern will disappear",
+   "There will be a central dark fringe surrounded by a few coloured fringes",
+   "There will be a central bright white fringe surrounded by a few coloured fringes",
+   "All bright fringes will be of equal width"
+  ],
+  "answer": 2,
+  "explanation": "Zero path difference at centre for all λ → white central fringe; different λ give different β → coloured fringes around it.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 14,
+  "question": "If the screen is moved away from the plane of the slits in a Young's double slit experiment, then the :",
+  "options": [
+   "linear separation of the fringes decreases",
+   "angular separation of the fringes increases",
+   "angular separation of the fringes decreases",
+   "linear separation of the fringes increase"
+  ],
+  "answer": 3,
+  "explanation": "β = λD/d increases with D; θ = λ/d is unchanged. So linear separation increases.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "In Young's double slit experiment the separation d between the slits is 2 mm, the wavelength λ of the light used is 5896 Å and distance D between the screen and slits is 100 cm. It is found that the angular width of the fringes is 0.20°. To increase the fringe angular width to 0.21° (with same λ and D) the separation between the slits needs to be changed to",
+  "options": [
+   "1.9 mm",
+   "1.8 mm",
+   "2.1 mm",
+   "1.7 mm"
+  ],
+  "answer": 0,
+  "explanation": "θ = λ/d so d ∝ 1/θ. d′ = 2 × (0.20/0.21) = 1.905 mm ≈ 1.9 mm.",
+  "source": "examside.com",
+  "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 14,
   "question": "In Young's double slit experiment, if the separation between coherent sources is halved and the distance of the screen from the coherent sources is doubled, then the fringe width becomes :",
   "options": [
    "half",
@@ -152,6 +180,34 @@
   "explanation": "β = λ D / d. If D becomes 2D and d becomes d/2, β' = λ (2D) / (d/2) = 4 (λ D / d) = 4 β. | Hint: β ∝ D / d.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 14,
+  "question": "In a Young's double slit experiment, a student observes 8 fringes in a certain segment of screen when a monochromatic light of 600 nm wavelength is used. If the wavelength of light is changed to 400 nm, then the number of fringes he would observe in the same region of the screen is",
+  "options": [
+   "6",
+   "8",
+   "9",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "n ∝ 1/λ for same segment: n = 8 × 600/400 = 12.",
+  "source": "examside.com",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "In a double slit experiment, when light of wavelength 400 nm was used, the angular width of the first minima formed on a screen placed 1 m away, was found to be 0.2°. What will be the angular width of the first minima, (μ_water = 4/3) if the entire experimental apparatus is immersed in water?",
+  "options": [
+   "0.15°",
+   "0.05°",
+   "0.1°",
+   "0.266°"
+  ],
+  "answer": 0,
+  "explanation": "θ = λ/d; in water λ′ = λ/μ, so θ_water = 0.2° × 3/4 = 0.15°.",
+  "source": "examside.com",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 14,
@@ -208,62 +264,6 @@
   "explanation": "nth minimum: path difference = nλ. Second minimum → 2λ → phase = 4π.",
   "source": "examside.com",
   "year": "NEET 2013"
- },
- {
-  "pdfPage": 16,
-  "question": "For Young's double slit experiment, two statements are given below : Statement I : If screen is moved away from the plane of slits, angular separation of the fringes remains constant. Statement II : If the monochromatic source is replaced by another monochromatic source of larger wavelength, the angular separation of fringes decreases. In the light of the above statements, choose the correct answer from the options given below :",
-  "options": [
-   "Both Statement I and Statement II are false",
-   "Statement I is true but Statement II is false",
-   "Statement I is false but Statement II is true",
-   "Both Statement I and Statement II are true"
-  ],
-  "answer": 1,
-  "explanation": "θ = λ/d independent of D (I true); θ ∝ λ so larger λ increases θ (II false).",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 16,
-  "question": "In a Young's double slit experiment, a student observes 8 fringes in a certain segment of screen when a monochromatic light of 600 nm wavelength is used. If the wavelength of light is changed to 400 nm, then the number of fringes he would observe in the same region of the screen is",
-  "options": [
-   "6",
-   "8",
-   "9",
-   "12"
-  ],
-  "answer": 3,
-  "explanation": "n ∝ 1/λ for same segment: n = 8 × 600/400 = 12.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 16,
-  "question": "In a double slit experiment, the two slits are 1 mm apart and the screen is placed 1 m away. A monochromatic light of wavelength 500 nm is used. What will be the width of each slit for obtaining ten maxima of double slit within the central maxima of single slit pattern ?",
-  "options": [
-   "0.5 mm",
-   "0.02 mm",
-   "0.2 mm",
-   "0.1 mm"
-  ],
-  "answer": 2,
-  "explanation": "β = 5×10⁻⁴ m; 10β = 5×10⁻³ m = 2λD/a → a = 2×500×10⁻⁹/5×10⁻³ = 0.2 mm.",
-  "source": "examside.com",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 16,
-  "question": "In a double slit experiment, when light of wavelength 400 nm was used, the angular width of the first minima formed on a screen placed 1 m away, was found to be 0.2°. What will be the angular width of the first minima, (μ_water = 4/3) if the entire experimental apparatus is immersed in water?",
-  "options": [
-   "0.15°",
-   "0.05°",
-   "0.1°",
-   "0.266°"
-  ],
-  "answer": 0,
-  "explanation": "θ = λ/d; in water λ′ = λ/μ, so θ_water = 0.2° × 3/4 = 0.15°.",
-  "source": "examside.com",
-  "year": "NEET 2019"
  },
  {
   "pdfPage": 16,

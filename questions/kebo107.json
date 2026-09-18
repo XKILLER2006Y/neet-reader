@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 2,
-  "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
-  "options": [
-   "Chromatophores",
-   "Cristae",
-   "Endoplasmic Reticulum",
-   "Mesosome"
-  ],
-  "answer": 3,
-  "explanation": "Mesosome is an infolding of the plasma membrane doing all three listed functions.",
-  "source": "NEET 2025 (questions.collegedunia.com + edurev.in)",
-  "year": "2025"
- },
- {
-  "pdfPage": 2,
   "question": "Excised frog heart keeps beating because: (a) poikilotherm (b) no coronary (c) myogenic (d) autoexcitable:",
   "options": [
    "Only c",
@@ -42,20 +28,6 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 2,
-  "question": "Tissue-location match:",
-  "options": [
-   "Smooth muscle - intestine wall",
-   "Areolar tissue - tendons",
-   "Transitional epithelium - nose tip",
-   "Cuboidal epithelium - stomach lining"
-  ],
-  "answer": 0,
-  "explanation": "Only smooth muscle in the gut wall pairs correctly. | Hint: Which pairing survives checking?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
   "pdfPage": 3,
   "question": "Male frog copulatory pad location:",
   "options": [
@@ -70,18 +42,32 @@
   "year": "NEET 2025"
  },
  {
-  "pdfPage": 3,
-  "question": "Which one of the following is not an inclusion body found in prokaryotes?",
+  "pdfPage": 4,
+  "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
   "options": [
-   "Cyanophycean granule",
-   "Glycogen granule",
-   "Polysome",
-   "Phosphate granule"
+   "Chromatophores",
+   "Cristae",
+   "Endoplasmic Reticulum",
+   "Mesosome"
   ],
-  "answer": 2,
-  "explanation": "Polysomes are translation complexes, not storage granules; the other three are reserve inclusions.",
-  "source": "AIPMT 2015 (testbook.com + NCERT)",
-  "year": "2015"
+  "answer": 3,
+  "explanation": "Mesosome is an infolding of the plasma membrane doing all three listed functions.",
+  "source": "NEET 2025 (questions.collegedunia.com + edurev.in)",
+  "year": "2025"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Ciliated cells moving mucus sit in:",
+  "options": [
+   "Bile duct + bronchioles",
+   "Fallopian + pancreatic duct",
+   "Eustachian + salivary duct",
+   "Bronchioles + fallopian tubes"
+  ],
+  "answer": 3,
+  "explanation": "Motile cilia line airways and oviducts. | Hint: Where must mucus/ova be swept?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 4,
@@ -155,20 +141,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "Ciliated cells moving mucus sit in:",
-  "options": [
-   "Bile duct + bronchioles",
-   "Fallopian + pancreatic duct",
-   "Eustachian + salivary duct",
-   "Bronchioles + fallopian tubes"
-  ],
-  "answer": 3,
-  "explanation": "Motile cilia line airways and oviducts. | Hint: Where must mucus/ova be swept?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 6,
   "question": "Match: crypts/Gisson/islets/Brunner to intestine/liver/pancreas/duodenum:",
   "options": [
    "iii,i,ii,iv",
@@ -208,5 +180,33 @@
   "explanation": "Nissl substance is rough ER with free ribosomes. | Hint: RER by another name?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Tissue-location match:",
+  "options": [
+   "Smooth muscle - intestine wall",
+   "Areolar tissue - tendons",
+   "Transitional epithelium - nose tip",
+   "Cuboidal epithelium - stomach lining"
+  ],
+  "answer": 0,
+  "explanation": "Only smooth muscle in the gut wall pairs correctly. | Hint: Which pairing survives checking?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Which one of the following is not an inclusion body found in prokaryotes?",
+  "options": [
+   "Cyanophycean granule",
+   "Glycogen granule",
+   "Polysome",
+   "Phosphate granule"
+  ],
+  "answer": 2,
+  "explanation": "Polysomes are translation complexes, not storage granules; the other three are reserve inclusions.",
+  "source": "AIPMT 2015 (testbook.com + NCERT)",
+  "year": "2015"
  }
 ]

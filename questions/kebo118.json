@@ -15,20 +15,6 @@
  },
  {
   "pdfPage": 3,
-  "question": "In humans, Alzheimer's disease is associated with the deficiency of",
-  "options": [
-   "dopamine",
-   "acetylcholine",
-   "glutamic acid",
-   "gamma-aminobutyric acid (GABA)"
-  ],
-  "answer": 1,
-  "explanation": "NCERT links Alzheimer's to acetylcholine deficiency.",
-  "source": "byjus.com",
-  "year": "AIPMT 2009"
- },
- {
-  "pdfPage": 3,
   "question": "Myelin sheath is produced by:",
   "options": [
    "Schwann cells and oligodendrocytes",
@@ -57,45 +43,31 @@
  },
  {
   "pdfPage": 3,
-  "question": "The most abundant intracellular cation is",
+  "question": "The 'fovea' in the mammalian eye is the center of the visual field, where",
   "options": [
-   "Ca++",
-   "K+",
-   "Na+",
-   "H+"
+   "more rods than cones are found",
+   "optic nerve leaves the eye",
+   "only rods are present",
+   "high density of cones occur but has no rods"
   ],
-  "answer": 1,
-  "explanation": "Intracellular fluid is rich in K+.",
+  "answer": 3,
+  "explanation": "Fovea: only cones at high density; region of sharpest vision.",
   "source": "byjus.com",
-  "year": "NEET 2013"
+  "year": "AIPMT 2015"
  },
  {
   "pdfPage": 3,
-  "question": "The most abundant intracellular cation:",
+  "question": "When a neuron is in a resting state, i.e., not conducting any impulse, the axonal membrane is",
   "options": [
-   "Ca++",
-   "K+",
-   "Na+",
-   "H+"
+   "impermeable to both Na+ and K+ ions",
+   "equally permeable to both Na+ and K+ ions",
+   "comparatively more permeable to Na+ ions and nearly impermeable to K+ ions",
+   "comparatively more permeable to K+ ions and nearly impermeable to Na+ ions"
   ],
-  "answer": 1,
-  "explanation": "Potassium dominates inside cells; sodium dominates outside. | Hint: Inside or outside: where is potassium king?",
-  "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 6,
-  "question": "Alzheimer disease associates with deficiency of:",
-  "options": [
-   "Dopamine",
-   "Acetylcholine",
-   "Glutamic acid",
-   "GABA"
-  ],
-  "answer": 1,
-  "explanation": "Cholinergic loss (acetylcholine) underlies Alzheimer memory failure. | Hint: Which transmitter fades in Alzheimer?",
-  "source": "NEET NEET 2009 via BYJU'S",
-  "year": "NEET 2009"
+  "answer": 3,
+  "explanation": "Resting membrane: nearly impermeable to Na+, permeable to K+ (potential ~−70 mV).",
+  "source": "byjus.com",
+  "year": "AIPMT 2011"
  },
  {
   "pdfPage": 6,
@@ -113,20 +85,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "Good vision depends on an adequate intake of carotene-rich food. Pick the best option from the following statements: I. Retinal is a light-absorbing part of all the visual photopigments II. Retinal is a derivative of vitamin A III. Vitamin A derivatives are formed from carotene IV. Photopigments are embedded in the membrane discs of the inner segment",
-  "options": [
-   "II, III, IV",
-   "II, III",
-   "I, II",
-   "I, III, IV"
-  ],
-  "answer": 1,
-  "explanation": "Photopigments are in OUTER segment discs (IV false); I, II, III true.",
-  "source": "byjus.com",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
   "question": "Good vision needs carotene-rich food. Best option: I. Retinal is the light-absorbing part of all visual photopigments; II. Retinal derives from vitamin A; III. Vitamin A forms from carotene; IV. Photopigments sit in inner-segment discs.",
   "options": [
    "II, III, IV",
@@ -138,62 +96,6 @@
   "explanation": "I is wrong (only some pigments use retinal the same way is fine but IV is wrong: discs are in the OUTER segment), leaving II and III correct. | Hint: Where exactly are the discs: inner or outer segment?",
   "source": "NEET NEET 2017 via BYJU'S",
   "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
-  "question": "Injury localised to the hypothalamus most likely disrupts:",
-  "options": [
-   "Body temperature regulation",
-   "Short-term memory",
-   "Executive decision making",
-   "Locomotion coordination"
-  ],
-  "answer": 0,
-  "explanation": "Hypothalamus is the thermostat (plus hunger, thirst, hormones). | Hint: Which brain part is the thermostat?",
-  "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
- },
- {
-  "pdfPage": 6,
-  "question": "Pick the correct statement:",
-  "options": [
-   "Meissner corpuscles are thermoreceptors",
-   "Nociceptors sense pressure changes",
-   "Receptors make no graded potentials",
-   "Photoreceptors depolarise in darkness, hyperpolarise in light"
-  ],
-  "answer": 3,
-  "explanation": "Rods/cones are depolarised in the dark and hyperpolarise on illumination. | Hint: What is the dark state of a photoreceptor?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "The 'fovea' in the mammalian eye is the center of the visual field, where",
-  "options": [
-   "more rods than cones are found",
-   "optic nerve leaves the eye",
-   "only rods are present",
-   "high density of cones occur but has no rods"
-  ],
-  "answer": 3,
-  "explanation": "Fovea: only cones at high density; region of sharpest vision.",
-  "source": "byjus.com",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 6,
-  "question": "The fovea, centre of the visual field, has:",
-  "options": [
-   "More rods than cones",
-   "Optic nerve exit",
-   "Only rods",
-   "Dense cones, no rods"
-  ],
-  "answer": 3,
-  "explanation": "Fovea packs cones for sharp colour vision with no rods. | Hint: Sharpest spot needs which photoreceptor?",
-  "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
  },
  {
   "pdfPage": 6,
@@ -225,6 +127,20 @@
  },
  {
   "pdfPage": 7,
+  "question": "Injury localised to the hypothalamus most likely disrupts:",
+  "options": [
+   "Body temperature regulation",
+   "Short-term memory",
+   "Executive decision making",
+   "Locomotion coordination"
+  ],
+  "answer": 0,
+  "explanation": "Hypothalamus is the thermostat (plus hunger, thirst, hormones). | Hint: Which brain part is the thermostat?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014"
+ },
+ {
+  "pdfPage": 7,
   "question": "Injury localized to the hypothalamus would most likely disrupt",
   "options": [
    "regulation of body temperature",
@@ -239,16 +155,100 @@
  },
  {
   "pdfPage": 7,
-  "question": "When a neuron is in a resting state, i.e., not conducting any impulse, the axonal membrane is",
+  "question": "Pick the correct statement:",
   "options": [
-   "impermeable to both Na+ and K+ ions",
-   "equally permeable to both Na+ and K+ ions",
-   "comparatively more permeable to Na+ ions and nearly impermeable to K+ ions",
-   "comparatively more permeable to K+ ions and nearly impermeable to Na+ ions"
+   "Meissner corpuscles are thermoreceptors",
+   "Nociceptors sense pressure changes",
+   "Receptors make no graded potentials",
+   "Photoreceptors depolarise in darkness, hyperpolarise in light"
   ],
   "answer": 3,
-  "explanation": "Resting membrane: nearly impermeable to Na+, permeable to K+ (potential ~−70 mV).",
+  "explanation": "Rods/cones are depolarised in the dark and hyperpolarise on illumination. | Hint: What is the dark state of a photoreceptor?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "The fovea, centre of the visual field, has:",
+  "options": [
+   "More rods than cones",
+   "Optic nerve exit",
+   "Only rods",
+   "Dense cones, no rods"
+  ],
+  "answer": 3,
+  "explanation": "Fovea packs cones for sharp colour vision with no rods. | Hint: Sharpest spot needs which photoreceptor?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015"
+ },
+ {
+  "pdfPage": 8,
+  "question": "Good vision depends on an adequate intake of carotene-rich food. Pick the best option from the following statements: I. Retinal is a light-absorbing part of all the visual photopigments II. Retinal is a derivative of vitamin A III. Vitamin A derivatives are formed from carotene IV. Photopigments are embedded in the membrane discs of the inner segment",
+  "options": [
+   "II, III, IV",
+   "II, III",
+   "I, II",
+   "I, III, IV"
+  ],
+  "answer": 1,
+  "explanation": "Photopigments are in OUTER segment discs (IV false); I, II, III true.",
   "source": "byjus.com",
-  "year": "AIPMT 2011"
+  "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 8,
+  "question": "In humans, Alzheimer's disease is associated with the deficiency of",
+  "options": [
+   "dopamine",
+   "acetylcholine",
+   "glutamic acid",
+   "gamma-aminobutyric acid (GABA)"
+  ],
+  "answer": 1,
+  "explanation": "NCERT links Alzheimer's to acetylcholine deficiency.",
+  "source": "byjus.com",
+  "year": "AIPMT 2009"
+ },
+ {
+  "pdfPage": 9,
+  "question": "Alzheimer disease associates with deficiency of:",
+  "options": [
+   "Dopamine",
+   "Acetylcholine",
+   "Glutamic acid",
+   "GABA"
+  ],
+  "answer": 1,
+  "explanation": "Cholinergic loss (acetylcholine) underlies Alzheimer memory failure. | Hint: Which transmitter fades in Alzheimer?",
+  "source": "NEET NEET 2009 via BYJU'S",
+  "year": "NEET 2009"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The most abundant intracellular cation is",
+  "options": [
+   "Ca++",
+   "K+",
+   "Na+",
+   "H+"
+  ],
+  "answer": 1,
+  "explanation": "Intracellular fluid is rich in K+.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 9,
+  "question": "The most abundant intracellular cation:",
+  "options": [
+   "Ca++",
+   "K+",
+   "Na+",
+   "H+"
+  ],
+  "answer": 1,
+  "explanation": "Potassium dominates inside cells; sodium dominates outside. | Hint: Inside or outside: where is potassium king?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
  }
 ]

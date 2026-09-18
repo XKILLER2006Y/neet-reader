@@ -1,6 +1,6 @@
 [
  {
-  "pdfPage": 5,
+  "pdfPage": 2,
   "question": "According to Robert May, the global species diversity is about",
   "options": [
    "7 million",
@@ -28,20 +28,6 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 5,
-  "question": "The historic Convention on Biological Diversity, 'The Earth Summit' was held in Rio de Janeiro in the year",
-  "options": [
-   "1992",
-   "1986",
-   "2002",
-   "1985"
-  ],
-  "answer": 0,
-  "explanation": "The Earth Summit was held at Rio de Janeiro in 1992.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
   "pdfPage": 6,
   "question": "Red List holds data on:",
   "options": [
@@ -52,34 +38,6 @@
   ],
   "answer": 2,
   "explanation": "IUCN Red List tracks threatened species. | Hint: Threatened or traded?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Which of the following regions of the globe exhibits highest species diversity?",
-  "options": [
-   "Amazon forests",
-   "Madagascar",
-   "Western Ghats of India",
-   "Himalayas"
-  ],
-  "answer": 0,
-  "explanation": "Amazon rain forest has the greatest biodiversity.",
-  "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 7,
-  "question": "Correctly matched:",
-  "options": [
-   "Aerenchyma-Opuntia",
-   "Age pyramid-Biome",
-   "Parthenium-biodiversity threat",
-   "Stratification-Population"
-  ],
-  "answer": 2,
-  "explanation": "Parthenium invasion threatens biodiversity. | Hint: Which is a biodiversity threat?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -112,32 +70,18 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 7,
-  "question": "Which one of the following is not a method of in situ conservation of biodiversity?",
+  "pdfPage": 8,
+  "question": "Correctly matched:",
   "options": [
-   "Botanical Garden",
-   "Sacred Grove",
-   "Biosphere Reserve",
-   "Wildife Sanctuary"
+   "Aerenchyma-Opuntia",
+   "Age pyramid-Biome",
+   "Parthenium-biodiversity threat",
+   "Stratification-Population"
   ],
-  "answer": 0,
-  "explanation": "Botanical gardens are ex situ conservation.",
-  "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 9,
-  "question": "All of the following are included in 'ex-situ conservation' except",
-  "options": [
-   "wildlife safari parks",
-   "sacred groves",
-   "botanical gardens",
-   "seed banks"
-  ],
-  "answer": 1,
-  "explanation": "Sacred groves are in situ conservation.",
-  "source": "examside.com",
-  "year": "NEET 2018"
+  "answer": 2,
+  "explanation": "Parthenium invasion threatens biodiversity. | Hint: Which is a biodiversity threat?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 9,
@@ -152,6 +96,20 @@
   "explanation": "34 hotspots originally identified. | Hint: The classic hotspot number?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "All of the following are included in 'ex-situ conservation' except",
+  "options": [
+   "wildlife safari parks",
+   "sacred groves",
+   "botanical gardens",
+   "seed banks"
+  ],
+  "answer": 1,
+  "explanation": "Sacred groves are in situ conservation.",
+  "source": "examside.com",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 10,
@@ -180,6 +138,20 @@
   "explanation": "Botanical gardens are ex-situ. | Hint: Garden in or out of habitat?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The historic Convention on Biological Diversity, 'The Earth Summit' was held in Rio de Janeiro in the year",
+  "options": [
+   "1992",
+   "1986",
+   "2002",
+   "1985"
+  ],
+  "answer": 0,
+  "explanation": "The Earth Summit was held at Rio de Janeiro in 1992.",
+  "source": "examside.com",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 10,
@@ -236,5 +208,33 @@
   "explanation": "Core zone is strictly protected. | Hint: Strictest zone?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which of the following regions of the globe exhibits highest species diversity?",
+  "options": [
+   "Amazon forests",
+   "Madagascar",
+   "Western Ghats of India",
+   "Himalayas"
+  ],
+  "answer": 0,
+  "explanation": "Amazon rain forest has the greatest biodiversity.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which one of the following is not a method of in situ conservation of biodiversity?",
+  "options": [
+   "Botanical Garden",
+   "Sacred Grove",
+   "Biosphere Reserve",
+   "Wildife Sanctuary"
+  ],
+  "answer": 0,
+  "explanation": "Botanical gardens are ex situ conservation.",
+  "source": "examside.com",
+  "year": "NEET 2019"
  }
 ]

@@ -1,6 +1,6 @@
 [
  {
-  "pdfPage": 6,
+  "pdfPage": 5,
   "question": "Flat green leaf-like stems:",
   "options": [
    "Cladodes",
@@ -57,20 +57,6 @@
  },
  {
   "pdfPage": 9,
-  "question": "Standard petal of papilionaceous corolla is also called:",
-  "options": [
-   "Carina",
-   "Pappus",
-   "Vexillum",
-   "Corona"
-  ],
-  "answer": 2,
-  "explanation": "The large posterior petal (standard) is the vexillum. | Hint: Largest petal of a pea flower?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 9,
   "question": "Ray florets have:",
   "options": [
    "Hypogenous ovary",
@@ -84,16 +70,30 @@
   "year": "NEET 2020"
  },
  {
-  "pdfPage": 10,
-  "question": "Proximal filament end attaches to:",
+  "pdfPage": 9,
+  "question": "Standard petal of papilionaceous corolla is also called:",
   "options": [
-   "Anther",
-   "Connective",
-   "Placenta",
-   "Thalamus or petal"
+   "Carina",
+   "Pappus",
+   "Vexillum",
+   "Corona"
   ],
-  "answer": 3,
-  "explanation": "Filaments arise from thalamus (or petals when epipetalous). | Hint: Where does the stalk start?",
+  "answer": 2,
+  "explanation": "The large posterior petal (standard) is the vexillum. | Hint: Largest petal of a pea flower?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 10,
+  "question": "NOT a stem modification:",
+  "options": [
+   "Nepenthes pitcher",
+   "Citrus thorns",
+   "Cucumber tendrils",
+   "Opuntia pads"
+  ],
+  "answer": 0,
+  "explanation": "The pitcher is a modified leaf lamina; the rest are stems. | Hint: Which one is a leaf trap?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -126,16 +126,16 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 11,
-  "question": "Free-central placentation in:",
+  "pdfPage": 10,
+  "question": "Proximal filament end attaches to:",
   "options": [
-   "Dianthus",
-   "Argemone",
-   "Brassica",
-   "Citrus"
+   "Anther",
+   "Connective",
+   "Placenta",
+   "Thalamus or petal"
   ],
-  "answer": 0,
-  "explanation": "Dianthus/Caryophyllaceae show free-central placentation. | Hint: Pink family placentation?",
+  "answer": 3,
+  "explanation": "Filaments arise from thalamus (or petals when epipetalous). | Hint: Where does the stalk start?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -155,15 +155,15 @@
  },
  {
   "pdfPage": 11,
-  "question": "Tricarpellary syncarpous gynoecium in:",
+  "question": "Free-central placentation in:",
   "options": [
-   "Liliaceae",
-   "Solanaceae",
-   "Fabaceae",
-   "Poaceae"
+   "Dianthus",
+   "Argemone",
+   "Brassica",
+   "Citrus"
   ],
   "answer": 0,
-  "explanation": "Three fused carpels mark Liliaceae. | Hint: Three fused carpels: which family?",
+  "explanation": "Dianthus/Caryophyllaceae show free-central placentation. | Hint: Pink family placentation?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -180,6 +180,20 @@
   "explanation": "Wall-borne ovules define parietal placentation. | Hint: Ovules on the wall?",
   "source": "NEET NEET 2019 via MedicNEET",
   "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 11,
+  "question": "Pneumatophores occur in:",
+  "options": [
+   "Carnivores",
+   "Free floaters",
+   "Halophytes",
+   "Submerged plants"
+  ],
+  "answer": 2,
+  "explanation": "Mangrove breathing roots rise from saline mud. | Hint: Breathing roots of mangroves?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 12,
@@ -224,20 +238,6 @@
   "year": "NEET 2016"
  },
  {
-  "pdfPage": 13,
-  "question": "Pneumatophores occur in:",
-  "options": [
-   "Carnivores",
-   "Free floaters",
-   "Halophytes",
-   "Submerged plants"
-  ],
-  "answer": 2,
-  "explanation": "Mangrove breathing roots rise from saline mud. | Hint: Breathing roots of mangroves?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
   "pdfPage": 15,
   "question": "Sweet potato is a modified:",
   "options": [
@@ -252,16 +252,16 @@
   "year": "NEET 2018"
  },
  {
-  "pdfPage": 15,
-  "question": "NOT a stem modification:",
+  "pdfPage": 16,
+  "question": "Tricarpellary syncarpous gynoecium in:",
   "options": [
-   "Nepenthes pitcher",
-   "Citrus thorns",
-   "Cucumber tendrils",
-   "Opuntia pads"
+   "Liliaceae",
+   "Solanaceae",
+   "Fabaceae",
+   "Poaceae"
   ],
   "answer": 0,
-  "explanation": "The pitcher is a modified leaf lamina; the rest are stems. | Hint: Which one is a leaf trap?",
+  "explanation": "Three fused carpels mark Liliaceae. | Hint: Three fused carpels: which family?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  }

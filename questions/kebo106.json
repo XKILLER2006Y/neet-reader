@@ -1,17 +1,17 @@
 [
  {
   "pdfPage": 2,
-  "question": "Specialised epidermal cells around guard cells:",
+  "question": "Grass-leaf stomata shape:",
   "options": [
-   "Complementary cells",
-   "Subsidiary cells",
-   "Bulliform cells",
-   "Lenticels"
+   "Rectangular",
+   "Kidney",
+   "Dumb-bell",
+   "Barrel"
   ],
-  "answer": 1,
-  "explanation": "Subsidiary cells flank the guard cells. | Hint: Helpers beside guard cells?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "answer": 2,
+  "explanation": "Grasses have dumb-bell guard cells. | Hint: Grass guard-cell shape?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018"
  },
  {
   "pdfPage": 2,
@@ -29,6 +29,20 @@
  },
  {
   "pdfPage": 2,
+  "question": "Specialised epidermal cells around guard cells:",
+  "options": [
+   "Complementary cells",
+   "Subsidiary cells",
+   "Bulliform cells",
+   "Lenticels"
+  ],
+  "answer": 1,
+  "explanation": "Subsidiary cells flank the guard cells. | Hint: Helpers beside guard cells?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 2,
   "question": "Stomatal opening aided by:",
   "options": [
    "Outer-wall contraction",
@@ -42,16 +56,30 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 2,
-  "question": "Grass-leaf stomata shape:",
+  "pdfPage": 3,
+  "question": "Gymnosperm phloem lacks:",
   "options": [
-   "Rectangular",
-   "Kidney",
-   "Dumb-bell",
-   "Barrel"
+   "Albuminous + sieve cells",
+   "Sieve tubes only",
+   "Companion cells only",
+   "Sieve tubes and companions"
   ],
-  "answer": 2,
-  "explanation": "Grasses have dumb-bell guard cells. | Hint: Grass guard-cell shape?",
+  "answer": 3,
+  "explanation": "Gymnosperms keep sieve cells/albuminous cells, never tubes/companions. | Hint: Tubes and companions belong to whom?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 4,
+  "question": "Casparian strips occur in:",
+  "options": [
+   "Cortex",
+   "Pericycle",
+   "Epidermis",
+   "Endodermis"
+  ],
+  "answer": 3,
+  "explanation": "Suberised endodermal walls carry Casparian strips. | Hint: Which layer is waterproofed?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
  },
@@ -71,20 +99,6 @@
  },
  {
   "pdfPage": 4,
-  "question": "Casparian strips occur in:",
-  "options": [
-   "Cortex",
-   "Pericycle",
-   "Epidermis",
-   "Endodermis"
-  ],
-  "answer": 3,
-  "explanation": "Suberised endodermal walls carry Casparian strips. | Hint: Which layer is waterproofed?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 4,
   "question": "Polyarch radial exarch xylem + endodermis + pericycle:",
   "options": [
    "Dicot stem",
@@ -94,90 +108,6 @@
   ],
   "answer": 2,
   "explanation": "Many xylem poles marks monocot root. | Hint: Polyarch means which root?",
-  "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 6,
-  "question": "Gymnosperm phloem lacks:",
-  "options": [
-   "Albuminous + sieve cells",
-   "Sieve tubes only",
-   "Companion cells only",
-   "Sieve tubes and companions"
-  ],
-  "answer": 3,
-  "explanation": "Gymnosperms keep sieve cells/albuminous cells, never tubes/companions. | Hint: Tubes and companions belong to whom?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 6,
-  "question": "INCORRECT statement:",
-  "options": [
-   "Perinuclear space separates nucleus/cytoplasm",
-   "Pores pass proteins/RNA both ways",
-   "Mature sieve elements keep nucleus",
-   "Microbodies in plants and animals"
-  ],
-  "answer": 2,
-  "explanation": "Mature sieve tubes lose their nuclei. | Hint: Which cell works without a nucleus?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 6,
-  "question": "Dicot-root vascular cambium arises from:",
-  "options": [
-   "Tissue below phloem + pericycle above protoxylem",
-   "Cortical region",
-   "Parenchyma between endodermis/pericycle",
-   "Intra/interfascicular ring"
-  ],
-  "answer": 0,
-  "explanation": "The wavy cambium strip starts below phloem plus pericycle patches. | Hint: Where does the root cambium begin?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 6,
-  "question": "Grazed grass regrows mainly via:",
-  "options": [
-   "Lateral meristem",
-   "Apical meristem",
-   "Intercalary meristem",
-   "Secondary meristem"
-  ],
-  "answer": 2,
-  "explanation": "Basal intercalary meristems push new blades up. | Hint: Which meristem sits at grass bases?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 6,
-  "question": "Scattered conjoint closed bundles, no phloem parenchyma:",
-  "options": [
-   "Dicot stem",
-   "Dicot root",
-   "Monocot stem",
-   "Monocot root"
-  ],
-  "answer": 2,
-  "explanation": "Textbook monocot-stem anatomy signature. | Hint: Scattered closed bundles mean which stem?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 6,
-  "question": "Endarch/exarch describe secondary xylem (I, false); exarch is typical of roots (II, true):",
-  "options": [
-   "Both true",
-   "Both not false",
-   "I correct, II false",
-   "I incorrect, II true"
-  ],
-  "answer": 3,
-  "explanation": "Endarch/exarch describe PRIMARY xylem; exarch roots is correct. | Hint: Primary or secondary xylem terms?",
   "source": "NEET NEET 2023 via MedicNEET",
   "year": "NEET 2023"
  },
@@ -196,6 +126,48 @@
   "year": "NEET 2024"
  },
  {
+  "pdfPage": 6,
+  "question": "Dicot-root vascular cambium arises from:",
+  "options": [
+   "Tissue below phloem + pericycle above protoxylem",
+   "Cortical region",
+   "Parenchyma between endodermis/pericycle",
+   "Intra/interfascicular ring"
+  ],
+  "answer": 0,
+  "explanation": "The wavy cambium strip starts below phloem plus pericycle patches. | Hint: Where does the root cambium begin?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Endarch/exarch describe secondary xylem (I, false); exarch is typical of roots (II, true):",
+  "options": [
+   "Both true",
+   "Both not false",
+   "I correct, II false",
+   "I incorrect, II true"
+  ],
+  "answer": 3,
+  "explanation": "Endarch/exarch describe PRIMARY xylem; exarch roots is correct. | Hint: Primary or secondary xylem terms?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 6,
+  "question": "Scattered conjoint closed bundles, no phloem parenchyma:",
+  "options": [
+   "Dicot stem",
+   "Dicot root",
+   "Monocot stem",
+   "Monocot root"
+  ],
+  "answer": 2,
+  "explanation": "Textbook monocot-stem anatomy signature. | Hint: Scattered closed bundles mean which stem?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020"
+ },
+ {
   "pdfPage": 7,
   "question": "Grass leaves curl in drought because of:",
   "options": [
@@ -211,17 +183,31 @@
  },
  {
   "pdfPage": 7,
-  "question": "Match: dividing cells / uniform tissue / mixed tissue / dead thick-walled:",
+  "question": "Grazed grass regrows mainly via:",
   "options": [
-   "Vascular/Meristematic/Sclereids/Simple",
-   "Wrong order variant",
-   "Meristematic/Simple/Vascular/Sclereids",
-   "Wrong order variant"
+   "Lateral meristem",
+   "Apical meristem",
+   "Intercalary meristem",
+   "Secondary meristem"
   ],
   "answer": 2,
-  "explanation": "Meristems divide; simple tissues uniform; vascular mixed; sclereids dead-thick. | Hint: Pair each definition.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "explanation": "Basal intercalary meristems push new blades up. | Hint: Which meristem sits at grass bases?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
+ },
+ {
+  "pdfPage": 7,
+  "question": "INCORRECT statement:",
+  "options": [
+   "Perinuclear space separates nucleus/cytoplasm",
+   "Pores pass proteins/RNA both ways",
+   "Mature sieve elements keep nucleus",
+   "Microbodies in plants and animals"
+  ],
+  "answer": 2,
+  "explanation": "Mature sieve tubes lose their nuclei. | Hint: Which cell works without a nucleus?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019"
  },
  {
   "pdfPage": 7,
@@ -236,6 +222,20 @@
   "explanation": "The two cambia plus cork cambium grow girth; buds and intercalary do not. | Hint: Which grow sideways?",
   "source": "NEET NEET 2023 via MedicNEET",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Match: dividing cells / uniform tissue / mixed tissue / dead thick-walled:",
+  "options": [
+   "Vascular/Meristematic/Sclereids/Simple",
+   "Wrong order variant",
+   "Meristematic/Simple/Vascular/Sclereids",
+   "Wrong order variant"
+  ],
+  "answer": 2,
+  "explanation": "Meristems divide; simple tissues uniform; vascular mixed; sclereids dead-thick. | Hint: Pair each definition.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 8,

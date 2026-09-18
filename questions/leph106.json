@@ -1,6 +1,6 @@
 [
  {
-  "pdfPage": 12,
+  "pdfPage": 2,
   "question": "A 12 V, 60 W lamp is connected to the secondary of a step down transformer, whose primary is connected to ac mains of 220 V. Assuming the transformer to be ideal, what is the current in the primary winding?",
   "options": [
    "2.7 A",
@@ -14,7 +14,21 @@
   "year": "NEET 2023"
  },
  {
-  "pdfPage": 12,
+  "pdfPage": 2,
+  "question": "Sheet before a strong magnetic pole. Force is needed to: A. hold it if magnetic B. hold it if non-magnetic C. move it uniformly away if conducting D. move it uniformly away if non-conducting non-polar.",
+  "options": [
+   "A, C, D only",
+   "C only",
+   "B, D only",
+   "A and C only"
+  ],
+  "answer": 3,
+  "explanation": "Pole attracts magnetic sheet (A ✓); motion of conductor induces eddy currents opposing it (C ✓); B, D feel nothing.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 4,
   "question": "A conducting circular loop of face area 2.5 × 10⁻³ m² is placed perpendicular to a magnetic field which varies as B = 0.5 sin(100πt) T. The magnitude of induced EMF at time t = 0 s is:",
   "options": [
    "0.125π mV",
@@ -24,6 +38,20 @@
   ],
   "answer": 1,
   "explanation": "ε = A×0.5×100π cos(0) = 125×10⁻³π V = 125π mV.",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 8,
+  "question": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic. B. hold the sheet there if it is non-magnetic. C. move the sheet away from the pole with uniform velocity if it is conducting. D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar. Choose the correct statement(s) from the options given below:",
+  "options": [
+   "A and C only",
+   "A, C and D only",
+   "C only",
+   "B and D only"
+  ],
+  "answer": 0,
+  "explanation": "Magnetic sheet attracted (A); conducting sheet → eddy-current drag (C); others no force.",
   "source": "examside.com",
   "year": "NEET 2024"
  },
@@ -85,20 +113,20 @@
  },
  {
   "pdfPage": 14,
-  "question": "A sheet is placed on a horizontal surface in front of a strong magnetic pole. A force is needed to: A. hold the sheet there if it is magnetic. B. hold the sheet there if it is non-magnetic. C. move the sheet away from the pole with uniform velocity if it is conducting. D. move the sheet away from the pole with uniform velocity if it is both, non-conducting and non-polar. Choose the correct statement(s) from the options given below:",
+  "question": "Coaxial coplanar loops R1 ≫ R2, centres coincide. Mutual inductance ∝:",
   "options": [
-   "A and C only",
-   "A, C and D only",
-   "C only",
-   "B and D only"
+   "R1/R2",
+   "R2/R1",
+   "R1²/R2",
+   "R2²/R1"
   ],
-  "answer": 0,
-  "explanation": "Magnetic sheet attracted (A); conducting sheet → eddy-current drag (C); others no force.",
-  "source": "examside.com",
-  "year": "NEET 2024"
+  "answer": 3,
+  "explanation": "Flux through small loop ∝ B_center × area₂ ∝ (1/R1)·R2².",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021"
  },
  {
-  "pdfPage": 14,
+  "pdfPage": 16,
   "question": "The magnetic energy stored in an inductor of inductance 4 μH carrying a current of 2 A is:",
   "options": [
    "4 μJ",
@@ -124,20 +152,6 @@
   "explanation": "ε = Bωr²/2 with r = L/2 → BωL²/8.",
   "source": "examside.com",
   "year": "NEET 2024"
- },
- {
-  "pdfPage": 18,
-  "question": "Coaxial coplanar loops R1 ≫ R2, centres coincide. Mutual inductance ∝:",
-  "options": [
-   "R1/R2",
-   "R2/R1",
-   "R1²/R2",
-   "R2²/R1"
-  ],
-  "answer": 3,
-  "explanation": "Flux through small loop ∝ B_center × area₂ ∝ (1/R1)·R2².",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
  },
  {
   "pdfPage": 18,
@@ -193,20 +207,6 @@
   "answer": 0,
   "explanation": "L = μ₀μr n²Al; ratio = (1/2)² × 2 = 1/2.",
   "source": "examside.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 20,
-  "question": "Sheet before a strong magnetic pole. Force is needed to: A. hold it if magnetic B. hold it if non-magnetic C. move it uniformly away if conducting D. move it uniformly away if non-conducting non-polar.",
-  "options": [
-   "A, C, D only",
-   "C only",
-   "B, D only",
-   "A and C only"
-  ],
-  "answer": 3,
-  "explanation": "Pole attracts magnetic sheet (A ✓); motion of conductor induces eddy currents opposing it (C ✓); B, D feel nothing.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
   "year": "NEET 2024"
  },
  {

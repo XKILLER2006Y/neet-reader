@@ -1,5 +1,33 @@
 [
  {
+  "pdfPage": 4,
+  "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are",
+  "options": [
+   "Ribosomes",
+   "Lysosomes",
+   "Centrosomes",
+   "Mitochondria"
+  ],
+  "answer": 0,
+  "explanation": "Ribosomes (70S prokaryotic, 80S eukaryotic) are non-membrane bound in both.",
+  "source": "examside.com",
+  "year": "NEET 2026"
+ },
+ {
+  "pdfPage": 5,
+  "question": "Eukaryotic telomeres are short repeats rich in:",
+  "options": [
+   "Guanine",
+   "Thymine",
+   "Cytosine",
+   "Adenine"
+  ],
+  "answer": 0,
+  "explanation": "Telomeric repeats (TTAGGG) are G-rich. | Hint: Which base dominates TTAGGG?",
+  "source": "NEET NEET 2004 via BYJU'S",
+  "year": "NEET 2004"
+ },
+ {
   "pdfPage": 7,
   "question": "Pick the INCORRECT statement:",
   "options": [
@@ -56,34 +84,6 @@
   "year": "NEET 1998"
  },
  {
-  "pdfPage": 9,
-  "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are",
-  "options": [
-   "Ribosomes",
-   "Lysosomes",
-   "Centrosomes",
-   "Mitochondria"
-  ],
-  "answer": 0,
-  "explanation": "Ribosomes (70S prokaryotic, 80S eukaryotic) are non-membrane bound in both.",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 9,
-  "question": "Which of the following statements is not correct?",
-  "options": [
-   "Lysosomes are membrane bound structures",
-   "Lysosomes are formed by the process of packaging in the endoplasmic reticulum",
-   "Lysosomes have numerous hydrolytic enzymes",
-   "The hydrolytic enzymes of lysosomes are active under acidic pH"
-  ],
-  "answer": 1,
-  "explanation": "Lysosome packaging is associated with the Golgi apparatus, not the ER.",
-  "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
   "pdfPage": 10,
   "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
   "options": [
@@ -96,6 +96,20 @@
   "explanation": "Mesosome: plasma-membrane extension aiding wall formation, DNA replication, respiration.",
   "source": "examside.com",
   "year": "NEET 2025"
+ },
+ {
+  "pdfPage": 10,
+  "question": "Chemiosmotic ATP synthesis rests on:",
+  "options": [
+   "Proton gradient",
+   "Na+ accumulation",
+   "K+ accumulation",
+   "Membrane potential alone"
+  ],
+  "answer": 0,
+  "explanation": "Mitchell chemiosmosis: proton-motive force drives ATP synthase. | Hint: What gradient powers ATP synthase?",
+  "source": "NEET NEET 2005 via BYJU'S",
+  "year": "NEET 2005"
  },
  {
   "pdfPage": 10,
@@ -126,6 +140,34 @@
   "year": "NEET 2010"
  },
  {
+  "pdfPage": 11,
+  "question": "Given below are two statements: Statement I: Concentrically arranged cisternae of Golgi complex are arranged near the nucleus with distinct convex cis or maturing and concave trans or forming face. Statement II: A number of proteins are modified in the cisternae of Golgi complex before they are released from cis face. In the light of the above statements, choose the correct answer from the options given below.",
+  "options": [
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false"
+  ],
+  "answer": 3,
+  "explanation": "Cis=forming, trans=maturing (I false); proteins released from trans face (II false).",
+  "source": "examside.com",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Which of the following statements is not correct?",
+  "options": [
+   "Lysosomes are membrane bound structures",
+   "Lysosomes are formed by the process of packaging in the endoplasmic reticulum",
+   "Lysosomes have numerous hydrolytic enzymes",
+   "The hydrolytic enzymes of lysosomes are active under acidic pH"
+  ],
+  "answer": 1,
+  "explanation": "Lysosome packaging is associated with the Golgi apparatus, not the ER.",
+  "source": "examside.com",
+  "year": "NEET 2019"
+ },
+ {
   "pdfPage": 13,
   "question": "Cellular totipotency is shown by:",
   "options": [
@@ -138,34 +180,6 @@
   "explanation": "Plant cells retain totipotency (whole plant from one cell). | Hint: Which cells regrow whole organisms?",
   "source": "NEET NEET 2003 via BYJU'S",
   "year": "NEET 2003"
- },
- {
-  "pdfPage": 13,
-  "question": "Chemiosmotic ATP synthesis rests on:",
-  "options": [
-   "Proton gradient",
-   "Na+ accumulation",
-   "K+ accumulation",
-   "Membrane potential alone"
-  ],
-  "answer": 0,
-  "explanation": "Mitchell chemiosmosis: proton-motive force drives ATP synthase. | Hint: What gradient powers ATP synthase?",
-  "source": "NEET NEET 2005 via BYJU'S",
-  "year": "NEET 2005"
- },
- {
-  "pdfPage": 13,
-  "question": "Match List-I with List-II. List-I: (A) Histones, (B) Nucleosome, (C) Euchromatin, (D) Heterochromatin. List-II: (I) Loosely packed chromatin, (II) Densely packed chromatin, (III) Positively charged basic proteins, (IV) DNA wrapped around histone octamer.",
-  "options": [
-   "A-IV, B-III, C-II, D-I",
-   "A-III, B-I, C-IV, D-II",
-   "A-II, B-III, C-IV, D-I",
-   "A-III, B-IV, C-I, D-II"
-  ],
-  "answer": 3,
-  "explanation": "Histones=basic(III), Nucleosome=octamer wrap(IV), Euchromatin=loose(I), Heterochromatin=dense(II).",
-  "source": "examside.com",
-  "year": "NEET 2024"
  },
  {
   "pdfPage": 13,
@@ -183,34 +197,6 @@
  },
  {
   "pdfPage": 15,
-  "question": "Eukaryotic telomeres are short repeats rich in:",
-  "options": [
-   "Guanine",
-   "Thymine",
-   "Cytosine",
-   "Adenine"
-  ],
-  "answer": 0,
-  "explanation": "Telomeric repeats (TTAGGG) are G-rich. | Hint: Which base dominates TTAGGG?",
-  "source": "NEET NEET 2004 via BYJU'S",
-  "year": "NEET 2004"
- },
- {
-  "pdfPage": 15,
-  "question": "Given below are two statements: Statement I: Concentrically arranged cisternae of Golgi complex are arranged near the nucleus with distinct convex cis or maturing and concave trans or forming face. Statement II: A number of proteins are modified in the cisternae of Golgi complex before they are released from cis face. In the light of the above statements, choose the correct answer from the options given below.",
-  "options": [
-   "Statement I is true but Statement II is false",
-   "Statement I is false but Statement II is true",
-   "Both Statement I and Statement II are true",
-   "Both Statement I and Statement II are false"
-  ],
-  "answer": 3,
-  "explanation": "Cis=forming, trans=maturing (I false); proteins released from trans face (II false).",
-  "source": "examside.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 15,
   "question": "INCORRECT cilia statement:",
   "options": [
    "Microtubules are tubulin",
@@ -222,6 +208,20 @@
   "explanation": "Ciliary beating runs on dynein ATPase, not Ca2+ flux control. | Hint: What motor drives ciliary beating?",
   "source": "NEET NEET 2006 via BYJU'S",
   "year": "NEET 2006"
+ },
+ {
+  "pdfPage": 17,
+  "question": "Match List-I with List-II. List-I: (A) Histones, (B) Nucleosome, (C) Euchromatin, (D) Heterochromatin. List-II: (I) Loosely packed chromatin, (II) Densely packed chromatin, (III) Positively charged basic proteins, (IV) DNA wrapped around histone octamer.",
+  "options": [
+   "A-IV, B-III, C-II, D-I",
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-III, C-IV, D-I",
+   "A-III, B-IV, C-I, D-II"
+  ],
+  "answer": 3,
+  "explanation": "Histones=basic(III), Nucleosome=octamer wrap(IV), Euchromatin=loose(I), Heterochromatin=dense(II).",
+  "source": "examside.com",
+  "year": "NEET 2024"
  },
  {
   "pdfPage": 18,

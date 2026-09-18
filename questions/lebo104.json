@@ -14,20 +14,6 @@
   "year": "NEET 2015"
  },
  {
-  "pdfPage": 4,
-  "question": "The main function of mammalian corpus luteum is to produce :",
-  "options": [
-   "Estrogen only",
-   "Progesterone",
-   "Human chorionic gonadotropin",
-   "Relaxin"
-  ],
-  "answer": 1,
-  "explanation": "Corpus luteum mainly secretes progesterone, which maintains the uterine endometrium for pregnancy.",
-  "source": "AIPMT 2014 (askfilo.com + careers360 + vedantu)",
-  "year": "2014"
- },
- {
   "pdfPage": 6,
   "question": "A true breeding plant is:",
   "options": [
@@ -56,17 +42,17 @@
   "year": "NEET 2015"
  },
  {
-  "pdfPage": 6,
-  "question": "The secretory phase in the human menstrual cycle is also called :",
+  "pdfPage": 7,
+  "question": "Signals for parturition originate from :",
   "options": [
-   "Follicular phase lasting for about 6 days",
-   "Luteal phase and lasts for about 13 days",
-   "Follicular phase and lasts for about 13 days",
-   "Luteal phase and lasts for about 6 days"
+   "Fully developed foetus only",
+   "Placenta only",
+   "Placenta as well as fully developed foetus",
+   "Oxytocin released from maternal pituitary"
   ],
-  "answer": 1,
-  "explanation": "Secretory phase = luteal phase (about 13 days, days 15-28), progesterone-driven; follicular phase is the proliferative phase.",
-  "source": "AIPMT 2012 (questions.examside.com + neetprep.com)",
+  "answer": 2,
+  "explanation": "Foetal and placental signals trigger parturition; oxytocin from maternal pituitary acts later as a potent uterotonic amplifier.",
+  "source": "AIPMT 2012 (henryclasses AIPMT paper + studocu)",
   "year": "2012"
  },
  {
@@ -85,31 +71,17 @@
  },
  {
   "pdfPage": 10,
-  "question": "Mutations can be induced with:",
+  "question": "Yellow-seeded red-flowered crossed with green-seeded white-flowered; F1 yellow pink, selfed. Phenotypic categories in F2:",
   "options": [
-   "Gamma radiations",
-   "Infrared radiations",
-   "Ethylene",
-   "IAA (auxin)"
+   "4",
+   "6",
+   "9",
+   "16"
   ],
-  "answer": 0,
-  "explanation": "Ionising gamma rays break DNA and induce mutations; the rest are non-mutagenic. | Hint: Which of these is ionising radiation?",
-  "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
- },
- {
-  "pdfPage": 10,
-  "question": "Signals for parturition originate from :",
-  "options": [
-   "Fully developed foetus only",
-   "Placenta only",
-   "Placenta as well as fully developed foetus",
-   "Oxytocin released from maternal pituitary"
-  ],
-  "answer": 2,
-  "explanation": "Foetal and placental signals trigger parturition; oxytocin from maternal pituitary acts later as a potent uterotonic amplifier.",
-  "source": "AIPMT 2012 (henryclasses AIPMT paper + studocu)",
-  "year": "2012"
+  "answer": 1,
+  "explanation": "Seeds give 2 phenotypes, flowers (incomplete dominance) give 3; 2 x 3 = 6 independent categories. | Hint: Multiply seed phenotypes by flower phenotypes.",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 11,
@@ -126,18 +98,18 @@
   "year": "NEET 2015"
  },
  {
-  "pdfPage": 12,
-  "question": "Yellow-seeded red-flowered crossed with green-seeded white-flowered; F1 yellow pink, selfed. Phenotypic categories in F2:",
+  "pdfPage": 11,
+  "question": "The main function of mammalian corpus luteum is to produce :",
   "options": [
-   "4",
-   "6",
-   "9",
-   "16"
+   "Estrogen only",
+   "Progesterone",
+   "Human chorionic gonadotropin",
+   "Relaxin"
   ],
   "answer": 1,
-  "explanation": "Seeds give 2 phenotypes, flowers (incomplete dominance) give 3; 2 x 3 = 6 independent categories. | Hint: Multiply seed phenotypes by flower phenotypes.",
-  "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "explanation": "Corpus luteum mainly secretes progesterone, which maintains the uterine endometrium for pregnancy.",
+  "source": "AIPMT 2014 (askfilo.com + careers360 + vedantu)",
+  "year": "2014"
  },
  {
   "pdfPage": 17,
@@ -182,6 +154,20 @@
   "year": "NEET 2016"
  },
  {
+  "pdfPage": 22,
+  "question": "Mutations can be induced with:",
+  "options": [
+   "Gamma radiations",
+   "Infrared radiations",
+   "Ethylene",
+   "IAA (auxin)"
+  ],
+  "answer": 0,
+  "explanation": "Ionising gamma rays break DNA and induce mutations; the rest are non-mutagenic. | Hint: Which of these is ionising radiation?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011"
+ },
+ {
   "pdfPage": 24,
   "question": "The INCORRECT statement about haemophilia:",
   "options": [
@@ -208,5 +194,19 @@
   "explanation": "Down syndrome is trisomy 21 from nondisjunction of an autosome; the others are sex-chromosome or gene disorders. | Hint: Which one is an extra autosome?",
   "source": "NEET NEET 2017 via BYJU'S",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 25,
+  "question": "The secretory phase in the human menstrual cycle is also called :",
+  "options": [
+   "Follicular phase lasting for about 6 days",
+   "Luteal phase and lasts for about 13 days",
+   "Follicular phase and lasts for about 13 days",
+   "Luteal phase and lasts for about 6 days"
+  ],
+  "answer": 1,
+  "explanation": "Secretory phase = luteal phase (about 13 days, days 15-28), progesterone-driven; follicular phase is the proliferative phase.",
+  "source": "AIPMT 2012 (questions.examside.com + neetprep.com)",
+  "year": "2012"
  }
 ]

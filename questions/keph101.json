@@ -1,34 +1,6 @@
 [
  {
   "pdfPage": 2,
-  "question": "A screw gauge has least count 0.01 mm and there are 50 divisions in its circular scale. The pitch of the screw gauge is:",
-  "options": [
-   "0.5 mm",
-   "1.0 mm",
-   "0.25 mm",
-   "0.01 mm"
-  ],
-  "answer": 0,
-  "explanation": "Least count = Pitch / Total divisions ⇒ Pitch = LC × divisions = 0.01 mm × 50 = 0.5 mm. | Hint: Pitch = Least count × number of circular divisions.",
-  "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 2,
-  "question": "A student measures the distance traversed in free fall of a body, initially at rest, in a given time. He uses this data to estimate g, the acceleration due to gravity. If the maximum percentage errors in measurement of the distance and the time are e₁ and e₂ respectively, the percentage error in the estimation of g is",
-  "options": [
-   "e₂ - e₁",
-   "e₁ + 2e₂",
-   "e₁ + e₂",
-   "e₁ - 2e₂"
-  ],
-  "answer": 1,
-  "explanation": "g = 2s/t² → Δg/g = e₁ + 2e₂.",
-  "source": "examside.com",
-  "year": "AIPMT 2010"
- },
- {
-  "pdfPage": 2,
   "question": "Taking into account of the significant figures, what is the value of 9.99 m - 0.0099 m?",
   "options": [
    "9.98 m",
@@ -40,20 +12,6 @@
   "explanation": "9.99 − 0.0099 = 9.9801; result limited to 2 decimals (least precise term) → 9.98 m.",
   "source": "examside.com",
   "year": "NEET 2020"
- },
- {
-  "pdfPage": 3,
-  "question": "Errors from unpredictable temperature/voltage fluctuations:",
-  "options": [
-   "Personal",
-   "Least-count",
-   "Random",
-   "Instrumental"
-  ],
-  "answer": 2,
-  "explanation": "Unpredictable → random errors.",
-  "source": "NEET 2023 Code-F3 official paper",
-  "year": "NEET 2023"
  },
  {
   "pdfPage": 3,
@@ -84,60 +42,18 @@
   "year": "NEET 2019"
  },
  {
-  "pdfPage": 4,
-  "question": "P = a³b²/(c√d); errors 1%, 3%, 2%, 4%. Error in P:",
+  "pdfPage": 7,
+  "question": "Errors from unpredictable temperature/voltage fluctuations:",
   "options": [
-   "10%",
-   "2%",
-   "13%",
-   "15%"
+   "Personal",
+   "Least-count",
+   "Random",
+   "Instrumental"
   ],
   "answer": 2,
-  "explanation": "3+6+2+2 = 13%.",
-  "source": "NEET 2025 Code-45 official paper (key derived first-principles)",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 4,
-  "question": "The energy required to break one bond in DNA is 10⁻²⁰ J. This value in eV is nearly :",
-  "options": [
-   "0.6",
-   "0.06",
-   "0.006",
-   "6"
-  ],
-  "answer": 1,
-  "explanation": "10⁻²⁰/1.6×10⁻¹⁹ = 0.0625 ≈ 0.06 eV.",
-  "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 4,
-  "question": "Wire m = (0.4±0.002) g, r = (0.3±0.001) mm, l = (5±0.02) cm. Max % error in density ≈",
-  "options": [
-   "1.3%",
-   "1.6%",
-   "1.4%",
-   "1.2%"
-  ],
-  "answer": 1,
-  "explanation": "0.5 + 2(0.33) + 0.4 ≈ 1.6%.",
+  "explanation": "Unpredictable → random errors.",
   "source": "NEET 2023 Code-F3 official paper",
   "year": "NEET 2023"
- },
- {
-  "pdfPage": 7,
-  "question": "A screw gauge gives the following readings when used to measure the diameter of a wire. Main scale reading : 0 mm. Circular scale reading : 52 divisions. Given that 1 mm on main scale corresponds to 100 divisions on the circular scale. The diameter of the wire from the above data is :",
-  "options": [
-   "0.052 cm",
-   "0.52 cm",
-   "0.026 cm",
-   "0.26 cm"
-  ],
-  "answer": 0,
-  "explanation": "LC = 1 mm/100 = 0.01 mm = 0.001 cm; d = 52 × 0.001 = 0.052 cm.",
-  "source": "examside.com",
-  "year": "NEET 2021"
  },
  {
   "pdfPage": 7,
@@ -154,32 +70,32 @@
   "year": "JEE Main 2023"
  },
  {
-  "pdfPage": 8,
-  "question": "A screw gauge has least count of 0.01 mm and there are 50 divisions in its circular scale. The pitch of the screw gauge is :",
+  "pdfPage": 7,
+  "question": "P = a³b²/(c√d); errors 1%, 3%, 2%, 4%. Error in P:",
   "options": [
-   "0.25 mm",
-   "0.5 mm",
-   "1.0 mm",
-   "0.01 mm"
+   "10%",
+   "2%",
+   "13%",
+   "15%"
   ],
-  "answer": 1,
-  "explanation": "Pitch = LC × 50 = 0.01 × 50 = 0.5 mm.",
-  "source": "examside.com",
-  "year": "NEET 2020"
+  "answer": 2,
+  "explanation": "3+6+2+2 = 13%.",
+  "source": "NEET 2025 Code-45 official paper (key derived first-principles)",
+  "year": "NEET 2025"
  },
  {
-  "pdfPage": 8,
-  "question": "In vernier calipers (N+1) VSD coincide with N MSD; 1 MSD = 0.1 mm. Vernier constant (cm):",
+  "pdfPage": 7,
+  "question": "Wire m = (0.4±0.002) g, r = (0.3±0.001) mm, l = (5±0.02) cm. Max % error in density ≈",
   "options": [
-   "100N",
-   "10(N+1)",
-   "1/(10N)",
-   "1/[100(N+1)]"
+   "1.3%",
+   "1.6%",
+   "1.4%",
+   "1.2%"
   ],
-  "answer": 3,
-  "explanation": "LC = 1MSD−1VSD = 0.1−0.1N/(N+1) = 0.1/(N+1) mm = 1/[100(N+1)] cm.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "answer": 1,
+  "explanation": "0.5 + 2(0.33) + 0.4 ≈ 1.6%.",
+  "source": "NEET 2023 Code-F3 official paper",
+  "year": "NEET 2023"
  },
  {
   "pdfPage": 9,
@@ -211,17 +127,17 @@
  },
  {
   "pdfPage": 9,
-  "question": "The dimensions [M L T⁻² A⁻²] belong to the physical quantity:",
+  "question": "The energy required to break one bond in DNA is 10⁻²⁰ J. This value in eV is nearly :",
   "options": [
-   "Magnetic permeability (μ₀)",
-   "Electric permittivity (ε₀)",
-   "Magnetic flux",
-   "Self inductance"
+   "0.6",
+   "0.06",
+   "0.006",
+   "6"
   ],
-  "answer": 0,
-  "explanation": "F/L = μ₀ I² / (2π d) ⇒ [μ₀] = [F] / [I²] = [M L T⁻² A⁻²]. | Hint: Use force between parallel wires: F/L = μ₀ I² / 2π d.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "answer": 1,
+  "explanation": "10⁻²⁰/1.6×10⁻¹⁹ = 0.0625 ≈ 0.06 eV.",
+  "source": "examside.com",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 10,
@@ -250,5 +166,89 @@
   "explanation": "New mass unit 100 g, volume unit 1000 cm³: 4 g/cm³ = 4000 g/1000 cm³ = 40 new mass units.",
   "source": "examside.com",
   "year": "AIPMT 2011"
+ },
+ {
+  "pdfPage": 10,
+  "question": "The dimensions [M L T⁻² A⁻²] belong to the physical quantity:",
+  "options": [
+   "Magnetic permeability (μ₀)",
+   "Electric permittivity (ε₀)",
+   "Magnetic flux",
+   "Self inductance"
+  ],
+  "answer": 0,
+  "explanation": "F/L = μ₀ I² / (2π d) ⇒ [μ₀] = [F] / [I²] = [M L T⁻² A⁻²]. | Hint: Use force between parallel wires: F/L = μ₀ I² / 2π d.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A screw gauge gives the following readings when used to measure the diameter of a wire. Main scale reading : 0 mm. Circular scale reading : 52 divisions. Given that 1 mm on main scale corresponds to 100 divisions on the circular scale. The diameter of the wire from the above data is :",
+  "options": [
+   "0.052 cm",
+   "0.52 cm",
+   "0.026 cm",
+   "0.26 cm"
+  ],
+  "answer": 0,
+  "explanation": "LC = 1 mm/100 = 0.01 mm = 0.001 cm; d = 52 × 0.001 = 0.052 cm.",
+  "source": "examside.com",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A screw gauge has least count 0.01 mm and there are 50 divisions in its circular scale. The pitch of the screw gauge is:",
+  "options": [
+   "0.5 mm",
+   "1.0 mm",
+   "0.25 mm",
+   "0.01 mm"
+  ],
+  "answer": 0,
+  "explanation": "Least count = Pitch / Total divisions ⇒ Pitch = LC × divisions = 0.01 mm × 50 = 0.5 mm. | Hint: Pitch = Least count × number of circular divisions.",
+  "source": "NEET NEET 2020 via BYJU'S NEET",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A screw gauge has least count of 0.01 mm and there are 50 divisions in its circular scale. The pitch of the screw gauge is :",
+  "options": [
+   "0.25 mm",
+   "0.5 mm",
+   "1.0 mm",
+   "0.01 mm"
+  ],
+  "answer": 1,
+  "explanation": "Pitch = LC × 50 = 0.01 × 50 = 0.5 mm.",
+  "source": "examside.com",
+  "year": "NEET 2020"
+ },
+ {
+  "pdfPage": 11,
+  "question": "A student measures the distance traversed in free fall of a body, initially at rest, in a given time. He uses this data to estimate g, the acceleration due to gravity. If the maximum percentage errors in measurement of the distance and the time are e₁ and e₂ respectively, the percentage error in the estimation of g is",
+  "options": [
+   "e₂ - e₁",
+   "e₁ + 2e₂",
+   "e₁ + e₂",
+   "e₁ - 2e₂"
+  ],
+  "answer": 1,
+  "explanation": "g = 2s/t² → Δg/g = e₁ + 2e₂.",
+  "source": "examside.com",
+  "year": "AIPMT 2010"
+ },
+ {
+  "pdfPage": 11,
+  "question": "In vernier calipers (N+1) VSD coincide with N MSD; 1 MSD = 0.1 mm. Vernier constant (cm):",
+  "options": [
+   "100N",
+   "10(N+1)",
+   "1/(10N)",
+   "1/[100(N+1)]"
+  ],
+  "answer": 3,
+  "explanation": "LC = 1MSD−1VSD = 0.1−0.1N/(N+1) = 0.1/(N+1) mm = 1/[100(N+1)] cm.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
  }
 ]

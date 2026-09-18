@@ -1,5 +1,19 @@
 [
  {
+  "pdfPage": 4,
+  "question": "The H-zone in the skeletal muscle fibers is due to",
+  "options": [
+   "the central gap between myosin filaments in the A-band",
+   "absence of myofibrils in the central portion of A-band",
+   "extension of myosin filaments in the centre portion of the A-band",
+   "central gap between actin filament extending through myosin filaments in the A-band"
+  ],
+  "answer": 3,
+  "explanation": "H-zone = central gap between actin filaments within the A-band.",
+  "source": "byjus.com",
+  "year": "NEET 2013"
+ },
+ {
   "pdfPage": 6,
   "question": "During human muscle contraction:",
   "options": [
@@ -11,6 +25,20 @@
   "answer": 2,
   "explanation": "Filaments slide, not shrink: A-band length is constant while I and H shrink. | Hint: Which band never changes length?",
   "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013"
+ },
+ {
+  "pdfPage": 6,
+  "question": "In humans, during muscle contraction, the",
+  "options": [
+   "actin filaments shorten",
+   "A, I and H bands shorten",
+   "A band remains the same",
+   "sarcomere does not shorten"
+  ],
+  "answer": 2,
+  "explanation": "Sliding filament: sarcomere/I/H shorten, A-band constant.",
+  "source": "byjus.com",
   "year": "NEET 2013"
  },
  {
@@ -43,34 +71,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "No relaxation between successive stimuli in sustained contraction:",
-  "options": [
-   "Fatigue",
-   "Tonus",
-   "Tetanus",
-   "Spasm"
-  ],
-  "answer": 2,
-  "explanation": "Fused sustained contraction without relaxation is tetanus. | Hint: Sustained contraction with no rest has which name?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Pick the correct statement with regards to locomotion in humans",
-  "options": [
-   "Accumulation of uric acid crystals in joints causes their inflammation",
-   "a decreased level of progesterone causes osteoporosis in old people",
-   "joint between adjacent vertebrae is a fibrous joint",
-   "vertebral column has 10 thoracic vertebrae"
-  ],
-  "answer": 0,
-  "explanation": "Gout = joint inflammation from uric acid crystals.",
-  "source": "byjus.com",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 6,
   "question": "The H-zone in skeletal muscle fibres is due to:",
   "options": [
    "Central gap between myosin filaments in A-band",
@@ -85,17 +85,31 @@
  },
  {
   "pdfPage": 6,
-  "question": "This is the correct description of a certain part of a normal human skeleton",
+  "question": "This ion is responsible for unmasking of active sites for myosin or cross-bridge activity during muscle contraction",
   "options": [
-   "Glenoid activity is a depression to which the thigh bone articulates",
-   "first vertebra is axis which articulates with the occipital condyles",
-   "the 9th and 10th pairs of ribs are called the floating ribs",
-   "Parietal bone and the temporal bone of the skull are joined by fibrous joint"
+   "Potassium",
+   "Magnesium",
+   "Calcium",
+   "Sodium"
   ],
-  "answer": 3,
-  "explanation": "Skull flat bones meet at fibrous suture joints.",
+  "answer": 2,
+  "explanation": "Ca2+ binds troponin, shifting tropomyosin to unmask actin sites.",
   "source": "byjus.com",
-  "year": "AIPMT 2010"
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 7,
+  "question": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as",
+  "options": [
+   "fatigue",
+   "tonus",
+   "tetanus",
+   "spasm"
+  ],
+  "answer": 2,
+  "explanation": "Sustained contraction without relaxation = tetanus.",
+  "source": "byjus.com",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 9,
@@ -113,45 +127,17 @@
  },
  {
   "pdfPage": 9,
-  "question": "The H-zone in the skeletal muscle fibers is due to",
+  "question": "This is the correct description of a certain part of a normal human skeleton",
   "options": [
-   "the central gap between myosin filaments in the A-band",
-   "absence of myofibrils in the central portion of A-band",
-   "extension of myosin filaments in the centre portion of the A-band",
-   "central gap between actin filament extending through myosin filaments in the A-band"
+   "Glenoid activity is a depression to which the thigh bone articulates",
+   "first vertebra is axis which articulates with the occipital condyles",
+   "the 9th and 10th pairs of ribs are called the floating ribs",
+   "Parietal bone and the temporal bone of the skull are joined by fibrous joint"
   ],
   "answer": 3,
-  "explanation": "H-zone = central gap between actin filaments within the A-band.",
+  "explanation": "Skull flat bones meet at fibrous suture joints.",
   "source": "byjus.com",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 9,
-  "question": "This ion is responsible for unmasking of active sites for myosin or cross-bridge activity during muscle contraction",
-  "options": [
-   "Potassium",
-   "Magnesium",
-   "Calcium",
-   "Sodium"
-  ],
-  "answer": 2,
-  "explanation": "Ca2+ binds troponin, shifting tropomyosin to unmask actin sites.",
-  "source": "byjus.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 9,
-  "question": "This item gives its correct total number",
-  "options": [
-   "Amino acids found in proteins – 16",
-   "Floating ribs in humans – 4",
-   "Cervical vertebrae in humans – 8",
-   "Types of diabetes- 3"
-  ],
-  "answer": 1,
-  "explanation": "Last two rib pairs (11th, 12th) = 4 floating ribs.",
-  "source": "byjus.com",
-  "year": "AIPMT 2007"
+  "year": "AIPMT 2010"
  },
  {
   "pdfPage": 10,
@@ -168,34 +154,6 @@
   "year": "NEET 2010"
  },
  {
-  "pdfPage": 10,
-  "question": "In humans, during muscle contraction, the",
-  "options": [
-   "actin filaments shorten",
-   "A, I and H bands shorten",
-   "A band remains the same",
-   "sarcomere does not shorten"
-  ],
-  "answer": 2,
-  "explanation": "Sliding filament: sarcomere/I/H shorten, A-band constant.",
-  "source": "byjus.com",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 10,
-  "question": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as",
-  "options": [
-   "fatigue",
-   "tonus",
-   "tetanus",
-   "spasm"
-  ],
-  "answer": 2,
-  "explanation": "Sustained contraction without relaxation = tetanus.",
-  "source": "byjus.com",
-  "year": "NEET 2016"
- },
- {
   "pdfPage": 11,
   "question": "Correct muscular/skeletal disorder statement:",
   "options": [
@@ -208,6 +166,20 @@
   "explanation": "Osteoporosis is exactly age-related bone loss and fracture risk. | Hint: Which definition matches its textbook line?",
   "source": "NEET NEET 2012 via BYJU'S",
   "year": "NEET 2012"
+ },
+ {
+  "pdfPage": 11,
+  "question": "No relaxation between successive stimuli in sustained contraction:",
+  "options": [
+   "Fatigue",
+   "Tonus",
+   "Tetanus",
+   "Spasm"
+  ],
+  "answer": 2,
+  "explanation": "Fused sustained contraction without relaxation is tetanus. | Hint: Sustained contraction with no rest has which name?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 11,
@@ -239,17 +211,17 @@
  },
  {
   "pdfPage": 11,
-  "question": "Stimulation of a muscle fiber by a motor neuron occurs at",
+  "question": "Pick the correct statement with regards to locomotion in humans",
   "options": [
-   "the sarcoplasmic reticulum",
-   "the myofibril",
-   "the transverse tubules",
-   "the neuromuscular junction"
+   "Accumulation of uric acid crystals in joints causes their inflammation",
+   "a decreased level of progesterone causes osteoporosis in old people",
+   "joint between adjacent vertebrae is a fibrous joint",
+   "vertebral column has 10 thoracic vertebrae"
   ],
-  "answer": 3,
-  "explanation": "Motor neuron synapses with sarcolemma at the neuromuscular junction.",
+  "answer": 0,
+  "explanation": "Gout = joint inflammation from uric acid crystals.",
   "source": "byjus.com",
-  "year": "AIPMT 2014"
+  "year": "NEET 2013"
  },
  {
   "pdfPage": 11,
@@ -264,5 +236,33 @@
   "explanation": "Atlas-axis pivot permits rotation and is a synovial joint. | Hint: Which joint class allows rotation?",
   "source": "NEET NEET 2017 via BYJU'S",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 12,
+  "question": "Stimulation of a muscle fiber by a motor neuron occurs at",
+  "options": [
+   "the sarcoplasmic reticulum",
+   "the myofibril",
+   "the transverse tubules",
+   "the neuromuscular junction"
+  ],
+  "answer": 3,
+  "explanation": "Motor neuron synapses with sarcolemma at the neuromuscular junction.",
+  "source": "byjus.com",
+  "year": "AIPMT 2014"
+ },
+ {
+  "pdfPage": 13,
+  "question": "This item gives its correct total number",
+  "options": [
+   "Amino acids found in proteins – 16",
+   "Floating ribs in humans – 4",
+   "Cervical vertebrae in humans – 8",
+   "Types of diabetes- 3"
+  ],
+  "answer": 1,
+  "explanation": "Last two rib pairs (11th, 12th) = 4 floating ribs.",
+  "source": "byjus.com",
+  "year": "AIPMT 2007"
  }
 ]

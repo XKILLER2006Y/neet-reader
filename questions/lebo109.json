@@ -15,20 +15,6 @@
  },
  {
   "pdfPage": 6,
-  "question": "Blunt-end restriction enzyme:",
-  "options": [
-   "Sal I",
-   "EcoRV",
-   "Xho I",
-   "Hind III"
-  ],
-  "answer": 1,
-  "explanation": "EcoRV cuts straight across both strands. | Hint: Which cutter leaves no overhang?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
   "question": "PCR step order:",
   "options": [
    "Denaturation, Extension, Annealing",
@@ -40,6 +26,20 @@
   "explanation": "Melt, prime, then extend. | Hint: Melt, prime, build?",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018"
+ },
+ {
+  "pdfPage": 8,
+  "question": "DNA fragment movement on agarose gel depends on:",
+  "options": [
+   "Smaller moves farther",
+   "Positive fragments move farthest",
+   "Negative fragments stall",
+   "Larger moves farther"
+  ],
+  "answer": 0,
+  "explanation": "Sieving: small fragments slip through pores fastest. | Hint: Size versus speed in a gel?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017"
  },
  {
   "pdfPage": 8,
@@ -70,18 +70,32 @@
   "year": "NEET 2025"
  },
  {
-  "pdfPage": 8,
-  "question": "DNA fragment movement on agarose gel depends on:",
+  "pdfPage": 9,
+  "question": "Blunt-end restriction enzyme:",
   "options": [
-   "Smaller moves farther",
-   "Positive fragments move farthest",
-   "Negative fragments stall",
-   "Larger moves farther"
+   "Sal I",
+   "EcoRV",
+   "Xho I",
+   "Hind III"
   ],
-  "answer": 0,
-  "explanation": "Sieving: small fragments slip through pores fastest. | Hint: Size versus speed in a gel?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "answer": 1,
+  "explanation": "EcoRV cuts straight across both strands. | Hint: Which cutter leaves no overhang?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
+ },
+ {
+  "pdfPage": 9,
+  "question": "NOT a plasmid feature:",
+  "options": [
+   "Independent replication",
+   "Circular structure",
+   "Transferable",
+   "Single-stranded"
+  ],
+  "answer": 3,
+  "explanation": "Plasmids are double-stranded circular DNA. | Hint: Strandedness of plasmids?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  },
  {
   "pdfPage": 10,
@@ -113,34 +127,6 @@
  },
  {
   "pdfPage": 13,
-  "question": "Taq polymerase from:",
-  "options": [
-   "Thermus aquaticus",
-   "Thiobacillus ferroxidans",
-   "Bacillus subtilis",
-   "Pseudomonas putida"
-  ],
-  "answer": 0,
-  "explanation": "Heat-stable Taq comes from the hot-spring bacterium Thermus aquaticus. | Hint: Hot-spring bacterium?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 13,
-  "question": "NOT a plasmid feature:",
-  "options": [
-   "Independent replication",
-   "Circular structure",
-   "Transferable",
-   "Single-stranded"
-  ],
-  "answer": 3,
-  "explanation": "Plasmids are double-stranded circular DNA. | Hint: Strandedness of plasmids?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 13,
   "question": "Gene marking transformed cells:",
   "options": [
    "Selectable marker",
@@ -154,16 +140,16 @@
   "year": "NEET 2017"
  },
  {
-  "pdfPage": 14,
-  "question": "Stirred-tank bioreactors ensure:",
+  "pdfPage": 13,
+  "question": "Taq polymerase from:",
   "options": [
-   "Product purification",
-   "Preservative addition",
-   "Oxygen availability throughout",
-   "Anaerobic conditions"
+   "Thermus aquaticus",
+   "Thiobacillus ferroxidans",
+   "Bacillus subtilis",
+   "Pseudomonas putida"
   ],
-  "answer": 2,
-  "explanation": "Agitation keeps oxygen (and nutrients) uniform. | Hint: What does stirring distribute?",
+  "answer": 0,
+  "explanation": "Heat-stable Taq comes from the hot-spring bacterium Thermus aquaticus. | Hint: Hot-spring bacterium?",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016"
  },
@@ -194,5 +180,19 @@
   "explanation": "Downstream processing purifies the product. | Hint: Upstream makes, downstream purifies?",
   "source": "NEET NEET 2017 via MedicNEET",
   "year": "NEET 2017"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Stirred-tank bioreactors ensure:",
+  "options": [
+   "Product purification",
+   "Preservative addition",
+   "Oxygen availability throughout",
+   "Anaerobic conditions"
+  ],
+  "answer": 2,
+  "explanation": "Agitation keeps oxygen (and nutrients) uniform. | Hint: What does stirring distribute?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016"
  }
 ]

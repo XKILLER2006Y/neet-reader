@@ -1,17 +1,17 @@
 [
  {
-  "pdfPage": 3,
-  "question": "60 MHz EM wave in air along z. Wavelength:",
+  "pdfPage": 2,
+  "question": "Capacitor C on V = V₀sinωt. Displacement current:",
   "options": [
-   "2.5 m",
-   "10 m",
-   "5 m",
-   "2 m"
+   "V₀ωC·cosωt",
+   "V₀/ωC·cosωt",
+   "V₀/ωC·sinωt",
+   "V₀ωC·sinωt"
   ],
-  "answer": 2,
-  "explanation": "λ = c/f = 5 m.",
-  "source": "JEE Main 2024 (1 Feb E) via SATHEE (key derived)",
-  "year": "JEE Main 2024"
+  "answer": 0,
+  "explanation": "Id = C·dV/dt = CV₀ωcosωt.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final",
+  "year": "NEET 2021"
  },
  {
   "pdfPage": 3,
@@ -28,88 +28,18 @@
   "year": "JEE Main 2024"
  },
  {
-  "pdfPage": 3,
-  "question": "The following table presents the part of the electromagnetic spectrum and their corresponding major applications. P. Microwave — I. For purifying the water; Q. UV rays — II. For warming the food; R. Gamma rays — III. For AM and FM communication systems; S. Radio wave — IV. For treating the cancer cells. The correct option is:",
+  "pdfPage": 5,
+  "question": "NOT a property of free-space EM waves:",
   "options": [
-   "P-II, Q-IV, R-III, S-I",
-   "P-I, Q-II, R-III, S-IV",
-   "P-I, Q-IV, R-II, S-III",
-   "P-II, Q-I, R-IV, S-III"
-  ],
-  "answer": 3,
-  "explanation": "Microwave warms food (II); UV purifies water (I); gamma rays treat cancer (IV); radio waves carry AM/FM signals (III) ⇒ P-II, Q-I, R-IV, S-III.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
-  "pdfPage": 4,
-  "question": "An electromagnetic wave travelling in a lossless dielectric medium having a dielectric constant, ε_r = 9, has the electric field, E_x = E₀ sin(kz − 2π×10⁶ t) V m⁻¹ where E₀ is the amplitude and k is the wave vector. Among the following options, the incorrect choice is",
-  "options": [
-   "The direction of propagation of the electromagnetic wave is along +z",
-   "The speed of the electromagnetic wave inside the medium is 10⁸ m s⁻¹",
-   "The wavelength of the electromagnetic wave inside the medium is 300 m",
-   "The magnetic field is given by the relation B_y = (B₀/v) sin(kz − 2π×10⁶ t) where v is the speed of the electromagnetic wave inside the medium"
-  ],
-  "answer": 2,
-  "explanation": "v = c/√ε_r = 3×10⁸/3 = 10⁸ m s⁻¹ and the phase (kz − ωt) gives +z propagation; λ = v/f = 10⁸/10⁶ = 100 m, not 300 m, so the incorrect choice is the wavelength statement.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
-  "pdfPage": 4,
-  "question": "Plane EM wave along x. Valid (E, B) pair (j,k unit vectors):",
-  "options": [
-   "(j+k, j+k)",
-   "(−j+k, −j−k)",
-   "(j+k, −j−k)",
-   "(−j+k, −j+k)"
+   "Speed 1/√(μ₀ε₀)",
+   "Radiated by uniform motion",
+   "Transverse",
+   "Equal E/B energy densities"
   ],
   "answer": 1,
-  "explanation": "E×B must point +x: only (−j+k)×(−j−k) = +2i.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 5,
-  "question": "Capacitor C on V = V₀sinωt. Displacement current:",
-  "options": [
-   "V₀ωC·cosωt",
-   "V₀/ωC·cosωt",
-   "V₀/ωC·sinωt",
-   "V₀ωC·sinωt"
-  ],
-  "answer": 0,
-  "explanation": "Id = C·dV/dt = CV₀ωcosωt.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 5,
-  "question": "Parallel-plate capacitor charged through a resistor; conduction current i. In the gap between plates:",
-  "options": [
-   "Displacement current i, opposite to i",
-   "Displacement current > i, any direction",
-   "No current",
-   "Displacement current i, same direction as i"
-  ],
-  "answer": 3,
-  "explanation": "Maxwell: Id = Ic during charging, continuing the current's direction across the gap.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "explanation": "Uniformly moving charges do not radiate.",
+  "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
   "year": "NEET 2024"
- },
- {
-  "pdfPage": 5,
-  "question": "The electric field in a plane electromagnetic wave is given by E_z = 60 cos(5x + 1.5×10⁹ t) V/m. Then expression for the corresponding magnetic field is (here subscripts denote the direction of the field) :",
-  "options": [
-   "B_z = 60 cos(5x + 1.5×10⁹ t) T",
-   "B_y = 60 sin(5x + 1.5×10⁹ t) T",
-   "B_y = 2×10⁻⁷ cos(5x + 1.5×10⁹ t) T",
-   "B_x = 2×10⁻⁷ cos(5x + 1.5×10⁹ t) T"
-  ],
-  "answer": 2,
-  "explanation": "B₀ = E₀/c = 60/3×10⁸ = 2×10⁻⁷ T; propagation is along −x with E along z, so B must be along +y with the same phase.",
-  "source": "examside.com",
-  "year": "NEET 2025"
  },
  {
   "pdfPage": 6,
@@ -126,32 +56,18 @@
   "year": "NEET 2024 (Re-Examination)"
  },
  {
-  "pdfPage": 6,
-  "question": "NOT a property of free-space EM waves:",
-  "options": [
-   "Speed 1/√(μ₀ε₀)",
-   "Radiated by uniform motion",
-   "Transverse",
-   "Equal E/B energy densities"
-  ],
-  "answer": 1,
-  "explanation": "Uniformly moving charges do not radiate.",
-  "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
-  "year": "NEET 2024"
- },
- {
   "pdfPage": 7,
-  "question": "An electromagnetic wave of frequency 30 MHz passes from vacuum into a dielectric medium of relative permittivity ε_r = 4.0. Then its wavelength in the medium:",
+  "question": "An electromagnetic wave travelling in a lossless dielectric medium having a dielectric constant, ε_r = 9, has the electric field, E_x = E₀ sin(kz − 2π×10⁶ t) V m⁻¹ where E₀ is the amplitude and k is the wave vector. Among the following options, the incorrect choice is",
   "options": [
-   "Halves and frequency remains 30 MHz",
-   "Doubles",
-   "Halves and frequency doubles",
-   "Remains unchanged"
+   "The direction of propagation of the electromagnetic wave is along +z",
+   "The speed of the electromagnetic wave inside the medium is 10⁸ m s⁻¹",
+   "The wavelength of the electromagnetic wave inside the medium is 300 m",
+   "The magnetic field is given by the relation B_y = (B₀/v) sin(kz − 2π×10⁶ t) where v is the speed of the electromagnetic wave inside the medium"
   ],
-  "answer": 0,
-  "explanation": "Refractive index n = √(ε_r) = √4 = 2. Speed v = c/2. Frequency is constant (30 MHz), so wavelength λ' = λ / n = λ / 2 (halves). | Hint: λ' = λ / n with n = √ε_r = 2.",
-  "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
+  "answer": 2,
+  "explanation": "v = c/√ε_r = 3×10⁸/3 = 10⁸ m s⁻¹ and the phase (kz − ωt) gives +z propagation; λ = v/f = 10⁸/10⁶ = 100 m, not 300 m, so the incorrect choice is the wavelength statement.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
  },
  {
   "pdfPage": 7,
@@ -166,6 +82,48 @@
   "explanation": "B₀ = E₀/c = 48/3×10⁸ = 1.6×10⁻⁷ T.",
   "source": "examside.com",
   "year": "NEET 2023"
+ },
+ {
+  "pdfPage": 9,
+  "question": "60 MHz EM wave in air along z. Wavelength:",
+  "options": [
+   "2.5 m",
+   "10 m",
+   "5 m",
+   "2 m"
+  ],
+  "answer": 2,
+  "explanation": "λ = c/f = 5 m.",
+  "source": "JEE Main 2024 (1 Feb E) via SATHEE (key derived)",
+  "year": "JEE Main 2024"
+ },
+ {
+  "pdfPage": 11,
+  "question": "The following table presents the part of the electromagnetic spectrum and their corresponding major applications. P. Microwave — I. For purifying the water; Q. UV rays — II. For warming the food; R. Gamma rays — III. For AM and FM communication systems; S. Radio wave — IV. For treating the cancer cells. The correct option is:",
+  "options": [
+   "P-II, Q-IV, R-III, S-I",
+   "P-I, Q-II, R-III, S-IV",
+   "P-I, Q-IV, R-II, S-III",
+   "P-II, Q-I, R-IV, S-III"
+  ],
+  "answer": 3,
+  "explanation": "Microwave warms food (II); UV purifies water (I); gamma rays treat cancer (IV); radio waves carry AM/FM signals (III) ⇒ P-II, Q-I, R-IV, S-III.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026"
+ },
+ {
+  "pdfPage": 12,
+  "question": "An electromagnetic wave of frequency 30 MHz passes from vacuum into a dielectric medium of relative permittivity ε_r = 4.0. Then its wavelength in the medium:",
+  "options": [
+   "Halves and frequency remains 30 MHz",
+   "Doubles",
+   "Halves and frequency doubles",
+   "Remains unchanged"
+  ],
+  "answer": 0,
+  "explanation": "Refractive index n = √(ε_r) = √4 = 2. Speed v = c/2. Frequency is constant (30 MHz), so wavelength λ' = λ / n = λ / 2 (halves). | Hint: λ' = λ / n with n = √ε_r = 2.",
+  "source": "NEET NEET 2020 via BYJU'S NEET",
+  "year": "NEET 2020"
  },
  {
   "pdfPage": 13,
@@ -194,5 +152,47 @@
   "explanation": "All electromagnetic waves (Radio, IR, Visible, UV, X-rays, Gamma) travel at the exact same speed in vacuum: c = 3 × 10⁸ m/s. Ratio is 1 : 1. | Hint: All EM waves have identical speed c in vacuum.",
   "source": "NEET NEET 2022 via BYJU'S NEET",
   "year": "NEET 2022"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Parallel-plate capacitor charged through a resistor; conduction current i. In the gap between plates:",
+  "options": [
+   "Displacement current i, opposite to i",
+   "Displacement current > i, any direction",
+   "No current",
+   "Displacement current i, same direction as i"
+  ],
+  "answer": 3,
+  "explanation": "Maxwell: Id = Ic during charging, continuing the current's direction across the gap.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024"
+ },
+ {
+  "pdfPage": 14,
+  "question": "Plane EM wave along x. Valid (E, B) pair (j,k unit vectors):",
+  "options": [
+   "(j+k, j+k)",
+   "(−j+k, −j−k)",
+   "(j+k, −j−k)",
+   "(−j+k, −j+k)"
+  ],
+  "answer": 1,
+  "explanation": "E×B must point +x: only (−j+k)×(−j−k) = +2i.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final",
+  "year": "NEET 2021"
+ },
+ {
+  "pdfPage": 14,
+  "question": "The electric field in a plane electromagnetic wave is given by E_z = 60 cos(5x + 1.5×10⁹ t) V/m. Then expression for the corresponding magnetic field is (here subscripts denote the direction of the field) :",
+  "options": [
+   "B_z = 60 cos(5x + 1.5×10⁹ t) T",
+   "B_y = 60 sin(5x + 1.5×10⁹ t) T",
+   "B_y = 2×10⁻⁷ cos(5x + 1.5×10⁹ t) T",
+   "B_x = 2×10⁻⁷ cos(5x + 1.5×10⁹ t) T"
+  ],
+  "answer": 2,
+  "explanation": "B₀ = E₀/c = 60/3×10⁸ = 2×10⁻⁷ T; propagation is along −x with E along z, so B must be along +y with the same phase.",
+  "source": "examside.com",
+  "year": "NEET 2025"
  }
 ]
