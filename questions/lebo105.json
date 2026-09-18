@@ -88,8 +88,8 @@
    "DNA ligase",
    "DNA helicase"
   ],
-  "answer": 3,
-  "explanation": "Helicase unwinds the duplex ahead of polymerase. | Hint: Who unzips the helix?",
+  "answer": 1,
+  "explanation": "NEET 2020 official answer: RNA polymerase facilitates opening of the DNA helix during transcription (it unwinds and opens the helix locally, unlike DNA helicase which acts in replication).",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020",
   "outOfNcert": false,

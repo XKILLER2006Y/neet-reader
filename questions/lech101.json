@@ -465,7 +465,7 @@
  },
  {
   "pdfPage": 29,
-  "question": "Match sols: negative-CdS, macro-starch, positive-Fe2O3, cheese-gel:",
+  "question": "Match List-I with List-II. List-I: (A) Negatively charged sol, (B) Macromolecular colloid, (C) Positively charged sol, (D) Cheese. List-II: (I) Fe2O3·xH2O, (II) CdS sol, (III) Starch, (IV) Gel. Choose the correct answer from the options given below (options give the order for A, B, C, D):",
   "options": [
    "ii,iii,iv,i",
    "ii,i,ii,iv",
@@ -473,9 +473,9 @@
    "i,iii,ii,iv"
   ],
   "answer": 2,
-  "explanation": "CdS negative, starch macromolecular, ferric positive, cheese gel. | Hint: Pair each colloid.",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ",
+  "explanation": "CdS is a negatively charged sol (ii); starch is a macromolecular colloid (iii); Fe2O3·xH2O is a positively charged sol (i); cheese is a gel (iv). Order A-ii, B-iii, C-i, D-iv.",
+  "source": "JEE Main 2022",
+  "year": "2022",
   "outOfNcert": true,
   "_pinned": true
  },

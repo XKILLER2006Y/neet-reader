@@ -161,16 +161,16 @@
  },
  {
   "pdfPage": 16,
-  "question": "If a magnetizing field of 4 A/m produces a magnetic flux density of 8π × 10⁻⁷ T in an iron bar, the relative permeability of iron is:",
+  "question": "A magnetising field of 2 × 10³ A m⁻¹ produces a magnetic flux density of 8π T in an iron rod. The relative permeability of the rod will be:",
   "options": [
-   "500",
-   "1000",
-   "250",
-   "2000"
+   "10²",
+   "1",
+   "10⁴",
+   "10³"
   ],
-  "answer": 0,
-  "explanation": "B = μ H = μ₀ μ_r H ⇒ μ_r = B / (μ₀ H) = (8π × 10⁻⁷) / (4π × 10⁻⁷ × 4) = 2 / 4... wait, (8π × 10⁻⁷) / (4π × 10⁻⁷ × 4) = 2/4 = 0.5. If field was 1600 A/m => standard value is 500. | Hint: μ_r = B / (μ₀ H).",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "answer": 2,
+  "explanation": "μr = B/(μ₀H) = 8π / (4π × 10⁻⁷ × 2 × 10³) = 8/(8 × 10⁻⁴) = 10⁴.",
+  "source": "NCERT Fingertips – Magnetism and Matter (verified: Allen)",
   "year": "NEET 2022",
   "outOfNcert": false,
   "_pinned": true

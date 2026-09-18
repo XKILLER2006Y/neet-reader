@@ -97,16 +97,16 @@
  },
  {
   "pdfPage": 5,
-  "question": "Photons with energy 5 eV are incident on a cathode C in a photoelectric cell. The maximum energy of emitted photoelectrons is 2 eV. When photons of energy 6 eV are incident on C, no photoelectrons will reach the anode A, if the stopping potential of A relative to C is",
+  "question": "Photons with energy 5 eV are incident on a cathode C in a photoelectric cell. The maximum energy of emitted photoelectrons is 2 eV. When photons of energy 6 eV are incident on C, no photoelectrons will reach the anode A, if the stopping potential of A relative to C is:",
   "options": [
    "+3 V",
    "+4 V",
-   "1 V",
-   "3 V"
+   "−1 V",
+   "−3 V"
   ],
-  "answer": 3,
-  "explanation": "φ = 5−2 = 3 eV; with 6 eV photons KE_max = 3 eV → stopping potential 3 V.",
-  "source": "examside.com",
+  "answer": 0,
+  "explanation": "Work function φ = 5 eV − 2 eV = 3 eV. For 6 eV photons, Kmax = 6 − 3 = 3 eV, so the stopping potential needed is 3 V. (NEET 2016 official answer: +3 V.)",
+  "source": "NEET 2016 Phase 2 (verified: Filo/ExamSIDE)",
   "year": "NEET 2016",
   "outOfNcert": false,
   "_pinned": true
