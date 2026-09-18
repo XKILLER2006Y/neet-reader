@@ -193,7 +193,7 @@
  },
  {
   "pdfPage": 20,
-  "question": "An RNA of 999 bases codes 33 amino acids; deleting base 901 shortens it to 998. Codons altered:",
+  "question": "An mRNA is 999 bases long and codes for 333 amino acids. If the base at position 901 is deleted, the length falls to 998 bases. How many codons are altered?",
   "options": [
    "22",
    "11",
@@ -201,7 +201,7 @@
    "33"
   ],
   "answer": 3,
-  "explanation": "The frameshift from codon 301 to the last codon 333 alters 33 codons. | Hint: From which codon does the frame shift, and where does it end?",
+  "explanation": "Deletion of base 901 changes the reading frame from position 901 to the end: 999 - 901 + 1 = 99 bases = 33 codons.",
   "source": "NEET NEET 2017 via BYJU'S",
   "year": "NEET 2017",
   "outOfNcert": false,

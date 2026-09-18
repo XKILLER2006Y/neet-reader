@@ -33,7 +33,7 @@
  },
  {
   "pdfPage": 3,
-  "question": "Correct statements (fragmentation/mineralisation/leaching vs DFC-living/catabolism-earthworm):",
+  "question": "Which of the following statements are correct? A. Fragmentation leads to the breakdown of detritus into smaller particles. B. Mineralisation is the breakdown of detritus, leading to the release of inorganic nutrients. C. Leaching is the process by which water-soluble inorganic nutrients precipitate as unavailable salts in the lower soil horizon. D. The detritus food chain begins with living green plants. E. Earthworms bring about catabolism of detritus. Choose the correct answer from the options given below.",
   "options": [
    "A,B,C only",
    "B,C,D only",
@@ -41,7 +41,7 @@
    "D,E,A only"
   ],
   "answer": 0,
-  "explanation": "D is false (detritus food chain starts with dead matter) and E is false (earthworms fragment). | Hint: Which two statements mislabel processes?",
+  "explanation": "A, B and C correctly describe decomposition steps. D is wrong: the detritus food chain starts with dead organic matter, not living plants. E is wrong: earthworms bring about fragmentation of detritus, not catabolism (catabolism is microbial/decomposers).",
   "source": "NEET NEET 2023 via MedicNEET",
   "year": "NEET 2023",
   "outOfNcert": false,
