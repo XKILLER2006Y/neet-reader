@@ -184,10 +184,10 @@
    "Both (A) and (R) are true and (R) is the correct explanation of (A)",
    "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
   ],
-  "answer": 3,
-  "explanation": "Both statements are correct, but (R) merely describes the cis/trans vesicle traffic and does not explain the packaging function asserted in (A).",
-  "source": "examside.com (NEET 2025)",
-  "year": "2025",
+  "answer": 2,
+  "explanation": "Both A and R are true and R explains A: the Golgi's packaging function is carried out exactly by ER vesicles fusing at the cis face, materials being modified, and being released from the trans face.",
+  "source": "NEET 2025",
+  "year": 2025,
   "outOfNcert": false,
   "_pinned": true
  },

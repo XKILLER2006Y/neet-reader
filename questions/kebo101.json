@@ -241,7 +241,7 @@
  },
  {
   "pdfPage": 9,
-  "question": "Two correct statements (Mayr species; photoperiod; Whittaker binomial; unicellular growth):",
+  "question": "Study the four statements (A-D) given below and select the two correct ones: (A) Definition of biological species was given by Ernst Mayr. (B) Photoperiod does not affect reproduction in plants. (C) Binomial nomenclature system was given by R.H. Whittaker. (D) In unicellular organisms, reproduction is synonymous with growth.",
   "options": [
    "B and C",
    "B and D",
@@ -249,7 +249,7 @@
    "A and B"
   ],
   "answer": 2,
-  "explanation": "Mayr defined species and unicellular growth equals reproduction; the other two misattribute. | Hint: Who defined species, and what equals growth in unicells?",
+  "explanation": "(A) is correct: Mayr gave the biological species concept. (B) is wrong: photoperiod does affect flowering/reproduction in plants. (C) is wrong: binomial nomenclature was given by Linnaeus; Whittaker gave the five-kingdom classification. (D) is correct per NCERT: in unicellular organisms reproduction is synonymous with growth.",
   "source": "NEET NEET 2016 via MedicNEET",
   "year": "NEET 2016",
   "outOfNcert": true,
