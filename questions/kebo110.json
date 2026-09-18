@@ -11,21 +11,25 @@
   "answer": 0,
   "explanation": "G1: metabolically active, grows, no DNA replication.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
-  "question": "DNA stays 4C (from 2C) during (key corrected during verification):",
+  "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
   "options": [
-   "G2 and M",
-   "Only G2",
-   "G1 and S",
-   "G0 and G1"
+   "G1 phase",
+   "S phase",
+   "G2 phase",
+   "M phase"
   ],
   "answer": 0,
-  "explanation": "After S phase the 4C content persists through G2 and M until division. | Hint: When after S phase does content halve?",
-  "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "explanation": "Cells exit G1 to enter G0 quiescent stage.",
+  "source": "examside.com",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +43,25 @@
   "answer": 3,
   "explanation": "Cell cycle: G1 → S → G2 → M.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 3,
+  "question": "What is the main function of the spindle fibers during mitosis?",
+  "options": [
+   "To repair damaged DNA",
+   "To regulate cell growth",
+   "To separate the chromosomes",
+   "To synthesize new DNA"
+  ],
+  "answer": 2,
+  "explanation": "Spindle fibres attach to kinetochores and pull sister chromatids to opposite poles, separating the chromosomes.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -53,7 +75,41 @@
   "answer": 2,
   "explanation": "Synapsis (homologue pairing) happens only in meiosis. | Hint: Which belongs to meiosis?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 4,
+  "question": "Spindle fibres attach to:",
+  "options": [
+   "Kinetochore",
+   "Centromere",
+   "Telomere",
+   "Kinetosome"
+  ],
+  "answer": 0,
+  "explanation": "Microtubules capture chromosomes at kinetochores. | Hint: The attachment pad on chromosomes?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 4,
+  "question": "With respect to metaphase, which of the following statements is incorrect?",
+  "options": [
+   "Chromosomes lie at the equator of the cell",
+   "Complete disintegration of nuclear envelope takes place",
+   "Chromosomes are highly condensed",
+   "Metaphase chromosomes are made up of four sister chromatids held together by centromere"
+  ],
+  "answer": 3,
+  "explanation": "Two sister chromatids per chromosome, not four.",
+  "source": "examside.com",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -67,21 +123,25 @@
   "answer": 1,
   "explanation": "Without APC, securin persists and sister chromatids cannot separate. | Hint: What fails if securin never degrades?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
-  "question": "Some dividing cells exit the cell cycle and enter vegetative inactive stage. This is called quiescent stage (G0). This process occurs at the end of",
+  "question": "DNA stays 4C (from 2C) during (key corrected during verification):",
   "options": [
-   "G1 phase",
-   "S phase",
-   "G2 phase",
-   "M phase"
+   "G2 and M",
+   "Only G2",
+   "G1 and S",
+   "G0 and G1"
   ],
   "answer": 0,
-  "explanation": "Cells exit G1 to enter G0 quiescent stage.",
-  "source": "examside.com",
-  "year": "NEET 2020"
+  "explanation": "After S phase the 4C content persists through G2 and M until division. | Hint: When after S phase does content halve?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -95,7 +155,41 @@
   "answer": 0,
   "explanation": "Diplotene begins with dissolution of synaptonemal complex.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "Given below are two statements:\n\nStatement I : Chromosomes become gradually visible under light microscope during leptotene stage.\n\nStatement II : The beginning of diplotene stage is recognized by dissolution of synaptonemal complex.\n\nIn the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false",
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true"
+  ],
+  "answer": 0,
+  "explanation": "Chromosomes start condensing and become visible in leptotene, and diplotene begins with dissolution of the synaptonemal complex.",
+  "source": "examside.com (NEET 2024)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "Match the following with respect to meiosis. (A) Zygotene, (B) Pachytene, (C) Diplotene, (D) Diakinesis with (i) Terminalization, (ii) Chiasmata, (iii) Crossing over, (iv) Synapsis. Select the correct option from the following.",
+  "options": [
+   "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)",
+   "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
+   "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)",
+   "(A)-(ii), (B)-(iv), (C)-(iii), (D)-(i)"
+  ],
+  "answer": 0,
+  "explanation": "Zygotene=synapsis, Pachytene=crossing over, Diplotene=chiasmata, Diakinesis=terminalisation.",
+  "source": "examside.com",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -109,7 +203,9 @@
   "answer": 0,
   "explanation": "Synapsis, crossing over, terminalisation, then nucleolus loss. | Hint: Pair, exchange, release, dissolve.",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -123,7 +219,9 @@
   "answer": 1,
   "explanation": "Synapsis starts in zygotene. | Hint: Pairing starts where?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -137,21 +235,25 @@
   "answer": 3,
   "explanation": "Crossing-over machinery works in pachytene. | Hint: Crossing over happens in which sub-stage?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "Spindle fibres attach to:",
+  "question": "Recombination between homologous chromosomes is completed by the end of",
   "options": [
-   "Kinetochore",
-   "Centromere",
-   "Telomere",
-   "Kinetosome"
+   "Diakinesis",
+   "Zygotene",
+   "Diplotene",
+   "Pachytene"
   ],
-  "answer": 0,
-  "explanation": "Microtubules capture chromosomes at kinetochores. | Hint: The attachment pad on chromosomes?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "answer": 3,
+  "explanation": "Crossing over (genetic exchange) is completed by the end of pachytene; chiasmata only become visible in diplotene.",
+  "source": "examside.com (NEET 2024 Re-Examination)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -165,7 +267,9 @@
   "answer": 2,
   "explanation": "Recombination nodules mark crossing-over sites (pachytene).",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -179,21 +283,41 @@
   "answer": 3,
   "explanation": "Diplotene (dictyotene) can last months/years in some vertebrate oocytes.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "With respect to metaphase, which of the following statements is incorrect?",
+  "question": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distinctive feature?",
   "options": [
-   "Chromosomes lie at the equator of the cell",
-   "Complete disintegration of nuclear envelope takes place",
-   "Chromosomes are highly condensed",
-   "Metaphase chromosomes are made up of four sister chromatids held together by centromere"
+   "Pachytene",
+   "Leptotene",
+   "Zygotene",
+   "Diakinesis"
   ],
   "answer": 3,
-  "explanation": "Two sister chromatids per chromosome, not four.",
+  "explanation": "Diakinesis: terminalisation of chiasmata completed.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "During which stages of mitosis and meiosis, respectively does the centromere of each chromosome split ?",
+  "options": [
+   "Mataphase, Metaphase II",
+   "Prophase, Telophase I",
+   "Telophase, Anaphase I",
+   "Anaphase, Anaphase II"
+  ],
+  "answer": 3,
+  "explanation": "Centromeres split in anaphase of mitosis and in anaphase II of meiosis, separating the sister chromatids.",
+  "source": "examside.com (NEET 2023 Manipur)",
+  "year": "2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -207,7 +331,25 @@
   "answer": 3,
   "explanation": "Anaphase I disjoins homologues with centromeres intact. | Hint: Reduction happens in which anaphase?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "Given below are two statements:\n\nStatement I: Failure of segregation of chromatids during cell cycle resulting in the gain or loss of whole set of chromosome in an organism is known as aneuploidy.\n\nStatement II: Failure of cytokinesis after anaphase stage of cell division results in the gain or loss of a chromosome is called polyploidy.\n\nIn the light of the above statements, choose the correct answer from the options given below:",
+  "options": [
+   "Statement I is true but Statement II is false",
+   "Statement I is false but Statement II is true",
+   "Both Statement I and Statement II are true",
+   "Both Statement I and Statement II are false"
+  ],
+  "answer": 3,
+  "explanation": "Aneuploidy is gain/loss of one or more chromosomes (not whole sets) and polyploidy is gain of whole sets (not single chromosomes), so both statements misstate the definitions.",
+  "source": "examside.com (NEET 2024 Re-Examination)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -221,35 +363,9 @@
   "answer": 3,
   "explanation": "Crossing over is meiotic; mitosis runs membrane loss, equator, split, segregation. | Hint: Which option sneaks in crossing over?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 10,
-  "question": "Which stage of meiotic prophase shows terminalisation of chiasmata as its distinctive feature?",
-  "options": [
-   "Pachytene",
-   "Leptotene",
-   "Zygotene",
-   "Diakinesis"
-  ],
-  "answer": 3,
-  "explanation": "Diakinesis: terminalisation of chiasmata completed.",
-  "source": "examside.com",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 11,
-  "question": "Match the following with respect to meiosis. (A) Zygotene, (B) Pachytene, (C) Diplotene, (D) Diakinesis with (i) Terminalization, (ii) Chiasmata, (iii) Crossing over, (iv) Synapsis. Select the correct option from the following.",
-  "options": [
-   "(A)-(iv), (B)-(iii), (C)-(ii), (D)-(i)",
-   "(A)-(iii), (B)-(iv), (C)-(i), (D)-(ii)",
-   "(A)-(i), (B)-(ii), (C)-(iv), (D)-(iii)",
-   "(A)-(ii), (B)-(iv), (C)-(iii), (D)-(i)"
-  ],
-  "answer": 0,
-  "explanation": "Zygotene=synapsis, Pachytene=crossing over, Diplotene=chiasmata, Diakinesis=terminalisation.",
-  "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -263,6 +379,8 @@
   "answer": 0,
   "explanation": "Unreplicated DNA holds the G2/M checkpoint. | Hint: Which checkpoint watches replication?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

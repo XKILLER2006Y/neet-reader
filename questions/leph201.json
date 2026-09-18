@@ -1,76 +1,22 @@
 [
  {
-  "pdfPage": 6,
-  "question": "Object 40 cm from concave mirror (f = 15); moved 20 cm closer. Image displacement:",
+  "pdfPage": 1,
+  "question": "Which colour of the light has the longest wavelength?",
   "options": [
-   "30 cm toward",
-   "36 cm away",
-   "30 cm away",
-   "36 cm toward"
+   "Red",
+   "Blue",
+   "Green",
+   "Violet"
   ],
-  "answer": 1,
-  "explanation": "v: −24 → −60 cm: 36 cm farther out.",
-  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "answer": 0,
+  "explanation": "VIBGYOR: red ≈ 620–750 nm, longest visible.",
+  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
-  "question": "A light ray falls on a glass surface of refractive index √3 at Brewster's angle. The angle of refraction is:",
-  "options": [
-   "30°",
-   "60°",
-   "45°",
-   "90°"
-  ],
-  "answer": 0,
-  "explanation": "tan i_B = n = √3 ⇒ i_B = 60°. Since reflected and refracted rays are perpendicular: i_B + r = 90° ⇒ r = 90° - 60° = 30°. | Hint: r = 90° - i_p at Brewster angle.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 11,
-  "question": "In total internal reflection, when the angle of incidence equals the critical angle for the pair of media, the angle of refraction is:",
-  "options": [
-   "180°",
-   "0°",
-   "Equal to angle of incidence",
-   "90°"
-  ],
-  "answer": 3,
-  "explanation": "At the critical angle the refracted ray grazes the boundary — 90° to the normal.",
-  "source": "NEET 2016 Phase 1 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 11,
-  "question": "Media A and B are separated by a plane boundary; light speeds are 1.5×10⁸ m/s and 2.0×10⁸ m/s. The critical angle for a ray going from the denser to the rarer medium is:",
-  "options": [
-   "sin⁻¹(0.500)",
-   "sin⁻¹(0.750)",
-   "tan⁻¹(0.500)",
-   "tan⁻¹(0.750)"
-  ],
-  "answer": 1,
-  "explanation": "sinC = v(denser)/v(rarer) = 1.5/2.0 = 0.750.",
-  "source": "NEET 2022 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 12,
-  "question": "A biconvex lens has radii of curvature 20 cm each. If refractive index of lens material is 1.5, its power in dioptres is:",
-  "options": [
-   "+5.0 D",
-   "+2.5 D",
-   "+10 D",
-   "+20 D"
-  ],
-  "answer": 0,
-  "explanation": "1/f = (1.5 - 1)(1/20 - (-1/20)) = 0.5 × (2/20) = 0.5 / 10 = 1/20 cm⁻¹ ⇒ f = 20 cm = 0.2 m. P = 1/0.2 = +5.0 D. | Hint: 1/f = (n - 1)(2/R) for symmetric biconvex lens.",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 12,
   "question": "A light ray falls on a glass surface (n = √3) at 60°. The angle between the refracted and the reflected rays is:",
   "options": [
    "30°",
@@ -81,21 +27,73 @@
   "answer": 2,
   "explanation": "sin r = sin60°/√3 = 1/2 → r = 30°; 180° − 60° − 30° = 90° (Brewster case).",
   "source": "NEET 2022 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
-  "question": "Light travels x in time t1 in air and 10x in time t2 in a denser medium. Critical angle:",
+  "pdfPage": 10,
+  "question": "In total internal reflection, when the angle of incidence equals the critical angle for the pair of media, the angle of refraction is:",
   "options": [
-   "sin⁻¹(t2/t1)",
-   "sin⁻¹(10t2/t1)",
-   "sin⁻¹(t1/10t2)",
-   "sin⁻¹(10t1/t2)"
+   "180°",
+   "0°",
+   "Equal to angle of incidence",
+   "90°"
   ],
   "answer": 3,
-  "explanation": "n = c/v = t2/10t1 → sinC = 1/n = 10t1/t2.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "explanation": "At the critical angle the refracted ray grazes the boundary — 90° to the normal.",
+  "source": "NEET 2016 Phase 1 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Media A and B are separated by a plane boundary; light speeds are 1.5×10⁸ m/s and 2.0×10⁸ m/s. The critical angle for a ray going from the denser to the rarer medium is:",
+  "options": [
+   "sin⁻¹(0.500)",
+   "sin⁻¹(0.750)",
+   "tan⁻¹(0.500)",
+   "tan⁻¹(0.750)"
+  ],
+  "answer": 1,
+  "explanation": "sinC = v(denser)/v(rarer) = 1.5/2.0 = 0.750.",
+  "source": "NEET 2022 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which of the following is not due to total internal reflection ?",
+  "options": [
+   "Working of optical fibre",
+   "difference between apparent and real depth of a pond",
+   "Mirage on hot summer days",
+   "Brilliance of diamond"
+  ],
+  "answer": 1,
+  "explanation": "Apparent-depth difference arises from refraction (Snell's law), not total internal reflection.",
+  "source": "ExamSIDE.com AIPMT 2011 PYQ + solution; verified by NCERT",
+  "year": "AIPMT 2011 Prelims",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "A light ray falls on a glass surface of refractive index √3 at Brewster's angle. The angle of refraction is:",
+  "options": [
+   "30°",
+   "60°",
+   "45°",
+   "90°"
+  ],
+  "answer": 0,
+  "explanation": "tan i_B = n = √3 ⇒ i_B = 60°. Since reflected and refracted rays are perpendicular: i_B + r = 90° ⇒ r = 90° - 60° = 30°. | Hint: r = 90° - i_p at Brewster angle.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -109,35 +107,25 @@
   "answer": 2,
   "explanation": "1/f = (1.5−1)(1/20+1/20) = 0.05 → f = 20 cm = 0.2 m → P = +5 D.",
   "source": "NEET 2022 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 15,
-  "question": "A convex lens A of focal length 20 cm and a concave lens B of focal length 5 cm share an axis, distance d apart. A parallel beam on A leaves B parallel. The distance d is:",
-  "options": [
-   "50 cm",
-   "30 cm",
-   "25 cm",
-   "15 cm"
-  ],
-  "answer": 3,
-  "explanation": "A focuses the beam 20 cm out; B re-parallelises it only if that focus sits at B's focal point 5 cm beyond B → d = 20 − 5 = 15 cm.",
-  "source": "NEET 2021 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2021"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
-  "question": "Which colour of the light has the longest wavelength?",
+  "question": "A biconvex lens has radii of curvature 20 cm each. If refractive index of lens material is 1.5, its power in dioptres is:",
   "options": [
-   "Red",
-   "Blue",
-   "Green",
-   "Violet"
+   "+5.0 D",
+   "+2.5 D",
+   "+10 D",
+   "+20 D"
   ],
   "answer": 0,
-  "explanation": "VIBGYOR: red ≈ 620–750 nm, longest visible.",
-  "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "explanation": "1/f = (1.5 - 1)(1/20 - (-1/20)) = 0.5 × (2/20) = 0.5 / 10 = 1/20 cm⁻¹ ⇒ f = 20 cm = 0.2 m. P = 1/0.2 = +5.0 D. | Hint: 1/f = (n - 1)(2/R) for symmetric biconvex lens.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -151,21 +139,73 @@
   "answer": 3,
   "explanation": "Powers add (4p); magnifications multiply (m⁴).",
   "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 20,
-  "question": "Object 60 cm from convex lens (f = 30 cm); plane mirror ⟂ axis, 40 cm past the lens. Final image:",
+  "pdfPage": 17,
+  "question": "Two similar thin equi-convex lenses, of focal length f each, are kept coaxially in contact with each other such that the focal length of the combination is F₁. When the space between the two lenses is filled with glycerin (which has the same refractive index (μ = 1.5) as that of glass) then the equivalent focal length is F₂. The ratio F₁ : F₂ will be :",
   "options": [
-   "20 cm from lens, real",
-   "30 cm from lens, real",
-   "30 cm from mirror, virtual",
-   "20 cm from mirror, virtual"
+   "1 : 2",
+   "2 : 3",
+   "3 : 4",
+   "2 : 1"
+  ],
+  "answer": 0,
+  "explanation": "F₁ = f/2. The glycerin layer behaves as a diverging lens of focal length −f, so 1/F₂ = 1/f + 1/f − 1/f ⇒ F₂ = f; hence F₁:F₂ = 1:2.",
+  "source": "ExamSIDE.com NEET 2019 PYQ + solution; verified by derivation",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 24,
+  "question": "Microscope: f_o = 2 cm, f_e = 4 cm, tube 40 cm, D = 25 cm. Magnification:",
+  "options": [
+   "250",
+   "100",
+   "125",
+   "150"
+  ],
+  "answer": 2,
+  "explanation": "M = (L/f_o)(D/f_e) = 20×6.25 = 125 (NTA key).",
+  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 25,
+  "question": "Astronomical telescope wants large-focal-length, large-aperture objective because:",
+  "options": [
+   "Aperture improves image quality",
+   "Large area gathers more light",
+   "Large aperture improves resolution",
+   "All of the above"
   ],
   "answer": 3,
-  "explanation": "Lens images at 60 cm (20 cm behind mirror) → mirror returns it 20 cm in front → virtual, 20 cm from mirror.",
+  "explanation": "Light grasp + resolution + quality all scale with aperture.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 26,
+  "question": "Light travels x in time t1 in air and 10x in time t2 in a denser medium. Critical angle:",
+  "options": [
+   "sin⁻¹(t2/t1)",
+   "sin⁻¹(10t2/t1)",
+   "sin⁻¹(t1/10t2)",
+   "sin⁻¹(10t1/t2)"
+  ],
+  "answer": 3,
+  "explanation": "n = c/v = t2/10t1 → sinC = 1/n = 10t1/t2.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -179,7 +219,25 @@
   "answer": 2,
   "explanation": "Observer's back is to the sun, facing the rain.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 27,
+  "question": "A thin prism having refracting angle 10° is made of glass of refractive index 1.42. This prism is combined with another thin prism of glass of refractive index 1.7. This combination produces dispersion without deviation. The refracting angle of second prism should be",
+  "options": [
+   "6°",
+   "8°",
+   "10°",
+   "4°"
+  ],
+  "answer": 0,
+  "explanation": "No deviation: (μ₁−1)A₁ = (μ₂−1)A₂ ⇒ 0.42×10 = 0.7×A₂ ⇒ A₂ = 6°.",
+  "source": "ExamSIDE.com NEET 2017 PYQ + solution; verified by derivation",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 27,
@@ -193,21 +251,25 @@
   "answer": 3,
   "explanation": "P = 1/0.25 − 1/0.25 = 0 D (infinite focal length).",
   "source": "NEET-pattern lens combination via Allen (key verified first-principles)",
-  "year": "NEET pattern"
+  "year": "NEET pattern",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 28,
-  "question": "Astronomical telescope wants large-focal-length, large-aperture objective because:",
+  "pdfPage": 29,
+  "question": "Object 40 cm from concave mirror (f = 15); moved 20 cm closer. Image displacement:",
   "options": [
-   "Aperture improves image quality",
-   "Large area gathers more light",
-   "Large aperture improves resolution",
-   "All of the above"
+   "30 cm toward",
+   "36 cm away",
+   "30 cm away",
+   "36 cm toward"
   ],
-  "answer": 3,
-  "explanation": "Light grasp + resolution + quality all scale with aperture.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "answer": 1,
+  "explanation": "v: −24 → −60 cm: 36 cm farther out.",
+  "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -221,20 +283,72 @@
   "answer": 0,
   "explanation": "r₂ = 0 → r₁ = A; sin i = μ sin A ≈ μA.",
   "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
-  "question": "Microscope: f_o = 2 cm, f_e = 4 cm, tube 40 cm, D = 25 cm. Magnification:",
+  "question": "An air bubble in a glass slab with refractive index 1.5 (near normal incidence) is 5 cm deep when viewed from one surface and 3 cm deep when viewed from the opposite face. The thickness (in cm) of the slab is",
   "options": [
-   "250",
-   "100",
-   "125",
-   "150"
+   "8",
+   "10",
+   "12",
+   "16"
   ],
   "answer": 2,
-  "explanation": "M = (L/f_o)(D/f_e) = 20×6.25 = 125 (NTA key).",
-  "source": "NEET 2025 Code-47 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2025"
+  "explanation": "Real depths = μ × apparent depths: t = 1.5(5 + 3) = 12 cm.",
+  "source": "ExamSIDE.com NEET 2016 PYQ + solution; verified by derivation",
+  "year": "NEET 2016 Phase 2",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 30,
+  "question": "Object 60 cm from convex lens (f = 30 cm); plane mirror ⟂ axis, 40 cm past the lens. Final image:",
+  "options": [
+   "20 cm from lens, real",
+   "30 cm from lens, real",
+   "30 cm from mirror, virtual",
+   "20 cm from mirror, virtual"
+  ],
+  "answer": 3,
+  "explanation": "Lens images at 60 cm (20 cm behind mirror) → mirror returns it 20 cm in front → virtual, 20 cm from mirror.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 30,
+  "question": "The magnifying power of a telescope is 9. When it is adjusted for parallel rays the distance between the objective and eyepiece is 20 cm. The focal length of lenses are",
+  "options": [
+   "10 cm, 10 cm",
+   "15 cm, 5 cm",
+   "18 cm, 2 cm",
+   "11 cm, 9 cm"
+  ],
+  "answer": 2,
+  "explanation": "fₒ/fₑ = 9 and fₒ + fₑ = 20 cm ⇒ fₒ = 18 cm, fₑ = 2 cm.",
+  "source": "ExamSIDE.com AIPMT 2012 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2012 Prelims",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 31,
+  "question": "A convex lens A of focal length 20 cm and a concave lens B of focal length 5 cm share an axis, distance d apart. A parallel beam on A leaves B parallel. The distance d is:",
+  "options": [
+   "50 cm",
+   "30 cm",
+   "25 cm",
+   "15 cm"
+  ],
+  "answer": 3,
+  "explanation": "A focuses the beam 20 cm out; B re-parallelises it only if that focus sits at B's focal point 5 cm beyond B → d = 20 − 5 = 15 cm.",
+  "source": "NEET 2021 via MedicNEET (key verified first-principles)",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

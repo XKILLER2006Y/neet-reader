@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 3,
-  "question": "Robert May global species diversity estimate:",
-  "options": [
-   "50 million",
-   "7 million",
-   "1.5 million",
-   "20 million"
-  ],
-  "answer": 1,
-  "explanation": "May estimated about 7 million species globally. | Hint: The famous 7-million estimate?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 3,
   "question": "The living organisms can be unexceptionally distinguished from the non-living things on the basis of their ability for",
   "options": [
    "interaction with the environment and progressive evolution",
@@ -25,7 +11,9 @@
   "answer": 0,
   "explanation": "Growth/reproduction/movement are not all-inclusive; interaction with environment (consciousness) + evolution distinguishes living.",
   "source": "examside.com",
-  "year": "AIPMT 2007"
+  "year": "AIPMT 2007",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +27,9 @@
   "answer": 1,
   "explanation": "Equidae is the family, Perissodactyla the order (odd-toed ungulates); Caballus/Ferus are species/subspecies epithets.",
   "source": "NEET 2017 (official stem restored)",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -53,7 +43,9 @@
   "answer": 3,
   "explanation": "Generic name starts with a capital letter, epithet with small. | Hint: Which word gets the capital?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -67,7 +59,9 @@
   "answer": 0,
   "explanation": "Biological names must be Latinised, never in any language. | Hint: Which language rule is absolute?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -81,7 +75,9 @@
   "answer": 1,
   "explanation": "Author citation Linn. follows; epithet stays lowercase. | Hint: Author citation and lowercase epithet?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -95,7 +91,9 @@
   "answer": 2,
   "explanation": "Herbarium=dried sheets(iii), Key=alternate characters(iv), Museum=preserved specimens(i), Catalogue=species list(ii).",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -109,7 +107,9 @@
   "answer": 2,
   "explanation": "Names must be Latinised and italicised — writing in any language is contrary.",
   "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -123,7 +123,9 @@
   "answer": 3,
   "explanation": "NCERT label: date/place, English/local names, family, collector's name — not plant height.",
   "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -137,7 +139,9 @@
   "answer": 0,
   "explanation": "Museums hold preserved specimens, not merely photographs.",
   "source": "examside.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -151,7 +155,9 @@
   "answer": 3,
   "explanation": "NCERT: first word = genus (capital), second = specific epithet (small); D reverses this.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -165,7 +171,9 @@
   "answer": 2,
   "explanation": "Generic name + specific epithet, proposed by Linnaeus. | Hint: Who proposed the two-name system?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -179,7 +187,9 @@
   "answer": 0,
   "explanation": "Family Muscidae, Order Diptera, Class Insecta, Phylum Arthropoda. | Hint: Family Muscidae, order Diptera?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -193,7 +203,9 @@
   "answer": 0,
   "explanation": "Musca domestica → Muscidae; fire fly Lampyridae, grasshopper Acrididae, cockroach Blattidae.",
   "source": "examside.com",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -207,7 +219,25 @@
   "answer": 0,
   "explanation": "Standard descending hierarchy as memorised. | Hint: Recite the ranks top-down.",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "Robert May global species diversity estimate:",
+  "options": [
+   "50 million",
+   "7 million",
+   "1.5 million",
+   "20 million"
+  ],
+  "answer": 1,
+  "explanation": "May estimated about 7 million species globally. | Hint: The famous 7-million estimate?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -221,6 +251,8 @@
   "answer": 2,
   "explanation": "Mayr defined species and unicellular growth equals reproduction; the other two misattribute. | Hint: Who defined species, and what equals growth in unicells?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

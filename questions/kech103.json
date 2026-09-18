@@ -1,62 +1,6 @@
 [
  {
-  "pdfPage": 11,
-  "question": "Ionic radii of N3-, O2-, F- respectively:",
-  "options": [
-   "1.36,1.40,1.71",
-   "1.36,1.71,1.40",
-   "1.71,1.40,1.36",
-   "1.71,1.36,1.40"
-  ],
-  "answer": 2,
-  "explanation": "Isoelectronic series shrinks with nuclear charge: N largest, F smallest. | Hint: Most negative means largest.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 11,
-  "question": "Reactivity down the groups, alkali metals vs halogens:",
-  "options": [
-   "Alkali down, halogen up",
-   "Both down",
-   "Both up",
-   "Alkali up, halogen down"
-  ],
-  "answer": 3,
-  "explanation": "Metals lose electrons easier growing larger; halogens gain harder. | Hint: Losing versus gaining electrons down a group.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 13,
-  "question": "Lu3+ radius nearest (La3+ = 1.06 A, Z 57 -> 71):",
-  "options": [
-   "40 A",
-   "1.06 A",
-   "0.85 A",
-   "1.60 A"
-  ],
-  "answer": 2,
-  "explanation": "Contraction scales roughly 1/Z: 1.06 x 57/71 = 0.85 A. | Hint: Lanthanide contraction shrinks it by roughly 57/71.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 13,
-  "question": "Second IP order of C, N, O, F:",
-  "options": [
-   "O>F>N>C",
-   "O>N>F>C",
-   "C>N>O>F",
-   "F>O>N>C"
-  ],
-  "answer": 0,
-  "explanation": "Removing from O+ breaks a half-filled p3, costing most; C+ loses easiest. | Hint: Which ionised state is half-filled?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 15,
+  "pdfPage": 5,
   "question": "Highest first ionisation energy: Sc, Rb, Na, K:",
   "options": [
    "Sc",
@@ -67,7 +11,41 @@
   "answer": 0,
   "explanation": "Poor d-shielding raises Sc effective charge above the alkali metals. | Hint: d-block contraction effect on ionisation?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Ionic radii of N3-, O2-, F- respectively:",
+  "options": [
+   "1.36,1.40,1.71",
+   "1.36,1.71,1.40",
+   "1.71,1.40,1.36",
+   "1.71,1.36,1.40"
+  ],
+  "answer": 2,
+  "explanation": "Isoelectronic series shrinks with nuclear charge: N largest, F smallest. | Hint: Most negative means largest.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "Reactivity down the groups, alkali metals vs halogens:",
+  "options": [
+   "Alkali down, halogen up",
+   "Both down",
+   "Both up",
+   "Alkali up, halogen down"
+  ],
+  "answer": 3,
+  "explanation": "Metals lose electrons easier growing larger; halogens gain harder. | Hint: Losing versus gaining electrons down a group.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -81,24 +59,28 @@
   "answer": 0,
   "explanation": "Diffuse 4f electrons shield poorly, so rising charge pulls shells in. | Hint: Why does f-block shielding fail?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
-  "question": "Na first IE 5.1 eV. Electron gain enthalpy of Na+:",
+  "pdfPage": 19,
+  "question": "Lanthanide contraction makes equal radii for:",
   "options": [
-   "-2.55 eV",
-   "-5.1 eV",
-   "-10.2 eV",
-   "+2.55 eV"
+   "Zr and Y",
+   "Zr and Nb",
+   "Zr and Hf",
+   "Zr and Zn"
   ],
-  "answer": 1,
-  "explanation": "Adding an electron to Na+ reverses its ionisation: -5.1 eV. | Hint: Reverse the ionisation process exactly.",
+  "answer": 2,
+  "explanation": "Contraction shrinks Hf to Zr size (also Mo/W, Nb/Ta). | Hint: The famous identical pair.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 21,
+  "pdfPage": 20,
   "question": "Amphoteric oxide among CaO, CO2, SiO2, SnO2:",
   "options": [
    "CaO",
@@ -109,24 +91,12 @@
   "answer": 3,
   "explanation": "SnO2 reacts with both acids and bases. | Hint: Spot the amphoteric one.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 21,
-  "question": "Amphoteric oxide among Na2O, SO2, B2O3, ZnO:",
-  "options": [
-   "Na2O",
-   "SO2",
-   "B2O3",
-   "ZnO"
-  ],
-  "answer": 3,
-  "explanation": "ZnO reacts with both acids and bases. | Hint: Which reacts with both HCl and NaOH?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 21,
+  "pdfPage": 20,
   "question": "Be and Al differ in:",
   "options": [
    "Maximum covalency",
@@ -137,7 +107,9 @@
   "answer": 0,
   "explanation": "Diagonal partners share much, but Be caps at covalency 4 while Al reaches 6. | Hint: Which covalency limit differs?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -151,10 +123,28 @@
   "answer": 3,
   "explanation": "Ferric (higher charge) hydrolyses more easily, so the ferrous claim is wrong. | Hint: Higher charge hydrolyses faster.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
+  "question": "Amphoteric oxide among Na2O, SO2, B2O3, ZnO:",
+  "options": [
+   "Na2O",
+   "SO2",
+   "B2O3",
+   "ZnO"
+  ],
+  "answer": 3,
+  "explanation": "ZnO reacts with both acids and bases. | Hint: Which reacts with both HCl and NaOH?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 23,
   "question": "Increasing atomic radii: O, S, Se, As:",
   "options": [
    "As<S<O<Se",
@@ -165,10 +155,12 @@
   "answer": 3,
   "explanation": "Size grows down a group and shrinks across: As sits below and left. | Hint: Down grows, right shrinks.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 22,
+  "pdfPage": 23,
   "question": "Increasing ionic radii: K+, S2-, Ca2+, Cl- (isoelectronic):",
   "options": [
    "K+, S2-, Ca2+, Cl-",
@@ -179,21 +171,9 @@
   "answer": 3,
   "explanation": "More protons pull harder: highest charge smallest. | Hint: Same electrons: most protons wins.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 22,
-  "question": "Lanthanide contraction makes equal radii for:",
-  "options": [
-   "Zr and Y",
-   "Zr and Nb",
-   "Zr and Hf",
-   "Zr and Zn"
-  ],
-  "answer": 2,
-  "explanation": "Contraction shrinks Hf to Zr size (also Mo/W, Nb/Ta). | Hint: The famous identical pair.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -207,6 +187,56 @@
   "answer": 2,
   "explanation": "Polarising power rises with charge density: smallest, most charged wins. | Hint: Charge density decides.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 24,
+  "question": "Lu3+ radius nearest (La3+ = 1.06 A, Z 57 -> 71):",
+  "options": [
+   "40 A",
+   "1.06 A",
+   "0.85 A",
+   "1.60 A"
+  ],
+  "answer": 2,
+  "explanation": "Contraction scales roughly 1/Z: 1.06 x 57/71 = 0.85 A. | Hint: Lanthanide contraction shrinks it by roughly 57/71.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 24,
+  "question": "Second IP order of C, N, O, F:",
+  "options": [
+   "O>F>N>C",
+   "O>N>F>C",
+   "C>N>O>F",
+   "F>O>N>C"
+  ],
+  "answer": 0,
+  "explanation": "Removing from O+ breaks a half-filled p3, costing most; C+ loses easiest. | Hint: Which ionised state is half-filled?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 25,
+  "question": "Na first IE 5.1 eV. Electron gain enthalpy of Na+:",
+  "options": [
+   "-2.55 eV",
+   "-5.1 eV",
+   "-10.2 eV",
+   "+2.55 eV"
+  ],
+  "answer": 1,
+  "explanation": "Adding an electron to Na+ reverses its ionisation: -5.1 eV. | Hint: Reverse the ionisation process exactly.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

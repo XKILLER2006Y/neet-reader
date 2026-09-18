@@ -11,7 +11,9 @@
   "answer": 0,
   "explanation": "The vas deferens receives the duct from the seminal vesicle and opens into the urethra as the ejaculatory duct (I true); the cervical canal plus the vagina constitutes the birth canal (II true). | Hint: Both are straight NCERT anatomy lines — verify each.",
   "source": "NEET NEET 2023 via careers360",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,7 +27,9 @@
   "answer": 0,
   "explanation": "The Fallopian tube (oviduct) has three parts — infundibulum, ampulla and isthmus. The uterine fundus is the dome-shaped top of the uterus, not part of the tube. | Hint: Three of these are regions of the oviduct; one belongs to the uterus.",
   "source": "NEET NEET 2024 via careers360",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,49 +43,9 @@
   "answer": 2,
   "explanation": "The hymen can tear from sports, sudden jolts or tampons, and may persist even after coitus — so it is not a reliable indicator of virginity (I true), and statement II is false. | Hint: Can the hymen break without coitus? Can it survive coitus?",
   "source": "NEET NEET PYQ via careers360",
-  "year": "NEET PYQ"
- },
- {
-  "pdfPage": 6,
-  "question": "Assertion A: FSH acts upon ovarian follicles in females and Leydig cells in males. Reason R: Growing ovarian follicles secrete estrogen in females, while interstitial cells secrete androgen in males.",
-  "options": [
-   "Both A and R are true, and R is the correct explanation of A",
-   "Both A and R are true, but R is NOT the correct explanation of A",
-   "A is true, but R is false",
-   "A is false, but R is true"
-  ],
-  "answer": 3,
-  "explanation": "FSH acts on ovarian follicles in females, but in males it is LH (ICSH) that stimulates the Leydig (interstitial) cells to secrete androgens — so assertion A is false while reason R is true. | Hint: Which hormone acts on Leydig cells — FSH or LH?",
-  "source": "NEET Re-NEET 2024 via careers360",
-  "year": "Re-NEET 2024"
- },
- {
-  "pdfPage": 6,
-  "question": "Identify the correct labels (A), (B), (C), (D) in the diagram of spermatogenesis.",
-  "options": [
-   "FSH; Leydig cells; Sertoli cells; spermiogenesis",
-   "ICSH; Interstitial cells; Leydig cells; spermiogenesis",
-   "FSH; Sertoli cells; Leydig cells; spermatogenesis",
-   "ICSH; Leydig cells; Sertoli cells; spermatogenesis"
-  ],
-  "answer": 0,
-  "explanation": "FSH from the pituitary (A), Leydig cells in the interstitial spaces (B), Sertoli cells inside the seminiferous tubules (C), and spermiogenesis = transformation of spermatids into spermatozoa (D) — all correctly matched only in option 1. | Hint: Check each label: hormone, outside-tubule cells, inside-tubule cells, and the spermatid-to-sperm process.",
-  "source": "NEET NEET 2024 via careers360",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 6,
-  "question": "Spermiation (I) and spermiogenesis (II) statements:",
-  "options": [
-   "Both correct",
-   "Both incorrect",
-   "I correct, II incorrect",
-   "I incorrect, II correct"
-  ],
-  "answer": 2,
-  "explanation": "Spermiation releases sperm; spermiogenesis transforms spermatids (not spermatogonia). | Hint: Release versus transform: which is which?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -95,7 +59,9 @@
   "answer": 2,
   "explanation": "Head carries DNA, middle piece makes energy, acrosome holds enzymes, tail moves. | Hint: Pair each part with its job.",
   "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -109,35 +75,25 @@
   "answer": 1,
   "explanation": "Oogonia enter meiosis in the fetal ovary. | Hint: Before or after birth?",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 8,
-  "question": "First menstruation is called:",
+  "pdfPage": 10,
+  "question": "Assertion A: FSH acts upon ovarian follicles in females and Leydig cells in males. Reason R: Growing ovarian follicles secrete estrogen in females, while interstitial cells secrete androgen in males.",
   "options": [
-   "Diapause",
-   "Ovulation",
-   "Menopause",
-   "Menarche"
+   "Both A and R are true, and R is the correct explanation of A",
+   "Both A and R are true, but R is NOT the correct explanation of A",
+   "A is true, but R is false",
+   "A is false, but R is true"
   ],
   "answer": 3,
-  "explanation": "Menarche is the first menstrual bleed at puberty. | Hint: First bleed at puberty?",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 8,
-  "question": "Which of the following statements are correct regarding the female reproductive cycle? A. In non-primate mammals, cyclical changes during reproduction are called the oestrus cycle. B. The first menstrual cycle begins at puberty and is called menopause. C. Lack of menstruation may be indicative of pregnancy. D. Cyclic menstruation extends between menarche and menopause.",
-  "options": [
-   "A and D only",
-   "A and B only",
-   "A, B and C only",
-   "A, C and D only"
-  ],
-  "answer": 3,
-  "explanation": "A is true (oestrus cycle in non-primates); B is false (first cycle at puberty is menarche, not menopause); C is true (missed period suggests pregnancy); D is true (menstruation spans menarche to menopause). So A, C and D only. | Hint: Spot the wrong term: what is the first cycle at puberty actually called?",
-  "source": "NEET NEET 2023 via careers360",
-  "year": "NEET 2023"
+  "explanation": "FSH acts on ovarian follicles in females, but in males it is LH (ICSH) that stimulates the Leydig (interstitial) cells to secrete androgens — so assertion A is false while reason R is true. | Hint: Which hormone acts on Leydig cells — FSH or LH?",
+  "source": "NEET Re-NEET 2024 via careers360",
+  "year": "Re-NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -151,7 +107,25 @@
   "answer": 1,
   "explanation": "The endometrium is indeed needed for blastocyst implantation, and the corpus luteum's degeneration does shed the endometrium — but that fact does not explain why the endometrium is necessary, so R is not the correct explanation of A. | Hint: Both facts are true — but does the reason explain the assertion?",
   "source": "NEET NEET 2023 via careers360",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "First menstruation is called:",
+  "options": [
+   "Diapause",
+   "Ovulation",
+   "Menopause",
+   "Menarche"
+  ],
+  "answer": 3,
+  "explanation": "Menarche is the first menstrual bleed at puberty. | Hint: First bleed at puberty?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -165,7 +139,25 @@
   "answer": 1,
   "explanation": "ZP3 glycoproteins of the zona pellucida bind sperm. | Hint: Which egg coat meets sperm first?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Which of the following statements are correct regarding the female reproductive cycle? A. In non-primate mammals, cyclical changes during reproduction are called the oestrus cycle. B. The first menstrual cycle begins at puberty and is called menopause. C. Lack of menstruation may be indicative of pregnancy. D. Cyclic menstruation extends between menarche and menopause.",
+  "options": [
+   "A and D only",
+   "A and B only",
+   "A, B and C only",
+   "A, C and D only"
+  ],
+  "answer": 3,
+  "explanation": "A is true (oestrus cycle in non-primates); B is false (first cycle at puberty is menarche, not menopause); C is true (missed period suggests pregnancy); D is true (menstruation spans menarche to menopause). So A, C and D only. | Hint: Spot the wrong term: what is the first cycle at puberty actually called?",
+  "source": "NEET NEET 2023 via careers360",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -179,7 +171,9 @@
   "answer": 3,
   "explanation": "Corpus luteum (and placenta) secrete relaxin late in pregnancy. | Hint: Ovary or placenta: which ovarian structure persists?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -193,7 +187,9 @@
   "answer": 0,
   "explanation": "Doctors recommend early breastfeeding because colostrum is rich in antibodies (IgA) that give the newborn passive immunity — the reason directly explains the recommendation. | Hint: What does colostrum carry that makes the recommendation logical?",
   "source": "NEET NEET 2024 via careers360",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -207,7 +203,9 @@
   "answer": 1,
   "explanation": "Prolactin drives lactation, not parturition initiation. | Hint: Milk or birth: which process uses prolactin?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -221,6 +219,40 @@
   "answer": 3,
   "explanation": "Oogenesis lacks post-meiotic differentiation, runs on fixed fetal stock, and starts embryonically. | Hint: Which three fail for oogenesis?",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Identify the correct labels (A), (B), (C), (D) in the diagram of spermatogenesis.",
+  "options": [
+   "FSH; Leydig cells; Sertoli cells; spermiogenesis",
+   "ICSH; Interstitial cells; Leydig cells; spermiogenesis",
+   "FSH; Sertoli cells; Leydig cells; spermatogenesis",
+   "ICSH; Leydig cells; Sertoli cells; spermatogenesis"
+  ],
+  "answer": 0,
+  "explanation": "FSH from the pituitary (A), Leydig cells in the interstitial spaces (B), Sertoli cells inside the seminiferous tubules (C), and spermiogenesis = transformation of spermatids into spermatozoa (D) — all correctly matched only in option 1. | Hint: Check each label: hormone, outside-tubule cells, inside-tubule cells, and the spermatid-to-sperm process.",
+  "source": "NEET NEET 2024 via careers360",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Spermiation (I) and spermiogenesis (II) statements:",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "Spermiation releases sperm; spermiogenesis transforms spermatids (not spermatogonia). | Hint: Release versus transform: which is which?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

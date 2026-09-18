@@ -11,7 +11,9 @@
   "answer": 1,
   "explanation": "CH3MgCl + acetone → tertiary alkoxide → tert-butyl alcohol.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -25,7 +27,9 @@
   "answer": 3,
   "explanation": "Extensive intermolecular H-bonding (dimer formation).",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -39,7 +43,9 @@
   "answer": 0,
   "explanation": "Dipole-dipole raises bp vs hydrocarbons; no H-bonding lowers it vs alcohols — both correct.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -53,7 +59,9 @@
   "answer": 3,
   "explanation": "Cyanohydrin+HCN, acetal+alcohol, Schiff's base+RNH2, oxime+NH2OH.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -67,7 +75,9 @@
   "answer": 0,
   "explanation": "Hydrazine: nucleophilic addition-elimination → hydrazone + water.",
   "source": "examside.com",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -81,7 +91,9 @@
   "answer": 1,
   "explanation": "CH3CHO has the CH3CO group (positive iodoform); the other does not.",
   "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -95,7 +107,9 @@
   "answer": 1,
   "explanation": "HVZ halogenates the alpha position of carboxylic acids. | Hint: Alpha-halogenation of acids has which name?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -109,21 +123,9 @@
   "answer": 1,
   "explanation": "Formic acid (no donating alkyl group) is strongest, hence lowest pKa. | Hint: Which has no alkyl group to donate?",
   "source": "JEE AIEEE 2005 via BYJU'S",
-  "year": "AIEEE 2005"
- },
- {
-  "pdfPage": 18,
-  "question": "Strongest acid: CH3CH2CH(Cl)COOH, ClCH2CH2CH2COOH, CH3COOH, HCOOH:",
-  "options": [
-   "CH3CH2CH(Cl)COOH",
-   "ClCH2CH2CH2COOH",
-   "CH3COOH",
-   "HCOOH"
-  ],
-  "answer": 0,
-  "explanation": "Alpha-chloro exerts the strongest -I pull being nearest the COOH. | Hint: Closest chlorine wins.",
-  "source": "JEE AIEEE 2011 via BYJU'S",
-  "year": "AIEEE 2011"
+  "year": "AIEEE 2005",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 23,
@@ -137,21 +139,9 @@
   "answer": 0,
   "explanation": "Grignard + CO2 gives carboxylate RCOO⁻MgX⁺, hydrolysed to RCOOH.",
   "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 24,
-  "question": "Increasing acid strength: (i) CH3COOH (ii) MeOCH2COOH (iii) CF3COOH (iv) Me2CHCOOH:",
-  "options": [
-   "ii < iv < i < iii",
-   "iv < i < iii < ii",
-   "iv < i < ii < iii",
-   "i < iv < iii < ii"
-  ],
-  "answer": 2,
-  "explanation": "Withdrawing groups strengthen: CF3 > MeO > H > alkyl branching. | Hint: Rank by withdrawing power.",
-  "source": "JEE AIEEE 2006 via BYJU'S",
-  "year": "AIEEE 2006"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -165,7 +155,9 @@
   "answer": 0,
   "explanation": "-I effect: F > Cl; CF3COOH > CCl3COOH > HCOOH > CH3COOH.",
   "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -179,7 +171,25 @@
   "answer": 2,
   "explanation": "Withdrawing power runs NO2 > CN > F > Cl. | Hint: Rank the electron-withdrawing groups.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 25,
+  "question": "Strongest acid: CH3CH2CH(Cl)COOH, ClCH2CH2CH2COOH, CH3COOH, HCOOH:",
+  "options": [
+   "CH3CH2CH(Cl)COOH",
+   "ClCH2CH2CH2COOH",
+   "CH3COOH",
+   "HCOOH"
+  ],
+  "answer": 0,
+  "explanation": "Alpha-chloro exerts the strongest -I pull being nearest the COOH. | Hint: Closest chlorine wins.",
+  "source": "JEE AIEEE 2011 via BYJU'S",
+  "year": "AIEEE 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -193,7 +203,9 @@
   "answer": 1,
   "explanation": "Open-chain carboxylic acids match CnH2nO2. | Hint: Count oxygens.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -207,7 +219,9 @@
   "answer": 1,
   "explanation": "The foul-smelling product is the isocyanide R-NC. | Hint: Name the stinky product.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -221,7 +235,9 @@
   "answer": 0,
   "explanation": "LiAlH4 reduces the acid to primary alcohol but spares the C=C bond. | Hint: Which group survives LiAlH4?",
   "source": "JEE AIEEE 2003 via BYJU'S",
-  "year": "AIEEE 2003"
+  "year": "AIEEE 2003",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -235,7 +251,9 @@
   "answer": 3,
   "explanation": "Fruity odour means ester formation: the liquid was acetic acid. | Hint: Fruity smell means which functional group formed?",
   "source": "JEE AIEEE 2009 via BYJU'S",
-  "year": "AIEEE 2009"
+  "year": "AIEEE 2009",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -249,7 +267,25 @@
   "answer": 1,
   "explanation": "Ortho effect makes o-nitrobenzoic the strongest of the set. | Hint: Which position supercharges acidity?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 30,
+  "question": "Increasing acid strength: (i) CH3COOH (ii) MeOCH2COOH (iii) CF3COOH (iv) Me2CHCOOH:",
+  "options": [
+   "ii < iv < i < iii",
+   "iv < i < iii < ii",
+   "iv < i < ii < iii",
+   "i < iv < iii < ii"
+  ],
+  "answer": 2,
+  "explanation": "Withdrawing groups strengthen: CF3 > MeO > H > alkyl branching. | Hint: Rank by withdrawing power.",
+  "source": "JEE AIEEE 2006 via BYJU'S",
+  "year": "AIEEE 2006",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -263,7 +299,9 @@
   "answer": 2,
   "explanation": "Benzaldehyde (no α-H) + acetophenone → crossed (Claisen-Schmidt) aldol.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 31,
@@ -277,6 +315,8 @@
   "answer": 0,
   "explanation": "Gabriel→1° amines, Kolbe→salicylic acid, Williamson→ethers, Etard→benzaldehyde.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

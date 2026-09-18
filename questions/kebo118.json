@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 3,
-  "question": "Destruction of the anterior horn cells of the spinal cord would result in loss of",
-  "options": [
-   "voluntary motor impulses",
-   "sensory impulses",
-   "integrating impulses",
-   "commissural impulses"
-  ],
-  "answer": 0,
-  "explanation": "Anterior (ventral) horn houses somatic motor neurons.",
-  "source": "byjus.com",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 3,
   "question": "Myelin sheath is produced by:",
   "options": [
    "Schwann cells and oligodendrocytes",
@@ -25,7 +11,9 @@
   "answer": 0,
   "explanation": "Schwann cells myelinate PNS axons, oligodendrocytes myelinate CNS axons. | Hint: One glial cell per nervous system half.",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +27,9 @@
   "answer": 3,
   "explanation": "Resting potential comes from high K+ permeability via leak channels. | Hint: Which ion leaks at rest?",
   "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
+  "year": "NEET 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -53,7 +43,9 @@
   "answer": 3,
   "explanation": "Fovea: only cones at high density; region of sharpest vision.",
   "source": "byjus.com",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -67,7 +59,9 @@
   "answer": 3,
   "explanation": "Resting membrane: nearly impermeable to Na+, permeable to K+ (potential ~−70 mV).",
   "source": "byjus.com",
-  "year": "AIPMT 2011"
+  "year": "AIPMT 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -81,7 +75,9 @@
   "answer": 3,
   "explanation": "The vestibular apparatus serves balance, not hearing. | Hint: Which ear part handles balance?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -95,7 +91,9 @@
   "answer": 1,
   "explanation": "I is wrong (only some pigments use retinal the same way is fine but IV is wrong: discs are in the OUTER segment), leaving II and III correct. | Hint: Where exactly are the discs: inner or outer segment?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -109,7 +107,9 @@
   "answer": 3,
   "explanation": "Vestibular apparatus governs balance and posture.",
   "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -123,7 +123,25 @@
   "answer": 0,
   "explanation": "Anterior (ventral) horn holds motor neuron cell bodies. | Hint: Motor or sensory: which horn is ventral?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "Destruction of the anterior horn cells of the spinal cord would result in loss of",
+  "options": [
+   "voluntary motor impulses",
+   "sensory impulses",
+   "integrating impulses",
+   "commissural impulses"
+  ],
+  "answer": 0,
+  "explanation": "Anterior (ventral) horn houses somatic motor neurons.",
+  "source": "byjus.com",
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -137,7 +155,9 @@
   "answer": 0,
   "explanation": "Hypothalamus is the thermostat (plus hunger, thirst, hormones). | Hint: Which brain part is the thermostat?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -151,7 +171,9 @@
   "answer": 0,
   "explanation": "Hypothalamus controls body temperature, hunger, thirst.",
   "source": "byjus.com",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -165,7 +187,9 @@
   "answer": 3,
   "explanation": "Rods/cones are depolarised in the dark and hyperpolarise on illumination. | Hint: What is the dark state of a photoreceptor?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -179,7 +203,9 @@
   "answer": 3,
   "explanation": "Fovea packs cones for sharp colour vision with no rods. | Hint: Sharpest spot needs which photoreceptor?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -193,7 +219,9 @@
   "answer": 1,
   "explanation": "Photopigments are in OUTER segment discs (IV false); I, II, III true.",
   "source": "byjus.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -207,7 +235,9 @@
   "answer": 1,
   "explanation": "NCERT links Alzheimer's to acetylcholine deficiency.",
   "source": "byjus.com",
-  "year": "AIPMT 2009"
+  "year": "AIPMT 2009",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -221,7 +251,9 @@
   "answer": 1,
   "explanation": "Cholinergic loss (acetylcholine) underlies Alzheimer memory failure. | Hint: Which transmitter fades in Alzheimer?",
   "source": "NEET NEET 2009 via BYJU'S",
-  "year": "NEET 2009"
+  "year": "NEET 2009",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -235,7 +267,9 @@
   "answer": 1,
   "explanation": "Intracellular fluid is rich in K+.",
   "source": "byjus.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -249,6 +283,8 @@
   "answer": 1,
   "explanation": "Potassium dominates inside cells; sodium dominates outside. | Hint: Inside or outside: where is potassium king?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

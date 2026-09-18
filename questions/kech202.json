@@ -11,7 +11,9 @@
   "answer": 0,
   "explanation": "Carboxylic acids (and esters) match CnH2nO2. | Hint: Count oxygens per formula.",
   "source": "JEE AIEEE 2003 via BYJU'S",
-  "year": "AIEEE 2003"
+  "year": "AIEEE 2003",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -25,7 +27,9 @@
   "answer": 1,
   "explanation": "Removing H+ from HN3 leaves the azide ion N3-. | Hint: Remove one proton from HN3.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -39,7 +43,9 @@
   "answer": 3,
   "explanation": "Gas phase follows pure +I effect with no solvation twist. | Hint: No solvent here: pure inductive order.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -53,7 +59,9 @@
   "answer": 0,
   "explanation": "Acid strength rises with central-atom oxidation state (+7 down to +1). | Hint: Higher oxidation state means stronger oxoacid.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -67,7 +75,9 @@
   "answer": 2,
   "explanation": "Symmetric CCl4 has zero dipole; order is CCl4 < CH3Cl < CH2Cl2 < CHCl3. | Hint: Which molecule is perfectly symmetric?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -81,7 +91,9 @@
   "answer": 1,
   "explanation": "Benzylamine lone pair is not delocalised into any ring, unlike the other three. | Hint: Which nitrogen lone pair avoids resonance?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -95,7 +107,9 @@
   "answer": 2,
   "explanation": "o-Nitrophenol is too weak an acid to react with bicarbonate. | Hint: Which is too weak to liberate CO2?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -109,7 +123,9 @@
   "answer": 1,
   "explanation": "Chiral centres give enantiomers (plus meso form). | Hint: Check for chiral centres.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -123,7 +139,9 @@
   "answer": 2,
   "explanation": "Intramolecular H-bonding hides polar groups from water. | Hint: Which H-bonding keeps water out?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -137,7 +155,9 @@
   "answer": 0,
   "explanation": "Prussian blue ferric ferrocyanide confirms nitrogen. | Hint: Name the famous blue complex.",
   "source": "JEE JEE Main 2024 via BYJU'S",
-  "year": "JEE Main 2024"
+  "year": "JEE Main 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -151,7 +171,9 @@
   "answer": 2,
   "explanation": "Gauche is stabilised by intramolecular H-bonding (gauche effect); eclipse is worst. | Hint: Which form H-bonds internally?",
   "source": "JEE AIEEE 2006 via BYJU'S",
-  "year": "AIEEE 2006"
+  "year": "AIEEE 2006",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 31,
@@ -165,7 +187,9 @@
   "answer": 2,
   "explanation": "Acetonitrile has only sp3 (CH3) and sp (CN) carbons. | Hint: Check hybridisation of each carbon.",
   "source": "JEE AIEEE 2004 via BYJU'S",
-  "year": "AIEEE 2004"
+  "year": "AIEEE 2004",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 36,
@@ -179,7 +203,9 @@
   "answer": 0,
   "explanation": "The unpaired electron makes radicals highly reactive. | Hint: What does an unpaired electron want?",
   "source": "JEE AIEEE 2005 via BYJU'S",
-  "year": "AIEEE 2005"
+  "year": "AIEEE 2005",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 39,
@@ -193,7 +219,9 @@
   "answer": 0,
   "explanation": "Twist boat lacks any plane of symmetry. | Hint: Which form has no mirror plane?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 39,
@@ -207,7 +235,9 @@
   "answer": 0,
   "explanation": "Weaker conjugate acids give stronger bases: alkane > ammonia > acetylene > carboxylic acid. | Hint: Invert the acid-strength order.",
   "source": "JEE AIEEE 2010 via BYJU'S",
-  "year": "AIEEE 2010"
+  "year": "AIEEE 2010",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 39,
@@ -221,6 +251,8 @@
   "answer": 2,
   "explanation": "Aqueous order is secondary > primary > tertiary > aromatic (solvation + sterics). | Hint: Aqueous order differs from gas phase.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

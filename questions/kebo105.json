@@ -1,5 +1,21 @@
 [
  {
+  "pdfPage": 4,
+  "question": "Bougainvillea thorns modify:",
+  "options": [
+   "Stipules",
+   "Adventitious root",
+   "Stem",
+   "Leaf"
+  ],
+  "answer": 2,
+  "explanation": "The sharp structures are stem thorns. | Hint: Thorns in Bougainvillea grow from?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
   "pdfPage": 5,
   "question": "Flat green leaf-like stems:",
   "options": [
@@ -11,21 +27,9 @@
   "answer": 2,
   "explanation": "Opuntia phylloclades photosynthesise like leaves. | Hint: Flattened cactus pads are called?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Bougainvillea thorns modify:",
-  "options": [
-   "Stipules",
-   "Adventitious root",
-   "Stem",
-   "Leaf"
-  ],
-  "answer": 2,
-  "explanation": "The sharp structures are stem thorns. | Hint: Thorns in Bougainvillea grow from?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -39,7 +43,9 @@
   "answer": 0,
   "explanation": "Mustard (Brassicaceae) is actinomorphic; the rest are zygomorphic. | Hint: Which family has regular flowers?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -53,7 +59,9 @@
   "answer": 1,
   "explanation": "Fabaceae/Caesalpinioideae blooms are zygomorphic; mustard is actinomorphic. | Hint: Which family has irregular flowers?",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -67,21 +75,9 @@
   "answer": 2,
   "explanation": "Asteraceae ray florets sit in inferior ovaries. | Hint: Composite flowers: ovary position?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 9,
-  "question": "Standard petal of papilionaceous corolla is also called:",
-  "options": [
-   "Carina",
-   "Pappus",
-   "Vexillum",
-   "Corona"
-  ],
-  "answer": 2,
-  "explanation": "The large posterior petal (standard) is the vexillum. | Hint: Largest petal of a pea flower?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -95,7 +91,9 @@
   "answer": 0,
   "explanation": "The pitcher is a modified leaf lamina; the rest are stems. | Hint: Which one is a leaf trap?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,7 +107,9 @@
   "answer": 1,
   "explanation": "Posterior standard (vexillum), lateral wings, anterior keel. | Hint: Top, sides, boat: which order?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,7 +123,9 @@
   "answer": 1,
   "explanation": "Polyadelphous stamens unite into many bundles: androecium. | Hint: Bundles of stamens belong where?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -137,7 +139,25 @@
   "answer": 3,
   "explanation": "Filaments arise from thalamus (or petals when epipetalous). | Hint: Where does the stalk start?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Standard petal of papilionaceous corolla is also called:",
+  "options": [
+   "Carina",
+   "Pappus",
+   "Vexillum",
+   "Corona"
+  ],
+  "answer": 2,
+  "explanation": "The large posterior petal (standard) is the vexillum. | Hint: Largest petal of a pea flower?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -151,7 +171,9 @@
   "answer": 3,
   "explanation": "Malvaceae, Solanaceae and Rutaceae show axile placentation. | Hint: Which trio is all axile?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -165,7 +187,9 @@
   "answer": 0,
   "explanation": "Dianthus/Caryophyllaceae show free-central placentation. | Hint: Pink family placentation?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -179,7 +203,9 @@
   "answer": 2,
   "explanation": "Wall-borne ovules define parietal placentation. | Hint: Ovules on the wall?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -193,21 +219,9 @@
   "answer": 2,
   "explanation": "Mangrove breathing roots rise from saline mud. | Hint: Breathing roots of mangroves?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 12,
-  "question": "Botanically, the coconut fruit is classified as a:",
-  "options": [
-   "Drupe",
-   "Berry",
-   "Nut",
-   "Capsule"
-  ],
-  "answer": 0,
-  "explanation": "A drupe is a one-seeded fruit with a stony endocarp — coconut has a hard endocarp (shell) enclosing the seed, mesocarp fibrous and epicarp thin.",
-  "source": "NEET 2017 (official stem restored)",
-  "year": "NEET 2017"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -221,7 +235,9 @@
   "answer": 2,
   "explanation": "Coconut meat is endosperm. | Hint: What is coconut flesh?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -235,7 +251,25 @@
   "answer": 3,
   "explanation": "The single shield-shaped cotyledon is the scutellum. | Hint: Shield-shaped maize cotyledon?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Botanically, the coconut fruit is classified as a:",
+  "options": [
+   "Drupe",
+   "Berry",
+   "Nut",
+   "Capsule"
+  ],
+  "answer": 0,
+  "explanation": "A drupe is a one-seeded fruit with a stony endocarp — coconut has a hard endocarp (shell) enclosing the seed, mesocarp fibrous and epicarp thin.",
+  "source": "NEET 2017 (official stem restored)",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -249,7 +283,9 @@
   "answer": 1,
   "explanation": "Sweet potato swells from adventitious roots. | Hint: Root tuber or stem tuber?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -263,6 +299,8 @@
   "answer": 0,
   "explanation": "Three fused carpels mark Liliaceae. | Hint: Three fused carpels: which family?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

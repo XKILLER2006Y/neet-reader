@@ -11,7 +11,9 @@
   "answer": 1,
   "explanation": "Downstream processing = separation and purification of the expressed product before marketing.",
   "source": "NEET 2017 (neetprep.com + biogyan facebook + nextgurukul NEET 2017 paper)",
-  "year": "2017"
+  "year": "2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -25,7 +27,9 @@
   "answer": 1,
   "explanation": "Asthma is an allergic airway response mediated by mast cells. | Hint: Allergy cells in airways?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,7 +43,25 @@
   "answer": 3,
   "explanation": "Salmonella typhi confirmed by Widal test. | Hint: Classic pair?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "Match List I with List II:\n\nA. Typhoid  I. Fungus\nB. Leishmaniasis  II. Nematode\nC. Ringworm  III. Protozoa\nD. Filariasis  IV. Bacteria\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-I, B-III, C-II, D-IV",
+   "A-IV, B-III, C-I, D-II",
+   "A-III, B-I, C-IV, D-II",
+   "A-II, B-IV, C-III, D-I"
+  ],
+  "answer": 1,
+  "explanation": "Typhoid=Salmonella (bacteria), Leishmaniasis=Leishmania (protozoa), Ringworm=fungi, Filariasis=Wuchereria (nematode).",
+  "source": "examside.com (NEET 2024)",
+  "year": "2024",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -53,7 +75,41 @@
   "answer": 2,
   "explanation": "Wuchereria blocks lymphatics: elephantiasis. | Hint: Filarial worm blocks what?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "Which of the following type of immunity is present at the time of birth and is a non-specific type of defence in the human body?",
+  "options": [
+   "Cell-mediated Immunity",
+   "Humoral Immunity",
+   "Acquired Immunity",
+   "Innate Immunity"
+  ],
+  "answer": 3,
+  "explanation": "Innate immunity is the non-specific defence present at birth (barriers, inflammation), unlike acquired (specific, memory-based) immunity.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "Kidney graft rejection responsibility:",
+  "options": [
+   "Auto-immune",
+   "Humoral",
+   "Inflammatory",
+   "Cell-mediated"
+  ],
+  "answer": 3,
+  "explanation": "T cells mediate transplant rejection. | Hint: Same arm as Q on grafts above?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -67,7 +123,9 @@
   "answer": 3,
   "explanation": "Oral polio vaccine uses weakened live virus. | Hint: Live or killed in polio drops?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -81,21 +139,9 @@
   "answer": 1,
   "explanation": "T-cell mediated rejection kills foreign tissue. | Hint: Which arm rejects grafts?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 10,
-  "question": "Kidney graft rejection responsibility:",
-  "options": [
-   "Auto-immune",
-   "Humoral",
-   "Inflammatory",
-   "Cell-mediated"
-  ],
-  "answer": 3,
-  "explanation": "T cells mediate transplant rejection. | Hint: Same arm as Q on grafts above?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,7 +155,9 @@
   "answer": 3,
   "explanation": "Cancers switch telomerase ON for immortality, never off. | Hint: Do cancers silence telomerase?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -123,7 +171,9 @@
   "answer": 2,
   "explanation": "Attacking self defines autoimmunity. | Hint: Self versus non-self failure?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -137,7 +187,41 @@
   "answer": 0,
   "explanation": "Alzheimer is neurodegenerative, not autoimmune. | Hint: Which one attacks no self-antigen?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which of the following are Autoimmune disorders?\n\nA. Myasthenia gravis\nB. Rheumatoid arthritis\nC. Gout\nD. Muscular dystrophy\nE. Systemic Lupus Erythematosus (SLE)\n\nChoose the most appropriate answer from the options given below:",
+  "options": [
+   "A, B & D only",
+   "A, B & E only",
+   "B, C & E only",
+   "C, D & E only"
+  ],
+  "answer": 1,
+  "explanation": "Myasthenia gravis, rheumatoid arthritis and SLE are autoimmune (self-attack); gout is uric-acid crystal arthritis and muscular dystrophy is genetic.",
+  "source": "examside.com (NEET 2024)",
+  "year": "2024",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "After maturation, in primary lymphoid organs, the lymphocytes migrate for interaction with antigens to secondary lymphoid organ(s) / tissue(s) like\n\nA. thymus\nB. bone marrow\nC. spleen\nD. lymph nodes\nE. Peyer's patches\n\nChoose the correct answer from the options given below",
+  "options": [
+   "E, A, B only",
+   "C, D, E only",
+   "B, C, D only",
+   "A, B, C only"
+  ],
+  "answer": 1,
+  "explanation": "Secondary lymphoid organs (spleen, lymph nodes, Peyer's patches) are where mature lymphocytes meet antigens; thymus and bone marrow are primary organs.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -151,7 +235,9 @@
   "answer": 0,
   "explanation": "Mucosa-associated tissue is about half of all lymphoid tissue. | Hint: Half of lymphoid tissue sits where?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -165,7 +251,9 @@
   "answer": 1,
   "explanation": "Diacetylmorphine = acetylated morphine. | Hint: Di-acetyl means what reaction?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -179,7 +267,9 @@
   "answer": 1,
   "explanation": "Opium latex from capsules makes smack/heroin. | Hint: Which plant juice?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -193,7 +283,9 @@
   "answer": 3,
   "explanation": "PCR cycles: denaturation (94-98 deg C, strands separate), annealing (primers bind), extension (Taq polymerase).",
   "source": "NEET 2018 (allen.in + neetprep.com)",
-  "year": "2018"
+  "year": "2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -207,6 +299,24 @@
   "answer": 3,
   "explanation": "Ethidium bromide intercalates DNA and fluoresces orange under UV; bromophenol blue only tracks migration.",
   "source": "NEET 2017 (neetprep.com + aspirantmitraa + cracku)",
-  "year": "2017"
+  "year": "2017",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "Which one of the following common sexually transmitted diseases is completely curable when detected early and treated properly?",
+  "options": [
+   "Gonorrhoea",
+   "Hepatitis-B",
+   "HIV Infection",
+   "Genital herpes"
+  ],
+  "answer": 0,
+  "explanation": "Gonorrhoea (Neisseria gonorrhoeae) is bacterial and curable with antibiotics; hepatitis-B, HIV and genital herpes are viral and not fully curable.",
+  "source": "examside.com (NEET 2023)",
+  "year": "2023",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

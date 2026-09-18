@@ -1,31 +1,35 @@
 [
  {
-  "pdfPage": 3,
-  "question": "Wire length l, resistance 100 Ω, cut into 10 equal parts. First 5 in series, next 5 in parallel; the two groups in series. Final resistance:",
+  "pdfPage": 2,
+  "question": "100 Ω and 200 Ω in parallel. Ratio of thermal energy (100 Ω : 200 Ω) in same time:",
   "options": [
-   "55 Ω",
-   "60 Ω",
-   "26 Ω",
-   "52 Ω"
+   "4:1",
+   "1:2",
+   "2:1",
+   "1:4"
   ],
-  "answer": 3,
-  "explanation": "Each part 10 Ω: series group 50 Ω, parallel group 2 Ω → 52 Ω.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "answer": 2,
+  "explanation": "Same V: P = V²/R → ratio = 200/100 = 2:1.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 4,
-  "question": "A cell of emf 4 V and internal resistance 0.5 Ω is connected to a 7.5 Ω external resistance. The terminal potential difference is:",
+  "pdfPage": 3,
+  "question": "A potentiometer is an accurate and versatile device to make electrical measurements of EMF because the method involves",
   "options": [
-   "3.75 V",
-   "4.25 V",
-   "4 V",
-   "0.375 V"
+   "potential gradients",
+   "a condition of no current flow through the galvanometer",
+   "a combination of cells, galvanometer and resistances",
+   "cells"
   ],
-  "answer": 0,
-  "explanation": "I = E/(R+r) = 4/8 = 0.5 A; V = E − Ir = 4 − 0.25 = 3.75 V.",
-  "source": "NEET 2022 Phase 2 via Tardigrade + InfinityLearn",
-  "year": "NEET 2022"
+  "answer": 1,
+  "explanation": "Balance (null) condition means zero galvanometer current, so the cell's emf is measured without drawing current.",
+  "source": "ExamSIDE.com NEET 2017 PYQ + solution; verified against NCERT principle",
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -39,21 +43,25 @@
   "answer": 0,
   "explanation": "Rg = 5000/20 = 250 Ω.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 5,
-  "question": "100 Ω and 200 Ω in parallel. Ratio of thermal energy (100 Ω : 200 Ω) in same time:",
+  "pdfPage": 4,
+  "question": "Wire length l, resistance 100 Ω, cut into 10 equal parts. First 5 in series, next 5 in parallel; the two groups in series. Final resistance:",
   "options": [
-   "4:1",
-   "1:2",
-   "2:1",
-   "1:4"
+   "55 Ω",
+   "60 Ω",
+   "26 Ω",
+   "52 Ω"
   ],
-  "answer": 2,
-  "explanation": "Same V: P = V²/R → ratio = 200/100 = 2:1.",
-  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "answer": 3,
+  "explanation": "Each part 10 Ω: series group 50 Ω, parallel group 2 Ω → 52 Ω.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -67,7 +75,9 @@
   "answer": 0,
   "explanation": "Sensitivity is maximum and end-correction errors least near the centre — R is exactly why A is done.",
   "source": "NEET-pattern Assertion-Reason, key verified first-principles",
-  "year": "NEET pattern"
+  "year": "NEET pattern",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -81,7 +91,57 @@
   "answer": 0,
   "explanation": "V = E − Ir: slope −r, intercept E.",
   "source": "AIPMT 2009 via Disha (key verified first-principles)",
-  "year": "AIPMT 2009"
+  "year": "AIPMT 2009",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "As the temperature increases, the electrical resistance:",
+  "options": [
+   "Increases for conductors but decreases for semiconductors",
+   "Decreases for both",
+   "Increases for both",
+   "Decreases for conductors but increases for semiconductors"
+  ],
+  "answer": 0,
+  "explanation": "Metals have positive temperature coefficient (collisions increase with temperature). Semiconductors have negative coefficient (carrier concentration increases exponentially). | Hint: Metals conduct worse when hot; semiconductors conduct better.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "The resistance of a platinum wire is 2 Ω at 0 °C and 2.5 Ω at 100 °C. The temperature coefficient of resistance of the platinum wire is:",
+  "options": [
+   "0.0025 °C⁻¹",
+   "0.025 °C⁻¹",
+   "0.005 °C⁻¹",
+   "0.001 °C⁻¹"
+  ],
+  "answer": 0,
+  "explanation": "R = R₀ (1 + α ΔT) ⇒ 2.5 = 2 (1 + 100α) ⇒ 1.25 = 1 + 100α ⇒ 100α = 0.25 ⇒ α = 0.0025 °C⁻¹. | Hint: α = (R - R₀) / (R₀ ΔT).",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "A filament bulb (500 W, 100 V) is to be used in a 230 V main supply. When a resistance R is connected in series, it works perfectly and the bulb consumes 500 W. The value of R is",
+  "options": [
+   "230 Ω",
+   "46 Ω",
+   "26 Ω",
+   "13 Ω"
+  ],
+  "answer": 2,
+  "explanation": "I = P/V = 500/100 = 5 A; R = (230 − 100)/5 = 26 Ω.",
+  "source": "ExamSIDE.com NEET 2016 PYQ + solution; verified by derivation",
+  "year": "NEET 2016 Phase 2",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -95,7 +155,25 @@
   "answer": 0,
   "explanation": "I = 10/(4+1) = 2 A; V = 10 − 2×1 = 8 V.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "If voltage across a bulb rated 220 volt-100 watt drops by 2.5% of its rated value, the percentage of the rated value by which the power would decrease is",
+  "options": [
+   "20%",
+   "2.5%",
+   "5%",
+   "10%"
+  ],
+  "answer": 2,
+  "explanation": "R fixed ⇒ P ∝ V²; (0.975)² = 0.9506, so power drops by ≈ 5%.",
+  "source": "ExamSIDE.com AIPMT 2012 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2012 Prelims",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -109,7 +187,9 @@
   "answer": 0,
   "explanation": "l₂ = 36×2.5/1.5 = 60 cm.",
   "source": "NEET 2021 via neet.training + ExamSIDE listing (key verified first-principles)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -123,7 +203,25 @@
   "answer": 1,
   "explanation": "E/10R → E/(R/10): factor 100.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 17,
+  "question": "A cell of emf 4 V and internal resistance 0.5 Ω is connected to a 7.5 Ω external resistance. The terminal potential difference is:",
+  "options": [
+   "3.75 V",
+   "4.25 V",
+   "4 V",
+   "0.375 V"
+  ],
+  "answer": 0,
+  "explanation": "I = E/(R+r) = 4/8 = 0.5 A; V = E − Ir = 4 − 0.25 = 3.75 V.",
+  "source": "NEET 2022 Phase 2 via Tardigrade + InfinityLearn",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -137,7 +235,9 @@
   "answer": 3,
   "explanation": "Each R = 1 Ω; series = 4 Ω (16× the parallel value).",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -151,7 +251,9 @@
   "answer": 3,
   "explanation": "R1=2R2: series V²/3R2 vs parallel 3V²/2R2 → 2:9.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -165,21 +267,9 @@
   "answer": 0,
   "explanation": "E = I(R+r) → 2.1 = 0.2(10+r) → r = 0.5 Ω.",
   "source": "NEET Kar. 2013 via Disha PYQ book (key verified first-principles)",
-  "year": "NEET 2013"
- },
- {
-  "pdfPage": 20,
-  "question": "In a metre bridge, P = 4 Ω gives null point N at 60 cm from A. An unknown resistance R is connected in series with P and the new null point is at 80 cm from A. The value of R is:",
-  "options": [
-   "6 Ω",
-   "7 Ω",
-   "33/5 Ω",
-   "20/3 Ω"
-  ],
-  "answer": 3,
-  "explanation": "First: P/60 = Q/40 → Q = 8/3 Ω. Then (4+R)/80 = Q/20 → 4+R = 32/3 → R = 20/3 Ω.",
-  "source": "JEE Main via Vedantu (verified worked solution)",
-  "year": "JEE Main"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -193,7 +283,9 @@
   "answer": 1,
   "explanation": "Solving R/5=(100−l₁)/l₁ with (R/2)/5=(100−1.6l₁)/1.6l₁ gives l₁=25, R=15 Ω.",
   "source": "AIPMT 2014 via neet.training (key verified first-principles)",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -207,35 +299,57 @@
   "answer": 2,
   "explanation": "r = R(l₀−l)/l = 9.5×0.15/2.85 = 0.5 Ω.",
   "source": "AIPMT 2014 via Disha PYQ book (key verified first-principles)",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 21,
+  "question": "In a metre bridge, P = 4 Ω gives null point N at 60 cm from A. An unknown resistance R is connected in series with P and the new null point is at 80 cm from A. The value of R is:",
+  "options": [
+   "6 Ω",
+   "7 Ω",
+   "33/5 Ω",
+   "20/3 Ω"
+  ],
+  "answer": 3,
+  "explanation": "First: P/60 = Q/40 → Q = 8/3 Ω. Then (4+R)/80 = Q/20 → 4+R = 32/3 → R = 20/3 Ω.",
+  "source": "JEE Main via Vedantu (verified worked solution)",
+  "year": "JEE Main",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 23,
-  "question": "As the temperature increases, the electrical resistance:",
+  "question": "The resistance of a wire is 'R' ohm. If it is melted and stretched to 'n' times its original length, its new resistance will be",
   "options": [
-   "Increases for conductors but decreases for semiconductors",
-   "Decreases for both",
-   "Increases for both",
-   "Decreases for conductors but increases for semiconductors"
+   "nR",
+   "R/n",
+   "n²R",
+   "R/n²"
   ],
-  "answer": 0,
-  "explanation": "Metals have positive temperature coefficient (collisions increase with temperature). Semiconductors have negative coefficient (carrier concentration increases exponentially). | Hint: Metals conduct worse when hot; semiconductors conduct better.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "answer": 2,
+  "explanation": "Volume fixed: A′ = A/n, so R′ = ρ(nL)/(A/n) = n²R.",
+  "source": "ExamSIDE.com + scribd NEET 2017 paper sets; answer re-verified (testbook.com)",
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
-  "question": "The resistance of a platinum wire is 2 Ω at 0 °C and 2.5 Ω at 100 °C. The temperature coefficient of resistance of the platinum wire is:",
+  "question": "A 5-ampere fuse wire can withstand a maximum power of 1 watt in the circuit. The resistance of the fuse wire is",
   "options": [
-   "0.0025 °C⁻¹",
-   "0.025 °C⁻¹",
-   "0.005 °C⁻¹",
-   "0.001 °C⁻¹"
+   "0.04 ohm",
+   "0.2 ohm",
+   "5 ohm",
+   "0.4 ohm"
   ],
   "answer": 0,
-  "explanation": "R = R₀ (1 + α ΔT) ⇒ 2.5 = 2 (1 + 100α) ⇒ 1.25 = 1 + 100α ⇒ 100α = 0.25 ⇒ α = 0.0025 °C⁻¹. | Hint: α = (R - R₀) / (R₀ ΔT).",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "explanation": "R = P/I² = 1/25 = 0.04 Ω.",
+  "source": "ExamSIDE.com AIPMT 2005 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2005",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -249,7 +363,9 @@
   "answer": 3,
   "explanation": "Fuse melts open on overcurrent.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -263,7 +379,9 @@
   "answer": 1,
   "explanation": "I = neAv, A ∝ d². v₂/v₁ = (I₂/I₁)·(A₁/A₂) = 2·4 = 8.",
   "source": "NEET 2024 Re-exam via ExamSIDE",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -277,7 +395,9 @@
   "answer": 2,
   "explanation": "22000 = 22×10³ → multiplier 10³ = orange.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -291,6 +411,8 @@
   "answer": 0,
   "explanation": "A = 10⁻⁴ m²; ρ = RA/l = 10⁻⁴; J = E/ρ = 10⁵.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

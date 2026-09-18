@@ -1,34 +1,6 @@
 [
  {
-  "pdfPage": 3,
-  "question": "A 100-turn closely wound circular coil of radius 5 cm has a magnetic field of 3.14×10⁻³ T at its centre. The current flowing through the coil, and the magnitude of the magnetic moment of this coil are, respectively : (Take μ₀ = 4π×10⁻⁷ T m/A)",
-  "options": [
-   "2 A, 10 A m²",
-   "2.5 A, 20 A m²",
-   "2 A, 4 A m²",
-   "2.5 A, 2 A m²"
-  ],
-  "answer": 3,
-  "explanation": "B = μ₀NI/(2R) ⇒ I = 2RB/(μ₀N) = 2×0.05×3.14×10⁻³/(4π×10⁻⁷×100) = 2.5 A; m = NIA = 100×2.5×π(0.05)² ≈ 2 A m².",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 3,
-  "question": "An electron is moving with velocity v along positive x-axis in a magnetic field directed along positive y-axis. The Lorentz force on the electron points along:",
-  "options": [
-   "Negative z-axis",
-   "Positive z-axis",
-   "Positive x-axis",
-   "Negative y-axis"
-  ],
-  "answer": 0,
-  "explanation": "F = -e (v × B) = -e (v i × B j) = -e v B (i × j) = -e v B k (directed along negative z-axis). | Hint: Electron has negative charge: -e (i × j) = -k.",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 6,
+  "pdfPage": 2,
   "question": "Long straight wire carries 5 A. Electron moves at 10⁵ m/s parallel to it, 20 cm away. Force magnitude:",
   "options": [
    "4×10⁻²⁰ N",
@@ -39,7 +11,25 @@
   "answer": 3,
   "explanation": "B = μ₀I/2πr = 5×10⁻⁶ T; F = evB = 8×10⁻²⁰ N.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "An electron is moving with velocity v along positive x-axis in a magnetic field directed along positive y-axis. The Lorentz force on the electron points along:",
+  "options": [
+   "Negative z-axis",
+   "Positive z-axis",
+   "Positive x-axis",
+   "Negative y-axis"
+  ],
+  "answer": 0,
+  "explanation": "F = -e (v × B) = -e (v i × B j) = -e v B (i × j) = -e v B k (directed along negative z-axis). | Hint: Electron has negative charge: -e (i × j) = -k.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -53,7 +43,9 @@
   "answer": 3,
   "explanation": "r = mv/(qB) = p/(qB); same momentum ⇒ r ∝ 1/q ⇒ r_H : r_α = 2 : 1.",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,21 +59,9 @@
   "answer": 3,
   "explanation": "I ✓; II swaps them — Idl is the vector source, q scalar.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 8,
-  "question": "A long solenoid of radius 1 mm has 100 turns per mm. If 1 A current flows in the solenoid, the magnetic field strength at the centre of the solenoid is",
-  "options": [
-   "6.28 × 10⁻² T",
-   "12.56 × 10⁻² T",
-   "12.56 × 10⁻⁴ T",
-   "6.28 × 10⁻⁴ T"
-  ],
-  "answer": 1,
-  "explanation": "n = 100 turns/mm = 10⁵ m⁻¹; B = μ₀nI = 4π×10⁻⁷×10⁵×1 = 12.56×10⁻² T.",
-  "source": "examside.com",
-  "year": "NEET 2022 Phase 1"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -95,21 +75,9 @@
   "answer": 0,
   "explanation": "B = μ₀NI/2R = 4πe-7×100×7/0.2 = 4.4×10⁻³ T.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 12,
-  "question": "Solenoid radius 1 mm, 100 turns/mm, 1 A. Field at centre:",
-  "options": [
-   "6.28×10⁻⁴ T",
-   "6.28×10⁻² T",
-   "12.56×10⁻² T",
-   "12.56×10⁻⁴ T"
-  ],
-  "answer": 2,
-  "explanation": "B = μ₀nI = 4πe-7×10⁵×1 = 12.56×10⁻² T.",
-  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -123,7 +91,9 @@
   "answer": 0,
   "explanation": "Current splits into two semicircles of equal resistance; currents flow in opposite directions through upper and lower halves, creating equal and opposite cancelling magnetic fields at centre (B = 0). | Hint: Symmetrical currents in opposite halves cancel at the centre.",
   "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -137,7 +107,25 @@
   "answer": 3,
   "explanation": "F/l = μ₀I₁I₂/(2πd) = 4π×10⁻⁷×5×10/(2π×0.1) = 10⁻⁴ N m⁻¹; currents in the same direction attract.",
   "source": "examside.com",
-  "year": "NEET 2022 Phase 2"
+  "year": "NEET 2022 Phase 2",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "A 100-turn closely wound circular coil of radius 5 cm has a magnetic field of 3.14×10⁻³ T at its centre. The current flowing through the coil, and the magnitude of the magnetic moment of this coil are, respectively : (Take μ₀ = 4π×10⁻⁷ T m/A)",
+  "options": [
+   "2 A, 10 A m²",
+   "2.5 A, 20 A m²",
+   "2 A, 4 A m²",
+   "2.5 A, 2 A m²"
+  ],
+  "answer": 3,
+  "explanation": "B = μ₀NI/(2R) ⇒ I = 2RB/(μ₀N) = 2×0.05×3.14×10⁻³/(4π×10⁻⁷×100) = 2.5 A; m = NIA = 100×2.5×π(0.05)² ≈ 2 A m².",
+  "source": "examside.com",
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -151,7 +139,25 @@
   "answer": 3,
   "explanation": "mg sin30 = IlB cos30 → I ≈ 11.3 A.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 23,
+  "question": "A long solenoid of radius 1 mm has 100 turns per mm. If 1 A current flows in the solenoid, the magnetic field strength at the centre of the solenoid is",
+  "options": [
+   "6.28 × 10⁻² T",
+   "12.56 × 10⁻² T",
+   "12.56 × 10⁻⁴ T",
+   "6.28 × 10⁻⁴ T"
+  ],
+  "answer": 1,
+  "explanation": "n = 100 turns/mm = 10⁵ m⁻¹; B = μ₀nI = 4π×10⁻⁷×10⁵×1 = 12.56×10⁻² T.",
+  "source": "examside.com",
+  "year": "NEET 2022 Phase 1",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -165,7 +171,9 @@
   "answer": 2,
   "explanation": "G = V_sensitivity/I_sensitivity = (1/20 V)/(1/5 mA) = 0.05/(2×10⁻⁴) = 250 Ω.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -179,7 +187,9 @@
   "answer": 2,
   "explanation": "B = μ₀NI/(2R) = 4π×10⁻⁷×100×7/(2×0.1) = 4.4×10⁻³ T = 4.4 mT.",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -193,7 +203,9 @@
   "answer": 1,
   "explanation": "v×(−6i−6j−8k) = 4i−20j+12k checks out.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -207,7 +219,25 @@
   "answer": 0,
   "explanation": "r = p/qB: (p/e)/(p/2e) = 2.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 29,
+  "question": "Solenoid radius 1 mm, 100 turns/mm, 1 A. Field at centre:",
+  "options": [
+   "6.28×10⁻⁴ T",
+   "6.28×10⁻² T",
+   "12.56×10⁻² T",
+   "12.56×10⁻⁴ T"
+  ],
+  "answer": 2,
+  "explanation": "B = μ₀nI = 4πe-7×10⁵×1 = 12.56×10⁻² T.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -221,6 +251,8 @@
   "answer": 0,
   "explanation": "Triangle: 4 turns × √3a²/4 = √3Ia²; square: 3 turns × a² = 3Ia².",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

@@ -11,7 +11,25 @@
   "answer": 2,
   "explanation": "Lecithin (phosphatidyl choline) sits in membranes; the rest misdescribe. | Hint: Which description survives scrutiny?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 3,
+  "question": "Histones are enriched with -",
+  "options": [
+   "Phenylalanine & Leucine",
+   "Phenylalanine & Arginine",
+   "Lysine & Arginine",
+   "Leucine & Lysine"
+  ],
+  "answer": 2,
+  "explanation": "Histones are positively charged basic proteins rich in the basic amino acid residues lysine and arginine.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -25,7 +43,9 @@
   "answer": 1,
   "explanation": "Lysine has two amino groups → basic; glutamic acid is acidic.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +59,9 @@
   "answer": 1,
   "explanation": "Sugars are polyhydroxy aldehydes/ketones: carbonyl + hydroxyl.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -53,7 +75,9 @@
   "answer": 1,
   "explanation": "Adenylic acid = base+sugar+phosphate; uridine/guanosine are nucleosides, guanine a base.",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -67,7 +91,9 @@
   "answer": 0,
   "explanation": "Adenosine=nucleoside(III), adenylic acid=nucleotide(II), adenine=base(I), alanine=amino acid(IV).",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -81,7 +107,9 @@
   "answer": 2,
   "explanation": "Lipids are not polymers; proteins/polysaccharides/nucleic acids are.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -95,7 +123,9 @@
   "answer": 2,
   "explanation": "Chitin is poly N-acetyl glucosamine. | Hint: The monomer of chitin?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -109,7 +139,9 @@
   "answer": 0,
   "explanation": "Chitin carries nitrogen in every N-acetyl unit. | Hint: Which element tags along in chitin?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -123,7 +155,9 @@
   "answer": 2,
   "explanation": "Glycine has no sulphur (cysteine/methionine do). | Hint: Which amino acids actually carry sulphur?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -137,7 +171,25 @@
   "answer": 0,
   "explanation": "α-helix and β-pleated sheet are secondary structures held by H-bonds.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which one of the following statements refers to Reductionist Biology?",
+  "options": [
+   "Chemical approach to study and understand living organisms",
+   "Behavioural approach to study and understand living organisms",
+   "Physico-chemical approach to study and understand living organisms",
+   "Physiological approach to study and understand living organisms"
+  ],
+  "answer": 2,
+  "explanation": "Reductionist biology explains life processes at the physico-chemical level (molecules, atoms and their reactions).",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -151,7 +203,9 @@
   "answer": 1,
   "explanation": "Competitive inhibition IS reversed by excess substrate. | Hint: What defines competitive inhibition?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -165,7 +219,9 @@
   "answer": 2,
   "explanation": "Malonate resembles succinate and competes for the active site.",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -179,7 +235,9 @@
   "answer": 3,
   "explanation": "Triglyceride = glycerol + 3 fatty acids (esterification).",
   "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -193,7 +251,9 @@
   "answer": 1,
   "explanation": "Holoenzyme is apoenzyme (protein) plus its coenzyme/cofactor. | Hint: Protein part plus helper equals what?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -207,7 +267,25 @@
   "answer": 3,
   "explanation": "Ester bonds do not hold protein tertiary structure together. | Hint: Which bond type is absent in proteins?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Lecithin, a small molecular weight organic compound found in living tissues, is an example of:",
+  "options": [
+   "Amino acids",
+   "Phospholipids",
+   "Glycerides",
+   "Carbohydrates"
+  ],
+  "answer": 1,
+  "explanation": "Lecithin is a phospholipid (a phosphorus-containing lipid) found in the cell membrane.",
+  "source": "examside.com (NEET 2024)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -221,7 +299,25 @@
   "answer": 3,
   "explanation": "Nucleotides link via phosphodiester bonds. | Hint: Which polymer uses phosphate links?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "The cofactor of the enzyme carboxypeptidase is:",
+  "options": [
+   "Zinc",
+   "Niacin",
+   "Flavin",
+   "Haem"
+  ],
+  "answer": 0,
+  "explanation": "Carboxypeptidase is a zinc-containing metalloenzyme; the Zn2+ ion activates water for peptide-bond hydrolysis.",
+  "source": "examside.com (NEET 2024)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -235,7 +331,25 @@
   "answer": 0,
   "explanation": "Protein portion = apoenzyme; cofactor is the non-protein part.",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Which one of the following enzymes contains 'Haem' as the prosthetic group?",
+  "options": [
+   "Succinate dehydrogenase",
+   "Catalase",
+   "RuBisCo",
+   "Carbonic anhydrase"
+  ],
+  "answer": 1,
+  "explanation": "Haem is the prosthetic group of peroxidase and catalase; carbonic anhydrase uses zinc and RuBisCo is the most abundant protein.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -249,7 +363,9 @@
   "answer": 3,
   "explanation": "Some enzymes are RNA (ribozymes), never lipids. | Hint: RNA or lipid: which can catalyse?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -263,6 +379,8 @@
   "answer": 2,
   "explanation": "Ribozymes are catalytic RNAs, not proteins. | Hint: Which enzyme is RNA?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

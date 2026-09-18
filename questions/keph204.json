@@ -11,24 +11,12 @@
   "answer": 0,
   "explanation": "Steady state: k_Cu(T_Cu − T_j) = k_steel(T_j − T_steel) ⇒ T_j = (385×100 + 50×0)/(385+50) = 88.5°C.",
   "source": "examside.com",
-  "year": "NEET 2022 Phase 2"
+  "year": "NEET 2022 Phase 2",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 4,
-  "question": "In an adiabatic expansion, the temperature of one mole of an ideal monatomic gas (γ = 5/3) decreases from 60 K to 50 K. The work done by the gas in the process is: (Take the universal gas constant as R = 8.3 J mol⁻¹ K⁻¹)",
-  "options": [
-   "166 J",
-   "41.5 J",
-   "83 J",
-   "124.5 J"
-  ],
-  "answer": 3,
-  "explanation": "Adiabatic: Q = 0 ⇒ W = −ΔU = nC_V(T₁−T₂) = 1×(3/2)×8.3×10 = 124.5 J.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
-  "pdfPage": 6,
+  "pdfPage": 7,
   "question": "0.1 g water at 100 °C takes 54 cal to become steam (167.1 cc) at 1 atm. ΔU:",
   "options": [
    "42.2 J",
@@ -39,21 +27,9 @@
   "answer": 1,
   "explanation": "ΔQ = 226 J; W = 16.9 J → ΔU ≈ 208.7 J.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 6,
-  "question": "Gas compressed to half volume isothermally vs adiabatically. More work needed:",
-  "options": [
-   "Same both",
-   "Depends on atomicity",
-   "Isothermal",
-   "Adiabatic"
-  ],
-  "answer": 3,
-  "explanation": "Adiabatic curve is steeper — larger area under it.",
-  "source": "NEET 2016 Phase 1 via ExamSIDE + BYJU'S (both D)",
-  "year": "NEET 2016"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,7 +43,9 @@
   "answer": 3,
   "explanation": "Internal energy is conserved, so (n₁+n₂)T_f = n₁T₁+n₂T₂ where nT = pV/R: (n₁+n₂)RT_f = p₁V₁+p₂V₂ = 2+6 = 8; p_f = 8/V_total = 8/5 = 1.6 atm.",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -81,7 +59,9 @@
   "answer": 1,
   "explanation": "W(by) = PΔV = 10⁵×9×10⁻³ = 900 J → W(on) = −900 J.",
   "source": "NEET 2019 Odisha via MedicNEET (key verified first-principles)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -95,7 +75,9 @@
   "answer": 3,
   "explanation": "ΔV = 3VαΔT = 3×(4/3)πR³×αΔT = 4πR³αΔT.",
   "source": "examside.com",
-  "year": "RE-NEET 2026"
+  "year": "RE-NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,7 +91,9 @@
   "answer": 3,
   "explanation": "Ideal gas U(T): constant T → ΔU = 0.",
   "source": "JEE Main 2023 (11 Apr E) via ExamSIDE",
-  "year": "JEE Main 2023"
+  "year": "JEE Main 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,10 +107,12 @@
   "answer": 0,
   "explanation": "Adiabatic: Q = 0 by definition.",
   "source": "NEET 2019 via ExamSIDE",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
+  "pdfPage": 14,
   "question": "A Carnot engine has an efficiency of 50% when its source is at a temperature 327°C. The temperature of the sink is :-",
   "options": [
    "15°C",
@@ -137,21 +123,25 @@
   "answer": 3,
   "explanation": "η = 1 − T_sink/T_source = 0.5 ⇒ T_sink = 0.5×(327+273) = 300 K = 27°C.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
-  "question": "The efficiency of a Carnot engine operating between temperatures 100 °C (373 K) and -23 °C (250 K) is:",
+  "pdfPage": 15,
+  "question": "In an adiabatic expansion, the temperature of one mole of an ideal monatomic gas (γ = 5/3) decreases from 60 K to 50 K. The work done by the gas in the process is: (Take the universal gas constant as R = 8.3 J mol⁻¹ K⁻¹)",
   "options": [
-   "33%",
-   "50%",
-   "25%",
-   "60%"
+   "166 J",
+   "41.5 J",
+   "83 J",
+   "124.5 J"
   ],
-  "answer": 0,
-  "explanation": "η = 1 - T₂/T₁ = 1 - 250/373 = (373 - 250)/373 = 123 / 373 ≈ 0.33 = 33%. | Hint: Convert Celsius to Kelvin before computing efficiency.",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "answer": 3,
+  "explanation": "Adiabatic: Q = 0 ⇒ W = −ΔU = nC_V(T₁−T₂) = 1×(3/2)×8.3×10 = 124.5 J.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -165,7 +155,9 @@
   "answer": 0,
   "explanation": "T₂ = 600×0.5 = 300 K = 27 °C.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -179,7 +171,25 @@
   "answer": 2,
   "explanation": "1 − 273/373 = 26.8%.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The efficiency of a Carnot engine operating between temperatures 100 °C (373 K) and -23 °C (250 K) is:",
+  "options": [
+   "33%",
+   "50%",
+   "25%",
+   "60%"
+  ],
+  "answer": 0,
+  "explanation": "η = 1 - T₂/T₁ = 1 - 250/373 = (373 - 250)/373 = 123 / 373 ≈ 0.33 = 33%. | Hint: Convert Celsius to Kelvin before computing efficiency.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -193,7 +203,25 @@
   "answer": 3,
   "explanation": "First law: ΔU/Δt = Q/Δt − W/Δt = 100 − 75 = 25 W.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 17,
+  "question": "Gas compressed to half volume isothermally vs adiabatically. More work needed:",
+  "options": [
+   "Same both",
+   "Depends on atomicity",
+   "Isothermal",
+   "Adiabatic"
+  ],
+  "answer": 3,
+  "explanation": "Adiabatic curve is steeper — larger area under it.",
+  "source": "NEET 2016 Phase 1 via ExamSIDE + BYJU'S (both D)",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -207,7 +235,9 @@
   "answer": 0,
   "explanation": "P₁ V₁^γ = P₂ V₂^γ ⇒ P₂ = P₁ (V₁/V₂)^γ = P₁ (4)^(1.5) = P₁ (4)^(3/2) = P₁ (2)³ = 8 P₁. | Hint: P ∝ 1 / V^γ.",
   "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -221,6 +251,8 @@
   "answer": 3,
   "explanation": "Free expansion, Q = 0, W = 0 → adiabatic (ΔU = 0).",
   "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

@@ -11,35 +11,9 @@
   "answer": 0,
   "explanation": "All 12 hydrogens of neopentane are equivalent. | Hint: Which isomer has all identical hydrogens?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 3,
-  "question": "The decreasing order of boiling points of the following alkanes is : (a) heptane (b) butane (c) 2-methylbutane (d) 2-methylpropane (e) hexane. Choose the correct answer from the options given below :",
-  "options": [
-   "(a) > (e) > (c) > (b) > (d)",
-   "(a) > (c) > (e) > (d) > (b)",
-   "(c) > (d) > (a) > (e) > (b)",
-   "(a) > (e) > (b) > (c) > (d)"
-  ],
-  "answer": 0,
-  "explanation": "bp rises with chain length; branching lowers bp among isomers.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 7,
-  "question": "Gas from electrolysis of dipotassium succinate:",
-  "options": [
-   "Ethyne",
-   "Ethene",
-   "Propene",
-   "Ethane"
-  ],
-  "answer": 1,
-  "explanation": "Kolbe electrolysis of succinate yields ethene + CO2. | Hint: Kolbe of a C4 diacid gives which C2 gas?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -53,7 +27,9 @@
   "answer": 3,
   "explanation": "Clemmensen reduction converts the ketone to butane; ester/acid/amide resist. | Hint: Which functional group does Clemmensen reduce?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,7 +43,9 @@
   "answer": 1,
   "explanation": "The radical-addition step is endothermic for Cl/I, so normal Markovnikov path wins. | Hint: Why does the peroxide effect fail here?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -81,21 +59,25 @@
   "answer": 0,
   "explanation": "Grignard abstracts the acidic OH proton, releasing methane. | Hint: Grignard plus active hydrogen gives which gas?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 10,
-  "question": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+  "pdfPage": 15,
+  "question": "Hydroboration-oxidation product of propene:",
   "options": [
-   "oxidation",
-   "cracking",
-   "distillation under reduced pressure",
-   "hydrolysis"
+   "CH3CH2CH2OH",
+   "(CH3)3COH",
+   "CH3CHOHCH3",
+   "CH3CH2OH"
   ],
-  "answer": 1,
-  "explanation": "Cracking/pyrolysis breaks heavy liquids into lighter gases.",
-  "source": "examside.com",
-  "year": "AIPMT 2010"
+  "answer": 0,
+  "explanation": "Anti-Markovnikov addition puts OH on the terminal carbon: n-propanol. | Hint: Anti-Markovnikov alcohol from propene?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -109,21 +91,9 @@
   "answer": 2,
   "explanation": "Only terminal alkynes have the acidic hydrogen sodium needs. | Hint: Which alkyne has an acidic proton?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 18,
-  "question": "Hydroboration-oxidation product of propene:",
-  "options": [
-   "CH3CH2CH2OH",
-   "(CH3)3COH",
-   "CH3CHOHCH3",
-   "CH3CH2OH"
-  ],
-  "answer": 0,
-  "explanation": "Anti-Markovnikov addition puts OH on the terminal carbon: n-propanol. | Hint: Anti-Markovnikov alcohol from propene?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -137,7 +107,9 @@
   "answer": 2,
   "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Count bonds in a triple bond.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -151,7 +123,41 @@
   "answer": 3,
   "explanation": "Aqueous KOH gives substitution (alcohol); alcoholic KOH gives elimination (alkene).",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 23,
+  "question": "Gas from electrolysis of dipotassium succinate:",
+  "options": [
+   "Ethyne",
+   "Ethene",
+   "Propene",
+   "Ethane"
+  ],
+  "answer": 1,
+  "explanation": "Kolbe electrolysis of succinate yields ethene + CO2. | Hint: Kolbe of a C4 diacid gives which C2 gas?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 28,
+  "question": "Liquid hydrocarbons can be converted to a mixture of gaseous hydrocarbons by",
+  "options": [
+   "oxidation",
+   "cracking",
+   "distillation under reduced pressure",
+   "hydrolysis"
+  ],
+  "answer": 1,
+  "explanation": "Cracking/pyrolysis breaks heavy liquids into lighter gases.",
+  "source": "examside.com",
+  "year": "AIPMT 2010",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -165,7 +171,9 @@
   "answer": 2,
   "explanation": "The alkylated product is more activated, so substitution repeats. | Hint: Which product is more reactive than its starting material?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -179,7 +187,9 @@
   "answer": 1,
   "explanation": "Hydroboration-oxidation adds water anti-Markovnikov.",
   "source": "examside.com",
-  "year": "AIPMT 2000"
+  "year": "AIPMT 2000",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 32,
@@ -193,7 +203,9 @@
   "answer": 0,
   "explanation": "Restricted C=C rotation gives cis/trans isomers.",
   "source": "examside.com",
-  "year": "AIPMT 2000"
+  "year": "AIPMT 2000",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -207,7 +219,9 @@
   "answer": 3,
   "explanation": "Friedel-Crafts alkylation attaches CH3 → toluene.",
   "source": "examside.com",
-  "year": "AIPMT 2009"
+  "year": "AIPMT 2009",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -221,7 +235,9 @@
   "answer": 3,
   "explanation": "Most branched = least surface area = weakest forces = lowest boiling point. | Hint: Branching lowers boiling point most for which?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -235,7 +251,9 @@
   "answer": 3,
   "explanation": "Peroxide effect (Kharasch): anti-Markovnikov → n-propyl bromide.",
   "source": "examside.com",
-  "year": "AIPMT 2004"
+  "year": "AIPMT 2004",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -249,7 +267,9 @@
   "answer": 3,
   "explanation": "2-Butene cleaves to two acetaldehyde (44 u) molecules. | Hint: Which alkene splits into two identical C2 aldehydes?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -263,7 +283,25 @@
   "answer": 3,
   "explanation": "-NH2 activates, -NO2 deactivates: aniline > benzene > nitrobenzene.",
   "source": "examside.com",
-  "year": "AIPMT 2003"
+  "year": "AIPMT 2003",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 33,
+  "question": "The decreasing order of boiling points of the following alkanes is : (a) heptane (b) butane (c) 2-methylbutane (d) 2-methylpropane (e) hexane. Choose the correct answer from the options given below :",
+  "options": [
+   "(a) > (e) > (c) > (b) > (d)",
+   "(a) > (c) > (e) > (d) > (b)",
+   "(c) > (d) > (a) > (e) > (b)",
+   "(a) > (e) > (b) > (c) > (d)"
+  ],
+  "answer": 0,
+  "explanation": "bp rises with chain length; branching lowers bp among isomers.",
+  "source": "examside.com",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 33,
@@ -277,6 +315,8 @@
   "answer": 0,
   "explanation": "Strongly deactivating -NO2 blocks Friedel-Crafts.",
   "source": "examside.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

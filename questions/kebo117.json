@@ -11,7 +11,9 @@
   "answer": 3,
   "explanation": "H-zone = central gap between actin filaments within the A-band.",
   "source": "byjus.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -25,7 +27,9 @@
   "answer": 2,
   "explanation": "Filaments slide, not shrink: A-band length is constant while I and H shrink. | Hint: Which band never changes length?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -39,7 +43,9 @@
   "answer": 2,
   "explanation": "Sliding filament: sarcomere/I/H shorten, A-band constant.",
   "source": "byjus.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -53,35 +59,9 @@
   "answer": 2,
   "explanation": "Ca2+ binds troponin, shifting tropomyosin off the active sites. | Hint: Which ion binds troponin?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Motor neuron stimulates a muscle fibre at:",
-  "options": [
-   "Sarcoplasmic reticulum",
-   "Myofibril",
-   "Transverse tubules",
-   "Neuromuscular junction"
-  ],
-  "answer": 3,
-  "explanation": "The nerve meets the fibre at the neuromuscular junction (motor end plate). | Hint: Where do nerve and fibre meet?",
-  "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
- },
- {
-  "pdfPage": 6,
-  "question": "The H-zone in skeletal muscle fibres is due to:",
-  "options": [
-   "Central gap between myosin filaments in A-band",
-   "No myofibrils in central A-band",
-   "Myosin extension in central A-band",
-   "Central gap between actin filaments running through myosin in A-band"
-  ],
-  "answer": 3,
-  "explanation": "H-zone is the actin-free centre of the A-band (myosin only). | Hint: Which filaments are missing at the very centre?",
-  "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -95,35 +75,41 @@
   "answer": 2,
   "explanation": "Ca2+ binds troponin, shifting tropomyosin to unmask actin sites.",
   "source": "byjus.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as",
+  "question": "No relaxation between successive stimuli in sustained contraction:",
   "options": [
-   "fatigue",
-   "tonus",
-   "tetanus",
-   "spasm"
+   "Fatigue",
+   "Tonus",
+   "Tetanus",
+   "Spasm"
   ],
   "answer": 2,
-  "explanation": "Sustained contraction without relaxation = tetanus.",
-  "source": "byjus.com",
-  "year": "NEET 2016"
+  "explanation": "Fused sustained contraction without relaxation is tetanus. | Hint: Sustained contraction with no rest has which name?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 9,
-  "question": "Item with its correct total number:",
+  "pdfPage": 8,
+  "question": "Correct description of a human skeleton part:",
   "options": [
-   "Protein amino acids: 16",
-   "Floating ribs: 4",
-   "Cervical vertebrae: 8",
-   "Diabetes types: 3"
+   "Glenoid cavity takes the thigh bone",
+   "First vertebra is the axis meeting occipital condyles",
+   "9th-10th ribs are floating ribs",
+   "Parietal and temporal skull bones join by fibrous joint"
   ],
-  "answer": 1,
-  "explanation": "Two floating pairs (11th, 12th) make 4 floating ribs. | Hint: Count the ribs attached to nothing.",
-  "source": "NEET NEET 2007 via BYJU'S",
-  "year": "NEET 2007"
+  "answer": 3,
+  "explanation": "Skull sutures are fibrous joints; glenoid takes the humerus, atlas is first, floaters are 11th-12th. | Hint: Which skull joint type is fibrous?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -137,21 +123,9 @@
   "answer": 3,
   "explanation": "Skull flat bones meet at fibrous suture joints.",
   "source": "byjus.com",
-  "year": "AIPMT 2010"
- },
- {
-  "pdfPage": 10,
-  "question": "Correct description of a human skeleton part:",
-  "options": [
-   "Glenoid cavity takes the thigh bone",
-   "First vertebra is the axis meeting occipital condyles",
-   "9th-10th ribs are floating ribs",
-   "Parietal and temporal skull bones join by fibrous joint"
-  ],
-  "answer": 3,
-  "explanation": "Skull sutures are fibrous joints; glenoid takes the humerus, atlas is first, floaters are 11th-12th. | Hint: Which skull joint type is fibrous?",
-  "source": "NEET NEET 2010 via BYJU'S",
-  "year": "NEET 2010"
+  "year": "AIPMT 2010",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -165,21 +139,25 @@
   "answer": 2,
   "explanation": "Osteoporosis is exactly age-related bone loss and fracture risk. | Hint: Which definition matches its textbook line?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
-  "question": "No relaxation between successive stimuli in sustained contraction:",
+  "question": "Lack of relaxation between successive stimuli in sustained muscle contraction is known as",
   "options": [
-   "Fatigue",
-   "Tonus",
-   "Tetanus",
-   "Spasm"
+   "fatigue",
+   "tonus",
+   "tetanus",
+   "spasm"
   ],
   "answer": 2,
-  "explanation": "Fused sustained contraction without relaxation is tetanus. | Hint: Sustained contraction with no rest has which name?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "explanation": "Sustained contraction without relaxation = tetanus.",
+  "source": "byjus.com",
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -193,7 +171,9 @@
   "answer": 0,
   "explanation": "Gout is uric-acid joint inflammation; the rest misstate hormone, joint type and count. | Hint: Which disorder is literally crystal deposits in joints?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -207,7 +187,9 @@
   "answer": 2,
   "explanation": "Osteoporosis = age-related bone mass loss raising fracture risk.",
   "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -221,7 +203,9 @@
   "answer": 0,
   "explanation": "Gout = joint inflammation from uric acid crystals.",
   "source": "byjus.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -235,7 +219,25 @@
   "answer": 1,
   "explanation": "Atlas-axis pivot permits rotation and is a synovial joint. | Hint: Which joint class allows rotation?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Motor neuron stimulates a muscle fibre at:",
+  "options": [
+   "Sarcoplasmic reticulum",
+   "Myofibril",
+   "Transverse tubules",
+   "Neuromuscular junction"
+  ],
+  "answer": 3,
+  "explanation": "The nerve meets the fibre at the neuromuscular junction (motor end plate). | Hint: Where do nerve and fibre meet?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -249,7 +251,41 @@
   "answer": 3,
   "explanation": "Motor neuron synapses with sarcolemma at the neuromuscular junction.",
   "source": "byjus.com",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "The H-zone in skeletal muscle fibres is due to:",
+  "options": [
+   "Central gap between myosin filaments in A-band",
+   "No myofibrils in central A-band",
+   "Myosin extension in central A-band",
+   "Central gap between actin filaments running through myosin in A-band"
+  ],
+  "answer": 3,
+  "explanation": "H-zone is the actin-free centre of the A-band (myosin only). | Hint: Which filaments are missing at the very centre?",
+  "source": "NEET NEET 2013 via BYJU'S",
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "Item with its correct total number:",
+  "options": [
+   "Protein amino acids: 16",
+   "Floating ribs: 4",
+   "Cervical vertebrae: 8",
+   "Diabetes types: 3"
+  ],
+  "answer": 1,
+  "explanation": "Two floating pairs (11th, 12th) make 4 floating ribs. | Hint: Count the ribs attached to nothing.",
+  "source": "NEET NEET 2007 via BYJU'S",
+  "year": "NEET 2007",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -263,6 +299,8 @@
   "answer": 1,
   "explanation": "Last two rib pairs (11th, 12th) = 4 floating ribs.",
   "source": "byjus.com",
-  "year": "AIPMT 2007"
+  "year": "AIPMT 2007",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

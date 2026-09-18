@@ -11,7 +11,9 @@
   "answer": 2,
   "explanation": "g = G(4/3 πR³ρ)/R² → ρ = 3g/(4πGR).",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -25,7 +27,9 @@
   "answer": 3,
   "explanation": "g = GM/R² rises 10× → (4) is the false one.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -39,7 +43,9 @@
   "answer": 0,
   "explanation": "W = U(2R) - U(R) = -G M m / (2R) - (-G M m / R) = G M m / (2R) = (1/2) (G M / R²) m R = (1/2) m g R. | Hint: W = ΔU = U_final - U_initial.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -53,7 +59,9 @@
   "answer": 2,
   "explanation": "W = GMm/2R = ½mgR.",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -67,7 +75,9 @@
   "answer": 2,
   "explanation": "GMm(1/R − 1/2R) = mgR/2.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -81,7 +91,9 @@
   "answer": 1,
   "explanation": "½mu²−GMm/R = −GMm/(R+H) with u² = k²·2GM/R → H = Rk²/(1−k²).",
   "source": "NEET 2021 via MedicNEET (full options + derivation) + eSaral 2021 listing",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -95,7 +107,25 @@
   "answer": 2,
   "explanation": "g = F/m = 3/0.06 = 50.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "A geostationary satellite is orbiting the earth at a height of 5R above the surface of the earth, R being the radius of the earth. The time period of another satellite in hours at a height of 2R from the surface of the earth is",
+  "options": [
+   "5",
+   "10",
+   "6√2",
+   "6/√2"
+  ],
+  "answer": 2,
+  "explanation": "T² ∝ r³: T = 24(3/6)^1.5 = 6√2 h.",
+  "source": "examside.com",
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -109,7 +139,9 @@
   "answer": 0,
   "explanation": "Kepler's Third Law: T ∝ R^(3/2) ⇒ ΔT / T = (3/2) (ΔR / R) = (1.5) × 1.0% = 1.5%. | Hint: Fractional error in T is 1.5 times fractional error in R.",
   "source": "JEE JEE Main 2023 via BYJU'S JEE",
-  "year": "JEE Main 2023"
+  "year": "JEE Main 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -123,21 +155,9 @@
   "answer": 0,
   "explanation": "E_f = −GMm/6R; ΔE = GMm/R − GMm/6R = 5GMm/6R.",
   "source": "examside.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 12,
-  "question": "A geostationary satellite is orbiting the earth at a height of 5R above the surface of the earth, R being the radius of the earth. The time period of another satellite in hours at a height of 2R from the surface of the earth is",
-  "options": [
-   "5",
-   "10",
-   "6√2",
-   "6/√2"
-  ],
-  "answer": 2,
-  "explanation": "T² ∝ r³: T = 24(3/6)^1.5 = 6√2 h.",
-  "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -151,7 +171,9 @@
   "answer": 0,
   "explanation": "Conservation of angular momentum: m v₁ r₁ = m v₂ r₂ ⇒ v₁ / v₂ = r₂ / r₁. Kinetic energy ratio K₁ / K₂ = v₁² / v₂² = r₂² / r₁². | Hint: K ∝ v² and v ∝ 1/r by angular momentum conservation.",
   "source": "NEET NEET 2018 via BYJU'S NEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -165,7 +187,9 @@
   "answer": 0,
   "explanation": "g = GM/(D/2)² = 4GM/D²; independent of m.",
   "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -179,7 +203,9 @@
   "answer": 3,
   "explanation": "g_p/g = (1/10)/(1/4) = 0.4 → 3.92 m/s².",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -193,7 +219,9 @@
   "answer": 0,
   "explanation": "g_h = g / (1 + h/R)² = g / (1 + 0.5)² = g / (1.5)² = g / 2.25 = (4/9) g. Weight W' = (4/9) × 72 N = 32 N. | Hint: W' = W / (1 + h/R)².",
   "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -207,7 +235,9 @@
   "answer": 0,
   "explanation": "g′ = g/(1.5)² = 4g/9; W = 72 × 4/9 = 32 N.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -221,7 +251,9 @@
   "answer": 2,
   "explanation": "g′ = g(1−d/R) = g/2 → 100 N.",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -235,7 +267,9 @@
   "answer": 1,
   "explanation": "g′ = (1/10)/(1/2)²·g = 0.4g = 3.92 m/s².",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -249,7 +283,9 @@
   "answer": 0,
   "explanation": "v_e = √(2 G M / R) = √[2 G ((4/3)π R³ ρ) / R] = R √(8π G ρ / 3) ∝ R. Since density is identical, doubling radius doubles escape velocity: v' = 2v. | Hint: v_e ∝ R √ρ when density is constant.",
   "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -263,6 +299,8 @@
   "answer": 2,
   "explanation": "(1+h/R)² = 16 → h = 3R.",
   "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

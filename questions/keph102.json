@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 3,
-  "question": "Displacement x = (t−2)² (m, s). Distance covered in the first 4 s is:",
-  "options": [
-   "4 m",
-   "8 m",
-   "12 m",
-   "16 m"
-  ],
-  "answer": 1,
-  "explanation": "Turns at t=2 (x: 4→0→4); distance = 4+4 = 8 m.",
-  "source": "NCERT Exemplar Ch3 Q3.5 via ncert.nic.in (official key)",
-  "year": "NCERT Exemplar"
- },
- {
-  "pdfPage": 3,
   "question": "If the error in the measurement of radius of a sphere is 2%, then the error in the determination of volume of the sphere will be",
   "options": [
    "4%",
@@ -25,21 +11,25 @@
   "answer": 1,
   "explanation": "V ∝ r^3 -> % error in V = 3 x 2% = 6%.",
   "source": "bootstrap.neetprep.com/question/204411 (AIPMT 2008) + edurev.in/question/1477486 (option B)",
-  "year": "2008"
+  "year": "2008",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
-  "question": "Vehicle covers half the distance at v and the rest at 2v. Average speed:",
+  "question": "The x and y coordinates of the particle at any time are x = 5t - 2t² and y = 10t respectively. The acceleration of the particle at t = 2 s is:",
   "options": [
-   "v/3",
-   "2v/3",
-   "4v/3",
-   "3v/4"
+   "-4 m/s²",
+   "0 m/s²",
+   "5 m/s²",
+   "-8 m/s²"
   ],
-  "answer": 2,
-  "explanation": "2·v·2v/(3v) = 4v/3.",
-  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "answer": 0,
+  "explanation": "a_x = d²x/dt² = d(5 - 4t)/dt = -4 m/s². a_y = d²y/dt² = 0. Net acceleration a = -4 m/s². | Hint: Take second derivative of x and y coordinates.",
+  "source": "NEET NEET 2017 via BYJU'S NEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -53,7 +43,9 @@
   "answer": 2,
   "explanation": "E = F x d, d = (1/2)A T^2 -> E ∝ [F][A][T^2].",
   "source": "testbook.com/question-answer/if-force-f-acceleration-a-and-time-t--62b5717c5d9cf0ddfe91640a",
-  "year": "2021"
+  "year": "2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -67,7 +59,9 @@
   "answer": 0,
   "explanation": "v² = u² + 2gh ⇒ 80² = 20² + 2(10)h ⇒ 6400 = 400 + 20h ⇒ 20h = 6000 ⇒ h = 300 m. | Hint: v² = u² + 2gh.",
   "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -81,7 +75,9 @@
   "answer": 1,
   "explanation": "h = (80²−20²)/2g = 6000/20 = 300 m.",
   "source": "NEET 2020 official paper via Testbook + NEETMIND (both: 300 m)",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -95,7 +91,9 @@
   "answer": 2,
   "explanation": "Sₙ = ½a(2n−1), Sₙ₊₁ = ½a(2n+1) → (2n−1)/(2n+1).",
   "source": "NEET 2021 via NEETMIND (key verified first-principles)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -109,7 +107,9 @@
   "answer": 3,
   "explanation": "F = ma = mV/T -> m = FT/V -> [FV^-1T].",
   "source": "vedantu.com/question-answer/if-force-f-velocity-v-and-time-t-are-taken-as-class-11-physics-cbse-5fa026163da98b21b5be7b95",
-  "year": "2014"
+  "year": "2014",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -123,7 +123,9 @@
   "answer": 2,
   "explanation": "t = L/2V1 + L/2V2 → v = L/t = 2V1V2/(V1+V2).",
   "source": "NCERT Exemplar Ch3 Q3.4 via ncert.nic.in (official key)",
-  "year": "NCERT Exemplar"
+  "year": "NCERT Exemplar",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -137,7 +139,25 @@
   "answer": 0,
   "explanation": "v_avg = 2 v₁ v₂ / (v₁ + v₂) = 2(v)(2v) / (v + 2v) = 4v² / 3v = 4v / 3. | Hint: Harmonic mean applies for equal distance halves.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "Ratio of distances travelled by a freely falling body in the 1st, 2nd, 3rd and 4th second:",
+  "options": [
+   "1:1:1:1",
+   "1:2:3:4",
+   "1:4:9:16",
+   "1:3:5:7"
+  ],
+  "answer": 3,
+  "explanation": "Sₙ ∝ (2n−1): 1:3:5:7.",
+  "source": "NEET 2022 Code-R6 official paper + Testbook + Tardigrade (all agree)",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -151,21 +171,41 @@
   "answer": 0,
   "explanation": "Galileo's law of odd numbers: S_n = (g/2)(2n - 1) gives ratios (2×1-1) : (2×2-1) : (2×3-1) : (2×4-1) = 1 : 3 : 5 : 7. | Hint: S_n ∝ (2n - 1).",
   "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "Vehicle covers half the distance at v and the rest at 2v. Average speed:",
+  "options": [
+   "v/3",
+   "2v/3",
+   "4v/3",
+   "3v/4"
+  ],
+  "answer": 2,
+  "explanation": "2·v·2v/(3v) = 4v/3.",
+  "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
-  "question": "Ratio of distances travelled by a freely falling body in the 1st, 2nd, 3rd and 4th second:",
+  "question": "The displacement x of a particle varies with time t as x = a e^(-α t) + b e^(β t). The velocity of the particle will:",
   "options": [
-   "1:1:1:1",
-   "1:2:3:4",
-   "1:4:9:16",
-   "1:3:5:7"
+   "Increase with time",
+   "Decrease with time",
+   "Be independent of time",
+   "Drop to zero"
   ],
-  "answer": 3,
-  "explanation": "Sₙ ∝ (2n−1): 1:3:5:7.",
-  "source": "NEET 2022 Code-R6 official paper + Testbook + Tardigrade (all agree)",
-  "year": "NEET 2022"
+  "answer": 0,
+  "explanation": "v = dx/dt = -a α e^(-α t) + b β e^(β t). As t increases, the positive exponential term b β e^(β t) dominates, so velocity increases with time. | Hint: Differentiate x with respect to t and check long-term behaviour.",
+  "source": "JEE JEE Main 2022 via BYJU'S JEE",
+  "year": "JEE Main 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -179,34 +219,24 @@
   "answer": 2,
   "explanation": "Above ground (x>0), moving down (v<0), slowing to stop (a upward, >0).",
   "source": "NCERT Exemplar Ch3 Q3.2 via ncert.nic.in (official key)",
-  "year": "NCERT Exemplar"
- },
- {
-  "pdfPage": 12,
-  "question": "The x and y coordinates of the particle at any time are x = 5t - 2t² and y = 10t respectively. The acceleration of the particle at t = 2 s is:",
-  "options": [
-   "-4 m/s²",
-   "0 m/s²",
-   "5 m/s²",
-   "-8 m/s²"
-  ],
-  "answer": 0,
-  "explanation": "a_x = d²x/dt² = d(5 - 4t)/dt = -4 m/s². a_y = d²y/dt² = 0. Net acceleration a = -4 m/s². | Hint: Take second derivative of x and y coordinates.",
-  "source": "NEET NEET 2017 via BYJU'S NEET",
-  "year": "NEET 2017"
+  "year": "NCERT Exemplar",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
-  "question": "The displacement x of a particle varies with time t as x = a e^(-α t) + b e^(β t). The velocity of the particle will:",
+  "question": "Displacement x = (t−2)² (m, s). Distance covered in the first 4 s is:",
   "options": [
-   "Increase with time",
-   "Decrease with time",
-   "Be independent of time",
-   "Drop to zero"
+   "4 m",
+   "8 m",
+   "12 m",
+   "16 m"
   ],
-  "answer": 0,
-  "explanation": "v = dx/dt = -a α e^(-α t) + b β e^(β t). As t increases, the positive exponential term b β e^(β t) dominates, so velocity increases with time. | Hint: Differentiate x with respect to t and check long-term behaviour.",
-  "source": "JEE JEE Main 2022 via BYJU'S JEE",
-  "year": "JEE Main 2022"
+  "answer": 1,
+  "explanation": "Turns at t=2 (x: 4→0→4); distance = 4+4 = 8 m.",
+  "source": "NCERT Exemplar Ch3 Q3.5 via ncert.nic.in (official key)",
+  "year": "NCERT Exemplar",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

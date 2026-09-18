@@ -11,7 +11,9 @@
   "answer": 0,
   "explanation": "Gauge pressure = 99×10⁵ Pa; h = 99×10⁵/(10³×10) = 990 m.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,7 +27,9 @@
   "answer": 1,
   "explanation": "p = ρgh depends only on depth, not vessel shape → same pressure.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,7 +43,9 @@
   "answer": 3,
   "explanation": "ρ_oil(140) = 10³(130) → ρ_oil ≈ 928 kg/m³.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -53,7 +59,9 @@
   "answer": 0,
   "explanation": "As the ball accelerates, viscous drag increases until net force is zero; velocity asymptotically approaches terminal speed v_t. | Hint: Velocity reaches a plateau known as terminal velocity.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,7 +75,9 @@
   "answer": 1,
   "explanation": "Venturi-meter measures flow speed via Bernoulli's pressure difference.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -81,7 +91,9 @@
   "answer": 3,
   "explanation": "v₂ = 2v₁; Δp = ½ρ(3v₁²) = 15 → v₁ = 0.1 m/s; Q = 40 cm² × 0.1 m/s = 400 cm³/s.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -95,21 +107,9 @@
   "answer": 0,
   "explanation": "v = √(2gh) = 6.32 m/s; Q = Av = 2×10⁻⁶ × 6.32 ≈ 12.6×10⁻⁶ m³/s.",
   "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 12,
-  "question": "The velocity of a small ball of mass M and density d, when dropped in a container filled with glycerine becomes constant after some time. If the density of glycerine is d/2, then the viscous force acting on the ball will be:",
-  "options": [
-   "(3/2) Mg",
-   "2 Mg",
-   "Mg/2",
-   "Mg"
-  ],
-  "answer": 2,
-  "explanation": "At terminal velocity: F = Mg − Buoyancy = Mg − Mg/2 = Mg/2.",
-  "source": "examside.com",
-  "year": "NEET 2021"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -123,7 +123,41 @@
   "answer": 0,
   "explanation": "g_eff = g(1−1/4) = 3g/4; T_new = √3 × 2/√3 = 2 s.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "A small sphere of radius 'r' falls from rest in a viscous liquid. As a result, heat is produced due to viscous force. The rate of production of heat, when the sphere attains its terminal velocity, is proportional to",
+  "options": [
+   "r⁵",
+   "r²",
+   "r³",
+   "r⁴"
+  ],
+  "answer": 0,
+  "explanation": "Power = F·v_t ∝ r³ · r² = r⁵.",
+  "source": "examside.com",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "The velocity of a small ball of mass M and density d, when dropped in a container filled with glycerine becomes constant after some time. If the density of glycerine is d/2, then the viscous force acting on the ball will be:",
+  "options": [
+   "(3/2) Mg",
+   "2 Mg",
+   "Mg/2",
+   "Mg"
+  ],
+  "answer": 2,
+  "explanation": "At terminal velocity: F = Mg − Buoyancy = Mg − Mg/2 = Mg/2.",
+  "source": "examside.com",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -137,7 +171,9 @@
   "answer": 2,
   "explanation": "F = 6πηrv = 6π(0.8)(0.5×10⁻³)(2) ≈ 15.08×10⁻³ N.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -151,21 +187,25 @@
   "answer": 3,
   "explanation": "v_t ∝ r²(σ−ρ_m): [1²(7.9ρ₂)]/[2²(0.9ρ₂)] = 7.9/3.6 = 79/36.",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
-  "question": "Force to lift a 4.5 cm disc off water (T = 0.07 N/m):",
+  "pdfPage": 14,
+  "question": "A thin flat circular disc of radius 4.5 cm is placed gently over the surface of water. If the surface tension of water is 0.07 N m⁻¹, then the excess force required to take it away from the surface is:",
   "options": [
+   "198 N",
    "1.98 mN",
    "99 N",
-   "19.8 mN",
-   "198 N"
+   "19.8 mN"
   ],
-  "answer": 2,
-  "explanation": "F = 2πrT ≈ 19.8 mN.",
-  "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
-  "year": "NEET 2024"
+  "answer": 3,
+  "explanation": "F = 2πrS = 2π(0.045)(0.07) = 0.0198 N = 19.8 mN.",
+  "source": "examside.com",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -179,7 +219,9 @@
   "answer": 1,
   "explanation": "m = 2πrS/g ∝ r → doubling r doubles m → 10 g.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -193,21 +235,9 @@
   "answer": 0,
   "explanation": "2π r S cosθ = m g ⇒ mass m ∝ radius r. When radius is doubled (2r), mass of water supported doubles: m' = 2 × 5 g = 10 g. | Hint: Surface tension upward pull 2π r S balances weight mg.",
   "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 17,
-  "question": "A small sphere of radius 'r' falls from rest in a viscous liquid. As a result, heat is produced due to viscous force. The rate of production of heat, when the sphere attains its terminal velocity, is proportional to",
-  "options": [
-   "r⁵",
-   "r²",
-   "r³",
-   "r⁴"
-  ],
-  "answer": 0,
-  "explanation": "Power = F·v_t ∝ r³ · r² = r⁵.",
-  "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -221,35 +251,9 @@
   "answer": 2,
   "explanation": "4S/R = 100 Pa = ρgZ₀ → Z₀ = 0.01 m = 1 cm.",
   "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 17,
-  "question": "A soap bubble of radius r has excess pressure ΔP. What will be the radius of another soap bubble having excess pressure 2ΔP?",
-  "options": [
-   "r / 2",
-   "2 r",
-   "r / 4",
-   "4 r"
-  ],
-  "answer": 0,
-  "explanation": "ΔP = 4S / r ⇒ r ∝ 1 / ΔP. If excess pressure doubles, radius must be halved (r/2). | Hint: Excess pressure is inversely proportional to radius.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 17,
-  "question": "A thin flat circular disc of radius 4.5 cm is placed gently over the surface of water. If the surface tension of water is 0.07 N m⁻¹, then the excess force required to take it away from the surface is:",
-  "options": [
-   "198 N",
-   "1.98 mN",
-   "99 N",
-   "19.8 mN"
-  ],
-  "answer": 3,
-  "explanation": "F = 2πrS = 2π(0.045)(0.07) = 0.0198 N = 19.8 mN.",
-  "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -263,35 +267,9 @@
   "answer": 1,
   "explanation": "2 films: E = 2×4πr²T ≈ 3.01×10⁻⁴ J.",
   "source": "NEET 2023 Code-F3 official paper (key derived first-principles)",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 17,
-  "question": "If a soap bubble expands, the pressure inside the bubble",
-  "options": [
-   "decreases",
-   "increases",
-   "remains the same",
-   "is equal to the atmospheric pressure"
-  ],
-  "answer": 0,
-  "explanation": "Excess pressure = 4S/R decreases as R increases.",
-  "source": "examside.com",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 17,
-  "question": "The amount of energy required to form a soap bubble of radius 2 cm from a soap solution is nearly: (surface tension of soap solution = 0.03 N m⁻¹)",
-  "options": [
-   "30.16 × 10⁻⁴ J",
-   "5.06 × 10⁻⁴ J",
-   "3.01 × 10⁻⁴ J",
-   "50.1 × 10⁻⁴ J"
-  ],
-  "answer": 2,
-  "explanation": "E = 2 × 4πR²S = 8π(0.02)²(0.03) ≈ 3.01×10⁻⁴ J.",
-  "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -305,7 +283,41 @@
   "answer": 1,
   "explanation": "Surface tension falls with T → cold water climbs higher.",
   "source": "JEE Main 2024 (29 Jan S1) (key derived first-principles)",
-  "year": "JEE Main 2024"
+  "year": "JEE Main 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "Force to lift a 4.5 cm disc off water (T = 0.07 N/m):",
+  "options": [
+   "1.98 mN",
+   "99 N",
+   "19.8 mN",
+   "198 N"
+  ],
+  "answer": 2,
+  "explanation": "F = 2πrT ≈ 19.8 mN.",
+  "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "If a soap bubble expands, the pressure inside the bubble",
+  "options": [
+   "decreases",
+   "increases",
+   "remains the same",
+   "is equal to the atmospheric pressure"
+  ],
+  "answer": 0,
+  "explanation": "Excess pressure = 4S/R decreases as R increases.",
+  "source": "examside.com",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -319,7 +331,9 @@
   "answer": 3,
   "explanation": "dL = nρ(pL) + ρ(1−p)L → d = ρ[1 + (n−1)p].",
   "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -333,6 +347,40 @@
   "answer": 0,
   "explanation": "Pressure-velocity tradeoff along a streamline.",
   "source": "NEET 2023 Code-F3 official paper",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "A soap bubble of radius r has excess pressure ΔP. What will be the radius of another soap bubble having excess pressure 2ΔP?",
+  "options": [
+   "r / 2",
+   "2 r",
+   "r / 4",
+   "4 r"
+  ],
+  "answer": 0,
+  "explanation": "ΔP = 4S / r ⇒ r ∝ 1 / ΔP. If excess pressure doubles, radius must be halved (r/2). | Hint: Excess pressure is inversely proportional to radius.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "The amount of energy required to form a soap bubble of radius 2 cm from a soap solution is nearly: (surface tension of soap solution = 0.03 N m⁻¹)",
+  "options": [
+   "30.16 × 10⁻⁴ J",
+   "5.06 × 10⁻⁴ J",
+   "3.01 × 10⁻⁴ J",
+   "50.1 × 10⁻⁴ J"
+  ],
+  "answer": 2,
+  "explanation": "E = 2 × 4πR²S = 8π(0.02)²(0.03) ≈ 3.01×10⁻⁴ J.",
+  "source": "examside.com",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

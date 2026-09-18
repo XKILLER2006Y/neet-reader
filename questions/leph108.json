@@ -11,21 +11,25 @@
   "answer": 0,
   "explanation": "Id = C·dV/dt = CV₀ωcosωt.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 3,
-  "question": "EM waves at 1.5×10⁸ m/s in medium with μr = 2. εr:",
+  "pdfPage": 2,
+  "question": "The magnetic field of a plane electromagnetic wave is given by B = 3×10⁻⁸ cos(1.6×10³ x + 48×10¹⁰ t) ĵ, then the associated electric field will be :",
   "options": [
-   "4",
-   "1",
-   "2",
-   "5"
+   "9 cos(1.6×10³ x + 48×10¹⁰ t) k̂ V/m",
+   "3×10⁻⁸ cos(1.6×10³ x + 48×10¹⁰ t) î V/m",
+   "3×10⁻⁸ sin(1.6×10³ x + 48×10¹⁰ t) î V/m",
+   "9 sin(1.6×10³ x − 48×10¹⁰ t) k̂ V/m"
   ],
-  "answer": 2,
-  "explanation": "v = c/√(μrεr) → εr = 2.",
-  "source": "JEE Main 2024 (6 Apr M) via ExamSIDE (key derived)",
-  "year": "JEE Main 2024"
+  "answer": 0,
+  "explanation": "E₀ = cB₀ = 3×10⁸×3×10⁻⁸ = 9 V/m; the phase (x + ωt) gives propagation along −x, and with B along ĵ the field E must be along k̂ to keep E×B along the propagation direction.",
+  "source": "examside.com",
+  "year": "NEET 2022 Phase 2",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,21 +43,9 @@
   "answer": 1,
   "explanation": "Uniformly moving charges do not radiate.",
   "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 6,
-  "question": "If the ratio of relative permeability and relative permittivity of a uniform medium is 1:4. The ratio of the magnitudes of electric field intensity (E) to the magnetic field intensity (H) of an EM wave propagating in that medium is (Given that √(μ₀/ε₀) = 120π):",
-  "options": [
-   "30π : 1",
-   "1 : 120π",
-   "60π : 1",
-   "120π : 1"
-  ],
-  "answer": 2,
-  "explanation": "E/H = √(μ/ε) = √(μ_r/ε_r)·√(μ₀/ε₀) = √(1/4)×120π = 60π ⇒ E : H = 60π : 1.",
-  "source": "examside.com",
-  "year": "NEET 2024 (Re-Examination)"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -67,21 +59,25 @@
   "answer": 2,
   "explanation": "v = c/√ε_r = 3×10⁸/3 = 10⁸ m s⁻¹ and the phase (kz − ωt) gives +z propagation; λ = v/f = 10⁸/10⁶ = 100 m, not 300 m, so the incorrect choice is the wavelength statement.",
   "source": "examside.com",
-  "year": "RE-NEET 2026"
+  "year": "RE-NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "In a plane electromagnetic wave travelling in free space, the electric field component oscillates sinusoidally at a frequency of 2.0×10¹⁰ Hz and amplitude 48 V m⁻¹. Then the amplitude of oscillating magnetic field is : (Speed of light in free space = 3×10⁸ m s⁻¹)",
+  "question": "If the ratio of relative permeability and relative permittivity of a uniform medium is 1:4. The ratio of the magnitudes of electric field intensity (E) to the magnetic field intensity (H) of an EM wave propagating in that medium is (Given that √(μ₀/ε₀) = 120π):",
   "options": [
-   "1.6×10⁻⁸ T",
-   "1.6×10⁻⁷ T",
-   "1.6×10⁻⁶ T",
-   "1.6×10⁻⁹ T"
+   "30π : 1",
+   "1 : 120π",
+   "60π : 1",
+   "120π : 1"
   ],
-  "answer": 1,
-  "explanation": "B₀ = E₀/c = 48/3×10⁸ = 1.6×10⁻⁷ T.",
+  "answer": 2,
+  "explanation": "E/H = √(μ/ε) = √(μ_r/ε_r)·√(μ₀/ε₀) = √(1/4)×120π = 60π ⇒ E : H = 60π : 1.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2024 (Re-Examination)",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -95,7 +91,9 @@
   "answer": 2,
   "explanation": "λ = c/f = 5 m.",
   "source": "JEE Main 2024 (1 Feb E) via SATHEE (key derived)",
-  "year": "JEE Main 2024"
+  "year": "JEE Main 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -109,7 +107,25 @@
   "answer": 3,
   "explanation": "Microwave warms food (II); UV purifies water (I); gamma rays treat cancer (IV); radio waves carry AM/FM signals (III) ⇒ P-II, Q-I, R-IV, S-III.",
   "source": "examside.com",
-  "year": "RE-NEET 2026"
+  "year": "RE-NEET 2026",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "The ratio of the speed of infrared waves to the speed of ultraviolet waves in vacuum is:",
+  "options": [
+   "1 : 1",
+   "More than 1",
+   "Less than 1",
+   "Depends on intensity"
+  ],
+  "answer": 0,
+  "explanation": "All electromagnetic waves (Radio, IR, Visible, UV, X-rays, Gamma) travel at the exact same speed in vacuum: c = 3 × 10⁸ m/s. Ratio is 1 : 1. | Hint: All EM waves have identical speed c in vacuum.",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -123,35 +139,41 @@
   "answer": 0,
   "explanation": "Refractive index n = √(ε_r) = √4 = 2. Speed v = c/2. Frequency is constant (30 MHz), so wavelength λ' = λ / n = λ / 2 (halves). | Hint: λ' = λ / n with n = √ε_r = 2.",
   "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 13,
-  "question": "The magnetic field of a plane electromagnetic wave is given by B = 3×10⁻⁸ cos(1.6×10³ x + 48×10¹⁰ t) ĵ, then the associated electric field will be :",
+  "pdfPage": 12,
+  "question": "EM waves at 1.5×10⁸ m/s in medium with μr = 2. εr:",
   "options": [
-   "9 cos(1.6×10³ x + 48×10¹⁰ t) k̂ V/m",
-   "3×10⁻⁸ cos(1.6×10³ x + 48×10¹⁰ t) î V/m",
-   "3×10⁻⁸ sin(1.6×10³ x + 48×10¹⁰ t) î V/m",
-   "9 sin(1.6×10³ x − 48×10¹⁰ t) k̂ V/m"
+   "4",
+   "1",
+   "2",
+   "5"
   ],
-  "answer": 0,
-  "explanation": "E₀ = cB₀ = 3×10⁸×3×10⁻⁸ = 9 V/m; the phase (x + ωt) gives propagation along −x, and with B along ĵ the field E must be along k̂ to keep E×B along the propagation direction.",
+  "answer": 2,
+  "explanation": "v = c/√(μrεr) → εr = 2.",
+  "source": "JEE Main 2024 (6 Apr M) via ExamSIDE (key derived)",
+  "year": "JEE Main 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "In a plane electromagnetic wave travelling in free space, the electric field component oscillates sinusoidally at a frequency of 2.0×10¹⁰ Hz and amplitude 48 V m⁻¹. Then the amplitude of oscillating magnetic field is : (Speed of light in free space = 3×10⁸ m s⁻¹)",
+  "options": [
+   "1.6×10⁻⁸ T",
+   "1.6×10⁻⁷ T",
+   "1.6×10⁻⁶ T",
+   "1.6×10⁻⁹ T"
+  ],
+  "answer": 1,
+  "explanation": "B₀ = E₀/c = 48/3×10⁸ = 1.6×10⁻⁷ T.",
   "source": "examside.com",
-  "year": "NEET 2022 Phase 2"
- },
- {
-  "pdfPage": 13,
-  "question": "The ratio of the speed of infrared waves to the speed of ultraviolet waves in vacuum is:",
-  "options": [
-   "1 : 1",
-   "More than 1",
-   "Less than 1",
-   "Depends on intensity"
-  ],
-  "answer": 0,
-  "explanation": "All electromagnetic waves (Radio, IR, Visible, UV, X-rays, Gamma) travel at the exact same speed in vacuum: c = 3 × 10⁸ m/s. Ratio is 1 : 1. | Hint: All EM waves have identical speed c in vacuum.",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -165,7 +187,9 @@
   "answer": 3,
   "explanation": "Maxwell: Id = Ic during charging, continuing the current's direction across the gap.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -179,7 +203,9 @@
   "answer": 1,
   "explanation": "E×B must point +x: only (−j+k)×(−j−k) = +2i.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -193,6 +219,8 @@
   "answer": 2,
   "explanation": "B₀ = E₀/c = 60/3×10⁸ = 2×10⁻⁷ T; propagation is along −x with E along z, so B must be along +y with the same phase.",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

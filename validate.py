@@ -42,6 +42,8 @@ print(f'Answer balance A/B/C/D: {ans[0]}/{ans[1]}/{ans[2]}/{ans[3]}')
 a = [ans[i] for i in range(4)]
 if max(a) - min(a) > total * 0.15:
     warnings.append('Answer distribution skewed >15% — check for default-A generation')
+flagged = sum(1 for f in files for q in json.load(open(f)) if q.get('outOfNcert'))
+print(f'Flagged out-of-current-NCERT: {flagged}')
 print(f'ERRORS: {len(errors)}')
 for e in errors[:30]: print('  E:', e)
 print(f'WARNINGS: {len(warnings)}')

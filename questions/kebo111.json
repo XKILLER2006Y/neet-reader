@@ -1,17 +1,35 @@
 [
  {
   "pdfPage": 6,
-  "question": "Which of the following is not a product of light reaction of photosynthesis?",
+  "question": "In photosynthesis, the light-independent reactions take place at",
   "options": [
-   "Oxygen",
-   "NADH",
-   "ATP",
-   "NADPH"
+   "photosystem II",
+   "stromal matrix",
+   "thylakoid lumen",
+   "photosystem I"
   ],
   "answer": 1,
-  "explanation": "Light reaction gives ATP, NADPH, O2 — not NADH.",
+  "explanation": "Dark reactions occur in the stroma (Calvin cycle enzymes).",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 6,
+  "question": "Light-independent reactions occur in:",
+  "options": [
+   "Thylakoid lumen",
+   "Photosystem II",
+   "Photosystem I",
+   "Stromal matrix"
+  ],
+  "answer": 3,
+  "explanation": "Calvin cycle enzymes sit in the stroma. | Hint: Dark reactions need which compartment?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -25,7 +43,9 @@
   "answer": 3,
   "explanation": "Chl a=blue-green(III), Chl b=yellow-green(I), xanthophyll=yellow(II), carotenoid=yellow-orange(IV).",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -39,7 +59,41 @@
   "answer": 2,
   "explanation": "PS I reaction centre = chlorophyll a, peak 700 nm (P700).",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "First electron acceptor from excited PS-II chlorophyll:",
+  "options": [
+   "Cytochrome f",
+   "Quinone",
+   "Cytochrome b6",
+   "Ferredoxin"
+  ],
+  "answer": 1,
+  "explanation": "Quinone (plastoquinone) takes the electron first. | Hint: What sits right after PS-II?",
+  "source": "NEET NEET 2008 via BYJU'S",
+  "year": "NEET 2008",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "In light reaction, plastoquinone facilitates the transfer of electrons from",
+  "options": [
+   "PS-I to ATP synthase",
+   "Cytb6f complex to PS-I",
+   "PS-I to NADP+",
+   "PS-II to Cytb6f complex"
+  ],
+  "answer": 3,
+  "explanation": "Plastoquinone carries electrons from PS II to the cytochrome b6f complex.",
+  "source": "examside.com",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -53,35 +107,25 @@
   "answer": 0,
   "explanation": "The effects proved PS-I and PS-II cooperate. | Hint: Why does two-wavelength light outperform one?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 10,
-  "question": "First electron acceptor from excited PS-II chlorophyll:",
+  "pdfPage": 12,
+  "question": "PGA first CO2-fixation product found in photosynthesis of:",
   "options": [
-   "Cytochrome f",
-   "Quinone",
-   "Cytochrome b6",
-   "Ferredoxin"
+   "Alga",
+   "Angiosperm",
+   "Gymnosperm",
+   "Bryophyte"
   ],
-  "answer": 1,
-  "explanation": "Quinone (plastoquinone) takes the electron first. | Hint: What sits right after PS-II?",
-  "source": "NEET NEET 2008 via BYJU'S",
-  "year": "NEET 2008"
- },
- {
-  "pdfPage": 10,
-  "question": "In photosynthesis, the light-independent reactions take place at",
-  "options": [
-   "photosystem II",
-   "stromal matrix",
-   "thylakoid lumen",
-   "photosystem I"
-  ],
-  "answer": 1,
-  "explanation": "Dark reactions occur in the stroma (Calvin cycle enzymes).",
-  "source": "examside.com",
-  "year": "AIPMT 2015"
+  "answer": 0,
+  "explanation": "Calvin traced PGA using Chlorella algae. | Hint: Which organism did Calvin use?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -95,7 +139,25 @@
   "answer": 1,
   "explanation": "I and IV hold; II and III fail on botanical detail (established key: Two). | Hint: Test each statement against NCERT lines.",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Which one of the following products diffuses out of the chloroplast during photosynthesis?",
+  "options": [
+   "ADP",
+   "NADPH",
+   "Oxygen",
+   "ATP"
+  ],
+  "answer": 2,
+  "explanation": "Oxygen is released; ATP/NADPH used in the Calvin cycle within the chloroplast.",
+  "source": "examside.com",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -109,7 +171,9 @@
   "answer": 2,
   "explanation": "RuBisCO catalyses carboxylation of RuBP.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -123,7 +187,9 @@
   "answer": 3,
   "explanation": "Gas-tight thick walls packed with chloroplasts define Kranz sheaths. | Hint: Gas-tight plus chloroplast-packed?",
   "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
+  "year": "NEET 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -137,7 +203,9 @@
   "answer": 2,
   "explanation": "C4 anatomy exists to suppress photorespiration. | Hint: What does Kranz anatomy eliminate?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -151,21 +219,9 @@
   "answer": 2,
   "explanation": "Sorghum is C4: PEP acceptor → oxaloacetic acid (4-C).",
   "source": "examside.com",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 15,
-  "question": "Which one of the following products diffuses out of the chloroplast during photosynthesis?",
-  "options": [
-   "ADP",
-   "NADPH",
-   "Oxygen",
-   "ATP"
-  ],
-  "answer": 2,
-  "explanation": "Oxygen is released; ATP/NADPH used in the Calvin cycle within the chloroplast.",
-  "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -179,7 +235,9 @@
   "answer": 0,
   "explanation": "PEP is the primary CO2 acceptor in C4 mesophyll cells.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -193,7 +251,9 @@
   "answer": 0,
   "explanation": "Different diffusion coefficients let both fluxes share the pore. | Hint: Why can two gases share one pore?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -207,7 +267,9 @@
   "answer": 1,
   "explanation": "Sugarcane is the classic C4 Kranz example. | Hint: Which is the C4 crop?",
   "source": "NEET NEET 2010 via BYJU'S",
-  "year": "NEET 2010"
+  "year": "NEET 2010",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -221,48 +283,24 @@
   "answer": 2,
   "explanation": "C4 plants actually have the HIGHER temperature optimum; the statement reverses them. | Hint: Which plant type loves heat more?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
-  "question": "In light reaction, plastoquinone facilitates the transfer of electrons from",
+  "question": "Which of the following is not a product of light reaction of photosynthesis?",
   "options": [
-   "PS-I to ATP synthase",
-   "Cytb6f complex to PS-I",
-   "PS-I to NADP+",
-   "PS-II to Cytb6f complex"
+   "Oxygen",
+   "NADH",
+   "ATP",
+   "NADPH"
   ],
-  "answer": 3,
-  "explanation": "Plastoquinone carries electrons from PS II to the cytochrome b6f complex.",
+  "answer": 1,
+  "explanation": "Light reaction gives ATP, NADPH, O2 — not NADH.",
   "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 21,
-  "question": "Light-independent reactions occur in:",
-  "options": [
-   "Thylakoid lumen",
-   "Photosystem II",
-   "Photosystem I",
-   "Stromal matrix"
-  ],
-  "answer": 3,
-  "explanation": "Calvin cycle enzymes sit in the stroma. | Hint: Dark reactions need which compartment?",
-  "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
- },
- {
-  "pdfPage": 21,
-  "question": "PGA first CO2-fixation product found in photosynthesis of:",
-  "options": [
-   "Alga",
-   "Angiosperm",
-   "Gymnosperm",
-   "Bryophyte"
-  ],
-  "answer": 0,
-  "explanation": "Calvin traced PGA using Chlorella algae. | Hint: Which organism did Calvin use?",
-  "source": "NEET NEET 2010 via BYJU'S",
-  "year": "NEET 2010"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

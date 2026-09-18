@@ -11,7 +11,9 @@
   "answer": 3,
   "explanation": "Energy balances (1st law holds); only the 2nd law is offended. | Hint: Energy in equals energy out: which law cares?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 1,
@@ -25,7 +27,9 @@
   "answer": 1,
   "explanation": "ΔG° = −RT ln K, so ΔG° < 0 implies K > 1. The pair (ΔG°<0, K<1) contradicts this — hence incorrect.",
   "source": "JEE Main PYQ (official stem restored)",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +43,9 @@
   "answer": 2,
   "explanation": "Work in, no heat out: internal energy must rise. | Hint: Work in with no escape means what?",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -53,7 +59,25 @@
   "answer": 2,
   "explanation": "ΔU = q + w = -2 + 10 = 8 kJ. | Hint: First law with correct signs.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "20 dm3 ideal gas at 600 K, 0.5 MPa expands isothermally reversibly to 0.2 MPa:",
+  "options": [
+   "w=+4.1kJ, dU=0, dH=0, q=-4.1kJ",
+   "w=+9.1kJ, dU=+9.1J, dH=0, q=0",
+   "w=-3.9kJ, dU=0, dH=0, q=+3.9kJ",
+   "w=-9.1kJ, dU=0, dH=0, q=+9.1kJ"
+  ],
+  "answer": 3,
+  "explanation": "w = -nRT ln(0.5/0.2) = -9.1 kJ; isothermal keeps dU and dH zero. | Hint: Sign of work in expansion?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -67,7 +91,9 @@
   "answer": 1,
   "explanation": "Isothermal ideal gas keeps H fixed while expansion raises S. | Hint: What fixes enthalpy here?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -81,7 +107,9 @@
   "answer": 0,
   "explanation": "Adiabatic: Q = 0, so ΔU = −W (work done entirely at the expense of internal energy).",
   "source": "JEE Main PYQ (official stem restored)",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -95,35 +123,25 @@
   "answer": 1,
   "explanation": "Higher pressure melts ice (denser liquid phase wins). | Hint: Which phase is denser?",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 13,
-  "question": "Average N-H bond enthalpy (NH3 ΔHf -46; H2 -436; N2 -712 kJ/mol):",
-  "options": [
-   "-1102",
-   "-964",
-   "+352",
-   "+1056"
-  ],
-  "answer": 2,
-  "explanation": "-46 = 356 + 654 - 3x gives x = 352 kJ/mol. | Hint: Atomise reactants, form three N-H bonds.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
-  "question": "ΔH-ΔU for CO formation at 298 K:",
+  "question": "Reaction enthalpy is independent of:",
   "options": [
-   "-1238.78 J",
-   "1238.78 J",
-   "-2477.57 J",
-   "2477.57 J"
+   "Physical states",
+   "Different reactants, same product",
+   "Intermediate steps",
+   "Initial/final temperatures"
   ],
-  "answer": 1,
-  "explanation": "Δng = +1/2, so ΔngRT = +1238.78 J/mol. | Hint: Count gas moles: products minus reactants.",
+  "answer": 2,
+  "explanation": "Hess law: state function ignores the path. | Hint: Which property ignores the path?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -137,7 +155,25 @@
   "answer": 3,
   "explanation": "Y = X + Z rearranges to X = Y - Z. | Hint: Write Y as X plus Z.",
   "source": "JEE JEE Main 2025 via cracku",
-  "year": "JEE Main 2025"
+  "year": "JEE Main 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "Average N-H bond enthalpy (NH3 ΔHf -46; H2 -436; N2 -712 kJ/mol):",
+  "options": [
+   "-1102",
+   "-964",
+   "+352",
+   "+1056"
+  ],
+  "answer": 2,
+  "explanation": "-46 = 356 + 654 - 3x gives x = 352 kJ/mol. | Hint: Atomise reactants, form three N-H bonds.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -151,7 +187,9 @@
   "answer": 2,
   "explanation": "4 gas moles collapsing to 2 cuts disorder. | Hint: Count gas moles before and after.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -165,7 +203,9 @@
   "answer": 2,
   "explanation": "−200 = x/2 + x/4 − x gives x = 800 kJ/mol. | Hint: Write formation from half-moles.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -179,24 +219,12 @@
   "answer": 2,
   "explanation": "Most moles of strong-strong neutralisation release most heat. | Hint: Which mix reacts most moles?",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 24,
-  "question": "20 dm3 ideal gas at 600 K, 0.5 MPa expands isothermally reversibly to 0.2 MPa:",
-  "options": [
-   "w=+4.1kJ, dU=0, dH=0, q=-4.1kJ",
-   "w=+9.1kJ, dU=+9.1J, dH=0, q=0",
-   "w=-3.9kJ, dU=0, dH=0, q=+3.9kJ",
-   "w=-9.1kJ, dU=0, dH=0, q=+9.1kJ"
-  ],
-  "answer": 3,
-  "explanation": "w = -nRT ln(0.5/0.2) = -9.1 kJ; isothermal keeps dU and dH zero. | Hint: Sign of work in expansion?",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 29,
+  "pdfPage": 23,
   "question": "Correct spontaneity statement:",
   "options": [
    "Energy lowering is the only criterion",
@@ -207,10 +235,12 @@
   "answer": 1,
   "explanation": "Second law: isolated-system entropy must rise. | Hint: What must rise in an isolated system?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 29,
+  "pdfPage": 27,
   "question": "Endothermic, non-spontaneous at 0C but spontaneous at 100C:",
   "options": [
    "Both negative",
@@ -221,7 +251,9 @@
   "answer": 3,
   "explanation": "Only +/+ flips ΔG sign with rising temperature. | Hint: Which sign pair flips with T?",
   "source": "JEE JEE Main 2025 via cracku",
-  "year": "JEE Main 2025"
+  "year": "JEE Main 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -235,10 +267,12 @@
   "answer": 1,
   "explanation": "Only +ΔH/+ΔS flips ΔG sign with rising temperature. | Hint: Which sign pair flips with temperature?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 29,
+  "pdfPage": 31,
   "question": "Heat of formation of SO2 from S+O2/SO3 data (2x, y):",
   "options": [
    "x + y",
@@ -249,20 +283,24 @@
   "answer": 1,
   "explanation": "Hess subtraction gives (2x - y) released, i.e. y - 2x. | Hint: Subtract the two given equations.",
   "source": "JEE JEE Main 2025 via cracku",
-  "year": "JEE Main 2025"
+  "year": "JEE Main 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 29,
-  "question": "Reaction enthalpy is independent of:",
+  "pdfPage": 31,
+  "question": "ΔH-ΔU for CO formation at 298 K:",
   "options": [
-   "Physical states",
-   "Different reactants, same product",
-   "Intermediate steps",
-   "Initial/final temperatures"
+   "-1238.78 J",
+   "1238.78 J",
+   "-2477.57 J",
+   "2477.57 J"
   ],
-  "answer": 2,
-  "explanation": "Hess law: state function ignores the path. | Hint: Which property ignores the path?",
+  "answer": 1,
+  "explanation": "Δng = +1/2, so ΔngRT = +1238.78 J/mol. | Hint: Count gas moles: products minus reactants.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

@@ -11,7 +11,9 @@
   "answer": 2,
   "explanation": "Lactobacillus increases vitamin B12 content.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -25,7 +27,9 @@
   "answer": 0,
   "explanation": "LAB synthesise B12 during curdling. | Hint: Which vitamin do LAB add?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,7 +43,9 @@
   "answer": 3,
   "explanation": "Yeast ferments sugars to ethanol. | Hint: Who brews ethanol?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -53,7 +59,9 @@
   "answer": 1,
   "explanation": "Citric-Aspergillus, cyclosporin-Trichoderma, statins-Monascus, butyric-Clostridium. | Hint: Pair each product.",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -67,7 +75,9 @@
   "answer": 1,
   "explanation": "Streptokinase is a 'clot buster' for myocardial infarction patients.",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -81,7 +91,9 @@
   "answer": 3,
   "explanation": "Brewer's yeast ferments carbohydrates to ethanol.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -95,7 +107,9 @@
   "answer": 3,
   "explanation": "Clostridium butylicum produces butyric acid, not lipase.",
   "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -109,7 +123,9 @@
   "answer": 2,
   "explanation": "Primary settling removes suspended solids. | Hint: Which stage settles solids?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -123,21 +139,25 @@
   "answer": 2,
   "explanation": "Primary treatment = filtration + sedimentation (physical).",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 9,
-  "question": "Correct biocontrol group:",
+  "pdfPage": 7,
+  "question": "Methanogens NOT correct:",
   "options": [
-   "Bt + TMV + aphids",
-   "Trichoderma + Baculovirus + Bt",
-   "Oscillatoria + Rhizobium + Trichoderma",
-   "Nostoc + Azospirillum + NPV"
+   "Make biogas",
+   "Live in cattle rumen",
+   "Grow aerobically on cellulose",
+   "Produce methane"
   ],
-  "answer": 1,
-  "explanation": "All three are genuine biocontrol agents. | Hint: Which trio all fight pests?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "answer": 2,
+  "explanation": "Strict anaerobes, never aerobic. | Hint: Oxygen friend or foe?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -151,7 +171,25 @@
   "answer": 3,
   "explanation": "Decomposition strips dissolved oxygen, killing fish. | Hint: What does decay consume?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Correct biocontrol group:",
+  "options": [
+   "Bt + TMV + aphids",
+   "Trichoderma + Baculovirus + Bt",
+   "Oscillatoria + Rhizobium + Trichoderma",
+   "Nostoc + Azospirillum + NPV"
+  ],
+  "answer": 1,
+  "explanation": "All three are genuine biocontrol agents. | Hint: Which trio all fight pests?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -165,7 +203,9 @@
   "answer": 0,
   "explanation": "Rhodospirillum is a free-living N fixer; mycorrhiza is fungus-root.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -179,7 +219,9 @@
   "answer": 2,
   "explanation": "Petroleum poisons microbes, breaking the BOD premise. | Hint: Which effluent kills the test microbes?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -193,21 +235,9 @@
   "answer": 2,
   "explanation": "Rumen methanogens make the methane. | Hint: Who ferments dung?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 11,
-  "question": "Methanogens NOT correct:",
-  "options": [
-   "Make biogas",
-   "Live in cattle rumen",
-   "Grow aerobically on cellulose",
-   "Produce methane"
-  ],
-  "answer": 2,
-  "explanation": "Strict anaerobes, never aerobic. | Hint: Oxygen friend or foe?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -221,6 +251,8 @@
   "answer": 3,
   "explanation": "Clostridium makes butyric acid; lipases come from Candida. | Hint: Which product mismatches its microbe?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

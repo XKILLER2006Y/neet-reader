@@ -1,5 +1,21 @@
 [
  {
+  "pdfPage": 4,
+  "question": "The vector sum of two forces is perpendicular to their vector differences. In that case, the forces",
+  "options": [
+   "are equal to each other",
+   "are equal to each other in magnitude",
+   "are not equal to each other in magnitude",
+   "cannot be predicted"
+  ],
+  "answer": 1,
+  "explanation": "(F₁+F₂)·(F₁−F₂) = |F₁|² − |F₂|² = 0 ⇒ |F₁| = |F₂|, i.e. equal in magnitude.",
+  "source": "ExamSIDE.com AIPMT 2003 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2003",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
   "pdfPage": 5,
   "question": "Ball at 10 m/s, 60° from vertical. Speed at top:",
   "options": [
@@ -11,7 +27,9 @@
   "answer": 2,
   "explanation": "60° from vertical = 30° from horizontal: v_top = 10cos30 = 5√3.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -25,7 +43,9 @@
   "answer": 0,
   "explanation": "sinθ = 10/20 → 30° upstream (west).",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -39,7 +59,9 @@
   "answer": 0,
   "explanation": "|A + B|² + |A - B|² = 2(|A|² + |B|²) ⇒ (10√3)² + |A - B|² = 2(100 + 100) = 400 ⇒ 300 + |A - B|² = 400 ⇒ |A - B| = √100 = 10. | Hint: Use parallelogram identity: |A+B|² + |A-B|² = 2(A² + B²).",
   "source": "JEE JEE Main 2023 via BYJU'S JEE",
-  "year": "JEE Main 2023"
+  "year": "JEE Main 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -53,7 +75,57 @@
   "answer": 3,
   "explanation": "Distances equal: v1 t1 = v2 t2 = (v1+v2) t -> t = t1 t2/(t1+t2).",
   "source": "testbook.com/question-answer/preeti-reached-the-metro-station-and-found-that-th--62b4cbbfe64a79c988c89521",
-  "year": "2017"
+  "year": "2017",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "A body of mass 10 kg is projected at an angle of 45° with the horizontal. The change in momentum between the point of projection and the point of return is (u = 20 m/s):",
+  "options": [
+   "200√2 kg·m/s (vertically downward)",
+   "200 kg·m/s",
+   "400 kg·m/s",
+   "Zero"
+  ],
+  "answer": 0,
+  "explanation": "Horizontal momentum is conserved (Δp_x = 0). Vertical momentum changes from +m u sinθ to -m u sinθ: Δp_y = -2 m u sin 45° = -2(10)(20)(1/√2) = -200√2 kg·m/s. | Hint: Δp = 2 m u sinθ downwards.",
+  "source": "NEET NEET 2018 via BYJU'S NEET",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "A missile is fired for maximum range with an initial velocity of 20 m/s. If g = 10 m/s², the range of the missile is",
+  "options": [
+   "40 m",
+   "50 m",
+   "60 m",
+   "20 m"
+  ],
+  "answer": 0,
+  "explanation": "Maximum range needs θ = 45°, so R_max = u²/g = (20)²/10 = 40 m.",
+  "source": "ExamSIDE.com AIPMT 2011 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2011 Prelims",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "A particle moving in a circle of radius R with uniform speed takes a time T to complete one revolution. If this particle were projected with the same speed at an angle θ to the horizontal, the maximum height attained equals 4R. The angle of projection θ is:",
+  "options": [
+   "sin⁻¹[ √(2g T² / (π² R)) ]",
+   "sin⁻¹[ (2g T² / (π² R)) ]",
+   "cos⁻¹[ √(g T / (2π² R)) ]",
+   "tan⁻¹[ 4R / T ]"
+  ],
+  "answer": 0,
+  "explanation": "Speed v = 2π R / T. Max height H = v² sin²θ / (2g) = 4R ⇒ (4π² R² / T²) sin²θ = 8g R ⇒ sin²θ = 2g T² / (π² R) ⇒ θ = sin⁻¹[ √(2g T² / (π² R)) ]. | Hint: Equate orbital speed v = 2πR/T and projectile height H = v²sin²θ/2g.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -67,7 +139,9 @@
   "answer": 0,
   "explanation": "At peak, vertical velocity v_y = 0. Only horizontal velocity remains: v_x = u cos 60° = 10 × (1/2) = 5.0 m/s. | Hint: At highest point, only horizontal component u cosθ survives.",
   "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -81,7 +155,9 @@
   "answer": 3,
   "explanation": "R = H → u²sin2θ/g = u²sin²θ/2g → tanθ = 4.",
   "source": "JEE Main 2022 via PW Prayas PYQ PDF (key derived first-principles)",
-  "year": "JEE Main 2022"
+  "year": "JEE Main 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -95,7 +171,25 @@
   "answer": 2,
   "explanation": "H = (280×0.5)²/(2×9.8) = 19600/19.6 = 1000 m.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "The speed of a projectile at its maximum height is half of its initial speed. The angle of projection is",
+  "options": [
+   "60°",
+   "15°",
+   "30°",
+   "45°"
+  ],
+  "answer": 0,
+  "explanation": "At the highest point v = u cosθ = u/2 ⇒ cosθ = 1/2 ⇒ θ = 60°.",
+  "source": "ExamSIDE.com AIPMT 2010 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2010 Mains",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -109,21 +203,25 @@
   "answer": 1,
   "explanation": "t ∝ sqrt(h): sqrt(16):sqrt(25) = 4:5 (mass is irrelevant in free fall).",
   "source": "gauthmath.com/solution/1803291630164998 (options 1:1, 4:5, 5:4, 12:5) + askiitians (option 4/5)",
-  "year": "2006"
+  "year": "2006",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
-  "question": "A particle moving in a circle of radius R with uniform speed takes a time T to complete one revolution. If this particle were projected with the same speed at an angle θ to the horizontal, the maximum height attained equals 4R. The angle of projection θ is:",
+  "pdfPage": 14,
+  "question": "When an object is shot from the bottom of a smooth inclined plane at 60° to the horizontal, the ratio of time of flight to the time to reach highest point is:",
   "options": [
-   "sin⁻¹[ √(2g T² / (π² R)) ]",
-   "sin⁻¹[ (2g T² / (π² R)) ]",
-   "cos⁻¹[ √(g T / (2π² R)) ]",
-   "tan⁻¹[ 4R / T ]"
+   "2 : 1",
+   "1 : 1",
+   "1 : 2",
+   "√3 : 1"
   ],
   "answer": 0,
-  "explanation": "Speed v = 2π R / T. Max height H = v² sin²θ / (2g) = 4R ⇒ (4π² R² / T²) sin²θ = 8g R ⇒ sin²θ = 2g T² / (π² R) ⇒ θ = sin⁻¹[ √(2g T² / (π² R)) ]. | Hint: Equate orbital speed v = 2πR/T and projectile height H = v²sin²θ/2g.",
-  "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "explanation": "In uniform gravitational field with symmetric projectile motion, total time of flight T is exactly double the time to reach maximum height t_up: T / t_up = 2 : 1. | Hint: Time of ascent equals time of descent.",
+  "source": "NEET NEET 2019 via BYJU'S NEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -137,35 +235,9 @@
   "answer": 3,
   "explanation": "Same T → same ω = 2π/T.",
   "source": "NEET 2019 Code-P1 official paper + NTA key cross-check (keys re-derived)",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 19,
-  "question": "When an object is shot from the bottom of a smooth inclined plane at 60° to the horizontal, the ratio of time of flight to the time to reach highest point is:",
-  "options": [
-   "2 : 1",
-   "1 : 1",
-   "1 : 2",
-   "√3 : 1"
-  ],
-  "answer": 0,
-  "explanation": "In uniform gravitational field with symmetric projectile motion, total time of flight T is exactly double the time to reach maximum height t_up: T / t_up = 2 : 1. | Hint: Time of ascent equals time of descent.",
-  "source": "NEET NEET 2019 via BYJU'S NEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 20,
-  "question": "A body of mass 10 kg is projected at an angle of 45° with the horizontal. The change in momentum between the point of projection and the point of return is (u = 20 m/s):",
-  "options": [
-   "200√2 kg·m/s (vertically downward)",
-   "200 kg·m/s",
-   "400 kg·m/s",
-   "Zero"
-  ],
-  "answer": 0,
-  "explanation": "Horizontal momentum is conserved (Δp_x = 0). Vertical momentum changes from +m u sinθ to -m u sinθ: Δp_y = -2 m u sin 45° = -2(10)(20)(1/√2) = -200√2 kg·m/s. | Hint: Δp = 2 m u sinθ downwards.",
-  "source": "NEET NEET 2018 via BYJU'S NEET",
-  "year": "NEET 2018"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -179,7 +251,41 @@
   "answer": 3,
   "explanation": "Relative gap 1000 m closed in 100 s -> relative speed 10 m/s -> 10 + 10 = 20 m/s.",
   "source": "testbook.com/question-answer/a-bus-is-moving-with-a-speed-of-10-ms-1-on-a-strai--5f0710799ec10e0d0cdb466f",
-  "year": "2009"
+  "year": "2009",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "A particle A is dropped from a height and another particle B is projected in horizontal direction with speed of 5 m/s from the same height then correct statement is",
+  "options": [
+   "particle A will reach at ground first with respect to particle B",
+   "particle B will reach at ground first with respect to particle A",
+   "both particles will reach at ground simultaneously",
+   "both particles will reach at ground with same speed"
+  ],
+  "answer": 2,
+  "explanation": "Both have identical vertical motion (B's horizontal velocity has no vertical component), so they land together.",
+  "source": "ExamSIDE.com AIPMT 2002 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2002",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "A projectile is fired from the surface of the earth with a velocity of 5 m s⁻¹ and angle θ with the horizontal. Another projectile fired from another planet with a velocity of 3 m s⁻¹ at the same angle follows a trajectory which is identical with the trajectory of the projectile fired from the earth. The value of the acceleration due to gravity on the planet is (in m s⁻²) is (Given g = 9.8 m s⁻²)",
+  "options": [
+   "3.5",
+   "5.9",
+   "16.3",
+   "110.8"
+  ],
+  "answer": 0,
+  "explanation": "Identical trajectories at the same angle ⇒ u²/g is the same: 25/9.8 = 9/g′ ⇒ g′ = 3.53 m s⁻².",
+  "source": "ExamSIDE.com AIPMT 2014 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -193,7 +299,9 @@
   "answer": 0,
   "explanation": "dy/dx = 0 → x = 10 → H = 10 − 5 = 5 m.",
   "source": "JEE Main 2023 (8 Apr Eve) via ExamSIDE + Allen (options + key agree)",
-  "year": "JEE Main 2023"
+  "year": "JEE Main 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -207,6 +315,8 @@
   "answer": 1,
   "explanation": "ax = d²x/dt² = −4, ay = 0.",
   "source": "NEET 2017 Code-X via Motion (key verified first-principles)",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

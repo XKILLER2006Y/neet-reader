@@ -1,34 +1,6 @@
 [
  {
-  "pdfPage": 6,
-  "question": "Reaction converting acetamide (CH3CONH2) to methanamine (CH3NH2):",
-  "options": [
-   "Carbylamine reaction",
-   "Hoffmann hypobromamide reaction",
-   "Stephen reaction",
-   "Gabriel phthalimide synthesis"
-  ],
-  "answer": 1,
-  "explanation": "Hoffmann bromamide degradation shortens the amide by one carbon to a primary amine. | Hint: Which named reaction drops one carbon from an amide?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 6,
-  "question": "Statement I: Aniline does not undergo Friedel-Crafts alkylation. Statement II: Aniline cannot be prepared by Gabriel synthesis.",
-  "options": [
-   "Both false",
-   "I correct, II false",
-   "I incorrect, II correct",
-   "Both correct"
-  ],
-  "answer": 3,
-  "explanation": "Aniline forms a salt with AlCl3 (ring deactivated), and aryl halides cannot do SN2 in Gabriel synthesis. | Hint: Why would AlCl3 kill the ring, and can aryl halides do SN2?",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 7,
+  "pdfPage": 5,
   "question": "Which of the following reactions will NOT give a primary amine as the product?",
   "options": [
    "CH3CN + LiAlH4, then H3O+ (nitrile reduction)",
@@ -39,7 +11,25 @@
   "answer": 1,
   "explanation": "Nitrile, amide (both reductions) and Hoffmann degradation all yield primary amines; only isocyanide reduction gives a secondary amine (CH3NHCH3). | Hint: Which substrate already has an extra carbon on nitrogen?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "Decreasing basic strength: N-ethylethanamine, ethanamine, N-methylaniline, benzenamine:",
+  "options": [
+   "2° ethyl > 1° ethyl > N-methylaniline > aniline",
+   "Aniline > ethanamine > N-methylaniline > 2° ethyl",
+   "N-methylaniline > aniline > ethanamine > 2° ethyl",
+   "2° ethyl > ethanamine > aniline > N-methylaniline"
+  ],
+  "answer": 0,
+  "explanation": "Aliphatics beat aromatics; among aliphatics 2° > 1° in water; methyl donation makes N-methylaniline beat aniline. | Hint: Split into two contests: aliphatic order, then aromatic order.",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -53,21 +43,25 @@
   "answer": 0,
   "explanation": "In water, solvation and inductive effects combine to give secondary > primary > tertiary. | Hint: Aqueous order differs from gas phase: solvation matters.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
-  "question": "Increasing basic strength: (I) Aniline, (II) p-Nitroaniline, (III) p-Toluidine:",
+  "question": "Correct statement on basicity of aryl amines:",
   "options": [
-   "II < III < I",
-   "III < I < II",
-   "III < II < I",
-   "II < I < III"
+   "Aryl amines are less basic than alkyl amines (lone pair delocalised into ring)",
+   "Aryl amines are more basic (lone pair not delocalised)",
+   "Aryl amines are more basic because of aryl group",
+   "Aryl amines are more basic (N is sp-hybridised)"
   ],
-  "answer": 3,
-  "explanation": "Electron-withdrawing NO2 weakens and electron-donating CH3 strengthens the base relative to aniline. | Hint: Sort by substituent: withdrawing versus donating.",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "answer": 0,
+  "explanation": "Delocalisation of the nitrogen lone pair into the aromatic ring makes it unavailable for donation. | Hint: Where does the nitrogen lone pair go in aniline?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -81,7 +75,9 @@
   "answer": 0,
   "explanation": "Carbonyl + primary amine condenses to an imine (Schiff base) with loss of water. | Hint: C=O plus R-NH2 eliminates water to give what?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -95,7 +91,9 @@
   "answer": 0,
   "explanation": "Primary amines form sulphonamides with an acidic N-H, soluble in alkali; tertiary amines do not react. | Hint: Alkali-soluble sulphonamide comes from which amine class?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -109,35 +107,9 @@
   "answer": 0,
   "explanation": "Brominate first (CH3 and NO2 jointly direct ortho to CH3), then reduce, diazotise and deaminate to leave Br ortho to methyl. | Hint: Brominate while NO2 still directs; remove NH2 last.",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 13,
-  "question": "Statement I: Primary aliphatic amines give unstable diazonium salts with HNO2. Statement II: Primary aromatic diazonium salts are stable even above 300 K.",
-  "options": [
-   "Both correct",
-   "Both incorrect",
-   "I correct, II incorrect",
-   "I incorrect, II correct"
-  ],
-  "answer": 2,
-  "explanation": "Aliphatic diazonium salts decompose instantly; aromatic ones survive only at 273-278 K, not above 300 K. | Hint: At what temperature are diazonium salts actually stable?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 13,
-  "question": "Which amine gives the carbylamine test?",
-  "options": [
-   "N,N-dimethylaniline",
-   "N-ethylaniline",
-   "Aniline",
-   "N-methylaniline"
-  ],
-  "answer": 2,
-  "explanation": "Only primary amines (here aniline) form foul-smelling isocyanides with CHCl3/KOH. | Hint: Carbylamine needs an -NH2 group.",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -151,21 +123,73 @@
   "answer": 3,
   "explanation": "Protonated -NH3+ is deactivating and meta-directing, unlike free -NH2. | Hint: What happens to -NH2 in strong acid?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "Statement I: Primary aliphatic amines give unstable diazonium salts with HNO2. Statement II: Primary aromatic diazonium salts are stable even above 300 K.",
+  "options": [
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
+  ],
+  "answer": 2,
+  "explanation": "Aliphatic diazonium salts decompose instantly; aromatic ones survive only at 273-278 K, not above 300 K. | Hint: At what temperature are diazonium salts actually stable?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
-  "question": "Correct statement on basicity of aryl amines:",
+  "question": "Increasing basic strength: (I) Aniline, (II) p-Nitroaniline, (III) p-Toluidine:",
   "options": [
-   "Aryl amines are less basic than alkyl amines (lone pair delocalised into ring)",
-   "Aryl amines are more basic (lone pair not delocalised)",
-   "Aryl amines are more basic because of aryl group",
-   "Aryl amines are more basic (N is sp-hybridised)"
+   "II < III < I",
+   "III < I < II",
+   "III < II < I",
+   "II < I < III"
   ],
-  "answer": 0,
-  "explanation": "Delocalisation of the nitrogen lone pair into the aromatic ring makes it unavailable for donation. | Hint: Where does the nitrogen lone pair go in aniline?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "answer": 3,
+  "explanation": "Electron-withdrawing NO2 weakens and electron-donating CH3 strengthens the base relative to aniline. | Hint: Sort by substituent: withdrawing versus donating.",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "Statement I: Aniline does not undergo Friedel-Crafts alkylation. Statement II: Aniline cannot be prepared by Gabriel synthesis.",
+  "options": [
+   "Both false",
+   "I correct, II false",
+   "I incorrect, II correct",
+   "Both correct"
+  ],
+  "answer": 3,
+  "explanation": "Aniline forms a salt with AlCl3 (ring deactivated), and aryl halides cannot do SN2 in Gabriel synthesis. | Hint: Why would AlCl3 kill the ring, and can aryl halides do SN2?",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "Which amine gives the carbylamine test?",
+  "options": [
+   "N,N-dimethylaniline",
+   "N-ethylaniline",
+   "Aniline",
+   "N-methylaniline"
+  ],
+  "answer": 2,
+  "explanation": "Only primary amines (here aniline) form foul-smelling isocyanides with CHCl3/KOH. | Hint: Carbylamine needs an -NH2 group.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -179,21 +203,9 @@
   "answer": 1,
   "explanation": "Only nitrobenzene needs the Sn/HCl reduction step to aniline before diazotisation and coupling. | Hint: Which option needs reducing before it can diazotise?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 21,
-  "question": "Decreasing basic strength: N-ethylethanamine, ethanamine, N-methylaniline, benzenamine:",
-  "options": [
-   "2° ethyl > 1° ethyl > N-methylaniline > aniline",
-   "Aniline > ethanamine > N-methylaniline > 2° ethyl",
-   "N-methylaniline > aniline > ethanamine > 2° ethyl",
-   "2° ethyl > ethanamine > aniline > N-methylaniline"
-  ],
-  "answer": 0,
-  "explanation": "Aliphatics beat aromatics; among aliphatics 2° > 1° in water; methyl donation makes N-methylaniline beat aniline. | Hint: Split into two contests: aliphatic order, then aromatic order.",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -207,6 +219,24 @@
   "answer": 1,
   "explanation": "Sandmeyer bromination, Grignard formation, then hydrolysis replaces -MgBr with H. | Hint: Track the functional group through three steps.",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 21,
+  "question": "Reaction converting acetamide (CH3CONH2) to methanamine (CH3NH2):",
+  "options": [
+   "Carbylamine reaction",
+   "Hoffmann hypobromamide reaction",
+   "Stephen reaction",
+   "Gabriel phthalimide synthesis"
+  ],
+  "answer": 1,
+  "explanation": "Hoffmann bromamide degradation shortens the amide by one carbon to a primary amine. | Hint: Which named reaction drops one carbon from an amide?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

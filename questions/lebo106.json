@@ -11,7 +11,9 @@
   "answer": 0,
   "explanation": "Tubectomy blocks the Fallopian tubes so the ovum cannot reach the uterus; vasectomy (option C) is the male equivalent.",
   "source": "AIPMT 2014 (questions.collegedunia.com + careers360)",
-  "year": "2014"
+  "year": "2014",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -25,7 +27,9 @@
   "answer": 3,
   "explanation": "Octopus and vertebrate eyes evolved independently (analogous). | Hint: Which eyes evolved separately?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -39,7 +43,9 @@
   "answer": 1,
   "explanation": "Different origins converging on one function. | Hint: Same job, different origin?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -53,7 +59,9 @@
   "answer": 2,
   "explanation": "Same structure, common ancestor: homology. | Hint: Same bones = what evidence?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -67,7 +75,9 @@
   "answer": 3,
   "explanation": "Same forelimb bones, different uses: divergent homology. | Hint: Same bones, different jobs?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -81,7 +91,9 @@
   "answer": 3,
   "explanation": "Penguin and dolphin flippers are analogous (convergent), not homologous. | Hint: Bird flippers and mammal flippers: same origin?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -95,7 +107,9 @@
   "answer": 0,
   "explanation": "Chance fixation bites hardest in tiny isolated gene pools. | Hint: Where does chance rule?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,7 +123,9 @@
   "answer": 2,
   "explanation": "Chemistry first (monomers→polymers), then cells, then DNA systems. | Hint: Molecules before cells?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,7 +139,9 @@
   "answer": 1,
   "explanation": "de Vries proposed single-step large mutations (saltation). | Hint: Sudden big jumps: whose idea?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -137,7 +155,9 @@
   "answer": 1,
   "explanation": "Pushing the mean one way is directional selection. | Hint: Mean pushed one way?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -151,7 +171,9 @@
   "answer": 1,
   "explanation": "2pq counts the heterozygotes. | Hint: The middle term?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -165,7 +187,9 @@
   "answer": 3,
   "explanation": "Cu2+ ions suppress sperm motility and the fertilising capacity of sperms.",
   "source": "NEET 2017 (questions.collegedunia.com + testbook.com)",
-  "year": "2017"
+  "year": "2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -179,7 +203,9 @@
   "answer": 2,
   "explanation": "Saheli (centchroman) is a non-steroidal, once-weekly pill that blocks estrogen receptors, preventing implantation.",
   "source": "NEET 2018 (sarthaks.com + edurev.in)",
-  "year": "2018"
+  "year": "2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -193,7 +219,9 @@
   "answer": 1,
   "explanation": "Ramapithecus roots the ape line before Australopithecus and Homo. | Hint: Ape before man-ape before man?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -207,6 +235,8 @@
   "answer": 2,
   "explanation": "Both match the standard origin narrative. | Hint: Anaerobes first, then chemoautotrophs?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

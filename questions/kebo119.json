@@ -11,7 +11,25 @@
   "answer": 3,
   "explanation": "GnRH drives the anterior pituitary to secrete the gonadotrophins LH and FSH. | Hint: Which pituitary lobe makes gonadotrophins?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 3,
+  "question": "A temporary endocrine gland in humans:",
+  "options": [
+   "Pineal gland",
+   "Corpus luteum",
+   "Corpus allatum",
+   "Corpus cardiacum"
+  ],
+  "answer": 1,
+  "explanation": "Corpus luteum secretes progesterone briefly, then regresses without pregnancy. | Hint: Which gland exists only around ovulation/pregnancy?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -25,7 +43,9 @@
   "answer": 3,
   "explanation": "Fused growth plates cannot lengthen bones further. | Hint: What closes in long bones after adolescence?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +59,9 @@
   "answer": 1,
   "explanation": "ADH is synthesised in the hypothalamus, stored in the posterior pituitary. | Hint: Which hormone travels down from the hypothalamus?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -53,7 +75,9 @@
   "answer": 2,
   "explanation": "Goitre-eyes, GH excess, cortisol excess, thyroid lack in order. | Hint: Pair each disease.",
   "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -67,7 +91,25 @@
   "answer": 0,
   "explanation": "It merely stores hypothalamic oxytocin and ADH made above. | Hint: Where are its hormones actually made?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 3,
+  "question": "Relaxin in late pregnancy from:",
+  "options": [
+   "Foetus",
+   "Uterus",
+   "Graafian follicle",
+   "Corpus luteum"
+  ],
+  "answer": 3,
+  "explanation": "Corpus luteum (and placenta) secrete relaxin. | Hint: Which ovarian structure persists?",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -81,7 +123,25 @@
   "answer": 0,
   "explanation": "Maternal/infant iodine lack causes cretinism with exactly this picture. | Hint: Which deficiency stunts brain and body from birth?",
   "source": "NEET NEET 2013 via BYJU'S",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 4,
+  "question": "Prevents diuresis:",
+  "options": [
+   "ANF vasoconstriction",
+   "Less renin from JG cells",
+   "Less ADH, more water loss",
+   "Aldosterone Na+/water reabsorption"
+  ],
+  "answer": 3,
+  "explanation": "Aldosterone saves sodium and water. | Hint: Which hormone saves water?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -95,21 +155,9 @@
   "answer": 3,
   "explanation": "Protein insulin digests like food in the gut. | Hint: Protein drug through stomach acid?",
   "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 6,
-  "question": "Fight-or-flight activates:",
-  "options": [
-   "Pancreas, lowering blood sugar",
-   "Adrenal medulla, raising epi/norepinephrine",
-   "Kidney, suppressing RAAS",
-   "Parathyroids, raising metabolic rate"
-  ],
-  "answer": 1,
-  "explanation": "Adrenal medulla floods epinephrine/norepinephrine for alarm response. | Hint: Which gland fires adrenaline?",
-  "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -123,7 +171,9 @@
   "answer": 3,
   "explanation": "Aldosterone is a mineralocorticoid (salt/water); the rest tune glucose. | Hint: Which one handles salt, not sugar?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -137,63 +187,9 @@
   "answer": 3,
   "explanation": "PTH raises calcium and bone turnover; b, d, e contradict it. | Hint: Which three oppose PTH action?",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 7,
-  "question": "Peptide hormone acting on hepatocytes/adipocytes, boosting glucose uptake:",
-  "options": [
-   "Gastrin",
-   "Insulin",
-   "Secretin",
-   "Glucagon"
-  ],
-  "answer": 1,
-  "explanation": "Insulin drives glucose into liver and fat cells. | Hint: Which hormone clears glucose into cells?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 7,
-  "question": "Prevents diuresis:",
-  "options": [
-   "ANF vasoconstriction",
-   "Less renin from JG cells",
-   "Less ADH, more water loss",
-   "Aldosterone Na+/water reabsorption"
-  ],
-  "answer": 3,
-  "explanation": "Aldosterone saves sodium and water. | Hint: Which hormone saves water?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 8,
-  "question": "A temporary endocrine gland in humans:",
-  "options": [
-   "Pineal gland",
-   "Corpus luteum",
-   "Corpus allatum",
-   "Corpus cardiacum"
-  ],
-  "answer": 1,
-  "explanation": "Corpus luteum secretes progesterone briefly, then regresses without pregnancy. | Hint: Which gland exists only around ovulation/pregnancy?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 8,
-  "question": "Relaxin in late pregnancy from:",
-  "options": [
-   "Foetus",
-   "Uterus",
-   "Graafian follicle",
-   "Corpus luteum"
-  ],
-  "answer": 3,
-  "explanation": "Corpus luteum (and placenta) secrete relaxin. | Hint: Which ovarian structure persists?",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -207,7 +203,9 @@
   "answer": 1,
   "explanation": "Juxtaglomerular kidney cells sense low oxygen. | Hint: Which kidney cells sense oxygen?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -221,7 +219,25 @@
   "answer": 2,
   "explanation": "Glucagon is a peptide; the rest are steroids. | Hint: Peptide among steroids?",
   "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Fight-or-flight activates:",
+  "options": [
+   "Pancreas, lowering blood sugar",
+   "Adrenal medulla, raising epi/norepinephrine",
+   "Kidney, suppressing RAAS",
+   "Parathyroids, raising metabolic rate"
+  ],
+  "answer": 1,
+  "explanation": "Adrenal medulla floods epinephrine/norepinephrine for alarm response. | Hint: Which gland fires adrenaline?",
+  "source": "NEET NEET 2014 via BYJU'S",
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -235,7 +251,25 @@
   "answer": 0,
   "explanation": "Insulin/glucagon, PTH/calcitonin and aldosterone/ANF oppose each other; relaxin-inhibin do not. | Hint: Which pair never opposes?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Peptide hormone acting on hepatocytes/adipocytes, boosting glucose uptake:",
+  "options": [
+   "Gastrin",
+   "Insulin",
+   "Secretin",
+   "Glucagon"
+  ],
+  "answer": 1,
+  "explanation": "Insulin drives glucose into liver and fat cells. | Hint: Which hormone clears glucose into cells?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -249,7 +283,9 @@
   "answer": 0,
   "explanation": "Sugar plus ketones in urine mark diabetes. | Hint: Sugar and ketones in urine?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -263,7 +299,9 @@
   "answer": 3,
   "explanation": "ADH is made above and stored behind. | Hint: Made in hypothalamus, stored in posterior?",
   "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -277,6 +315,8 @@
   "answer": 0,
   "explanation": "Each gland pairs its classic disorder. | Hint: Pair each gland.",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

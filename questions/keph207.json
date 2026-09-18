@@ -11,7 +11,9 @@
   "answer": 2,
   "explanation": "M = 4 g/mol; γ = Mv²/(RT) = 1.6; C_p = γC_v = 8.0 J/K/mol.",
   "source": "smartachievers.online",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -25,7 +27,9 @@
   "answer": 0,
   "explanation": "Closed 3rd harmonic = 3v/80 = v/(2L′) → L′ = 40/3 = 13.33 cm.",
   "source": "smartachievers.online",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -39,63 +43,9 @@
   "answer": 1,
   "explanation": "Open 2nd overtone = 3v/(2L′); closed 1st overtone = 3v/(4L). Equal → L′ = 2L.",
   "source": "smartachievers.online",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 15,
-  "question": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
-  "options": [
-   "3f/2",
-   "2f",
-   "f/2",
-   "f"
-  ],
-  "answer": 3,
-  "explanation": "Open pipe f = v/(2L). Dipped to half length → closed pipe of L/2: f′ = v/(4·L/2) = v/(2L) = f.",
-  "source": "smartachievers.online",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 15,
-  "question": "A string is stretched between fixed points separated by 75.0 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. The lowest resonant frequency for this string is",
-  "options": [
-   "10.5 Hz",
-   "105 Hz",
-   "155 Hz",
-   "205 Hz"
-  ],
-  "answer": 1,
-  "explanation": "Adjacent resonances differ by fundamental: 420−315 = 105 Hz.",
-  "source": "smartachievers.online",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 15,
-  "question": "A tuning fork with frequency 800 Hz produces resonance in a resonance column tube with upper end open and lower end closed by water surface. Successive resonance are observed at length 9.75 cm, 31.25 cm and 52.75 cm. The speed of sound in air is:",
-  "options": [
-   "500 m/s",
-   "156 m/s",
-   "344 m/s",
-   "172 m/s"
-  ],
-  "answer": 2,
-  "explanation": "Successive lengths differ by λ/2: 31.25−9.75 = 21.5 cm = λ/2 → λ = 43 cm; v = 800 × 0.43 = 344 m/s.",
-  "source": "smartachievers.online",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 15,
-  "question": "If the length of an open organ pipe is 50 cm, what is its fundamental frequency in air? (Speed of sound = 330 m/s):",
-  "options": [
-   "330 Hz",
-   "165 Hz",
-   "660 Hz",
-   "220 Hz"
-  ],
-  "answer": 0,
-  "explanation": "f_open = v / (2L) = 330 / (2 × 0.50 m) = 330 / 1.0 = 330 Hz. | Hint: Fundamental of open pipe is v / (2L).",
-  "source": "NEET NEET 2022 via BYJU'S NEET",
-  "year": "NEET 2022"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -109,7 +59,9 @@
   "answer": 3,
   "explanation": "Fundamental = 100 Hz; odd harmonics 100,300,…,1100 Hz below 1250 → 6 oscillations.",
   "source": "smartachievers.online",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -123,7 +75,9 @@
   "answer": 0,
   "explanation": "Closed pipe: only odd harmonics, consecutive differ by 2f. 260−220 = 40 = 2f → f = 20 Hz.",
   "source": "smartachievers.online",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -137,7 +91,9 @@
   "answer": 1,
   "explanation": "f_B = 524 or 536. Lowering tension lowers f_B; beats increase → f_B below 530 → 524 Hz.",
   "source": "smartachievers.online",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -151,7 +107,41 @@
   "answer": 0,
   "explanation": "Frequency could be 246 or 254 Hz. Loading with wax decreases frequency. If it were 246 Hz, decreasing it to 244 Hz widens difference from 250 Hz to 6 beats/s (matches!). | Hint: Waxing decreases frequency. Pick the one that widens gap.",
   "source": "NEET NEET 2019 via BYJU'S NEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "A pipe open at both ends has a fundamental frequency f in air. The pipe is now dipped vertically in a water drum to half of its length. The fundamental frequency of the air column is now equal to:",
+  "options": [
+   "3f/2",
+   "2f",
+   "f/2",
+   "f"
+  ],
+  "answer": 3,
+  "explanation": "Open pipe f = v/(2L). Dipped to half length → closed pipe of L/2: f′ = v/(4·L/2) = v/(2L) = f.",
+  "source": "smartachievers.online",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "A string is stretched between fixed points separated by 75.0 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. The lowest resonant frequency for this string is",
+  "options": [
+   "10.5 Hz",
+   "105 Hz",
+   "155 Hz",
+   "205 Hz"
+  ],
+  "answer": 1,
+  "explanation": "Adjacent resonances differ by fundamental: 420−315 = 105 Hz.",
+  "source": "smartachievers.online",
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -165,7 +155,9 @@
   "answer": 0,
   "explanation": "v/80 = 3v/(2L′) → L′ = 120 cm.",
   "source": "smartachievers.online",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -179,7 +171,9 @@
   "answer": 3,
   "explanation": "Open f = v/(2L), closed f = v/(4L) → ratio 2 : 1.",
   "source": "smartachievers.online",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -193,7 +187,25 @@
   "answer": 1,
   "explanation": "v = 2f(L₂−L₁) = 2 × 320 × 0.53 = 339.2 m/s.",
   "source": "smartachievers.online",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "A tuning fork with frequency 800 Hz produces resonance in a resonance column tube with upper end open and lower end closed by water surface. Successive resonance are observed at length 9.75 cm, 31.25 cm and 52.75 cm. The speed of sound in air is:",
+  "options": [
+   "500 m/s",
+   "156 m/s",
+   "344 m/s",
+   "172 m/s"
+  ],
+  "answer": 2,
+  "explanation": "Successive lengths differ by λ/2: 31.25−9.75 = 21.5 cm = λ/2 → λ = 43 cm; v = 800 × 0.43 = 344 m/s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -207,7 +219,25 @@
   "answer": 0,
   "explanation": "l₁ = λ/4 = 50 cm; next resonance l₂ = 3λ/4 = 150 cm.",
   "source": "smartachievers.online",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "If the length of an open organ pipe is 50 cm, what is its fundamental frequency in air? (Speed of sound = 330 m/s):",
+  "options": [
+   "330 Hz",
+   "165 Hz",
+   "660 Hz",
+   "220 Hz"
+  ],
+  "answer": 0,
+  "explanation": "f_open = v / (2L) = 330 / (2 × 0.50 m) = 330 / 1.0 = 330 Hz. | Hint: Fundamental of open pipe is v / (2L).",
+  "source": "NEET NEET 2022 via BYJU'S NEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -221,7 +251,9 @@
   "answer": 2,
   "explanation": "v/2L_o = 3v/80 → L_o = 40/3 ≈ 13.2 cm.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -235,6 +267,8 @@
   "answer": 2,
   "explanation": "Closed 4th overtone = 9th harmonic = 9v/(4L); open 3rd overtone = 4th harmonic = 2v/L′. Equal → 9L′ = 8L → L/L′ = 9/8.",
   "source": "smartachievers.online",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

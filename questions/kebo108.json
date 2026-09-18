@@ -1,6 +1,22 @@
 [
  {
   "pdfPage": 4,
+  "question": "Cellular totipotency is shown by:",
+  "options": [
+   "Only bacteria",
+   "All eukaryotes",
+   "All plant cells",
+   "Only gymnosperms"
+  ],
+  "answer": 2,
+  "explanation": "Plant cells retain totipotency (whole plant from one cell). | Hint: Which cells regrow whole organisms?",
+  "source": "NEET NEET 2003 via BYJU'S",
+  "year": "NEET 2003",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 4,
   "question": "Non-membrane bound cell organelles found in both prokaryotic and eukaryotic cells are",
   "options": [
    "Ribosomes",
@@ -11,7 +27,9 @@
   "answer": 0,
   "explanation": "Ribosomes (70S prokaryotic, 80S eukaryotic) are non-membrane bound in both.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -25,7 +43,25 @@
   "answer": 0,
   "explanation": "Telomeric repeats (TTAGGG) are G-rich. | Hint: Which base dominates TTAGGG?",
   "source": "NEET NEET 2004 via BYJU'S",
-  "year": "NEET 2004"
+  "year": "NEET 2004",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
+  "options": [
+   "Cristae",
+   "Endoplasmic Reticulum",
+   "Mesosome",
+   "Chromatophores"
+  ],
+  "answer": 2,
+  "explanation": "Mesosome: plasma-membrane extension aiding wall formation, DNA replication, respiration.",
+  "source": "examside.com",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -39,35 +75,25 @@
   "answer": 1,
   "explanation": "Pili and fimbriae attach; flagella drive motility. | Hint: What are pili really for?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "Which of the following pair of organelles does not contain DNA?",
+  "question": "Which of the following statements about inclusion bodies is incorrect?",
   "options": [
-   "Lysosomes and Vacuoles",
-   "Nuclear envelope and Mitochondria",
-   "Mitochondria and Lysosomes",
-   "Chloroplast and Vacuoles"
+   "These are involved in ingestion of food particles",
+   "They lie free in the cytoplasm",
+   "These represent reserve material in cytoplasm",
+   "They are not bound by any membrane"
   ],
   "answer": 0,
-  "explanation": "Mitochondria and plastids have DNA; lysosomes and vacuoles do not.",
+  "explanation": "Inclusion bodies are reserve materials, not involved in food ingestion.",
   "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 7,
-  "question": "Which one of the following is the site for active ribosomal RNA synthesis?",
-  "options": [
-   "Centrosome",
-   "Chromatin",
-   "Nucleolus",
-   "Kinetochore"
-  ],
-  "answer": 2,
-  "explanation": "Nucleolus is the site of active rRNA synthesis.",
-  "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -81,21 +107,9 @@
   "answer": 1,
   "explanation": "The classic model: lipid bilayer with extrinsic and intrinsic proteins. | Hint: The full classic composition?",
   "source": "NEET NEET 1998 via BYJU'S",
-  "year": "NEET 1998"
- },
- {
-  "pdfPage": 10,
-  "question": "A specialised membranous structure in a prokaryotic cell which helps in cell wall formation, DNA replication and respiration is",
-  "options": [
-   "Cristae",
-   "Endoplasmic Reticulum",
-   "Mesosome",
-   "Chromatophores"
-  ],
-  "answer": 2,
-  "explanation": "Mesosome: plasma-membrane extension aiding wall formation, DNA replication, respiration.",
-  "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 1998",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,7 +123,9 @@
   "answer": 0,
   "explanation": "Mitchell chemiosmosis: proton-motive force drives ATP synthase. | Hint: What gradient powers ATP synthase?",
   "source": "NEET NEET 2005 via BYJU'S",
-  "year": "NEET 2005"
+  "year": "NEET 2005",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,21 +139,9 @@
   "answer": 2,
   "explanation": "Singer and Nicolson proposed the fluid mosaic model in 1972. | Hint: Who proposed the model?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
- },
- {
-  "pdfPage": 10,
-  "question": "Effective transport path between adjacent plant cells:",
-  "options": [
-   "Plasmalemma",
-   "Plastoquinones",
-   "Plasmodesmata",
-   "Endoplasmic reticulum"
-  ],
-  "answer": 2,
-  "explanation": "Plasmodesmata are cytoplasmic bridges between plant cells. | Hint: Bridges through plant cell walls?",
-  "source": "NEET NEET 2010 via BYJU'S",
-  "year": "NEET 2010"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -151,7 +155,41 @@
   "answer": 3,
   "explanation": "Cis=forming, trans=maturing (I false); proteins released from trans face (II false).",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "Which of the following are NOT considered as the part of endomembrane system?\n\nA. Mitochondria\nB. Endoplasmic reticulum\nC. Chloroplasts\nD. Golgi complex\nE. Peroxisomes\n\nChoose the most appropriate answer from the options given below:",
+  "options": [
+   "A, C and E only",
+   "A and D only",
+   "A, D and E only",
+   "B and D only"
+  ],
+  "answer": 0,
+  "explanation": "The endomembrane system comprises ER, Golgi, lysosomes, vesicles and the plasma membrane; mitochondria, chloroplasts and peroxisomes lie outside it.",
+  "source": "examside.com (NEET 2023)",
+  "year": "2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Given below are two statements : one is labelled as Assertion (A), and the other is labelled as Reason (R).\n\nAssertion (A) : The primary function of the Golgi apparatus is to package the materials made by the endoplasmic reticulum and deliver it to intracellular targets and outside the cell.\n\nReason (R) : Vesicles containing materials made by the endoplasmic reticulum fuse with the cis face of the Golgi apparatus, and they are modified and released from the trans face of the Golgi apparatus.\n\nIn the light of the above statements, choose the correct answer from the options given below :",
+  "options": [
+   "(A) is true but (R) is false",
+   "(A) is false but (R) is true",
+   "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+   "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
+  ],
+  "answer": 3,
+  "explanation": "Both statements are correct, but (R) merely describes the cis/trans vesicle traffic and does not explain the packaging function asserted in (A).",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -165,21 +203,9 @@
   "answer": 1,
   "explanation": "Lysosome packaging is associated with the Golgi apparatus, not the ER.",
   "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 13,
-  "question": "Cellular totipotency is shown by:",
-  "options": [
-   "Only bacteria",
-   "All eukaryotes",
-   "All plant cells",
-   "Only gymnosperms"
-  ],
-  "answer": 2,
-  "explanation": "Plant cells retain totipotency (whole plant from one cell). | Hint: Which cells regrow whole organisms?",
-  "source": "NEET NEET 2003 via BYJU'S",
-  "year": "NEET 2003"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -193,7 +219,25 @@
   "answer": 3,
   "explanation": "Mitochondria run cellular respiration on carbohydrate fuels. | Hint: Powerhouse of the cell?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "From the statements given below choose the correct option :\n\nA. The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S.\nB. Each ribosome has two sub-units.\nC. The two sub-units of 80 S ribosome are 60 S and 40 S while that of 70 S are 50 S and 30 S.\nD. The two sub-units of 80 S ribosome are 60 S and 20 S and that of 70 S are 50 S and 20 S.\nE. The two sub-units of 80 S are 60 S and 30 S and that of 70 S are 50 S and 30 S.",
+  "options": [
+   "A, B, E are true",
+   "B, D, E are true",
+   "A, B, C are true",
+   "A, B, D are true"
+  ],
+  "answer": 2,
+  "explanation": "80S ribosomes split into 60S and 40S sub-units and 70S into 50S and 30S, so statements A, B and C are true.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -207,7 +251,57 @@
   "answer": 1,
   "explanation": "Ciliary beating runs on dynein ATPase, not Ca2+ flux control. | Hint: What motor drives ciliary beating?",
   "source": "NEET NEET 2006 via BYJU'S",
-  "year": "NEET 2006"
+  "year": "NEET 2006",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "Effective transport path between adjacent plant cells:",
+  "options": [
+   "Plasmalemma",
+   "Plastoquinones",
+   "Plasmodesmata",
+   "Endoplasmic reticulum"
+  ],
+  "answer": 2,
+  "explanation": "Plasmodesmata are cytoplasmic bridges between plant cells. | Hint: Bridges through plant cell walls?",
+  "source": "NEET NEET 2010 via BYJU'S",
+  "year": "NEET 2010",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "Ribosomes making protein in animal cells:",
+  "options": [
+   "Cytosol only",
+   "Nuclear membrane + ER + cytosol",
+   "Mitochondria + cytosol only",
+   "Nucleolus + cytosol only"
+  ],
+  "answer": 1,
+  "explanation": "Cytosolic plus RER/nuclear-membrane ribosomes serve animal cells. | Hint: Free plus bound ribosomes?",
+  "source": "NEET NEET 2000 via BYJU'S",
+  "year": "NEET 2000",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "Which one of the following is the site for active ribosomal RNA synthesis?",
+  "options": [
+   "Centrosome",
+   "Chromatin",
+   "Nucleolus",
+   "Kinetochore"
+  ],
+  "answer": 2,
+  "explanation": "Nucleolus is the site of active rRNA synthesis.",
+  "source": "examside.com",
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -221,34 +315,56 @@
   "answer": 3,
   "explanation": "Histones=basic(III), Nucleosome=octamer wrap(IV), Euchromatin=loose(I), Heterochromatin=dense(II).",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
-  "question": "Ribosomes making protein in animal cells:",
+  "question": "Which of the following pair of organelles does not contain DNA?",
   "options": [
-   "Cytosol only",
-   "Nuclear membrane + ER + cytosol",
-   "Mitochondria + cytosol only",
-   "Nucleolus + cytosol only"
-  ],
-  "answer": 1,
-  "explanation": "Cytosolic plus RER/nuclear-membrane ribosomes serve animal cells. | Hint: Free plus bound ribosomes?",
-  "source": "NEET NEET 2000 via BYJU'S",
-  "year": "NEET 2000"
- },
- {
-  "pdfPage": 18,
-  "question": "Which of the following statements about inclusion bodies is incorrect?",
-  "options": [
-   "These are involved in ingestion of food particles",
-   "They lie free in the cytoplasm",
-   "These represent reserve material in cytoplasm",
-   "They are not bound by any membrane"
+   "Lysosomes and Vacuoles",
+   "Nuclear envelope and Mitochondria",
+   "Mitochondria and Lysosomes",
+   "Chloroplast and Vacuoles"
   ],
   "answer": 0,
-  "explanation": "Inclusion bodies are reserve materials, not involved in food ingestion.",
+  "explanation": "Mitochondria and plastids have DNA; lysosomes and vacuoles do not.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "Match List-I with List-II.\n\n(A) Fleming  (I) Disc shaped sacs or cisternae near cell nucleus\n(B) Robert Brown  (II) Chromatin\n(C) George Palade  (III) Ribosomes\n(D) Camillo Golgi  (IV) Nucleus\n\nChoose the correct answer from the options given below:",
+  "options": [
+   "A-II, B-IV, C-III, D-I",
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-IV, B-II, C-III, D-I"
+  ],
+  "answer": 0,
+  "explanation": "Flemming named chromatin, Robert Brown discovered the nucleus, Palade observed ribosomes and Golgi described the cisternae-bearing organelle.",
+  "source": "examside.com (NEET 2024 Re-Examination)",
+  "year": "2024",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "Match List-I with List-II.\n\nA. Centromere  I. Mitochondrion\nB. Cilium  II. Cell division\nC. Cristae  III. Cell movement\nD. Cell membrane  IV. Phospholipid Bilayer\n\nChoose the correct answer from the options given below :",
+  "options": [
+   "A-IV, B-II, C-III, D-I",
+   "A-II, B-III, C-I, D-IV",
+   "A-I, B-II, C-III, D-IV",
+   "A-II, B-I, C-IV, D-III"
+  ],
+  "answer": 1,
+  "explanation": "Centromere=cell division, Cilium=cell movement, Cristae=mitochondrion, Cell membrane=phospholipid bilayer.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

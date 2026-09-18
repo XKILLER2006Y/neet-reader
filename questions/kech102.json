@@ -1,19 +1,5 @@
 [
  {
-  "pdfPage": 10,
-  "question": "Wavelength of proton at 1.0x10^3 m/s (mp = 1.67x10^-27 kg):",
-  "options": [
-   "2.5 nm",
-   "14.0 nm",
-   "0.032 nm",
-   "0.40 nm"
-  ],
-  "answer": 3,
-  "explanation": "h/mv = 6.63e-34/(1.67e-27 x 1e3) = 3.97e-10 m = 0.40 nm. | Hint: Apply de Broglie directly.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
   "pdfPage": 16,
   "question": "Longest light breaking one Cl-Cl bond (242 kJ/mol):",
   "options": [
@@ -25,7 +11,9 @@
   "answer": 0,
   "explanation": "Per-bond energy gives wavelength hcNA/E = 494 nm. | Hint: Convert molar energy to per-photon first.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -39,10 +27,12 @@
   "answer": 0,
   "explanation": "Balmer lines from red: 3->2, 4->2, then 5->2. | Hint: Count inward from the red end.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 20,
   "question": "Wavelength absorbed exciting H from n=1 to n=2:",
   "options": [
    "2.650e-7 m",
@@ -53,10 +43,12 @@
   "answer": 1,
   "explanation": "Gap 1.5e-18 J gives hc/E = 1.325e-7 m. | Hint: Energy gap first, then wavelength.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 18,
+  "pdfPage": 28,
   "question": "Angular momentum of electron in 5th Bohr orbit:",
   "options": [
    "25 h/pi",
@@ -67,105 +59,9 @@
   "answer": 3,
   "explanation": "nh/2pi = 5h/2pi = 2.5 h/pi. | Hint: Bohr quantisation rule applied.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 18,
-  "question": "Correct quantum set for a 4f electron:",
-  "options": [
-   "n=4,l=3,m=+4",
-   "n=3,l=2,m=-2",
-   "n=4,l=3,m=+1",
-   "n=4,l=4,m=-4"
-  ],
-  "answer": 2,
-  "explanation": "4f needs n=4, l=3, and |m| <= 3. | Hint: Check n, l and the m-range.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 18,
-  "question": "Radius of second Bohr orbit of hydrogen:",
-  "options": [
-   "1.65 A",
-   "4.76 A",
-   "0.529 A",
-   "2.12 A"
-  ],
-  "answer": 3,
-  "explanation": "0.53 x n^2/Z = 0.53 x 4 = 2.12 A. | Hint: Radius scales with n squared.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 20,
-  "question": "IE(He+) = 19.6e-18 J. Energy of Li2+ n=1:",
-  "options": [
-   "8.82e-17 J",
-   "4.41e-16 J",
-   "-4.41e-17 J",
-   "-2.2e-15 J"
-  ],
-  "answer": 2,
-  "explanation": "Scales as Z^2: 19.6e-18 x 9/4 = 4.41e-17, negative for a bound state. | Hint: Scale by Z squared and keep the sign.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 21,
-  "question": "He+ 4->2 emission equals which H transition?",
-  "options": [
-   "n=3 to 1",
-   "n=2 to 1",
-   "n=3 to 2",
-   "n=4 to 3"
-  ],
-  "answer": 1,
-  "explanation": "Both release 10.2 eV: He+ 4->2 matches H 2->1. | Hint: Equate the two photon energies.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 22,
-  "question": "Electron KE quadrupled; de Broglie wavelength becomes:",
-  "options": [
-   "Two times",
-   "Half",
-   "One fourth",
-   "Four times"
-  ],
-  "answer": 1,
-  "explanation": "Wavelength scales as 1/sqrt(KE): four times energy halves it. | Hint: How does wavelength scale with energy?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 32,
-  "question": "True for hydrogen atom orbitals:",
-  "options": [
-   "3s below 3p",
-   "3p below 3d",
-   "3s,3p below 3d",
-   "3s=3p=3d energy"
-  ],
-  "answer": 3,
-  "explanation": "Single-electron atoms have no shielding splits: same-n orbitals degenerate. | Hint: No electron-electron repulsion in hydrogen.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 35,
-  "question": "Gd (Z=64) outer configuration:",
-  "options": [
-   "4f4 5d4 6s2",
-   "4f7 5d1 6s2",
-   "4f3 5d5 6s2",
-   "4f8 5d0 6s2"
-  ],
-  "answer": 1,
-  "explanation": "Half-filled f7 stability pulls one electron into 5d. | Hint: Which arrangement gives a half-filled f shell?",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 42,
@@ -179,7 +75,25 @@
   "answer": 1,
   "explanation": "13.6 x Z^2/n^2 = 13.6 x 9/4 = 30.6 eV. | Hint: Scale 13.6 eV by Z squared over n squared.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 42,
+  "question": "Gd (Z=64) outer configuration:",
+  "options": [
+   "4f4 5d4 6s2",
+   "4f7 5d1 6s2",
+   "4f3 5d5 6s2",
+   "4f8 5d0 6s2"
+  ],
+  "answer": 1,
+  "explanation": "Half-filled f7 stability pulls one electron into 5d. | Hint: Which arrangement gives a half-filled f shell?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 42,
@@ -193,7 +107,121 @@
   "answer": 0,
   "explanation": "2nd excited means n=3: 13.6/9 = 1.51 eV magnitude. | Hint: Which n is the second excited state?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 42,
+  "question": "True for hydrogen atom orbitals:",
+  "options": [
+   "3s below 3p",
+   "3p below 3d",
+   "3s,3p below 3d",
+   "3s=3p=3d energy"
+  ],
+  "answer": 3,
+  "explanation": "Single-electron atoms have no shielding splits: same-n orbitals degenerate. | Hint: No electron-electron repulsion in hydrogen.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "Correct quantum set for a 4f electron:",
+  "options": [
+   "n=4,l=3,m=+4",
+   "n=3,l=2,m=-2",
+   "n=4,l=3,m=+1",
+   "n=4,l=4,m=-4"
+  ],
+  "answer": 2,
+  "explanation": "4f needs n=4, l=3, and |m| <= 3. | Hint: Check n, l and the m-range.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "Electron KE quadrupled; de Broglie wavelength becomes:",
+  "options": [
+   "Two times",
+   "Half",
+   "One fourth",
+   "Four times"
+  ],
+  "answer": 1,
+  "explanation": "Wavelength scales as 1/sqrt(KE): four times energy halves it. | Hint: How does wavelength scale with energy?",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "He+ 4->2 emission equals which H transition?",
+  "options": [
+   "n=3 to 1",
+   "n=2 to 1",
+   "n=3 to 2",
+   "n=4 to 3"
+  ],
+  "answer": 1,
+  "explanation": "Both release 10.2 eV: He+ 4->2 matches H 2->1. | Hint: Equate the two photon energies.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "IE(He+) = 19.6e-18 J. Energy of Li2+ n=1:",
+  "options": [
+   "8.82e-17 J",
+   "4.41e-16 J",
+   "-4.41e-17 J",
+   "-2.2e-15 J"
+  ],
+  "answer": 2,
+  "explanation": "Scales as Z^2: 19.6e-18 x 9/4 = 4.41e-17, negative for a bound state. | Hint: Scale by Z squared and keep the sign.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "Radius of second Bohr orbit of hydrogen:",
+  "options": [
+   "1.65 A",
+   "4.76 A",
+   "0.529 A",
+   "2.12 A"
+  ],
+  "answer": 3,
+  "explanation": "0.53 x n^2/Z = 0.53 x 4 = 2.12 A. | Hint: Radius scales with n squared.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 44,
+  "question": "Wavelength of proton at 1.0x10^3 m/s (mp = 1.67x10^-27 kg):",
+  "options": [
+   "2.5 nm",
+   "14.0 nm",
+   "0.032 nm",
+   "0.40 nm"
+  ],
+  "answer": 3,
+  "explanation": "h/mv = 6.63e-34/(1.67e-27 x 1e3) = 3.97e-10 m = 0.40 nm. | Hint: Apply de Broglie directly.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 45,
@@ -207,6 +235,8 @@
   "answer": 2,
   "explanation": "Fe2+ is 3d6 (4s empties first). | Hint: Remove 4s electrons before 3d.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

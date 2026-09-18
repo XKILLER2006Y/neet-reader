@@ -11,7 +11,41 @@
   "answer": 0,
   "explanation": "Lowest gold number protects best. | Hint: Lower gold number means?",
   "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
+  "year": "JEE Main 2016",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "Which of the following depends on temperature?",
+  "options": [
+   "Molality",
+   "Molarity",
+   "Mole fraction",
+   "Weight percentage"
+  ],
+  "answer": 1,
+  "explanation": "Molarity uses solution volume, which expands with temperature; the rest are mass-based. | Hint: Which unit involves volume?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "A solution has a 1 : 4 mole ratio of pentane to hexane. The vapour pressures of the pure hydrocarbons at 20°C are 440 mm Hg for pentane and 120 mm Hg for hexane. The mole fraction of pentane in the vapour phase would be",
+  "options": [
+   "0.200",
+   "0.549",
+   "0.786",
+   "0.478"
+  ],
+  "answer": 3,
+  "explanation": "P = (1/5)(440) + (4/5)(120) = 184 mm Hg; y_pentane = 88/184 = 0.478.",
+  "source": "ExamSIDE.com AIPMT 2005 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2005",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -25,10 +59,12 @@
   "answer": 0,
   "explanation": "Needs (ii) comparable size + (iv) index mismatch → \"ii and iv\". | Hint: Size comparable, indices different?",
   "source": "JEE JEE Main 2017 via cracku",
-  "year": "JEE Main 2017"
+  "year": "JEE Main 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 10,
+  "pdfPage": 9,
   "question": "In water-saturated air the mole fraction of water vapour is 0.02. Total pressure 1.2 atm. Partial pressure of dry air:",
   "options": [
    "1.18 atm",
@@ -39,7 +75,9 @@
   "answer": 2,
   "explanation": "p(dry) = 1.2 x (1 - 0.02) = 1.176 atm. | Hint: Dalton: multiply total pressure by dry-air fraction.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -53,7 +91,41 @@
   "answer": 2,
   "explanation": "Moles: urea 0.167 > glucose 0.056 > sucrose 0.029, and osmotic pressure follows molarity. | Hint: Smallest molar mass gives most particles.",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "5 moles of liquid X and 10 moles of liquid Y make a solution having a vapour pressure of 70 torr. The vapour pressures of pure X and Y are 63 torr and 78 torr respectively. Which of the following is true regarding the described solution?",
+  "options": [
+   "The solution is ideal.",
+   "The solution has volume greater than the sum of individual volumes.",
+   "The solution shows positive deviation.",
+   "The solution shows negative deviation."
+  ],
+  "answer": 3,
+  "explanation": "Ideal P = (1/3)(63) + (2/3)(78) = 73 torr > observed 70 torr ⇒ negative deviation.",
+  "source": "ExamSIDE.com NEET 2025 PYQ + solution; verified by derivation",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "A solution of A and B shows positive deviation from ideal behaviour. Correct statement:",
+  "options": [
+   "A-A and B-B attractions exceed A-B",
+   "d(mix)H = 0 at constant T,P",
+   "d(mix)V = 0 at constant T,P",
+   "A-A, B-B equal A-B attractions"
+  ],
+  "answer": 0,
+  "explanation": "Positive deviation means molecules escape more easily: like-attractions beat unlike-attractions. | Hint: Deviation positive means weaker cross-attraction.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -67,21 +139,25 @@
   "answer": 3,
   "explanation": "Adsorption releases heat: enthalpy is low and negative. | Hint: Exothermic or endothermic?",
   "source": "JEE AIEEE 2009 via cracku",
-  "year": "AIEEE 2009"
+  "year": "AIEEE 2009",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 14,
-  "question": "A solution of A and B shows positive deviation from ideal behaviour. Correct statement:",
+  "pdfPage": 13,
+  "question": "The mixture showing positive deviation from Raoult law:",
   "options": [
-   "A-A and B-B attractions exceed A-B",
-   "d(mix)H = 0 at constant T,P",
-   "d(mix)V = 0 at constant T,P",
-   "A-A, B-B equal A-B attractions"
+   "Acetone + Chloroform",
+   "Chloroethane + Bromoethane",
+   "Ethanol + Acetone",
+   "Benzene + Toluene"
   ],
-  "answer": 0,
-  "explanation": "Positive deviation means molecules escape more easily: like-attractions beat unlike-attractions. | Hint: Deviation positive means weaker cross-attraction.",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "answer": 2,
+  "explanation": "Ethanol-acetone breaks H-bonds without forming stronger ones: classic positive deviation. | Hint: Which pair breaks H-bonds on mixing?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -95,52 +171,12 @@
   "answer": 3,
   "explanation": "Weak unlike-attraction lets vapour escape easier. | Hint: Weak cross-attraction means?",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
-  "question": "The mixture showing positive deviation from Raoult law:",
-  "options": [
-   "Acetone + Chloroform",
-   "Chloroethane + Bromoethane",
-   "Ethanol + Acetone",
-   "Benzene + Toluene"
-  ],
-  "answer": 2,
-  "explanation": "Ethanol-acetone breaks H-bonds without forming stronger ones: classic positive deviation. | Hint: Which pair breaks H-bonds on mixing?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 15,
-  "question": "2% A boils as 8% B solution. Relation:",
-  "options": [
-   "MA=4MB",
-   "MB=4MA",
-   "MA=8MB",
-   "MB=8MA"
-  ],
-  "answer": 1,
-  "explanation": "Equal boiling rise with 4x mass means 4x molar mass. | Hint: Same effect, 4x mass?",
-  "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
- },
- {
-  "pdfPage": 15,
-  "question": "At 100C, vapour pressure of a solution of 6.5 g solute in 100 g water is 732 mm. If Kb = 0.52, the boiling point is:",
-  "options": [
-   "101 C",
-   "100 C",
-   "102 C",
-   "103 C"
-  ],
-  "answer": 0,
-  "explanation": "Raoult gives x(water) = 732/760; molality = 2.13 m; dTb = 0.52 x 2.13 = 1.1, so 101.1C. | Hint: Combine Raoult law with dTb = Kb x m.",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 15,
   "question": "The mixture forming a maximum boiling azeotrope is:",
   "options": [
    "Water + Nitric acid",
@@ -151,7 +187,9 @@
   "answer": 0,
   "explanation": "Water-nitric acid shows large negative deviation, giving a maximum-boiling azeotrope. | Hint: Negative deviation gives maximum boiling point.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -165,35 +203,57 @@
   "answer": 3,
   "explanation": "Kf is a solvent property; it never depends on solute concentration. | Hint: Is Kf about the solute or the solvent?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 20,
-  "question": "250 g glucose solution, 10.8% C. Molality ~:",
+  "pdfPage": 19,
+  "question": "2% A boils as 8% B solution. Relation:",
   "options": [
-   "1.03",
-   "2.06",
-   "3.09",
-   "5.40"
+   "MA=4MB",
+   "MB=4MA",
+   "MA=8MB",
+   "MB=8MA"
   ],
   "answer": 1,
-  "explanation": "Carbon mass gives glucose moles over water mass. | Hint: C mass to glucose moles?",
+  "explanation": "Equal boiling rise with 4x mass means 4x molar mass. | Hint: Same effect, 4x mass?",
   "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
+  "year": "JEE Main 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
-  "question": "Ethylene glycol to freeze 1 kg water at -2.8C:",
+  "question": "1.00 g of a non-electrolyte solute (molar mass 250 g mol⁻¹) was dissolved in 51.2 g of benzene. If the freezing point depression constant, Kf of benzene is 5.12 K kg mol⁻¹, the freezing point of benzene will be lowered by",
   "options": [
-   "72 g",
-   "93 g",
-   "39 g",
-   "27 g"
+   "0.2 K",
+   "0.4 K",
+   "0.3 K",
+   "0.5 K"
   ],
   "answer": 1,
-  "explanation": "m = 2.8/1.86 = 1.505 mol x 62 g. | Hint: Molality from depression, then mass.",
-  "source": "JEE AIEEE 2012 via cracku",
-  "year": "AIEEE 2012"
+  "explanation": "m = (1/250)/0.0512 = 0.0781 m ⇒ ΔTf = 5.12 × 0.0781 = 0.4 K.",
+  "source": "ExamSIDE.com AIPMT 2006 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2006",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "Kf of benzene is 5.12 K kg/mol. Freezing point depression for 0.078 m non-electrolyte solution (2 decimals):",
+  "options": [
+   "0.40 K",
+   "0.60 K",
+   "0.20 K",
+   "0.80 K"
+  ],
+  "answer": 0,
+  "explanation": "dTf = 5.12 x 0.078 = 0.399, i.e. 0.40 K. | Hint: Apply dTf = Kf x m directly.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -207,49 +267,25 @@
   "answer": 1,
   "explanation": "Fewer particles mean HIGHER freezing point, not lower. | Hint: Fewer particles: higher or lower FP?",
   "source": "JEE JEE Main 2018 via cracku",
-  "year": "JEE Main 2018"
+  "year": "JEE Main 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 21,
-  "question": "Temperature-dependent quantity:",
+  "pdfPage": 23,
+  "question": "A 0.0020 m aqueous solution of an ionic compound [Co(NH₃)₅(NO₂)]Cl freezes at −0.00732°C. Number of moles of ions which 1 mol of the ionic compound produces on being dissolved in water will be (Kf = 1.86°C/m)",
   "options": [
-   "Molarity",
-   "Mass %",
-   "Molality",
-   "Mole fraction"
+   "3",
+   "4",
+   "1",
+   "2"
   ],
-  "answer": 0,
-  "explanation": "Only molarity uses volume, which expands. | Hint: Which unit uses volume?",
-  "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 21,
-  "question": "Which of the following depends on temperature?",
-  "options": [
-   "Molality",
-   "Molarity",
-   "Mole fraction",
-   "Weight percentage"
-  ],
-  "answer": 1,
-  "explanation": "Molarity uses solution volume, which expands with temperature; the rest are mass-based. | Hint: Which unit involves volume?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 22,
-  "question": "Density of 2 M aqueous NaOH is 1.28 g/cm3 (M NaOH = 40). Molality:",
-  "options": [
-   "1.20 m",
-   "1.56 m",
-   "1.67 m",
-   "1.32 m"
-  ],
-  "answer": 2,
-  "explanation": "1 L weighs 1280 g with 80 g NaOH, leaving 1200 g water: m = 2/1.2 = 1.67. | Hint: Subtract solute mass from 1 L of solution.",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "answer": 3,
+  "explanation": "i = ΔTf/(Kf·m) = 0.00732/(1.86 × 0.0020) ≈ 2, so 1 mol gives 2 mol of ions.",
+  "source": "ExamSIDE.com AIPMT 2009 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2009",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 23,
@@ -263,21 +299,9 @@
   "answer": 1,
   "explanation": "Particles must be comparable to wavelength, not much smaller. | Hint: Size versus wavelength?",
   "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
- },
- {
-  "pdfPage": 25,
-  "question": "Kf of benzene is 5.12 K kg/mol. Freezing point depression for 0.078 m non-electrolyte solution (2 decimals):",
-  "options": [
-   "0.40 K",
-   "0.60 K",
-   "0.20 K",
-   "0.80 K"
-  ],
-  "answer": 0,
-  "explanation": "dTf = 5.12 x 0.078 = 0.399, i.e. 0.40 K. | Hint: Apply dTf = Kf x m directly.",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "JEE Main 2022",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -291,21 +315,57 @@
   "answer": 3,
   "explanation": "Strong electrolyte Ba(OH)2 dissociates into 3 ions: Ba2+ + 2OH-. | Hint: Count the ions formed.",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 25,
-  "question": "van-t Hoff factor, formic acid case:",
+  "pdfPage": 27,
+  "question": "Of the following 0.10 m aqueous solutions, which one will exhibit the largest freezing point depression?",
   "options": [
-   "0.8",
-   "1.1",
-   "1.9",
-   "2.4"
+   "KCl",
+   "C₆H₁₂O₆",
+   "Al₂(SO₄)₃",
+   "K₂SO₄"
   ],
   "answer": 2,
-  "explanation": "Computed i = 1.91 from the depression data. | Hint: i from observed versus ideal?",
-  "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
+  "explanation": "ΔTf = i·Kf·m; Al₂(SO₄)₃ gives the largest i (2+3 = 5).",
+  "source": "ExamSIDE.com AIPMT 2014 PYQ + solution; verified by derivation",
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 28,
+  "question": "At 100C, vapour pressure of a solution of 6.5 g solute in 100 g water is 732 mm. If Kb = 0.52, the boiling point is:",
+  "options": [
+   "101 C",
+   "100 C",
+   "102 C",
+   "103 C"
+  ],
+  "answer": 0,
+  "explanation": "Raoult gives x(water) = 732/760; molality = 2.13 m; dTb = 0.52 x 2.13 = 1.1, so 101.1C. | Hint: Combine Raoult law with dTb = Kb x m.",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 28,
+  "question": "Ethylene glycol to freeze 1 kg water at -2.8C:",
+  "options": [
+   "72 g",
+   "93 g",
+   "39 g",
+   "27 g"
+  ],
+  "answer": 1,
+  "explanation": "m = 2.8/1.86 = 1.505 mol x 62 g. | Hint: Molality from depression, then mass.",
+  "source": "JEE AIEEE 2012 via cracku",
+  "year": "AIEEE 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -319,7 +379,25 @@
   "answer": 3,
   "explanation": "r = sqrt(3)a/4 = 152 pm. | Hint: BCC radius formula?",
   "source": "JEE AIEEE 2012 via cracku",
-  "year": "AIEEE 2012"
+  "year": "AIEEE 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 28,
+  "question": "Temperature-dependent quantity:",
+  "options": [
+   "Molarity",
+   "Mass %",
+   "Molality",
+   "Mole fraction"
+  ],
+  "answer": 0,
+  "explanation": "Only molarity uses volume, which expands. | Hint: Which unit uses volume?",
+  "source": "JEE JEE Main PYQ via cracku",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -333,7 +411,41 @@
   "answer": 0,
   "explanation": "The more volatile component (higher vapour pressure, benzene) dominates the vapour. | Hint: Which liquid evaporates more readily?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 29,
+  "question": "250 g glucose solution, 10.8% C. Molality ~:",
+  "options": [
+   "1.03",
+   "2.06",
+   "3.09",
+   "5.40"
+  ],
+  "answer": 1,
+  "explanation": "Carbon mass gives glucose moles over water mass. | Hint: C mass to glucose moles?",
+  "source": "JEE JEE Main 2022 via cracku",
+  "year": "JEE Main 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 29,
+  "question": "Density of 2 M aqueous NaOH is 1.28 g/cm3 (M NaOH = 40). Molality:",
+  "options": [
+   "1.20 m",
+   "1.56 m",
+   "1.67 m",
+   "1.32 m"
+  ],
+  "answer": 2,
+  "explanation": "1 L weighs 1280 g with 80 g NaOH, leaving 1200 g water: m = 2/1.2 = 1.67. | Hint: Subtract solute mass from 1 L of solution.",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -347,7 +459,9 @@
   "answer": 1,
   "explanation": "Supercritical CO2 replaces polluting solvents. | Hint: Supercritical green solvent?",
   "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
+  "year": "JEE Main 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -361,7 +475,9 @@
   "answer": 2,
   "explanation": "CdS negative, starch macromolecular, ferric positive, cheese gel. | Hint: Pair each colloid.",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -375,7 +491,9 @@
   "answer": 0,
   "explanation": "Solubility falls down the group. | Hint: Down the group: up or down?",
   "source": "JEE JEE Main 2016 via cracku",
-  "year": "JEE Main 2016"
+  "year": "JEE Main 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -389,7 +507,9 @@
   "answer": 3,
   "explanation": "No micelles form below critical concentration. | Hint: What needs minimum concentration?",
   "source": "JEE JEE Main 2022 via cracku",
-  "year": "JEE Main 2022"
+  "year": "JEE Main 2022",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 29,
@@ -403,7 +523,25 @@
   "answer": 1,
   "explanation": "Raoult then Dalton give 100/500 = 0.20. | Hint: Partial over total pressure?",
   "source": "JEE JEE Main PYQ via cracku",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 29,
+  "question": "van-t Hoff factor, formic acid case:",
+  "options": [
+   "0.8",
+   "1.1",
+   "1.9",
+   "2.4"
+  ],
+  "answer": 2,
+  "explanation": "Computed i = 1.91 from the depression data. | Hint: i from observed versus ideal?",
+  "source": "JEE JEE Main 2022 via cracku",
+  "year": "JEE Main 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -417,7 +555,9 @@
   "answer": 3,
   "explanation": "Triple mass for equal effect means triple molar mass. | Hint: Same depression, 3x mass?",
   "source": "JEE JEE Main 2019 via cracku",
-  "year": "JEE Main 2019"
+  "year": "JEE Main 2019",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -431,7 +571,9 @@
   "answer": 2,
   "explanation": "Ideal mixing has zero enthalpy and volume change but positive entropy and negative Gibbs energy. | Hint: What defines ideality: enthalpy or entropy?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -445,7 +587,9 @@
   "answer": 2,
   "explanation": "Longest tail (C16) micellises easiest. | Hint: Longest tail wins?",
   "source": "JEE JEE Main 2015 via cracku",
-  "year": "JEE Main 2015"
+  "year": "JEE Main 2015",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -459,6 +603,8 @@
   "answer": 3,
   "explanation": "Mixing is spontaneous so dGmix is negative, never zero; the other three are defining traits. | Hint: Which quantity must be negative for spontaneous mixing?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

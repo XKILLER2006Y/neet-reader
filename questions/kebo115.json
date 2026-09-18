@@ -1,6 +1,22 @@
 [
  {
-  "pdfPage": 1,
+  "pdfPage": 2,
+  "question": "Plasma protein involved in blood coagulation:",
+  "options": [
+   "Fibrinogen",
+   "Serum amylase",
+   "Globulin",
+   "Albumin"
+  ],
+  "answer": 0,
+  "explanation": "Fibrinogen converts to fibrin threads that mesh the clot. | Hint: Which protein becomes the clot mesh?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 2,
   "question": "Serum differs from blood in lacking:",
   "options": [
    "Antibodies",
@@ -11,7 +27,9 @@
   "answer": 1,
   "explanation": "Serum is plasma minus the consumed clotting factors (fibrinogen etc.). | Hint: What gets used up when blood clots?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 2,
@@ -25,7 +43,9 @@
   "answer": 0,
   "explanation": "Fibrinogen → fibrin during coagulation.",
   "source": "byjus.com",
-  "year": "AIPMT 2011"
+  "year": "AIPMT 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -39,7 +59,9 @@
   "answer": 3,
   "explanation": "Antigens sit on RBCs (not plasma); with no anti-A/anti-B, any group can be received. | Hint: Where do antigens live, and which antibodies are absent?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -53,7 +75,9 @@
   "answer": 1,
   "explanation": "O negative RBCs suit any recipient in emergencies. | Hint: Which group donates to all?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -67,7 +91,9 @@
   "answer": 0,
   "explanation": "Platelets (thrombocytes) plug vessel breaks; their fall causes bleeding disorders. | Hint: Which cells plug broken vessels?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -81,7 +107,9 @@
   "answer": 0,
   "explanation": "Thrombocytes (platelets) initiate clot formation.",
   "source": "byjus.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 3,
@@ -95,24 +123,12 @@
   "answer": 3,
   "explanation": "AB: both antigens on RBC, no antibodies in plasma.",
   "source": "byjus.com",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
-  "question": "Plasma protein involved in blood coagulation:",
-  "options": [
-   "Fibrinogen",
-   "Serum amylase",
-   "Globulin",
-   "Albumin"
-  ],
-  "answer": 0,
-  "explanation": "Fibrinogen converts to fibrin threads that mesh the clot. | Hint: Which protein becomes the clot mesh?",
-  "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
- },
- {
-  "pdfPage": 8,
   "question": "A certain road accident patient with an unknown blood group needs immediate blood transfusion. His one doctor friend at once offers his blood. What was the blood group of the donor?",
   "options": [
    "Blood group AB",
@@ -123,7 +139,25 @@
   "answer": 1,
   "explanation": "Group O = universal donor (no antigens on RBC).",
   "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "The second heart sound is heard when:",
+  "options": [
+   "Semilunar valves close after ventricular ejection",
+   "AV valves open",
+   "Ventricular walls vibrate from atrial gush",
+   "AV node gets SA signal"
+  ],
+  "answer": 0,
+  "explanation": "DUB comes from semilunar valve closure at diastole onset. | Hint: LUB is AV valves; what makes DUB?",
+  "source": "NEET NEET 2015 via BYJU'S",
+  "year": "NEET 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -137,7 +171,9 @@
   "answer": 3,
   "explanation": "Pulmonary artery carries blood to lungs at higher pressure than the returning pulmonary vein. | Hint: Artery leaving the heart versus vein returning?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -151,21 +187,9 @@
   "answer": 0,
   "explanation": "Second sound (dub) = closure of semilunar valves.",
   "source": "byjus.com",
-  "year": "AIPMT 2015"
- },
- {
-  "pdfPage": 8,
-  "question": "The second heart sound is heard when:",
-  "options": [
-   "Semilunar valves close after ventricular ejection",
-   "AV valves open",
-   "Ventricular walls vibrate from atrial gush",
-   "AV node gets SA signal"
-  ],
-  "answer": 0,
-  "explanation": "DUB comes from semilunar valve closure at diastole onset. | Hint: LUB is AV valves; what makes DUB?",
-  "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -179,7 +203,9 @@
   "answer": 1,
   "explanation": "Parasympathetic signals decrease both heart rate and cardiac output.",
   "source": "byjus.com",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -193,7 +219,9 @@
   "answer": 3,
   "explanation": "Urea is made in the liver, so the hepatic vein leaving it is richest. | Hint: Where is urea manufactured?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -207,7 +235,9 @@
   "answer": 1,
   "explanation": "Vagal stimulation slows the SA node, cutting rate and output. | Hint: Vagus nerve: accelerator or brake?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -221,7 +251,9 @@
   "answer": 3,
   "explanation": "Urea is made in the liver; hepatic vein drains it into systemic circulation.",
   "source": "byjus.com",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -235,7 +267,9 @@
   "answer": 2,
   "explanation": "Losing the nucleus maximises oxygen-carrying space; III captures the functional reason. | Hint: Why sacrifice the nucleus?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -249,6 +283,8 @@
   "answer": 2,
   "explanation": "Enucleation frees all internal space for O2 transport by haemoglobin.",
   "source": "byjus.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

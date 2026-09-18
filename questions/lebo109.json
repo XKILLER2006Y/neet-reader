@@ -1,31 +1,19 @@
 [
  {
   "pdfPage": 5,
-  "question": "A restriction endonuclease:",
+  "question": "Joining vector + insert cut by same enzyme needs:",
   "options": [
-   "Hind II",
-   "Protease",
-   "DNase I",
-   "RNase"
-  ],
-  "answer": 0,
-  "explanation": "Hind II was the first discovered restriction endonuclease. | Hint: First of its kind?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "PCR step order:",
-  "options": [
-   "Denaturation, Extension, Annealing",
-   "Annealing, Extension, Denaturation",
-   "Extension, Denaturation, Annealing",
-   "Denaturation, Annealing, Extension"
+   "EcoRI",
+   "Taq polymerase",
+   "Polymerase III",
+   "Ligase"
   ],
   "answer": 3,
-  "explanation": "Melt, prime, then extend. | Hint: Melt, prime, build?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "explanation": "DNA ligase seals the recombinant joints. | Hint: Which enzyme glues DNA?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -39,7 +27,9 @@
   "answer": 0,
   "explanation": "Sieving: small fragments slip through pores fastest. | Hint: Size versus speed in a gel?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -53,7 +43,9 @@
   "answer": 1,
   "explanation": "Small fragments slip through pores fastest toward anode. | Hint: Size versus speed in a gel?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,7 +59,9 @@
   "answer": 1,
   "explanation": "DNA is negative and runs to the anode (positive); cathode is negative. | Hint: Anode or cathode: which attracts negative DNA?",
   "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -81,7 +75,9 @@
   "answer": 1,
   "explanation": "EcoRV cuts straight across both strands. | Hint: Which cutter leaves no overhang?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -95,7 +91,9 @@
   "answer": 3,
   "explanation": "Plasmids are double-stranded circular DNA. | Hint: Strandedness of plasmids?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -109,21 +107,41 @@
   "answer": 2,
   "explanation": "Disarmed retroviruses deliver genes to animal cells. | Hint: Which vector suits animal cells?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 11,
+  "question": "A restriction endonuclease:",
+  "options": [
+   "Hind II",
+   "Protease",
+   "DNase I",
+   "RNase"
+  ],
+  "answer": 0,
+  "explanation": "Hind II was the first discovered restriction endonuclease. | Hint: First of its kind?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
-  "question": "Joining vector + insert cut by same enzyme needs:",
+  "question": "PCR step order:",
   "options": [
-   "EcoRI",
-   "Taq polymerase",
-   "Polymerase III",
-   "Ligase"
+   "Denaturation, Extension, Annealing",
+   "Annealing, Extension, Denaturation",
+   "Extension, Denaturation, Annealing",
+   "Denaturation, Annealing, Extension"
   ],
   "answer": 3,
-  "explanation": "DNA ligase seals the recombinant joints. | Hint: Which enzyme glues DNA?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "explanation": "Melt, prime, then extend. | Hint: Melt, prime, build?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -137,7 +155,9 @@
   "answer": 0,
   "explanation": "Markers (e.g. antibiotic resistance) flag transformants. | Hint: What flags the transformed cells?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -151,35 +171,9 @@
   "answer": 0,
   "explanation": "Heat-stable Taq comes from the hot-spring bacterium Thermus aquaticus. | Hint: Hot-spring bacterium?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 14,
-  "question": "NOT downstream processing:",
-  "options": [
-   "Separation",
-   "Purification",
-   "Preservation",
-   "Expression"
-  ],
-  "answer": 3,
-  "explanation": "Expression is upstream production; downstream starts after harvest. | Hint: Before or after harvest?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 14,
-  "question": "Protein separation+purification before marketing:",
-  "options": [
-   "Upstream",
-   "Downstream",
-   "Bioprocessing",
-   "Postproduction"
-  ],
-  "answer": 1,
-  "explanation": "Downstream processing purifies the product. | Hint: Upstream makes, downstream purifies?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -193,6 +187,40 @@
   "answer": 2,
   "explanation": "Agitation keeps oxygen (and nutrients) uniform. | Hint: What does stirring distribute?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "NOT downstream processing:",
+  "options": [
+   "Separation",
+   "Purification",
+   "Preservation",
+   "Expression"
+  ],
+  "answer": 3,
+  "explanation": "Expression is upstream production; downstream starts after harvest. | Hint: Before or after harvest?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 15,
+  "question": "Protein separation+purification before marketing:",
+  "options": [
+   "Upstream",
+   "Downstream",
+   "Bioprocessing",
+   "Postproduction"
+  ],
+  "answer": 1,
+  "explanation": "Downstream processing purifies the product. | Hint: Upstream makes, downstream purifies?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

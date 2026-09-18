@@ -11,7 +11,9 @@
   "answer": 3,
   "explanation": "Filaments arise from thalamus (or petals). | Hint: Where does the stalk start?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -25,7 +27,9 @@
   "answer": 0,
   "explanation": "Tapetum nourishes; dehiscence is endothecium work. The rest are true. | Hint: Who actually opens the anther?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -39,7 +43,9 @@
   "answer": 3,
   "explanation": "Sporopollenin resists decay for millennia. | Hint: Toughest biopolymer known?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -53,7 +59,9 @@
   "answer": 0,
   "explanation": "The ovule is the megasporangium. | Hint: Technical term for ovule?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -67,7 +75,9 @@
   "answer": 2,
   "explanation": "The surviving megaspore builds the embryo sac. | Hint: Megaspore grows into what?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -81,21 +91,9 @@
   "answer": 1,
   "explanation": "Neither completes its life cycle without the other. | Hint: Famous moth-plant mutualism?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 18,
-  "question": "Double fertilisation means:",
-  "options": [
-   "Two male gametes + one egg",
-   "One male gamete + two polar nuclei",
-   "Two male gametes + two eggs",
-   "Syngamy and triple fusion"
-  ],
-  "answer": 3,
-  "explanation": "One fusion makes zygote, the other makes endosperm. | Hint: Two fusions: which two?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -109,7 +107,9 @@
   "answer": 3,
   "explanation": "The shield-shaped monocot cotyledon is the scutellum. | Hint: Shield-shaped cotyledon?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -123,7 +123,9 @@
   "answer": 3,
   "explanation": "Coconut water is free-nuclear endosperm. | Hint: Liquid endosperm?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -137,7 +139,9 @@
   "answer": 2,
   "explanation": "Coconut meat is endosperm. | Hint: What is coconut flesh?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -151,7 +155,9 @@
   "answer": 1,
   "explanation": "Leftover nucellus is perisperm. | Hint: Nucellus remnant name?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -165,7 +171,25 @@
   "answer": 3,
   "explanation": "Syngamy + triple fusion is angiosperm-only. | Hint: Unique to flowering plants?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 24,
+  "question": "Double fertilisation means:",
+  "options": [
+   "Two male gametes + one egg",
+   "One male gamete + two polar nuclei",
+   "Two male gametes + two eggs",
+   "Syngamy and triple fusion"
+  ],
+  "answer": 3,
+  "explanation": "One fusion makes zygote, the other makes endosperm. | Hint: Two fusions: which two?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -179,7 +203,9 @@
   "answer": 3,
   "explanation": "Parthenogenesis develops the unfertilised egg. | Hint: Egg developing alone?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -193,6 +219,8 @@
   "answer": 3,
   "explanation": "Apomixis makes seeds asexually. | Hint: Seeds without fertilisation?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

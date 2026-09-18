@@ -11,7 +11,9 @@
   "answer": 0,
   "explanation": "λ = 1.227 / √V nm ⇒ 1.227 × 10⁻² = 1.227 / √V ⇒ √V = 100 ⇒ V = 10,000 V = 10 kV. | Hint: Solve for V in λ = 1.227 / √V nm.",
   "source": "NEET NEET 2020 via BYJU'S NEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 2,
@@ -25,10 +27,12 @@
   "answer": 2,
   "explanation": "λ = 1.227/√V nm → √V = 1.227/(1.227×10⁻²) = 100 → V = 10⁴ V.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 3,
+  "pdfPage": 2,
   "question": "An electron is accelerated through a potential difference of 10,000 V. Its de Broglie wavelength is (nearly) : (mₑ = 9×10⁻³¹ kg)",
   "options": [
    "12.2 × 10⁻¹² m",
@@ -39,21 +43,25 @@
   "answer": 0,
   "explanation": "λ = 12.27/√V Å = 12.27/100 Å = 0.1227 Å ≈ 12.2×10⁻¹² m.",
   "source": "examside.com",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
-  "question": "When the light of frequency 2ν₀ (where ν₀ is threshold frequency), is incident on a metal plate, the maximum velocity of electrons emitted is v₁. When the frequency of the incident radiation is increased to 5ν₀, the maximum velocity of electrons emitted from the same plate is v₂. The ratio of v₁ to v₂ is",
+  "question": "Electrons used in an electron microscope are accelerated by a voltage of 25 kV. If the voltage is increased to 100 kV then the de-Broglie wavelength associated with the electrons would",
   "options": [
-   "1 : 2",
-   "1 : 4",
-   "4 : 1",
-   "2 : 1"
+   "increase by 2 times",
+   "decrease by 2 times",
+   "decrease by 4 times",
+   "increase by 4 times"
   ],
-  "answer": 0,
-  "explanation": "½mv₁² = hν₀, ½mv₂² = 4hν₀ → v₂ = 2v₁ → v₁:v₂ = 1:2.",
+  "answer": 1,
+  "explanation": "λ ∝ 1/√V. V up 4× → λ halved → decreases by 2 times.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "AIPMT 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -67,7 +75,9 @@
   "answer": 0,
   "explanation": "λ = h/(mv) decreases with speed; central max width 2λ/a decreases.",
   "source": "examside.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -81,7 +91,9 @@
   "answer": 1,
   "explanation": "Stopping potential depends on frequency only, not intensity/distance → remains V₀.",
   "source": "examside.com",
-  "year": "NEET 2013"
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -95,21 +107,9 @@
   "answer": 3,
   "explanation": "φ = 5−2 = 3 eV; with 6 eV photons KE_max = 3 eV → stopping potential 3 V.",
   "source": "examside.com",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 5,
-  "question": "The number of photons per second on an average emitted by the source of monochromatic light of wavelength 600 nm, when it delivers the power of 3.3×10⁻³ watt will be : (h = 6.6×10⁻³⁴ J s)",
-  "options": [
-   "10¹⁵",
-   "10¹⁸",
-   "10¹⁷",
-   "10¹⁶"
-  ],
-  "answer": 3,
-  "explanation": "E = hc/λ = 3.3×10⁻¹⁹ J; n = P/E = 3.3×10⁻³/3.3×10⁻¹⁹ = 10¹⁶.",
-  "source": "examside.com",
-  "year": "NEET 2021"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -123,7 +123,9 @@
   "answer": 0,
   "explanation": "hν−φ = eVs/2 and hν/2−φ = eVs → φ = 3hν/2. (Paper key carries an NTA asterisk; algebra confirms.)",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 6,
@@ -137,7 +139,25 @@
   "answer": 2,
   "explanation": "New frequency = 0.75ν₀ < ν₀ → no emission → zero current.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 6,
+  "question": "When the light of frequency 2ν₀ (where ν₀ is threshold frequency), is incident on a metal plate, the maximum velocity of electrons emitted is v₁. When the frequency of the incident radiation is increased to 5ν₀, the maximum velocity of electrons emitted from the same plate is v₂. The ratio of v₁ to v₂ is",
+  "options": [
+   "1 : 2",
+   "1 : 4",
+   "4 : 1",
+   "2 : 1"
+  ],
+  "answer": 0,
+  "explanation": "½mv₁² = hν₀, ½mv₂² = 4hν₀ → v₂ = 2v₁ → v₁:v₂ = 1:2.",
+  "source": "examside.com",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -151,7 +171,9 @@
   "answer": 2,
   "explanation": "λ₀ = 1240/6.6 ≈ 188 nm. No emission for λ > λ₀; 200 nm > 188 nm.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -165,7 +187,9 @@
   "answer": 1,
   "explanation": "eV₀ = h(ν−ν₀) = 6.6×10⁻³⁴ × 4.9×10¹⁴ = 3.23×10⁻¹⁹ J → V₀ ≈ 2 V.",
   "source": "examside.com",
-  "year": "AIPMT 2011"
+  "year": "AIPMT 2011",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -179,7 +203,9 @@
   "answer": 0,
   "explanation": "Light power = 50 W; E = hc/λ = 3.3×10⁻¹⁹ J; n = 50/3.3×10⁻¹⁹ ≈ 1.5×10²⁰.",
   "source": "examside.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -193,21 +219,9 @@
   "answer": 3,
   "explanation": "A–D standard; photons are chargeless (E ✗).",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 10,
-  "question": "If the kinetic energy of the particle is increased to 16 times its previous value, the percentage change in the de Broglie wavelength of the particle is",
-  "options": [
-   "25%",
-   "75%",
-   "60%",
-   "50%"
-  ],
-  "answer": 1,
-  "explanation": "λ ∝ 1/√K. K→16K gives λ→λ/4; % change = 75%.",
-  "source": "examside.com",
-  "year": "AIPMT 2014"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -221,49 +235,25 @@
   "answer": 1,
   "explanation": "New f = 0.75× threshold < threshold → no emission at any intensity.",
   "source": "NEET 2016 Phase 2 via MedicNEET (key verified first-principles)",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 13,
-  "question": "Electrons used in an electron microscope are accelerated by a voltage of 25 kV. If the voltage is increased to 100 kV then the de-Broglie wavelength associated with the electrons would",
+  "pdfPage": 11,
+  "question": "The number of photons per second on an average emitted by the source of monochromatic light of wavelength 600 nm, when it delivers the power of 3.3×10⁻³ watt will be : (h = 6.6×10⁻³⁴ J s)",
   "options": [
-   "increase by 2 times",
-   "decrease by 2 times",
-   "decrease by 4 times",
-   "increase by 4 times"
+   "10¹⁵",
+   "10¹⁸",
+   "10¹⁷",
+   "10¹⁶"
   ],
-  "answer": 1,
-  "explanation": "λ ∝ 1/√V. V up 4× → λ halved → decreases by 2 times.",
+  "answer": 3,
+  "explanation": "E = hc/λ = 3.3×10⁻¹⁹ J; n = P/E = 3.3×10⁻³/3.3×10⁻¹⁹ = 10¹⁶.",
   "source": "examside.com",
-  "year": "AIPMT 2011"
- },
- {
-  "pdfPage": 13,
-  "question": "The de Broglie wavelength of an electron moving with kinetic energy 100 eV is approximately:",
-  "options": [
-   "1.227 Å (0.123 nm)",
-   "12.27 Å",
-   "0.1227 Å",
-   "0.0123 Å"
-  ],
-  "answer": 0,
-  "explanation": "λ = 12.27 / √V Å = 12.27 / √100 = 12.27 / 10 = 1.227 Å. | Hint: λ = 1.227 / √V nm.",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 13,
-  "question": "When the energy of the incident radiation is increased by 20%, the kinetic energy of the photoelectrons emitted from a metal surface increased from 0.5 eV to 0.8 eV. The work function of the metal is",
-  "options": [
-   "0.65 eV",
-   "1.0 eV",
-   "1.3 eV",
-   "1.5 eV"
-  ],
-  "answer": 1,
-  "explanation": "0.5 = E−φ; 0.8 = 1.2E−φ → E = 1.5 eV, φ = 1.0 eV.",
-  "source": "examside.com",
-  "year": "AIPMT 2014"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -277,7 +267,9 @@
   "answer": 3,
   "explanation": "r₂ = 4a₀; 2πr = nλ → λ = 2π(4a₀)/2 = 4πa₀ = 6.65 Å ≈ 0.67 nm.",
   "source": "examside.com",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -291,6 +283,56 @@
   "answer": 2,
   "explanation": "v = V₀+eE₀t/m → λ = h/mv shrinks as shown.",
   "source": "NEET 2018 Code-AA via Aakash (key verified first-principles)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "If the kinetic energy of the particle is increased to 16 times its previous value, the percentage change in the de Broglie wavelength of the particle is",
+  "options": [
+   "25%",
+   "75%",
+   "60%",
+   "50%"
+  ],
+  "answer": 1,
+  "explanation": "λ ∝ 1/√K. K→16K gives λ→λ/4; % change = 75%.",
+  "source": "examside.com",
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The de Broglie wavelength of an electron moving with kinetic energy 100 eV is approximately:",
+  "options": [
+   "1.227 Å (0.123 nm)",
+   "12.27 Å",
+   "0.1227 Å",
+   "0.0123 Å"
+  ],
+  "answer": 0,
+  "explanation": "λ = 12.27 / √V Å = 12.27 / √100 = 12.27 / 10 = 1.227 Å. | Hint: λ = 1.227 / √V nm.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "When the energy of the incident radiation is increased by 20%, the kinetic energy of the photoelectrons emitted from a metal surface increased from 0.5 eV to 0.8 eV. The work function of the metal is",
+  "options": [
+   "0.65 eV",
+   "1.0 eV",
+   "1.3 eV",
+   "1.5 eV"
+  ],
+  "answer": 1,
+  "explanation": "0.5 = E−φ; 0.8 = 1.2E−φ → E = 1.5 eV, φ = 1.0 eV.",
+  "source": "examside.com",
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

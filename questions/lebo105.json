@@ -1,17 +1,19 @@
 [
  {
   "pdfPage": 3,
-  "question": "Adenine makes 30% of a DNA molecule. Thymine, Guanine, Cytosine percentages:",
+  "question": "Adenine-thymine pairing uses:",
   "options": [
-   "T:30, G:20, C:20",
-   "T:20, G:25, C:25",
-   "T:20, G:30, C:20",
-   "T:20, G:20, C:30"
+   "Three H-bonds",
+   "No pairing",
+   "Two H-bonds",
+   "One H-bond"
   ],
-  "answer": 0,
-  "explanation": "Chargaff: A=T=30%, leaving 40% split equally between G and C. | Hint: A pairs T; the rest splits evenly.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "answer": 2,
+  "explanation": "A-T pairs through two hydrogen bonds (G-C uses three). | Hint: How many bonds: A-T versus G-C?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,7 +27,9 @@
   "answer": 0,
   "explanation": "The classic DNA to RNA to protein flow. | Hint: Recite the central dogma.",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -39,7 +43,25 @@
   "answer": 0,
   "explanation": "H1 seals nucleosomes into the 30-nm chromatin fibre (condensation). | Hint: H1 packs nucleosomes tighter or opens them?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "DNA with 6.6e9 bp (0.34 nm each) is about:",
+  "options": [
+   "2 metres",
+   "7 metres",
+   "0 metres",
+   "5 metres"
+  ],
+  "answer": 0,
+  "explanation": "6.6e9 x 0.34e-9 m = 2.24 m, about 2 metres. | Hint: Multiply base pairs by rise per pair.",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -53,21 +75,25 @@
   "answer": 3,
   "explanation": "Hershey-Chase blender experiment with 32P/35S phages settled it. | Hint: Which experiment used radioactive phages and a blender?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 9,
-  "question": "DNA with 6.6e9 bp (0.34 nm each) is about:",
+  "pdfPage": 12,
+  "question": "Enzyme opening DNA helix in transcription:",
   "options": [
-   "2 metres",
-   "7 metres",
-   "0 metres",
-   "5 metres"
+   "DNA polymerase",
+   "RNA polymerase",
+   "DNA ligase",
+   "DNA helicase"
   ],
-  "answer": 0,
-  "explanation": "6.6e9 x 0.34e-9 m = 2.24 m, about 2 metres. | Hint: Multiply base pairs by rise per pair.",
+  "answer": 3,
+  "explanation": "Helicase unwinds the duplex ahead of polymerase. | Hint: Who unzips the helix?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -81,49 +107,9 @@
   "answer": 0,
   "explanation": "Taylor used tritiated thymidine in Vicia faba root tips (eukaryote proof). | Hint: Meselson-Stahl used E. coli; Taylor used which plant?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 15,
-  "question": "Correct statement:",
-  "options": [
-   "Coding strand copied to mRNA",
-   "Split genes mark prokaryotes",
-   "Capping adds methyl-G to 3-prime end",
-   "Rho terminates bacterial transcription"
-  ],
-  "answer": 3,
-  "explanation": "Template (not coding) is copied; split genes/capping are eukaryotic-5-prime features; rho ends bacterial transcription. | Hint: Test each statement.",
-  "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 15,
-  "question": "The equivalent of a structural gene is:",
-  "options": [
-   "Operon",
-   "Muton",
-   "Cistron",
-   "None of the above"
-  ],
-  "answer": 2,
-  "explanation": "Cistron = the unit of function, i.e. the structural gene. | Hint: Unit of function equals which -on?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 16,
-  "question": "Enzyme opening DNA helix in transcription:",
-  "options": [
-   "DNA polymerase",
-   "RNA polymerase",
-   "DNA ligase",
-   "DNA helicase"
-  ],
-  "answer": 3,
-  "explanation": "Helicase unwinds the duplex ahead of polymerase. | Hint: Who unzips the helix?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -137,7 +123,9 @@
   "answer": 3,
   "explanation": "One RNA polymerase handles all three phases in bacteria. | Hint: Which single enzyme does it all?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -151,21 +139,41 @@
   "answer": 3,
   "explanation": "Splicing, capping and tailing are the true processing steps; transport follows splicing and E is not one. | Hint: Which happens first: splicing or export?",
   "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 18,
-  "question": "An RNA of 999 bases codes 33 amino acids; deleting base 901 shortens it to 998. Codons altered:",
+  "pdfPage": 17,
+  "question": "What is the role of RNA polymerase III in the process of transcription in Eukaryotes?",
   "options": [
-   "22",
-   "11",
-   "44",
-   "33"
+   "Transcription of tRNA, 5S rRNA and snRNA",
+   "Transcription of precursor of mRNA",
+   "Transcription of only snRNAs",
+   "Transcription of rRNAs (28S, 18S and 5.8S)"
   ],
-  "answer": 3,
-  "explanation": "The frameshift from codon 301 to the last codon 333 alters 33 codons. | Hint: From which codon does the frame shift, and where does it end?",
-  "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "answer": 0,
+  "explanation": "RNA polymerase III transcribes tRNAs, 5S rRNA and snRNAs; RNA pol I makes rRNAs and RNA pol II makes hnRNA.",
+  "source": "examside.com (NEET 2023)",
+  "year": "2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 17,
+  "question": "Who proposed that the genetic code for amino acids should be made up of three nucleotides?",
+  "options": [
+   "Jacque Monod",
+   "Franklin Stahl",
+   "George Gamow",
+   "Francis Crick"
+  ],
+  "answer": 2,
+  "explanation": "The physicist George Gamow argued that the genetic code should be triplet (three nucleotides per amino acid).",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -179,7 +187,25 @@
   "answer": 1,
   "explanation": "AUG codes only methionine (phenylalanine is UUU/UUC); AAA/AAG both code lysine. | Hint: How many amino acids does AUG specify?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "An RNA of 999 bases codes 33 amino acids; deleting base 901 shortens it to 998. Codons altered:",
+  "options": [
+   "22",
+   "11",
+   "44",
+   "33"
+  ],
+  "answer": 3,
+  "explanation": "The frameshift from codon 301 to the last codon 333 alters 33 codons. | Hint: From which codon does the frame shift, and where does it end?",
+  "source": "NEET NEET 2017 via BYJU'S",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -193,21 +219,9 @@
   "answer": 0,
   "explanation": "Charging tRNA with amino acids precedes everything. | Hint: What must be ready before ribosomes work?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 21,
-  "question": "Which rRNA acts as structural RNA and ribozyme in bacteria?",
-  "options": [
-   "23S rRNA",
-   "13S rRNA",
-   "33S rRNA",
-   "73S rRNA"
-  ],
-  "answer": 0,
-  "explanation": "23S rRNA of the large subunit catalyses peptide bond formation. | Hint: Which large-subunit rRNA does the chemistry?",
-  "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -221,7 +235,25 @@
   "answer": 0,
   "explanation": "Each scientist maps to exactly one landmark: transformation, lac operon, code, replication. | Hint: Pair each name with its one famous experiment.",
   "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "The equivalent of a structural gene is:",
+  "options": [
+   "Operon",
+   "Muton",
+   "Cistron",
+   "None of the above"
+  ],
+  "answer": 2,
+  "explanation": "Cistron = the unit of function, i.e. the structural gene. | Hint: Unit of function equals which -on?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -235,7 +267,25 @@
   "answer": 3,
   "explanation": "Bacterial and yeast artificial chromosomes carry the huge inserts HGP needed. | Hint: Which vectors carry the largest inserts?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 25,
+  "question": "Expressed Sequence Tags (ESTs) refers to",
+  "options": [
+   "All genes that are expressed as proteins.",
+   "All genes whether expressed or unexpressed.",
+   "Certain important expressed genes.",
+   "All genes that are expressed as RNA."
+  ],
+  "answer": 3,
+  "explanation": "ESTs are short cDNA sub-sequences that tag genes expressed as RNA (derived from mRNA of expressed genes).",
+  "source": "examside.com (NEET 2023)",
+  "year": "2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -249,10 +299,12 @@
   "answer": 0,
   "explanation": "Bacteria lack introns and splicing machinery entirely. | Hint: Which cells have no introns to splice?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 27,
+  "pdfPage": 26,
   "question": "Fingerprinting tracks differences in:",
   "options": [
    "Single nucleotides",
@@ -263,7 +315,41 @@
   "answer": 2,
   "explanation": "Satellite-DNA regions vary between individuals. | Hint: Which DNA varies person to person?",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 26,
+  "question": "In a chromosome, there is a specific DNA sequence, responsible for initiating replication. It is called as:",
+  "options": [
+   "Recognition sequence",
+   "Cloning site",
+   "Restriction site",
+   "ori site"
+  ],
+  "answer": 3,
+  "explanation": "The origin of replication (ori) is the sequence where the replication machinery assembles and DNA replication begins.",
+  "source": "examside.com (NEET 2024 Re-Examination)",
+  "year": "2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 26,
+  "question": "Which chromosome in the human genome has the highest number of genes?",
+  "options": [
+   "Chromosome 1",
+   "Chromosome 10",
+   "Chromosome X",
+   "Chromosome Y"
+  ],
+  "answer": 0,
+  "explanation": "Chromosome 1 carries the highest number of genes (2968) in the human genome.",
+  "source": "examside.com (NEET 2025)",
+  "year": "2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 28,
@@ -277,21 +363,41 @@
   "answer": 0,
   "explanation": "The phosphate backbone gives DNA a net negative charge at neutral pH, so fragments move toward the anode (+).",
   "source": "NEET 2017 (official stem restored)",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
-  "question": "Adenine-thymine pairing uses:",
+  "question": "Adenine makes 30% of a DNA molecule. Thymine, Guanine, Cytosine percentages:",
   "options": [
-   "Three H-bonds",
-   "No pairing",
-   "Two H-bonds",
-   "One H-bond"
+   "T:30, G:20, C:20",
+   "T:20, G:25, C:25",
+   "T:20, G:30, C:20",
+   "T:20, G:20, C:30"
   ],
-  "answer": 2,
-  "explanation": "A-T pairs through two hydrogen bonds (G-C uses three). | Hint: How many bonds: A-T versus G-C?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "answer": 0,
+  "explanation": "Chargaff: A=T=30%, leaving 40% split equally between G and C. | Hint: A pairs T; the rest splits evenly.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 30,
+  "question": "Correct statement:",
+  "options": [
+   "Coding strand copied to mRNA",
+   "Split genes mark prokaryotes",
+   "Capping adds methyl-G to 3-prime end",
+   "Rho terminates bacterial transcription"
+  ],
+  "answer": 3,
+  "explanation": "Template (not coding) is copied; split genes/capping are eukaryotic-5-prime features; rho ends bacterial transcription. | Hint: Test each statement.",
+  "source": "NEET NEET 2021 via MedicNEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -305,6 +411,24 @@
   "answer": 1,
   "explanation": "rRNA forms ribosomes and dominates cellular RNA mass (~80%). | Hint: Which RNA builds ribosomes?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 30,
+  "question": "Which rRNA acts as structural RNA and ribozyme in bacteria?",
+  "options": [
+   "23S rRNA",
+   "13S rRNA",
+   "33S rRNA",
+   "73S rRNA"
+  ],
+  "answer": 0,
+  "explanation": "23S rRNA of the large subunit catalyses peptide bond formation. | Hint: Which large-subunit rRNA does the chemistry?",
+  "source": "NEET NEET 2016 via BYJU'S",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

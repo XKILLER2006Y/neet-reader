@@ -11,7 +11,9 @@
   "answer": 1,
   "explanation": "Arthropods show determinate spiral cleavage, not radial indeterminate. | Hint: Radial cleavage belongs to which embryos?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,10 +27,12 @@
   "answer": 2,
   "explanation": "Choanocytes (collar cells) line the spongocoel. | Hint: Collar cells line which cavity?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 7,
+  "pdfPage": 6,
   "question": "Bilateral acoelomate exemplified by:",
   "options": [
    "Aschelminthes",
@@ -39,35 +43,9 @@
   "answer": 3,
   "explanation": "Flatworms lack any body cavity. | Hint: No cavity at all?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 7,
-  "question": "NOT in Phylum Arthropoda:",
-  "options": [
-   "Chitinous exoskeleton",
-   "Metameric segmentation",
-   "Parapodia",
-   "Jointed appendages"
-  ],
-  "answer": 2,
-  "explanation": "Parapodia belong to annelids (Nereis), not arthropods. | Hint: Whose feet are parapodia?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 7,
-  "question": "True coelomates with bilateral symmetry:",
-  "options": [
-   "Adult echinoderms",
-   "Aschelminthes",
-   "Platyhelminthes",
-   "Annelids"
-  ],
-  "answer": 3,
-  "explanation": "Annelids are schizocoelomate bilaterians; the rest fail one test. | Hint: True coelom plus bilateral: which phylum?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -81,7 +59,25 @@
   "answer": 1,
   "explanation": "Radula-mollusc, Malpighian-insect, comb-ctenophore, flame-flatworm. | Hint: Pair each structure.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "NOT in Phylum Arthropoda:",
+  "options": [
+   "Chitinous exoskeleton",
+   "Metameric segmentation",
+   "Parapodia",
+   "Jointed appendages"
+  ],
+  "answer": 2,
+  "explanation": "Parapodia belong to annelids (Nereis), not arthropods. | Hint: Whose feet are parapodia?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -95,7 +91,9 @@
   "answer": 0,
   "explanation": "Mollusca are unsegmented, so only the first trio qualifies. | Hint: Which group lacks segmentation?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -109,7 +107,25 @@
   "answer": 1,
   "explanation": "Brittle-star, Portuguese-man-o-war, pearl-oyster, flatworm in order. | Hint: Know each animal.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Hemichordate-chordate shared trait:",
+  "options": [
+   "No notochord",
+   "Ventral tubular nerve cord",
+   "Pharynx with gill slits",
+   "Pharynx without slits"
+  ],
+  "answer": 2,
+  "explanation": "Both open the pharynx with gill slits (stomochord is not true notochord). | Hint: What gill structure do both share?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,21 +139,9 @@
   "answer": 1,
   "explanation": "Embryonic vertebrate notochord and dorsal hollow CNS hold; the rest err. | Hint: Test each statement.",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 11,
-  "question": "Always-true characteristic-group pairing:",
-  "options": [
-   "Cartilaginous skeleton - Chondrichthyes",
-   "Viviparous - Mammalia",
-   "Jaws - Chordata",
-   "3-chambered heart - Reptilia"
-  ],
-  "answer": 0,
-  "explanation": "Platypus breaks B, jawless cyclostomes break C, crocodiles break D. | Hint: Find the exception to each other option.",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -151,7 +155,9 @@
   "answer": 1,
   "explanation": "Cyclostomes are jawless and finless; crocodiles, sharks and platypus break the rest. | Hint: Which group never evolved jaws?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -165,7 +171,9 @@
   "answer": 2,
   "explanation": "Sharks (fish) and Trygon (ray) are not mammals. | Hint: Which two are fish, not mammals?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -179,7 +187,9 @@
   "answer": 2,
   "explanation": "Cyclostome slits, shark tail, bony bladder, ray sting in order. | Hint: Pair each fish trait.",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -193,7 +203,9 @@
   "answer": 3,
   "explanation": "Only the all-bird set has crop and gizzard. | Hint: Which set is all birds?",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -207,21 +219,41 @@
   "answer": 1,
   "explanation": "Chelone (turtle) is a poikilotherm — body temperature varies with the environment. Camel (mammal), Macropus (kangaroo, mammal) and Psittacula (bird) are homeotherms.",
   "source": "NEET 2018 (official stem restored)",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
-  "question": "Hemichordate-chordate shared trait:",
+  "question": "Always-true characteristic-group pairing:",
   "options": [
-   "No notochord",
-   "Ventral tubular nerve cord",
-   "Pharynx with gill slits",
-   "Pharynx without slits"
+   "Cartilaginous skeleton - Chondrichthyes",
+   "Viviparous - Mammalia",
+   "Jaws - Chordata",
+   "3-chambered heart - Reptilia"
   ],
-  "answer": 2,
-  "explanation": "Both open the pharynx with gill slits (stomochord is not true notochord). | Hint: What gill structure do both share?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "answer": 0,
+  "explanation": "Platypus breaks B, jawless cyclostomes break C, crocodiles break D. | Hint: Find the exception to each other option.",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "True coelomates with bilateral symmetry:",
+  "options": [
+   "Adult echinoderms",
+   "Aschelminthes",
+   "Platyhelminthes",
+   "Annelids"
+  ],
+  "answer": 3,
+  "explanation": "Annelids are schizocoelomate bilaterians; the rest fail one test. | Hint: True coelom plus bilateral: which phylum?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -235,7 +267,9 @@
   "answer": 2,
   "explanation": "Moth, tunicate and starfish all metamorphose; earthworm develops directly. | Hint: Who develops directly?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 17,
@@ -249,6 +283,8 @@
   "answer": 2,
   "explanation": "Platypus and echidna lay eggs, so viviparity is not universal in mammals. | Hint: Which mammals lay eggs?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

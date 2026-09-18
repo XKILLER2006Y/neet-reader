@@ -1,5 +1,21 @@
 [
  {
+  "pdfPage": 2,
+  "question": "INCORRECT about amniocentesis:",
+  "options": [
+   "Done at 14-16 weeks",
+   "Used for sex determination",
+   "Detects Down syndrome",
+   "Detects cleft palate"
+  ],
+  "answer": 3,
+  "explanation": "Amniocentesis finds chromosomal/metabolic defects, not structural clefts. | Hint: Chromosomes or anatomy: what does it test?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
   "pdfPage": 4,
   "question": "Contraceptive-action mismatch:",
   "options": [
@@ -11,7 +27,9 @@
   "answer": 3,
   "explanation": "Vasectomy blocks sperm transport, not production. | Hint: Cutting the tube stops making sperm?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,7 +43,9 @@
   "answer": 0,
   "explanation": "Cu2+ poisons sperm motility and fertilising power. | Hint: What do copper ions do to sperm?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -39,7 +59,9 @@
   "answer": 0,
   "explanation": "LNG-20 releases levonorgestrel; the rest are inert/copper. | Hint: Which releases a hormone?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -53,7 +75,9 @@
   "answer": 1,
   "explanation": "Sperm production continues; epididymis still holds sperm. | Hint: Does cutting the tube stop the factory?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -67,7 +91,9 @@
   "answer": 2,
   "explanation": "Lippes loop is the non-medicated IUD.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -81,7 +107,9 @@
   "answer": 0,
   "explanation": "Cu ions suppress sperm motility and fertilising capacity.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -95,7 +123,9 @@
   "answer": 1,
   "explanation": "Progestogens are synthetic hormones; the rest are IUDs.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -109,7 +139,9 @@
   "answer": 2,
   "explanation": "LNG-20 releases levonorgestrel; others are copper-releasing.",
   "source": "examside.com",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -123,7 +155,9 @@
   "answer": 2,
   "explanation": "Centchroman blocks estrogen receptors against implantation. | Hint: What does centchroman block?",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -137,21 +171,9 @@
   "answer": 0,
   "explanation": "Saheli (centchroman) blocks estrogen receptors, preventing implantation.",
   "source": "examside.com",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 6,
-  "question": "INCORRECT about amniocentesis:",
-  "options": [
-   "Done at 14-16 weeks",
-   "Used for sex determination",
-   "Detects Down syndrome",
-   "Detects cleft palate"
-  ],
-  "answer": 3,
-  "explanation": "Amniocentesis finds chromosomal/metabolic defects, not structural clefts. | Hint: Chromosomes or anatomy: what does it test?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -165,7 +187,9 @@
   "answer": 1,
   "explanation": "Two RNA copies plus two reverse transcriptases inside an envelope. | Hint: How many RNA copies per virion?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -179,7 +203,9 @@
   "answer": 0,
   "explanation": "Textbook pairings for the four major STDs. | Hint: Pair each disease.",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -193,7 +219,9 @@
   "answer": 2,
   "explanation": "TB spreads through air (droplet infection), not sexual contact.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -207,7 +235,9 @@
   "answer": 0,
   "explanation": "Advanced embryos (>8 cells) transfer to the uterus (IUT). | Hint: Big embryo goes where?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -221,6 +251,8 @@
   "answer": 3,
   "explanation": "Single-sperm injection bypasses count problems. | Hint: One sperm, one egg, one needle?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

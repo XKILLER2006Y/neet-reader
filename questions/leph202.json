@@ -11,7 +11,9 @@
   "answer": 1,
   "explanation": "θ = λ/d: screen distance irrelevant (I ✓); larger λ widens it (II ✗).",
   "source": "NEET 2023 Code-F3 official paper",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -25,7 +27,25 @@
   "answer": 3,
   "explanation": "Central max width = 2λD/a = 2×600×10⁻⁹×2/10⁻³ = 2.4×10⁻³ m = 2.4 mm.",
   "source": "examside.com",
-  "year": "AIPMT 2014"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "A parallel beam of light of wavelength λ is incident normally on a narrow slit. A diffraction pattern formed on a screen placed perpendicular to the direction of the incident beam. At the second minimum of the diffraction pattern, the phase difference between the rays coming from the two edges of slit is",
+  "options": [
+   "2π",
+   "3π",
+   "4π",
+   "π"
+  ],
+  "answer": 2,
+  "explanation": "nth minimum: path difference = nλ. Second minimum → 2λ → phase = 4π.",
+  "source": "examside.com",
+  "year": "NEET 2013",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -39,7 +59,9 @@
   "answer": 3,
   "explanation": "θ = 1.22λ/d = 1.22 × 600×10⁻⁹ m / 2 m = 3.66×10⁻⁷ rad.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -53,7 +75,9 @@
   "answer": 1,
   "explanation": "θ = λ/d independent of D (I true); θ ∝ λ so larger λ increases θ (II false).",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -67,7 +91,25 @@
   "answer": 0,
   "explanation": "Zero path difference at centre for all λ → white central maximum, coloured around it.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 13,
+  "question": "In Young's double slit experiment, if the separation between slits is halved and distance between slits and screen is doubled, fringe width will become:",
+  "options": [
+   "4 times",
+   "2 times",
+   "Half",
+   "Remains unchanged"
+  ],
+  "answer": 0,
+  "explanation": "β = λ D / d. If D becomes 2D and d becomes d/2, β' = λ (2D) / (d/2) = 4 (λ D / d) = 4 β. | Hint: β ∝ D / d.",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -81,7 +123,9 @@
   "answer": 2,
   "explanation": "β = 5×10⁻⁴ m; 10β = 5×10⁻³ m = 2λD/a → a = 2×500×10⁻⁹/5×10⁻³ = 0.2 mm.",
   "source": "examside.com",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -95,21 +139,9 @@
   "answer": 3,
   "explanation": "First minimum y = λD/a = (5×10⁻⁷)(0.6)/(2×10⁻⁴) = 1.5×10⁻³ m = 0.15 cm.",
   "source": "examside.com",
-  "year": "AIPMT 2016"
- },
- {
-  "pdfPage": 14,
-  "question": "An unpolarised light beam strikes a glass surface at Brewster's angle. Then",
-  "options": [
-   "The reflected light will be partially polarised.",
-   "The refracted light will be completely polarised.",
-   "Both the reflected and refracted light will be completely polarised.",
-   "The reflected light will be completely polarised but the refracted light will be partially polarised."
-  ],
-  "answer": 3,
-  "explanation": "At Brewster's angle reflected ray is completely polarised; refracted ray only partially polarised.",
-  "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "AIPMT 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -123,7 +155,9 @@
   "answer": 2,
   "explanation": "Zero path difference at centre for all λ → white central fringe; different λ give different β → coloured fringes around it.",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -137,7 +171,9 @@
   "answer": 3,
   "explanation": "β = λD/d increases with D; θ = λ/d is unchanged. So linear separation increases.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -151,35 +187,9 @@
   "answer": 0,
   "explanation": "θ = λ/d so d ∝ 1/θ. d′ = 2 × (0.20/0.21) = 1.905 mm ≈ 1.9 mm.",
   "source": "examside.com",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 14,
-  "question": "In Young's double slit experiment, if the separation between coherent sources is halved and the distance of the screen from the coherent sources is doubled, then the fringe width becomes :",
-  "options": [
-   "half",
-   "four times",
-   "one-fourth",
-   "double"
-  ],
-  "answer": 1,
-  "explanation": "β = λD/d. d→d/2, D→2D: β′ = λ(2D)/(d/2) = 4β.",
-  "source": "examside.com",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 14,
-  "question": "In Young's double slit experiment, if the separation between slits is halved and distance between slits and screen is doubled, fringe width will become:",
-  "options": [
-   "4 times",
-   "2 times",
-   "Half",
-   "Remains unchanged"
-  ],
-  "answer": 0,
-  "explanation": "β = λ D / d. If D becomes 2D and d becomes d/2, β' = λ (2D) / (d/2) = 4 (λ D / d) = 4 β. | Hint: β ∝ D / d.",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -193,7 +203,9 @@
   "answer": 3,
   "explanation": "n ∝ 1/λ for same segment: n = 8 × 600/400 = 12.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -207,35 +219,9 @@
   "answer": 0,
   "explanation": "θ = λ/d; in water λ′ = λ/μ, so θ_water = 0.2° × 3/4 = 0.15°.",
   "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 14,
-  "question": "In the Young's double slit experiment, the intensity of light at a point on the screen where the path difference is λ, is K, (λ being the wavelength of light used). The intensity at a point where the path difference is λ/4 will be",
-  "options": [
-   "K",
-   "K/4",
-   "K/2",
-   "zero"
-  ],
-  "answer": 2,
-  "explanation": "I = 4I₀cos²(φ/2). At λ: φ=2π, I=4I₀=K. At λ/4: φ=π/2, I=4I₀cos²(π/4)=2I₀=K/2.",
-  "source": "examside.com",
-  "year": "AIPMT 2014"
- },
- {
-  "pdfPage": 14,
-  "question": "The angular width of the central maximum in a single slit diffraction pattern with slit width a and wavelength λ is:",
-  "options": [
-   "2 λ / a",
-   "λ / a",
-   "λ / (2a)",
-   "a / λ"
-  ],
-  "answer": 0,
-  "explanation": "Central maximum lies between first minima at θ = ± λ/a; angular width = 2 λ / a. | Hint: Double the angle of first minimum.",
-  "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -249,24 +235,28 @@
   "answer": 2,
   "explanation": "8(λ/μ)D/d = 4.5 λD/d → μ = 8/4.5 = 1.78.",
   "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
-  "question": "A parallel beam of light of wavelength λ is incident normally on a narrow slit. A diffraction pattern formed on a screen placed perpendicular to the direction of the incident beam. At the second minimum of the diffraction pattern, the phase difference between the rays coming from the two edges of slit is",
+  "question": "An unpolarised light beam strikes a glass surface at Brewster's angle. Then",
   "options": [
-   "2π",
-   "3π",
-   "4π",
-   "π"
+   "The reflected light will be partially polarised.",
+   "The refracted light will be completely polarised.",
+   "Both the reflected and refracted light will be completely polarised.",
+   "The reflected light will be completely polarised but the refracted light will be partially polarised."
   ],
-  "answer": 2,
-  "explanation": "nth minimum: path difference = nλ. Second minimum → 2λ → phase = 4π.",
+  "answer": 3,
+  "explanation": "At Brewster's angle reflected ray is completely polarised; refracted ray only partially polarised.",
   "source": "examside.com",
-  "year": "NEET 2013"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 17,
   "question": "Polaroid at 22.5° between crossed polaroids (I₀ past first). Transmitted:",
   "options": [
    "I₀/2",
@@ -277,10 +267,44 @@
   "answer": 2,
   "explanation": "I₀cos²22.5·cos²67.5 = I₀/8.",
   "source": "NEET 2025 Code-45 official paper (key derived first-principles)",
-  "year": "NEET 2025"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 18,
+  "question": "In Young's double slit experiment, if the separation between coherent sources is halved and the distance of the screen from the coherent sources is doubled, then the fringe width becomes :",
+  "options": [
+   "half",
+   "four times",
+   "one-fourth",
+   "double"
+  ],
+  "answer": 1,
+  "explanation": "β = λD/d. d→d/2, D→2D: β′ = λ(2D)/(d/2) = 4β.",
+  "source": "examside.com",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "The angular width of the central maximum in a single slit diffraction pattern with slit width a and wavelength λ is:",
+  "options": [
+   "2 λ / a",
+   "λ / a",
+   "λ / (2a)",
+   "a / λ"
+  ],
+  "answer": 0,
+  "explanation": "Central maximum lies between first minima at θ = ± λ/a; angular width = 2 λ / a. | Hint: Double the angle of first minimum.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
   "question": "Unpolarised light hits glass at Brewster's angle. Then:",
   "options": [
    "Both fully polarised",
@@ -291,10 +315,12 @@
   "answer": 1,
   "explanation": "Only the reflected ray is fully plane-polarised.",
   "source": "NEET 2024 Code-T3 official paper (key derived first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 18,
   "question": "Unpolarised light strikes glass at Brewster's angle. Then:",
   "options": [
    "Both reflected and refracted fully polarised",
@@ -305,6 +331,24 @@
   "answer": 1,
   "explanation": "At Brewster's angle only the reflected ray is completely plane-polarised.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "In the Young's double slit experiment, the intensity of light at a point on the screen where the path difference is λ, is K, (λ being the wavelength of light used). The intensity at a point where the path difference is λ/4 will be",
+  "options": [
+   "K",
+   "K/4",
+   "K/2",
+   "zero"
+  ],
+  "answer": 2,
+  "explanation": "I = 4I₀cos²(φ/2). At λ: φ=2π, I=4I₀=K. At λ/4: φ=π/2, I=4I₀cos²(π/4)=2I₀=K/2.",
+  "source": "examside.com",
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

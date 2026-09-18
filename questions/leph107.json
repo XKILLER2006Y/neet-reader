@@ -1,19 +1,5 @@
 [
  {
-  "pdfPage": 4,
-  "question": "An ac voltage V = 220 sin(2×10³ t) volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given : L = 10 mH, C = 25 μF, R = 100 Ω)",
-  "options": [
-   "22.0 A",
-   "2.2 A",
-   "5.5 A",
-   "11.0 A"
-  ],
-  "answer": 1,
-  "explanation": "X_L = ωL = 2000×0.01 = 20 Ω and X_C = 1/(ωC) = 1/(2000×25×10⁻⁶) = 20 Ω ⇒ resonance, Z = R = 100 Ω ⇒ I₀ = 220/100 = 2.2 A.",
-  "source": "examside.com",
-  "year": "RE-NEET 2026"
- },
- {
   "pdfPage": 5,
   "question": "1000-turn coil, radius 10 m, spins at 2 rad/s in Earth's vertical 2×10⁻⁵ T; R = 12.56 Ω. Max induced current:",
   "options": [
@@ -25,24 +11,12 @@
   "answer": 3,
   "explanation": "ε₀ = NBAω = 1000×π×100×2e-5×2 = 12.56 V → I = 1 A.",
   "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 7,
-  "question": "To an ac power supply of 220 V at 50 Hz, a resistor of 20 Ω, a capacitor of reactance 25 Ω and an inductor of reactance 45 Ω are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively",
-  "options": [
-   "15.6 A and 30°",
-   "15.6 A and 45°",
-   "7.8 A and 30°",
-   "7.8 A and 45°"
-  ],
-  "answer": 3,
-  "explanation": "Z = √(20² + (45−25)²) = 28.28 Ω ⇒ I = 220/28.28 = 7.8 A; tanφ = (X_L−X_C)/R = 20/20 = 1 ⇒ φ = 45°, current lags the voltage.",
-  "source": "examside.com",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 9,
+  "pdfPage": 5,
   "question": "An alternating source of voltage V = 220 sin(100π t) is connected to a pure resistor of 100 Ω. The RMS value of current through the resistor is:",
   "options": [
    "1.56 A",
@@ -53,10 +27,44 @@
   "answer": 0,
   "explanation": "V_rms = V₀ / √2 = 220 / 1.414 ≈ 155.6 V. I_rms = V_rms / R = 155.6 / 100 = 1.56 A. | Hint: I_rms = V₀ / (√2 R).",
   "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 9,
+  "pdfPage": 5,
+  "question": "An inductor 20 mH, a capacitor 100 μF and a resistor 50 Ω are connected in series across a source of emf, V = 10 sin 314 t. The power loss in the circuit is",
+  "options": [
+   "0.79 W",
+   "0.43 W",
+   "2.74 W",
+   "1.13 W"
+  ],
+  "answer": 0,
+  "explanation": "X_L = 314×0.02 = 6.28 Ω, X_C = 1/(314×10⁻⁴) = 31.85 Ω, Z = √(50² + 25.6²) ≈ 56.2 Ω; I_rms = (10/√2)/56.2 ⇒ P = I_rms²R ≈ 0.79 W.",
+  "source": "examside.com",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "To an ac power supply of 220 V at 50 Hz, a resistor of 20 Ω, a capacitor of reactance 25 Ω and an inductor of reactance 45 Ω are connected in series. The corresponding current in the circuit and the phase angle between the current and the voltage is, respectively",
+  "options": [
+   "15.6 A and 30°",
+   "15.6 A and 45°",
+   "7.8 A and 30°",
+   "7.8 A and 45°"
+  ],
+  "answer": 3,
+  "explanation": "Z = √(20² + (45−25)²) = 28.28 Ω ⇒ I = 220/28.28 = 7.8 A; tanφ = (X_L−X_C)/R = 20/20 = 1 ⇒ φ = 45°, current lags the voltage.",
+  "source": "examside.com",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
   "question": "The amplitude of the charge oscillating in a circuit decreases exponentially as Q = Q₀e^(−Rt/2L), where Q₀ is the charge at t = 0 s. The time at which charge amplitude decreases to 0.50 Q₀ is nearly: [Given that R = 1.5 Ω, L = 12 mH, ln(2) = 0.693]",
   "options": [
    "19.01 ms",
@@ -67,7 +75,9 @@
   "answer": 1,
   "explanation": "0.5 = e^(−Rt/2L) ⇒ Rt/2L = ln2 ⇒ t = 2L·ln2/R = 2×12×10⁻³×0.693/1.5 = 11.09×10⁻³ s.",
   "source": "examside.com",
-  "year": "NEET 2024 (Re-Examination)"
+  "year": "NEET 2024 (Re-Examination)",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -81,7 +91,9 @@
   "answer": 2,
   "explanation": "Xc = 1/2πfC rises → current (conduction = displacement) falls.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -95,24 +107,28 @@
   "answer": 3,
   "explanation": "U = ½LI² ⇒ L = 2U/I² = 2×25×10⁻³/(60×10⁻³)² = 0.05/3.6×10⁻³ = 13.89 H.",
   "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
-  "question": "In a series LCR circuit, R = 10 Ω, X_L = 20 Ω, and X_C = 20 Ω. The impedance of the circuit is:",
+  "pdfPage": 13,
+  "question": "An ac voltage V = 220 sin(2×10³ t) volt is applied to a series LCR circuit. Then the current amplitude in this circuit is: (Given : L = 10 mH, C = 25 μF, R = 100 Ω)",
   "options": [
-   "10 Ω",
-   "20 Ω",
-   "50 Ω",
-   "Zero"
+   "22.0 A",
+   "2.2 A",
+   "5.5 A",
+   "11.0 A"
   ],
-  "answer": 0,
-  "explanation": "X_L = X_C = 20 Ω, so circuit is at resonance: Z = √[R² + (X_L - X_C)²] = √[10² + 0] = 10 Ω. | Hint: At resonance, Z = R.",
-  "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "answer": 1,
+  "explanation": "X_L = ωL = 2000×0.01 = 20 Ω and X_C = 1/(ωC) = 1/(2000×25×10⁻⁶) = 20 Ω ⇒ resonance, Z = R = 100 Ω ⇒ I₀ = 220/100 = 2.2 A.",
+  "source": "examside.com",
+  "year": "RE-NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 16,
+  "pdfPage": 13,
   "question": "Series LCR: L = 10 mH, C = 1 μF, R = 100 Ω. Resonance frequency:",
   "options": [
    "15.9 rad/s",
@@ -123,7 +139,25 @@
   "answer": 3,
   "explanation": "f₀ = 1/(2π√LC) = 1/(2π×10⁻⁴) ≈ 1.59 kHz.",
   "source": "NEET 2023 Code-E1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 19,
+  "question": "12 V, 60 W lamp on the secondary of an ideal step-down transformer; primary on 220 V mains. Primary current:",
+  "options": [
+   "2.7 A",
+   "3.7 A",
+   "0.37 A",
+   "0.27 A"
+  ],
+  "answer": 3,
+  "explanation": "Ideal: Vp·Ip = 60 W → Ip = 60/220 ≈ 0.27 A.",
+  "source": "NEET 2023 Phase-1 via Filo (key verified first-principles)",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 19,
@@ -137,21 +171,9 @@
   "answer": 3,
   "explanation": "Vs/Vp = Ns/Np = 2/1.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 20,
-  "question": "12 V, 60 W lamp on the secondary of an ideal step-down transformer; primary on 220 V mains. Primary current:",
-  "options": [
-   "2.7 A",
-   "3.7 A",
-   "0.37 A",
-   "0.27 A"
-  ],
-  "answer": 3,
-  "explanation": "Ideal: Vp·Ip = 60 W → Ip = 60/220 ≈ 0.27 A.",
-  "source": "NEET 2023 Phase-1 via Filo (key verified first-principles)",
-  "year": "NEET 2023"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 20,
@@ -165,21 +187,9 @@
   "answer": 3,
   "explanation": "Ideal transformer: power is conserved ⇒ P_p = P_s = 60 W ⇒ I_p = 60/220 = 0.27 A.",
   "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 20,
-  "question": "An inductor 20 mH, a capacitor 100 μF and a resistor 50 Ω are connected in series across a source of emf, V = 10 sin 314 t. The power loss in the circuit is",
-  "options": [
-   "0.79 W",
-   "0.43 W",
-   "2.74 W",
-   "1.13 W"
-  ],
-  "answer": 0,
-  "explanation": "X_L = 314×0.02 = 6.28 Ω, X_C = 1/(314×10⁻⁴) = 31.85 Ω, Z = √(50² + 25.6²) ≈ 56.2 Ω; I_rms = (10/√2)/56.2 ⇒ P = I_rms²R ≈ 0.79 W.",
-  "source": "examside.com",
-  "year": "NEET 2018"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 24,
@@ -193,6 +203,24 @@
   "answer": 3,
   "explanation": "Xc = 1/(2πfC) ≈ 318 Ω; Irms ≈ 0.66 A → I₀ ≈ 0.93 A.",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 24,
+  "question": "In a series LCR circuit, R = 10 Ω, X_L = 20 Ω, and X_C = 20 Ω. The impedance of the circuit is:",
+  "options": [
+   "10 Ω",
+   "20 Ω",
+   "50 Ω",
+   "Zero"
+  ],
+  "answer": 0,
+  "explanation": "X_L = X_C = 20 Ω, so circuit is at resonance: Z = √[R² + (X_L - X_C)²] = √[10² + 0] = 10 Ω. | Hint: At resonance, Z = R.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

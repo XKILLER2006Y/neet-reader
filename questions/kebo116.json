@@ -1,6 +1,22 @@
 [
  {
   "pdfPage": 4,
+  "question": "Correct nephron-function match:",
+  "options": [
+   "Afferent arteriole carries blood to renal vein",
+   "DCT reabsorbs K+ into blood",
+   "Henle loop does most reabsorption",
+   "Podocytes make filtration slits"
+  ],
+  "answer": 3,
+  "explanation": "Podocyte foot processes form the slit diaphragm filtering blood into Bowman capsule. | Hint: Which cells build the filter?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 4,
   "question": "Human urine is typically acidic because:",
   "options": [
    "H+ actively secreted into filtrate",
@@ -11,10 +27,60 @@
   "answer": 0,
   "explanation": "Tubular secretion of H+ acidifies the forming urine. | Hint: What secretion acidifies urine?",
   "source": "NEET NEET 2015 via BYJU'S",
-  "year": "NEET 2015"
+  "year": "NEET 2015",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 7,
+  "pdfPage": 4,
+  "question": "NOT part of a renal pyramid:",
+  "options": [
+   "Loop of Henle",
+   "Convoluted tubules",
+   "Collecting ducts",
+   "Peritubular capillaries"
+  ],
+  "answer": 1,
+  "explanation": "Convoluted tubules sit in the cortex; loops, collecting ducts and capillaries dip into pyramids. | Hint: Which structures stay in the cortex?",
+  "source": "NEET NEET 2011 via BYJU'S",
+  "year": "NEET 2011",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "About 70-80% of filtrate electrolytes and water is reabsorbed in:",
+  "options": [
+   "Proximal convoluted tubule",
+   "Ascending Henle limb",
+   "Descending Henle limb",
+   "Distal convoluted tubule"
+  ],
+  "answer": 0,
+  "explanation": "PCT reclaims the bulk of everything filtered. | Hint: Which segment does most of the work?",
+  "source": "NEET NEET 2012 via BYJU'S",
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "Maximum amount of electrolytes and water, about 70-80%, from the glomerular filtrate is reabsorbed in which part of the nephron?",
+  "options": [
+   "Proximal convoluted tubule",
+   "Ascending limb of loop of Henle",
+   "Descending limb of loop of Henle",
+   "Distal convoluted tubule"
+  ],
+  "answer": 0,
+  "explanation": "PCT reabsorbs 70-80% of electrolytes and water.",
+  "source": "byjus.com",
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
   "question": "Pick the correct statement:",
   "options": [
    "Ascending Henle limb impermeable to water",
@@ -25,7 +91,25 @@
   "answer": 0,
   "explanation": "The ascending limb pumps out NaCl but blocks water, building medullary gradient. | Hint: Which limb lets salt out but keeps water in?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "Typically, human urine is acidic as",
+  "options": [
+   "hydrogen ions are actively secreted into the filtrate",
+   "sodium transporter exchanges one hydrogen ion for each sodium ion, in peritubular capillaries",
+   "excreted plasma proteins are acidic",
+   "potassium and sodium exchange generates acidity"
+  ],
+  "answer": 0,
+  "explanation": "Tubules actively secrete H+ into the filtrate (pH ~6).",
+  "source": "byjus.com",
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -39,7 +123,9 @@
   "answer": 2,
   "explanation": "ANF is released when blood pressure/volume INCREASES.",
   "source": "byjus.com",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -53,7 +139,9 @@
   "answer": 2,
   "explanation": "Low GFR triggers juxtaglomerular renin release (JGA mechanism). | Hint: Which cells sense falling filtration?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
+  "year": "NEET 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,7 +155,9 @@
   "answer": 2,
   "explanation": "ANF is released when volume is HIGH; low volume triggers ADH, renin and aldosterone instead. | Hint: Which hormone responds to high volume, not low?",
   "source": "NEET NEET 2017 via BYJU'S",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -81,7 +171,9 @@
   "answer": 2,
   "explanation": "Fall in GFR activates JG cells to release renin (RAAS).",
   "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -95,21 +187,25 @@
   "answer": 1,
   "explanation": "Aldosterone drives DCT/collecting-duct Na+ reabsorption (and K+ loss). | Hint: Which hormone saves sodium?",
   "source": "NEET NEET 2014 via BYJU'S",
-  "year": "NEET 2014"
+  "year": "NEET 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 9,
-  "question": "Typically, human urine is acidic as",
+  "pdfPage": 8,
+  "question": "Which of the following causes an increase in sodium reabsorption in the distal convoluted tubule?",
   "options": [
-   "hydrogen ions are actively secreted into the filtrate",
-   "sodium transporter exchanges one hydrogen ion for each sodium ion, in peritubular capillaries",
-   "excreted plasma proteins are acidic",
-   "potassium and sodium exchange generates acidity"
+   "decrease in antidiuretic hormone levels",
+   "increase in aldosterone levels",
+   "decrease in aldosterone levels",
+   "increase in antidiuretic hormone levels"
   ],
-  "answer": 0,
-  "explanation": "Tubules actively secrete H+ into the filtrate (pH ~6).",
+  "answer": 1,
+  "explanation": "Aldosterone increases Na+ and water reabsorption in the DCT.",
   "source": "byjus.com",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -123,35 +219,9 @@
   "answer": 0,
   "explanation": "Both excrete urea; frogs differ on fertilisation, RBC nuclei and heart chambers. | Hint: Which excretory mode do both share?",
   "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
- },
- {
-  "pdfPage": 10,
-  "question": "Correct nephron-function match:",
-  "options": [
-   "Afferent arteriole carries blood to renal vein",
-   "DCT reabsorbs K+ into blood",
-   "Henle loop does most reabsorption",
-   "Podocytes make filtration slits"
-  ],
-  "answer": 3,
-  "explanation": "Podocyte foot processes form the slit diaphragm filtering blood into Bowman capsule. | Hint: Which cells build the filter?",
-  "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
- },
- {
-  "pdfPage": 10,
-  "question": "NOT part of a renal pyramid:",
-  "options": [
-   "Loop of Henle",
-   "Convoluted tubules",
-   "Collecting ducts",
-   "Peritubular capillaries"
-  ],
-  "answer": 1,
-  "explanation": "Convoluted tubules sit in the cortex; loops, collecting ducts and capillaries dip into pyramids. | Hint: Which structures stay in the cortex?",
-  "source": "NEET NEET 2011 via BYJU'S",
-  "year": "NEET 2011"
+  "year": "NEET 2012",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -165,49 +235,9 @@
   "answer": 0,
   "explanation": "Both mammals and adult amphibians are ureotelic.",
   "source": "byjus.com",
-  "year": "AIPMT 2012"
- },
- {
-  "pdfPage": 10,
-  "question": "Which of the following causes an increase in sodium reabsorption in the distal convoluted tubule?",
-  "options": [
-   "decrease in antidiuretic hormone levels",
-   "increase in aldosterone levels",
-   "decrease in aldosterone levels",
-   "increase in antidiuretic hormone levels"
-  ],
-  "answer": 1,
-  "explanation": "Aldosterone increases Na+ and water reabsorption in the DCT.",
-  "source": "byjus.com",
-  "year": "AIPMT 2014"
- },
- {
-  "pdfPage": 11,
-  "question": "About 70-80% of filtrate electrolytes and water is reabsorbed in:",
-  "options": [
-   "Proximal convoluted tubule",
-   "Ascending Henle limb",
-   "Descending Henle limb",
-   "Distal convoluted tubule"
-  ],
-  "answer": 0,
-  "explanation": "PCT reclaims the bulk of everything filtered. | Hint: Which segment does most of the work?",
-  "source": "NEET NEET 2012 via BYJU'S",
-  "year": "NEET 2012"
- },
- {
-  "pdfPage": 11,
-  "question": "Maximum amount of electrolytes and water, about 70-80%, from the glomerular filtrate is reabsorbed in which part of the nephron?",
-  "options": [
-   "Proximal convoluted tubule",
-   "Ascending limb of loop of Henle",
-   "Descending limb of loop of Henle",
-   "Distal convoluted tubule"
-  ],
-  "answer": 0,
-  "explanation": "PCT reabsorbs 70-80% of electrolytes and water.",
-  "source": "byjus.com",
-  "year": "AIPMT 2012"
+  "year": "AIPMT 2012",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -221,6 +251,8 @@
   "answer": 0,
   "explanation": "PCT actively reabsorbs most filtered Na+; the source table mis-keyed this as Bowman capsule. | Hint: Where is the bulk of filtrate reclaimed?",
   "source": "NEET NEET 2016 via BYJU'S",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

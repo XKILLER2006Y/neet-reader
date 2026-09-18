@@ -11,7 +11,9 @@
   "answer": 2,
   "explanation": "Both have zero bond order and cannot exist. | Hint: Zero bond order means no molecule.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -25,7 +27,9 @@
   "answer": 3,
   "explanation": "Lone pairs: 1, 2, 1, 3 respectively. | Hint: Count bonds, subtract from 8 electrons.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -39,21 +43,9 @@
   "answer": 2,
   "explanation": "Symmetric square-planar XeF4 cancels all dipoles. | Hint: Which xenon shape is fully symmetric?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 10,
-  "question": "Li2, Li2+, Li2- stability order:",
-  "options": [
-   "Li2 < Li2+ < Li2-",
-   "Li2- < Li2+ < Li2",
-   "Li2 < Li2 < Li2+",
-   "Li2- < Li2 < Li2+"
-  ],
-  "answer": 1,
-  "explanation": "Bond orders 1, 0.5, 0.5; extra repulsion makes the anion least stable. | Hint: Bond order first, repulsion second.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -67,7 +59,9 @@
   "answer": 0,
   "explanation": "Back-bonding gives B-F partial double-bond character. | Hint: Which molecule has empty-p back-bonding?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -81,7 +75,9 @@
   "answer": 3,
   "explanation": "Observed over 100%-ionic dipole (e×d) gives 41.5%. | Hint: Divide observed by theoretical dipole.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -95,21 +91,9 @@
   "answer": 0,
   "explanation": "Al3+ has the highest polarising power (Fajans). | Hint: Highest charge density polarises most.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
- },
- {
-  "pdfPage": 20,
-  "question": "N hybridisation in NO3-, NO2+, NH4+ respectively:",
-  "options": [
-   "sp2,sp3,sp",
-   "sp,sp3,sp2",
-   "sp,sp2,sp3",
-   "sp2,sp,sp3"
-  ],
-  "answer": 3,
-  "explanation": "Steric numbers 3, 2, 4 give sp2, sp, sp3. | Hint: Count domains around each nitrogen.",
-  "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -123,10 +107,12 @@
   "answer": 2,
   "explanation": "All four are tetrahedral AX4 species. | Hint: Which set shares one geometry?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 23,
+  "pdfPage": 25,
   "question": "BF3-NH3 adduct changes boron hybridisation:",
   "options": [
    "sp3 to sp3d",
@@ -137,7 +123,9 @@
   "answer": 3,
   "explanation": "Boron gains a fourth pair from nitrogen: planar to tetrahedral. | Hint: How many pairs before and after?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 25,
@@ -151,7 +139,9 @@
   "answer": 3,
   "explanation": "PF5 is trigonal bipyramidal; BrF5 is square pyramidal. | Hint: Match each shape.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -165,7 +155,9 @@
   "answer": 1,
   "explanation": "sp3d3 with 7 bond pairs: pentagonal bipyramidal. | Hint: Seven pairs around iodine.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 26,
@@ -179,7 +171,25 @@
   "answer": 3,
   "explanation": "Angle shrinks down the group as bonding orbitals gain p-character. | Hint: Down the group, angles shrink.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 27,
+  "question": "N hybridisation in NO3-, NO2+, NH4+ respectively:",
+  "options": [
+   "sp2,sp3,sp",
+   "sp,sp3,sp2",
+   "sp,sp2,sp3",
+   "sp2,sp,sp3"
+  ],
+  "answer": 3,
+  "explanation": "Steric numbers 3, 2, 4 give sp2, sp, sp3. | Hint: Count domains around each nitrogen.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 30,
@@ -193,7 +203,9 @@
   "answer": 1,
   "explanation": "NO+ has bond order 3, the largest of the set. | Hint: Largest bond order means shortest.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 35,
@@ -207,7 +219,9 @@
   "answer": 0,
   "explanation": "Acetylide triple bond: one sigma plus two pi. | Hint: Triple bond anatomy.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 35,
@@ -221,7 +235,25 @@
   "answer": 2,
   "explanation": "sp3d2 XeF4 with two lone pairs sits square planar. | Hint: Which has two lone pairs on square corners?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 36,
+  "question": "Li2, Li2+, Li2- stability order:",
+  "options": [
+   "Li2 < Li2+ < Li2-",
+   "Li2- < Li2+ < Li2",
+   "Li2 < Li2 < Li2+",
+   "Li2- < Li2 < Li2+"
+  ],
+  "answer": 1,
+  "explanation": "Bond orders 1, 0.5, 0.5; extra repulsion makes the anion least stable. | Hint: Bond order first, repulsion second.",
+  "source": "JEE JEE Main PYQ via BYJU'S",
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 36,
@@ -235,7 +267,9 @@
   "answer": 2,
   "explanation": "Bond orders 1.5, 1, 3, 2.5: highest order is shortest. | Hint: Highest bond order wins.",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 36,
@@ -249,6 +283,8 @@
   "answer": 1,
   "explanation": "Only ethanol has all-sigma carbons; the rest carry multiple bonds. | Hint: Which molecule has no multiple bonds?",
   "source": "JEE JEE Main PYQ via BYJU'S",
-  "year": "JEE Main PYQ"
+  "year": "JEE Main PYQ",
+  "outOfNcert": true,
+  "_pinned": true
  }
 ]

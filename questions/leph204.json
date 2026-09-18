@@ -1,6 +1,38 @@
 [
  {
   "pdfPage": 2,
+  "question": "Given the value of Rydberg constant is 10⁷ m⁻¹, the wave number of the last line of the Balmer series in hydrogen spectrum will be",
+  "options": [
+   "2.5 × 10⁷ m⁻¹",
+   "0.025 × 10⁴ m⁻¹",
+   "0.5 × 10⁷ m⁻¹",
+   "0.25 × 10⁷ m⁻¹"
+  ],
+  "answer": 3,
+  "explanation": "Last line: n₂→∞, n₁=2; ν̃ = R/4 = 0.25 × 10⁷ m⁻¹.",
+  "source": "examside.com",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 2,
+  "question": "In hydrogen spectrum, the shortest wavelength in the Balmer series is λ. The shortest wavelength in the Brackett series is :",
+  "options": [
+   "2λ",
+   "4λ",
+   "9λ",
+   "16λ"
+  ],
+  "answer": 1,
+  "explanation": "Series limit λ = n₁²/R. Balmer n₁=2: 4/R. Brackett n₁=4: 16/R = 4λ.",
+  "source": "examside.com",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 2,
   "question": "Match Balmer lines: (A) 3→2 (B) 4→2 (C) 5→2 (D) 6→2 with I.410.2 II.434.1 III.656.3 IV.486.1 nm.",
   "options": [
    "A-IV, B-III, C-I, D-II",
@@ -11,7 +43,25 @@
   "answer": 3,
   "explanation": "Hα 656.3 (3→2), Hβ 486.1 (4→2), Hγ 434.1 (5→2), Hδ 410.2 (6→2).",
   "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 2,
+  "question": "The ratio of wavelengths of the last line of Balmer series and the last line of Lyman series is",
+  "options": [
+   "1",
+   "4",
+   "0.5",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "λ_B = 4/R, λ_L = 1/R → ratio = 4.",
+  "source": "examside.com",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 2,
@@ -25,49 +75,9 @@
   "answer": 2,
   "explanation": "Lyman transitions end at n=1; wavelengths 91–122 nm → ultraviolet.",
   "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 4,
-  "question": "The angular momentum of an electron moving in an orbit of hydrogen atom is 1.5 (h/π). The energy in the same orbit is nearly :",
-  "options": [
-   "–1.5 eV",
-   "–1.6 eV",
-   "–1.3 eV",
-   "–1.4 eV"
-  ],
-  "answer": 0,
-  "explanation": "mvr = nh/2π; 1.5h/π = 3h/2π → n=3; E₃ = −13.6/9 ≈ −1.5 eV.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 4,
-  "question": "The total energy of an electron in an atom in an orbit is –3.4 eV. Its kinetic and potential energies are, respectively :",
-  "options": [
-   "–3.4 eV, –3.4 eV",
-   "–3.4 eV, –6.8 eV",
-   "3.4 eV, –6.8 eV",
-   "3.4 eV, 3.4 eV"
-  ],
-  "answer": 2,
-  "explanation": "KE = −E = 3.4 eV, PE = 2E = −6.8 eV.",
-  "source": "examside.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 4,
-  "question": "When an α-particle of mass m moving with velocity v bombards on a heavy nucleus of charge Ze, its distance of closest approach from the nucleus depends on m as",
-  "options": [
-   "m",
-   "1/m",
-   "1/√m",
-   "1/m²"
-  ],
-  "answer": 1,
-  "explanation": "½mv² = k(2Ze²)/r₀ → r₀ ∝ 1/m at fixed v.",
-  "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -81,63 +91,25 @@
   "answer": 3,
   "explanation": "First excited state n=2: r = 4a₀ = 4 × 0.529 Å = 2.12 Å ≈ 2.1 × 10⁻¹⁰ m.",
   "source": "examside.com",
-  "year": "NEET 2026"
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 7,
-  "question": "Consider that an electron is revolving in an excited state of Hydrogen atom with velocity √25.6 × 10⁵ ms⁻¹. The radius of the orbit is x × 10⁻⁹ m. The value of x is : [Take the mass of electron to be 9 × 10⁻³¹ kg, charge of electron = –1.6 × 10⁻¹⁹ C and 1/(4πε₀) = 9 × 10⁹ Nm²C⁻²]",
+  "pdfPage": 5,
+  "question": "When an α-particle of mass m moving with velocity v bombards on a heavy nucleus of charge Ze, its distance of closest approach from the nucleus depends on m as",
   "options": [
-   "4",
-   "3",
-   "2",
-   "1"
-  ],
-  "answer": 3,
-  "explanation": "r = ke²/(mv²) = 2.304×10⁻²⁸/2.304×10⁻¹⁹ = 1.0 × 10⁻⁹ m → x = 1.",
-  "source": "examside.com",
-  "year": "NEET 2026"
- },
- {
-  "pdfPage": 7,
-  "question": "In hydrogen spectrum, the shortest wavelength in the Balmer series is λ. The shortest wavelength in the Brackett series is :",
-  "options": [
-   "2λ",
-   "4λ",
-   "9λ",
-   "16λ"
+   "m",
+   "1/m",
+   "1/√m",
+   "1/m²"
   ],
   "answer": 1,
-  "explanation": "Series limit λ = n₁²/R. Balmer n₁=2: 4/R. Brackett n₁=4: 16/R = 4λ.",
+  "explanation": "½mv² = k(2Ze²)/r₀ → r₀ ∝ 1/m at fixed v.",
   "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 7,
-  "question": "The ratio of kinetic energy to the total energy of an electron in a Bohr orbit of the hydrogen atom, is",
-  "options": [
-   "1 : 1",
-   "1 : –1",
-   "2 : –1",
-   "1 : –2"
-  ],
-  "answer": 1,
-  "explanation": "KE = −E_total → KE : E_total = 1 : −1.",
-  "source": "examside.com",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 7,
-  "question": "The total energy of an electron in an atom in an orbit is -3.4 eV. Its kinetic and potential energies are, respectively:",
-  "options": [
-   "3.4 eV and -6.8 eV",
-   "-3.4 eV and -6.8 eV",
-   "6.8 eV and -3.4 eV",
-   "3.4 eV and 6.8 eV"
-  ],
-  "answer": 0,
-  "explanation": "For 1/r potential: K = -E = -(-3.4 eV) = +3.4 eV. U = 2E = 2(-3.4 eV) = -6.8 eV. | Hint: K = -E and U = 2E.",
-  "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -151,35 +123,9 @@
   "answer": 2,
   "explanation": "mv²/r = F with mvr ∝ n → r³ ∝ n².",
   "source": "NEET 2025 Code-45 official paper (key derived first-principles)",
-  "year": "NEET 2025"
- },
- {
-  "pdfPage": 8,
-  "question": "The ground state energy of hydrogen atom is –13.6 eV. The energy needed to ionize the hydrogen atom from its second excited state will be :",
-  "options": [
-   "13.6 eV",
-   "6.8 eV",
-   "1.51 eV",
-   "3.4 eV"
-  ],
-  "answer": 2,
-  "explanation": "Second excited state n=3: E₃ = −13.6/9 = −1.51 eV → ionization energy 1.51 eV.",
-  "source": "examside.com",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 8,
-  "question": "The ratio of wavelengths of the last line of Balmer series and the last line of Lyman series is",
-  "options": [
-   "1",
-   "4",
-   "0.5",
-   "2"
-  ],
-  "answer": 1,
-  "explanation": "λ_B = 4/R, λ_L = 1/R → ratio = 4.",
-  "source": "examside.com",
-  "year": "NEET 2017"
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -193,7 +139,9 @@
   "answer": 2,
   "explanation": "r₃ = 9r₁ = 4.77 Å.",
   "source": "NEET 2023 Code-F3 official paper",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -207,7 +155,9 @@
   "answer": 1,
   "explanation": "r ∝ n²: R₁ ∝ 4, R₂ ∝ 16 → R₁/R₂ = 0.25.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -221,7 +171,9 @@
   "answer": 2,
   "explanation": "T₁ = E₂ = −3.4 eV, T₂ = E₃ = −1.51 eV; ratio of magnitudes 3.4:1.51 = 9:4.",
   "source": "examside.com",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -235,7 +187,41 @@
   "answer": 3,
   "explanation": "rₙ = n²a₀; r₃ = 9 × 5.3×10⁻¹¹ = 4.77 Å.",
   "source": "examside.com",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "The angular momentum of an electron moving in an orbit of hydrogen atom is 1.5 (h/π). The energy in the same orbit is nearly :",
+  "options": [
+   "–1.5 eV",
+   "–1.6 eV",
+   "–1.3 eV",
+   "–1.4 eV"
+  ],
+  "answer": 0,
+  "explanation": "mvr = nh/2π; 1.5h/π = 3h/2π → n=3; E₃ = −13.6/9 ≈ −1.5 eV.",
+  "source": "examside.com",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "The ground state energy of hydrogen atom is –13.6 eV. The energy needed to ionize the hydrogen atom from its second excited state will be :",
+  "options": [
+   "13.6 eV",
+   "6.8 eV",
+   "1.51 eV",
+   "3.4 eV"
+  ],
+  "answer": 2,
+  "explanation": "Second excited state n=3: E₃ = −13.6/9 = −1.51 eV → ionization energy 1.51 eV.",
+  "source": "examside.com",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -249,7 +235,9 @@
   "answer": 1,
   "explanation": "Series defined by lower level n₁=4 → Brackett series.",
   "source": "examside.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -263,7 +251,9 @@
   "answer": 1,
   "explanation": "Bohr model is exact only for single-electron systems; Ne⁺ has 9 electrons.",
   "source": "examside.com",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -277,7 +267,25 @@
   "answer": 0,
   "explanation": "I ✓; II misstates stability/emission (NTA key).",
   "source": "NEET 2024 Code-T3 official paper + NTA key",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "Consider that an electron is revolving in an excited state of Hydrogen atom with velocity √25.6 × 10⁵ ms⁻¹. The radius of the orbit is x × 10⁻⁹ m. The value of x is : [Take the mass of electron to be 9 × 10⁻³¹ kg, charge of electron = –1.6 × 10⁻¹⁹ C and 1/(4πε₀) = 9 × 10⁹ Nm²C⁻²]",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 3,
+  "explanation": "r = ke²/(mv²) = 2.304×10⁻²⁸/2.304×10⁻¹⁹ = 1.0 × 10⁻⁹ m → x = 1.",
+  "source": "examside.com",
+  "year": "NEET 2026",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -291,21 +299,9 @@
   "answer": 2,
   "explanation": "I correct (neutral atom); II incorrect — atoms emit spectrum only on de-excitation, and not all atoms are stable.",
   "source": "examside.com",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 14,
-  "question": "Given the value of Rydberg constant is 10⁷ m⁻¹, the wave number of the last line of the Balmer series in hydrogen spectrum will be",
-  "options": [
-   "2.5 × 10⁷ m⁻¹",
-   "0.025 × 10⁴ m⁻¹",
-   "0.5 × 10⁷ m⁻¹",
-   "0.25 × 10⁷ m⁻¹"
-  ],
-  "answer": 3,
-  "explanation": "Last line: n₂→∞, n₁=2; ν̃ = R/4 = 0.25 × 10⁷ m⁻¹.",
-  "source": "examside.com",
-  "year": "NEET 2016"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
@@ -319,21 +315,9 @@
   "answer": 0,
   "explanation": "Photon energy ≈ 12.7 eV → electron reaches n=4; lines = n(n−1)/2 = 6.",
   "source": "examside.com",
-  "year": "AIPMT 2014"
- },
- {
-  "pdfPage": 14,
-  "question": "The ratio of radii of the 2nd and 3rd Bohr orbits of hydrogen atom is:",
-  "options": [
-   "4 : 9",
-   "2 : 3",
-   "8 : 27",
-   "9 : 4"
-  ],
-  "answer": 0,
-  "explanation": "r_n ∝ n² ⇒ r₂ / r₃ = 2² / 3² = 4 / 9. | Hint: Bohr radius scales as n².",
-  "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "AIPMT 2014",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 16,
@@ -347,6 +331,72 @@
   "answer": 2,
   "explanation": "vₙ = Zc/(137n) = 2 × 3×10⁸/(137 × 3) ≈ 1.46 × 10⁶ m/s.",
   "source": "examside.com",
-  "year": "AIPMT 2015"
+  "year": "AIPMT 2015",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The ratio of kinetic energy to the total energy of an electron in a Bohr orbit of the hydrogen atom, is",
+  "options": [
+   "1 : 1",
+   "1 : –1",
+   "2 : –1",
+   "1 : –2"
+  ],
+  "answer": 1,
+  "explanation": "KE = −E_total → KE : E_total = 1 : −1.",
+  "source": "examside.com",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The ratio of radii of the 2nd and 3rd Bohr orbits of hydrogen atom is:",
+  "options": [
+   "4 : 9",
+   "2 : 3",
+   "8 : 27",
+   "9 : 4"
+  ],
+  "answer": 0,
+  "explanation": "r_n ∝ n² ⇒ r₂ / r₃ = 2² / 3² = 4 / 9. | Hint: Bohr radius scales as n².",
+  "source": "NEET NEET 2023 via BYJU'S NEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The total energy of an electron in an atom in an orbit is -3.4 eV. Its kinetic and potential energies are, respectively:",
+  "options": [
+   "3.4 eV and -6.8 eV",
+   "-3.4 eV and -6.8 eV",
+   "6.8 eV and -3.4 eV",
+   "3.4 eV and 6.8 eV"
+  ],
+  "answer": 0,
+  "explanation": "For 1/r potential: K = -E = -(-3.4 eV) = +3.4 eV. U = 2E = 2(-3.4 eV) = -6.8 eV. | Hint: K = -E and U = 2E.",
+  "source": "NEET NEET 2021 via BYJU'S NEET",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The total energy of an electron in an atom in an orbit is –3.4 eV. Its kinetic and potential energies are, respectively :",
+  "options": [
+   "–3.4 eV, –3.4 eV",
+   "–3.4 eV, –6.8 eV",
+   "3.4 eV, –6.8 eV",
+   "3.4 eV, 3.4 eV"
+  ],
+  "answer": 2,
+  "explanation": "KE = −E = 3.4 eV, PE = 2E = −6.8 eV.",
+  "source": "examside.com",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

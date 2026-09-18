@@ -11,7 +11,25 @@
   "answer": 2,
   "explanation": "EDTA grips the metal with two nitrogens and four oxygens: hexadentate. | Hint: Count the donor atoms: Ns plus Os.",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 5,
+  "question": "Statement I: [Co(NH3)6]3+ is homoleptic whereas [Co(NH3)4Cl2]+ is heteroleptic. Statement II: [Co(NH3)6]3+ has one kind of ligands but [Co(NH3)4Cl2]+ has more than one kind.",
+  "options": [
+   "Both I and II are false",
+   "I true, II false",
+   "I false, II true",
+   "Both I and II are true"
+  ],
+  "answer": 3,
+  "explanation": "Statement II states exactly the definitions that make statement I true. | Hint: Homo means one kind; check each complex.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -25,7 +43,9 @@
   "answer": 3,
   "explanation": "Both silvers are +1; cation is named first, anion gets the -ate ending. | Hint: Name the cation first; check both oxidation states.",
   "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -39,21 +59,9 @@
   "answer": 0,
   "explanation": "Only trioxalatoaluminate has a single kind of ligand (oxalato); the rest mix two kinds. | Hint: Which one has all ligands identical?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 7,
-  "question": "Which compound has minimum conductance in solution?",
-  "options": [
-   "[Co(NH3)6]Cl3",
-   "[Co(NH3)5Cl]Cl2",
-   "[Co(NH3)3Cl3]",
-   "[Co(NH3)4Cl2]Cl"
-  ],
-  "answer": 2,
-  "explanation": "[Co(NH3)3Cl3] is neutral and releases zero ions; the rest release 2-4 ions. | Hint: Which one releases zero ions in water?",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -67,24 +75,12 @@
   "answer": 3,
   "explanation": "NO2 ambidentate gives linkage; inside/outside anion swap gives ionisation; two complex ions swapping ligands gives coordination; (d) shows hydrate isomerism. | Hint: NO2 can bind two ways; track which ions swap places.",
   "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 8,
-  "question": "Statement I: [Co(NH3)6]3+ is homoleptic whereas [Co(NH3)4Cl2]+ is heteroleptic. Statement II: [Co(NH3)6]3+ has one kind of ligands but [Co(NH3)4Cl2]+ has more than one kind.",
-  "options": [
-   "Both I and II are false",
-   "I true, II false",
-   "I false, II true",
-   "Both I and II are true"
-  ],
-  "answer": 3,
-  "explanation": "Statement II states exactly the definitions that make statement I true. | Hint: Homo means one kind; check each complex.",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 8,
+  "pdfPage": 10,
   "question": "The type of isomerism shown by [CoCl2(en)2] is:",
   "options": [
    "Ionisation isomerism",
@@ -95,7 +91,9 @@
   "answer": 2,
   "explanation": "The [M(AA)2B2] arrangement exists as cis and trans forms: geometrical isomerism. | Hint: Same formula, different spatial arrangement.",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
@@ -109,38 +107,12 @@
   "answer": 1,
   "explanation": "Water swaps between coordination sphere and lattice (hydrate isomerism) while CN stays 6 throughout. | Hint: Water moves in and out; what isomerism is that?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
-  "question": "Geometry + magnetism of Ni(CO)4:",
-  "options": [
-   "Square planar, paramagnetic",
-   "Tetrahedral, diamagnetic",
-   "Square planar, diamagnetic",
-   "Tetrahedral, paramagnetic"
-  ],
-  "answer": 1,
-  "explanation": "Strong-field CO pairs electrons: tetrahedral sp3, diamagnetic. | Hint: CO forces pairing: what geometry fits?",
-  "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
- },
- {
-  "pdfPage": 12,
-  "question": "Statement I: Both [Co(NH3)6]3+ and [CoF6]3- are octahedral but differ in magnetic behaviour. Statement II: [Co(NH3)6]3+ is diamagnetic whereas [CoF6]3- is paramagnetic.",
-  "options": [
-   "Both I and II are false",
-   "I true, II false",
-   "I false, II true",
-   "Both I and II are true"
-  ],
-  "answer": 3,
-  "explanation": "NH3 is strong-field (pairs electrons, diamagnetic) while F- is weak-field (4 unpaired, paramagnetic); geometry stays octahedral. | Hint: Strong-field versus weak-field ligands.",
-  "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 13,
+  "pdfPage": 14,
   "question": "Spin-only magnetic moment is the same for which ions? A. Ti3+ B. Cr2+ C. Mn2+ D. Fe2+ E. Sc3+",
   "options": [
    "A and E only",
@@ -151,35 +123,9 @@
   "answer": 3,
   "explanation": "Cr2+ (d4) and Fe2+ (d6) both have 4 unpaired electrons: 4.90 BM each. | Hint: Compute unpaired electrons for each ion.",
   "source": "NEET NEET 2024 via MedicNEET",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 14,
-  "question": "Spin-only moment of Cr2+ ion:",
-  "options": [
-   "5.92 BM",
-   "2.84 BM",
-   "3.87 BM",
-   "4.90 BM"
-  ],
-  "answer": 3,
-  "explanation": "Cr2+ is d4: 4 unpaired give sqrt(24) = 4.90 BM. | Hint: Count d electrons, apply sqrt(n(n+2)).",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 15,
-  "question": "Energy absorbed order for Ni complexes A [Ni(H2O)2(en)2]2+, B [Ni(H2O)4(en)]2+, C [Ni(en)3]2+:",
-  "options": [
-   "A > B > C",
-   "C > B > A",
-   "C > A > B",
-   "B > A > C"
-  ],
-  "answer": 1,
-  "explanation": "More ethylenediamine means stronger field and higher absorbed energy: C > B > A. | Hint: Which ligand splits more?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 15,
@@ -193,7 +139,73 @@
   "answer": 0,
   "explanation": "Spectrochemical series runs SCN- < F- < oxalato < CN-. | Hint: Weak to strong field: halide to cyanide?",
   "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "Energy absorbed order for Ni complexes A [Ni(H2O)2(en)2]2+, B [Ni(H2O)4(en)]2+, C [Ni(en)3]2+:",
+  "options": [
+   "A > B > C",
+   "C > B > A",
+   "C > A > B",
+   "B > A > C"
+  ],
+  "answer": 1,
+  "explanation": "More ethylenediamine means stronger field and higher absorbed energy: C > B > A. | Hint: Which ligand splits more?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 16,
+  "question": "The correct order of wavelength of light absorbed: A. [Co(NH3)6]3+, B. [Co(CN)6]3-, C. [Cu(H2O)4]2+, D. [Ti(H2O)6]3+.",
+  "options": [
+   "C < D < A < B",
+   "C < A < D < B",
+   "B < D < A < C",
+   "B < A < D < C"
+  ],
+  "answer": 3,
+  "explanation": "NCERT Table 5.3 absorbed wavelengths: B 310 nm < A ~475 nm < D 498 nm < C 600 nm. | Hint: Stronger field plus higher charge means shorter absorbed wavelength.",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "Geometry + magnetism of Ni(CO)4:",
+  "options": [
+   "Square planar, paramagnetic",
+   "Tetrahedral, diamagnetic",
+   "Square planar, diamagnetic",
+   "Tetrahedral, paramagnetic"
+  ],
+  "answer": 1,
+  "explanation": "Strong-field CO pairs electrons: tetrahedral sp3, diamagnetic. | Hint: CO forces pairing: what geometry fits?",
+  "source": "NEET NEET 2018 via MedicNEET",
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 20,
+  "question": "Which compound has minimum conductance in solution?",
+  "options": [
+   "[Co(NH3)6]Cl3",
+   "[Co(NH3)5Cl]Cl2",
+   "[Co(NH3)3Cl3]",
+   "[Co(NH3)4Cl2]Cl"
+  ],
+  "answer": 2,
+  "explanation": "[Co(NH3)3Cl3] is neutral and releases zero ions; the rest release 2-4 ions. | Hint: Which one releases zero ions in water?",
+  "source": "NEET NEET 2025 via MedicNEET",
+  "year": "NEET 2025",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 21,
@@ -207,7 +219,9 @@
   "answer": 2,
   "explanation": "Unpaired counts 4,3,5,2 map to √24,√15,√35,√8 respectively. | Hint: Find unpaired electrons for each ion.",
   "source": "NEET NEET 2018 via MedicNEET",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 22,
@@ -221,7 +235,25 @@
   "answer": 3,
   "explanation": "Tetrahedral splitting is 4/9 of octahedral: 18000 x 4/9 = 8000. | Hint: Tetrahedral delta is what fraction?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 22,
+  "question": "Statement I: Both [Co(NH3)6]3+ and [CoF6]3- are octahedral but differ in magnetic behaviour. Statement II: [Co(NH3)6]3+ is diamagnetic whereas [CoF6]3- is paramagnetic.",
+  "options": [
+   "Both I and II are false",
+   "I true, II false",
+   "I false, II true",
+   "Both I and II are true"
+  ],
+  "answer": 3,
+  "explanation": "NH3 is strong-field (pairs electrons, diamagnetic) while F- is weak-field (4 unpaired, paramagnetic); geometry stays octahedral. | Hint: Strong-field versus weak-field ligands.",
+  "source": "NEET NEET 2024 via MedicNEET",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 23,
@@ -235,20 +267,24 @@
   "answer": 1,
   "explanation": "Unpaired electrons: (a) 1 -> 1.73, (b) 5 -> 5.92, (c) 0 -> 0, (d) 4 -> 4.90 BM. | Hint: Find unpaired electrons for each oxidation and spin state.",
   "source": "NEET NEET 2021 via MedicNEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 23,
-  "question": "The correct order of wavelength of light absorbed: A. [Co(NH3)6]3+, B. [Co(CN)6]3-, C. [Cu(H2O)4]2+, D. [Ti(H2O)6]3+.",
+  "question": "Spin-only moment of Cr2+ ion:",
   "options": [
-   "C < D < A < B",
-   "C < A < D < B",
-   "B < D < A < C",
-   "B < A < D < C"
+   "5.92 BM",
+   "2.84 BM",
+   "3.87 BM",
+   "4.90 BM"
   ],
   "answer": 3,
-  "explanation": "NCERT Table 5.3 absorbed wavelengths: B 310 nm < A ~475 nm < D 498 nm < C 600 nm. | Hint: Stronger field plus higher charge means shorter absorbed wavelength.",
-  "source": "NEET NEET 2025 via MedicNEET",
-  "year": "NEET 2025"
+  "explanation": "Cr2+ is d4: 4 unpaired give sqrt(24) = 4.90 BM. | Hint: Count d electrons, apply sqrt(n(n+2)).",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

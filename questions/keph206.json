@@ -1,5 +1,53 @@
 [
  {
+  "pdfPage": 1,
+  "question": "Pendulums 121 cm and 100 cm start in phase at mean position. Shorter-pendulum vibrations to next same-phase meeting:",
+  "options": [
+   "8",
+   "11",
+   "9",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "T ∝ √L: 11:10 → meet after 11 short swings.",
+  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 1,
+  "question": "The phase difference between displacement and acceleration of a particle in a simple harmonic motion is :",
+  "options": [
+   "π rad",
+   "3π/2 rad",
+   "π/2 rad",
+   "zero"
+  ],
+  "answer": 0,
+  "explanation": "a = −ω²x → antiphase → π rad.",
+  "source": "smartachievers.online",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 1,
+  "question": "Two pendulums of length 121 cm and 100 cm start vibrating in phase. At some instant, the two are at their mean position in the same phase. The minimum number of vibrations of the shorter pendulum after which the two are again in phase at the mean position is:",
+  "options": [
+   "11",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "T₁/T₂ = 11/10 → 10T₁ = 11T₂; shorter completes 11 vibrations.",
+  "source": "smartachievers.online",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
   "pdfPage": 2,
   "question": "A pendulum is hung from the roof of a sufficiently high building and is moving freely to and fro like a simple harmonic oscillator. The acceleration of the bob of the pendulum is 20 m s–2 at a distance of 5 m from the mean position. The time period of oscillation is:",
   "options": [
@@ -11,94 +59,12 @@
   "answer": 1,
   "explanation": "|a| = ω²y → 20 = 5ω² → ω = 2; T = 2π/2 = π s.",
   "source": "smartachievers.online",
-  "year": "NEET 2018"
+  "year": "NEET 2018",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 3,
-  "question": "A body of mass m is attached to the lower end of a spring whose upper end is fixed. The spring has negligible mass. When the mass m is slightly pulled down and released, it oscillates with a time period of 3 s. When the mass m is increased by 1 kg, the time period of oscillations becomes 5 s. The value of m in kg is:",
-  "options": [
-   "3/4",
-   "4/3",
-   "16/9",
-   "9/16"
-  ],
-  "answer": 3,
-  "explanation": "T ∝ √m: 3/5 = √(m/(m+1)) → 25m = 9m+9 → m = 9/16 kg.",
-  "source": "smartachievers.online",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 3,
-  "question": "If x = 5 sin(πt + π/3) m represents the motion of a particle executing simple harmonic motion, the amplitude and time period of motion, respectively, are:",
-  "options": [
-   "5 cm, 2 s",
-   "5 m, 2 s",
-   "5 cm, 1 s",
-   "5 m, 1 s"
-  ],
-  "answer": 1,
-  "explanation": "A = 5 m, ω = π rad/s; T = 2π/ω = 2 s.",
-  "source": "smartachievers.online",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 3,
-  "question": "x = 5 sin(πt + π/3) m (SHM). Amplitude and time period:",
-  "options": [
-   "5 cm, 1 s",
-   "5 m, 1 s",
-   "5 cm, 2 s",
-   "5 m, 2 s"
-  ],
-  "answer": 3,
-  "explanation": "A = 5 m; ω = π → T = 2π/ω = 2 s.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
- },
- {
-  "pdfPage": 4,
-  "question": "Body in SHM with frequency n. Frequency of its potential energy:",
-  "options": [
-   "n",
-   "2n",
-   "3n",
-   "4n"
-  ],
-  "answer": 1,
-  "explanation": "PE ∝ x² ∝ sin²ωt = (1−cos2ωt)/2 → 2n.",
-  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 4,
-  "question": "The phase difference between displacement and acceleration of a particle in a simple harmonic motion is :",
-  "options": [
-   "π rad",
-   "3π/2 rad",
-   "π/2 rad",
-   "zero"
-  ],
-  "answer": 0,
-  "explanation": "a = −ω²x → antiphase → π rad.",
-  "source": "smartachievers.online",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 6,
-  "question": "A body is executing simple harmonic motion with frequency 'n'. The frequency of its potential energy is:",
-  "options": [
-   "4n",
-   "n",
-   "2n",
-   "3n"
-  ],
-  "answer": 2,
-  "explanation": "U ∝ sin²(ωt) = [1−cos(2ωt)]/2 → frequency 2n.",
-  "source": "smartachievers.online",
-  "year": "NEET 2021"
- },
- {
-  "pdfPage": 6,
+  "pdfPage": 8,
   "question": "The distance covered by a particle undergoing SHM in one time period is (amplitude = A)",
   "options": [
    "zero",
@@ -109,7 +75,25 @@
   "answer": 3,
   "explanation": "A + 2A + A = 4A per full period.",
   "source": "smartachievers.online",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 9,
+  "question": "A particle executes linear simple harmonic motion with an amplitude of 3 cm. When the particle is at 2 cm from the mean position, the magnitude of its velocity is equal to that of its acceleration. Then its time period in seconds is",
+  "options": [
+   "2π/√3",
+   "√5/π",
+   "√5/(2π)",
+   "4π/√5"
+  ],
+  "answer": 3,
+  "explanation": "ω√(9−4) = 2ω² → ω = √5/2; T = 2π/ω = 4π/√5 s.",
+  "source": "sathee.iitk.ac.in",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -123,7 +107,9 @@
   "answer": 1,
   "explanation": "Pieces k₁=6k, k₂=3k, k₃=2k. Series k′=k; parallel k″=11k → 1:11.",
   "source": "smartachievers.online",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -137,21 +123,9 @@
   "answer": 2,
   "explanation": "a = −ω²x → antiphase, π.",
   "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 12,
-  "question": "Bob mass tripled, length halved. New period = x/2 × old. x equals:",
-  "options": [
-   "2√3",
-   "4",
-   "√3",
-   "√2"
-  ],
-  "answer": 3,
-  "explanation": "T ∝ √L only: T′ = T/√2 = (√2/2)T → x = √2.",
-  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
-  "year": "NEET 2024"
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -165,49 +139,25 @@
   "answer": 3,
   "explanation": "f_B = 524 or 536; loosening lowers f_B, and only 524→523 widens the gap to 7.",
   "source": "NEET 2020 Code-F1 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2020"
+  "year": "NEET 2020",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
-  "pdfPage": 12,
-  "question": "Pendulums 121 cm and 100 cm start in phase at mean position. Shorter-pendulum vibrations to next same-phase meeting:",
+  "pdfPage": 13,
+  "question": "Bob mass tripled, length halved. New period = x/2 × old. x equals:",
   "options": [
-   "8",
-   "11",
-   "9",
-   "10"
+   "2√3",
+   "4",
+   "√3",
+   "√2"
   ],
-  "answer": 1,
-  "explanation": "T ∝ √L: 11:10 → meet after 11 short swings.",
-  "source": "NEET 2022 Code-R6 official paper via Aakash (keys re-derived)",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 12,
-  "question": "The displacement of a particle executing simple harmonic motion is given by y = A0 + A sin ωt + B cos ωt. Then the amplitude of its oscillation is given by:",
-  "options": [
-   "A0 + √(A² + B²)",
-   "√(A² + B²)",
-   "√(A0² + (A + B)²)",
-   "A + B"
-  ],
-  "answer": 1,
-  "explanation": "A₀ shifts mean only; oscillatory amplitude = √(A²+B²).",
-  "source": "testbook.com",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 12,
-  "question": "Two pendulums of length 121 cm and 100 cm start vibrating in phase. At some instant, the two are at their mean position in the same phase. The minimum number of vibrations of the shorter pendulum after which the two are again in phase at the mean position is:",
-  "options": [
-   "11",
-   "9",
-   "10",
-   "8"
-  ],
-  "answer": 0,
-  "explanation": "T₁/T₂ = 11/10 → 10T₁ = 11T₂; shorter completes 11 vibrations.",
-  "source": "smartachievers.online",
-  "year": "NEET 2022"
+  "answer": 3,
+  "explanation": "T ∝ √L only: T′ = T/√2 = (√2/2)T → x = √2.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -221,38 +171,92 @@
   "answer": 1,
   "explanation": "T independent of mass; L/2 → T′ = T/√2 = (x/2)T → x = √2.",
   "source": "shaalaa.com",
-  "year": "NEET 2024"
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 14,
-  "question": "A particle executes linear simple harmonic motion with an amplitude of 3 cm. When the particle is at 2 cm from the mean position, the magnitude of its velocity is equal to that of its acceleration. Then its time period in seconds is",
+  "question": "A body is executing simple harmonic motion with frequency 'n'. The frequency of its potential energy is:",
   "options": [
-   "2π/√3",
-   "√5/π",
-   "√5/(2π)",
-   "4π/√5"
+   "4n",
+   "n",
+   "2n",
+   "3n"
+  ],
+  "answer": 2,
+  "explanation": "U ∝ sin²(ωt) = [1−cos(2ωt)]/2 → frequency 2n.",
+  "source": "smartachievers.online",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "Body in SHM with frequency n. Frequency of its potential energy:",
+  "options": [
+   "n",
+   "2n",
+   "3n",
+   "4n"
+  ],
+  "answer": 1,
+  "explanation": "PE ∝ x² ∝ sin²ωt = (1−cos2ωt)/2 → 2n.",
+  "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 14,
+  "question": "If x = 5 sin(πt + π/3) m represents the motion of a particle executing simple harmonic motion, the amplitude and time period of motion, respectively, are:",
+  "options": [
+   "5 cm, 2 s",
+   "5 m, 2 s",
+   "5 cm, 1 s",
+   "5 m, 1 s"
+  ],
+  "answer": 1,
+  "explanation": "A = 5 m, ω = π rad/s; T = 2π/ω = 2 s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 17,
+  "question": "A body of mass m is attached to the lower end of a spring whose upper end is fixed. The spring has negligible mass. When the mass m is slightly pulled down and released, it oscillates with a time period of 3 s. When the mass m is increased by 1 kg, the time period of oscillations becomes 5 s. The value of m in kg is:",
+  "options": [
+   "3/4",
+   "4/3",
+   "16/9",
+   "9/16"
   ],
   "answer": 3,
-  "explanation": "ω√(9−4) = 2ω² → ω = √5/2; T = 2π/ω = 4π/√5 s.",
-  "source": "sathee.iitk.ac.in",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 14,
-  "question": "A spring is stretched by 5 cm by a force of 10 N. The time period of oscillations when a mass of 2 kg is suspended by it is:",
-  "options": [
-   "0.628 s",
-   "0.0628 s",
-   "6.28 s",
-   "3.14 s"
-  ],
-  "answer": 0,
-  "explanation": "k = 200 N/m; T = 2π√(2/200) = 0.628 s.",
+  "explanation": "T ∝ √m: 3/5 = √(m/(m+1)) → 25m = 9m+9 → m = 9/16 kg.",
   "source": "smartachievers.online",
-  "year": "NEET 2021"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 14,
+  "pdfPage": 17,
+  "question": "The displacement of a particle executing simple harmonic motion is given by y = A0 + A sin ωt + B cos ωt. Then the amplitude of its oscillation is given by:",
+  "options": [
+   "A0 + √(A² + B²)",
+   "√(A² + B²)",
+   "√(A0² + (A + B)²)",
+   "A + B"
+  ],
+  "answer": 1,
+  "explanation": "A₀ shifts mean only; oscillatory amplitude = √(A²+B²).",
+  "source": "testbook.com",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 17,
   "question": "The displacement of a particle executing simple harmonic motion is given by y = A₀ + A sin(ω t) + B cos(ω t). The amplitude of its oscillation is:",
   "options": [
    "√(A² + B²)",
@@ -263,7 +267,9 @@
   "answer": 0,
   "explanation": "The oscillatory part A sin(ωt) + B cos(ωt) = R sin(ωt + φ) has amplitude R = √(A² + B²). The constant A₀ simply shifts the mean position. | Hint: Amplitude is the coefficient of the resultant sinusoid.",
   "source": "NEET NEET 2023 via BYJU'S NEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -277,7 +283,25 @@
   "answer": 0,
   "explanation": "k = F/x = 10 N / (0.05 m) = 200 N/m. T = 2π √(m/k) = 2π √(2/200) = 2π √(1/100) = 2π / 10 = 0.2π ≈ 0.628 s. | Hint: Find k = F/x first, then T = 2π √(m/k).",
   "source": "NEET NEET 2021 via BYJU'S NEET",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "A spring is stretched by 5 cm by a force of 10 N. The time period of oscillations when a mass of 2 kg is suspended by it is:",
+  "options": [
+   "0.628 s",
+   "0.0628 s",
+   "6.28 s",
+   "3.14 s"
+  ],
+  "answer": 0,
+  "explanation": "k = 200 N/m; T = 2π√(2/200) = 0.628 s.",
+  "source": "smartachievers.online",
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 18,
@@ -291,6 +315,24 @@
   "answer": 3,
   "explanation": "k = 200 N/m; T = 2π√(2/200) = 0.628 s.",
   "source": "NEET 2021 Code-M1 official paper + NTA Final Key (keys re-derived)",
-  "year": "NEET 2021"
+  "year": "NEET 2021",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 18,
+  "question": "x = 5 sin(πt + π/3) m (SHM). Amplitude and time period:",
+  "options": [
+   "5 cm, 1 s",
+   "5 m, 1 s",
+   "5 cm, 2 s",
+   "5 m, 2 s"
+  ],
+  "answer": 3,
+  "explanation": "A = 5 m; ω = π → T = 2π/ω = 2 s.",
+  "source": "NEET 2024 Code-T3 official paper (key verified first-principles)",
+  "year": "NEET 2024",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

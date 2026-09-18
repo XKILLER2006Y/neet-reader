@@ -1,20 +1,6 @@
 [
  {
   "pdfPage": 2,
-  "question": "Colonial alga example:",
-  "options": [
-   "Chlorella",
-   "Volvox",
-   "Ulothrix",
-   "Spirogyra"
-  ],
-  "answer": 1,
-  "explanation": "Volvox forms hollow motile colonies. | Hint: Which green alga forms rolling balls?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
- },
- {
-  "pdfPage": 2,
   "question": "Methanogens belong to",
   "options": [
    "Eubacteria",
@@ -25,21 +11,25 @@
   "answer": 1,
   "explanation": "Methanogens are archaebacteria that produce methane in anaerobic habitats.",
   "source": "AIPMT 2016-II (neeteqad + brainly + NCERT)",
-  "year": "2016"
+  "year": "2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
-  "question": "Incorrectly matched:",
+  "question": "Colonial alga example:",
   "options": [
-   "Ectocarpus - Fucoxanthin",
-   "Ulothrix - Mannitol",
-   "Porphyra - Floridean starch",
-   "Volvox - Starch"
+   "Chlorella",
+   "Volvox",
+   "Ulothrix",
+   "Spirogyra"
   ],
   "answer": 1,
-  "explanation": "Green Ulothrix stores starch, not mannitol (a brown-algal reserve). | Hint: Which reserve belongs to brown algae only?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "explanation": "Volvox forms hollow motile colonies. | Hint: Which green alga forms rolling balls?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -53,7 +43,9 @@
   "answer": 2,
   "explanation": "Ectocarpus alternates (haplodiplontic); Fucus is diplontic. | Hint: Which one alternates generations?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -67,7 +59,9 @@
   "answer": 0,
   "explanation": "Saccharomyces is a eukaryotic (unicellular) yeast; the other three are bacteria/cyanobacteria.",
   "source": "NEET 2018 (testbook.com + vedantu + allen.in)",
-  "year": "2018"
+  "year": "2018",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -81,7 +75,9 @@
   "answer": 1,
   "explanation": "Algin comes from brown algae and carrageenan from red; the statement swaps them. | Hint: Which two products swapped their algae?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -95,21 +91,41 @@
   "answer": 3,
   "explanation": "Fucoxanthin marks browns, phycoerythrin marks reds. | Hint: Brown pigment, red pigment: which classes?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
-  "pdfPage": 8,
-  "question": "TRUE statement:",
+  "pdfPage": 5,
+  "question": "Incorrectly matched:",
   "options": [
-   "Most algae diplontic",
-   "Most bryophytes not haplodiplontic",
-   "All pteridophytes haplodiplontic",
-   "Seed plants haplontic"
+   "Ectocarpus - Fucoxanthin",
+   "Ulothrix - Mannitol",
+   "Porphyra - Floridean starch",
+   "Volvox - Starch"
   ],
-  "answer": 2,
-  "explanation": "Pteridophytes alternate sporophyte and gametophyte; the rest invert reality. | Hint: Which group truly alternates generations?",
+  "answer": 1,
+  "explanation": "Green Ulothrix stores starch, not mannitol (a brown-algal reserve). | Hint: Which reserve belongs to brown algae only?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 7,
+  "question": "Male gamete transport in bryophytes/pteridophytes needs:",
+  "options": [
+   "Wind",
+   "Insects",
+   "Birds",
+   "Water"
+  ],
+  "answer": 3,
+  "explanation": "Swimming antherozoids need a water film. | Hint: How do non-vascular sperms swim?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 8,
@@ -123,7 +139,9 @@
   "answer": 3,
   "explanation": "Haplontic Chlamydomonas divides its zygote meiotically. | Hint: Which life cycle is haplontic?",
   "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "NEET 2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -137,7 +155,9 @@
   "answer": 2,
   "explanation": "Thick cuticle plus sunken stomata checks water loss. | Hint: What waterproofs conifer needles?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -151,7 +171,25 @@
   "answer": 2,
   "explanation": "Sequoia (redwood) is among the tallest; Salvinia is a fern. | Hint: Which is the giant tree?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 10,
+  "question": "Mismatch:",
+  "options": [
+   "Pinus - Dioecious",
+   "Cycas - Dioecious",
+   "Salvinia - Heterosporous",
+   "Equisetum - Homosporous"
+  ],
+  "answer": 0,
+  "explanation": "Pinus is monoecious (both cones one plant); the rest match. | Hint: Which conifer carries both cone types?",
+  "source": "NEET NEET 2017 via MedicNEET",
+  "year": "NEET 2017",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 10,
@@ -165,21 +203,9 @@
   "answer": 0,
   "explanation": "Halophilic archaebacteria (halobacteria) thrive in salt-rich extreme conditions.",
   "source": "NEET 2017 (gneet.com + allen.in)",
-  "year": "2017"
- },
- {
-  "pdfPage": 11,
-  "question": "Mismatch:",
-  "options": [
-   "Pinus - Dioecious",
-   "Cycas - Dioecious",
-   "Salvinia - Heterosporous",
-   "Equisetum - Homosporous"
-  ],
-  "answer": 0,
-  "explanation": "Pinus is monoecious (both cones one plant); the rest match. | Hint: Which conifer carries both cone types?",
-  "source": "NEET NEET 2017 via MedicNEET",
-  "year": "NEET 2017"
+  "year": "2017",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
@@ -193,20 +219,24 @@
   "answer": 2,
   "explanation": "Wind pollination is real, but a pollen tube DOES form (siphonogamy). | Hint: Does the gymnosperm pollen tube form?",
   "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 13,
-  "question": "Male gamete transport in bryophytes/pteridophytes needs:",
+  "question": "TRUE statement:",
   "options": [
-   "Wind",
-   "Insects",
-   "Birds",
-   "Water"
+   "Most algae diplontic",
+   "Most bryophytes not haplodiplontic",
+   "All pteridophytes haplodiplontic",
+   "Seed plants haplontic"
   ],
-  "answer": 3,
-  "explanation": "Swimming antherozoids need a water film. | Hint: How do non-vascular sperms swim?",
+  "answer": 2,
+  "explanation": "Pteridophytes alternate sporophyte and gametophyte; the rest invert reality. | Hint: Which group truly alternates generations?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]

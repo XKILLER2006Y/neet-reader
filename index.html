@@ -304,7 +304,7 @@ function renderList(pdfPage){
   $('right').innerHTML = qs.length ? qs.map((q)=>{
     const gi=chapterQs.indexOf(q), key=chapSel.value+':'+gi, st=attempts[key];
     return `<div class="q${st?' done':''}" id="q${gi}"><button class="star${stars.has(chapSel.value+':'+gi)?' on':''}" onclick="toggleStar(event,'${chapSel.value}',${gi})" title="Bookmark">${stars.has(chapSel.value+':'+gi)?'★':'☆'}</button><b>Q.</b> ${esc(q.question)} <span style="opacity:.6">(p.${q.pdfPage||'?'})</span>
-    <div class="meta">${esc(q.source||'')} ${esc(q.year||'')}</div>
+    <div class="meta">${esc(q.source||'')} ${esc(q.year||'')}${q.outOfNcert?' <span style="color:#e3b341;border:1px solid #e3b341;border-radius:4px;padding:0 5px;font-size:11px">out-of-current-NCERT</span>':''}</div>
     <div>${q.options.map((o,j)=>`<button onclick="answer(${gi},${j},this)" ${st?'disabled':''}>${esc(o)}</button>`).join('')}</div>
     <div class="expl">${st?('You: '+(st.ok?'✓ +4':'✗ -1')+'<br>') : ''}${esc(q.explanation||'')}</div></div>`;
   }).join('') : `<p>No questions match (p.${pdfPage}). Uncheck “all pages” toggle or clear search.</p>`;

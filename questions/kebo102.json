@@ -1,5 +1,21 @@
 [
  {
+  "pdfPage": 2,
+  "question": "Wrong for fungi:",
+  "options": [
+   "Eukaryotic",
+   "All have cellulosic walls",
+   "Heterotrophic",
+   "Uni- and multicellular"
+  ],
+  "answer": 1,
+  "explanation": "Fungal walls are chitinous, not cellulosic. | Hint: Chitin or cellulose in fungal walls?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
   "pdfPage": 4,
   "question": "Biogas-from-dung prokaryotes:",
   "options": [
@@ -11,7 +27,9 @@
   "answer": 2,
   "explanation": "Rumen methanogens make the biogas methane. | Hint: Who ferments dung to methane?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -25,7 +43,9 @@
   "answer": 0,
   "explanation": "Salt, heat-acid, guts, water in order. | Hint: Match habitat to microbe.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -39,7 +59,9 @@
   "answer": 1,
   "explanation": "Methanogens are archaebacteria. | Hint: Which domain makes methane?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -53,7 +75,9 @@
   "answer": 2,
   "explanation": "Methanogens are strict anaerobes. | Hint: Aerobic or anaerobic?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 4,
@@ -67,7 +91,9 @@
   "answer": 2,
   "explanation": "Eubacteria are the TRUE bacteria; the label is wrong. | Hint: Which label contradicts itself?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -81,7 +107,9 @@
   "answer": 0,
   "explanation": "Only the cyanobacteria statement survives; the rest misplace groups. | Hint: Which statement has no error?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -95,7 +123,9 @@
   "answer": 0,
   "explanation": "Silica walls are practically indestructible. | Hint: What makes diatom walls special?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 5,
@@ -109,35 +139,9 @@
   "answer": 1,
   "explanation": "Pili and fimbriae attach; they do not propel. | Hint: Attachment versus propulsion?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Major fungal wall component:",
-  "options": [
-   "Chitin",
-   "Peptidoglycan",
-   "Cellulose",
-   "Hemicellulose"
-  ],
-  "answer": 0,
-  "explanation": "Chitin dominates most fungal walls. | Hint: Same answer as above, positively asked.",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
- },
- {
-  "pdfPage": 6,
-  "question": "Mycoplasma: I passes <1-micron filter (true); II has cell wall (false):",
-  "options": [
-   "Both correct",
-   "Both incorrect",
-   "I correct, II incorrect",
-   "I incorrect, II correct"
-  ],
-  "answer": 2,
-  "explanation": "Mycoplasmas are wall-less and tiny enough to filter through. | Hint: Wall or no wall?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
+  "year": "NEET 2016",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
@@ -151,21 +155,41 @@
   "answer": 3,
   "explanation": "Saprophytes decompose, parasites live on hosts, lichens pair algae+fungi, mycorrhizae join roots. | Hint: Pair each lifestyle.",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": true,
+  "_pinned": true
  },
  {
   "pdfPage": 7,
-  "question": "Wrong for fungi:",
+  "question": "Wrong statement:",
   "options": [
-   "Eukaryotic",
-   "All have cellulosic walls",
-   "Heterotrophic",
-   "Uni- and multicellular"
+   "Sporozoans use pseudopodia",
+   "Mushrooms are basidiomycetes",
+   "Fungi and Plantae have walls",
+   "Mitochondria power all but Monera"
+  ],
+  "answer": 0,
+  "explanation": "Sporozoans lack locomotory organelles entirely. | Hint: Which protozoans lack locomotion?",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 8,
+  "question": "Penicillium asexual structure:",
+  "options": [
+   "Zoospores",
+   "Conidia",
+   "Gemmules",
+   "Buds"
   ],
   "answer": 1,
-  "explanation": "Fungal walls are chitinous, not cellulosic. | Hint: Chitin or cellulose in fungal walls?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "explanation": "Penicillium makes exogenous conidia. | Hint: Exogenous spores of Penicillium?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 9,
@@ -179,77 +203,25 @@
   "answer": 3,
   "explanation": "Yeasts are unicellular without hyphae. | Hint: Which fungi lack hyphae?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
- },
- {
-  "pdfPage": 9,
-  "question": "Penicillium asexual structure:",
-  "options": [
-   "Zoospores",
-   "Conidia",
-   "Gemmules",
-   "Buds"
-  ],
-  "answer": 1,
-  "explanation": "Penicillium makes exogenous conidia. | Hint: Exogenous spores of Penicillium?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022"
- },
- {
-  "pdfPage": 10,
-  "question": "Correct about viroids:",
-  "options": [
-   "DNA with coat",
-   "Free DNA, no coat",
-   "RNA with coat",
-   "Free RNA, no coat"
-  ],
-  "answer": 3,
-  "explanation": "Viroids are naked infectious RNAs. | Hint: Coat or no coat?",
-  "source": "NEET NEET 2020 via MedicNEET",
-  "year": "NEET 2020"
- },
- {
-  "pdfPage": 10,
-  "question": "RNA mutates fast (I, true); RNA-genome viruses evolve fast (II, true):",
-  "options": [
-   "Both true",
-   "Both false",
-   "I true, II false",
-   "I false, II true"
-  ],
-  "answer": 0,
-  "explanation": "Unstable RNA plus short generations drive fast evolution. | Hint: Unstable genome plus fast generations?",
-  "source": "NEET NEET 2023 via MedicNEET",
-  "year": "NEET 2023"
- },
- {
-  "pdfPage": 10,
-  "question": "Wrong statement:",
-  "options": [
-   "Sporozoans use pseudopodia",
-   "Mushrooms are basidiomycetes",
-   "Fungi and Plantae have walls",
-   "Mitochondria power all but Monera"
-  ],
-  "answer": 0,
-  "explanation": "Sporozoans lack locomotory organelles entirely. | Hint: Which protozoans lack locomotion?",
-  "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 11,
-  "question": "INCORRECT statement:",
+  "question": "Mycoplasma: I passes <1-micron filter (true); II has cell wall (false):",
   "options": [
-   "Viroids lack protein coat",
-   "Viruses obligate parasites",
-   "Virus infective part is protein coat",
-   "Prions are misfolded proteins"
+   "Both correct",
+   "Both incorrect",
+   "I correct, II incorrect",
+   "I incorrect, II correct"
   ],
   "answer": 2,
-  "explanation": "Nucleic acid infects, not the coat. | Hint: What actually infects?",
-  "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "explanation": "Mycoplasmas are wall-less and tiny enough to filter through. | Hint: Wall or no wall?",
+  "source": "NEET NEET 2022 via MedicNEET",
+  "year": "NEET 2022",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -263,7 +235,41 @@
   "answer": 1,
   "explanation": "All are protists. | Hint: One kingdom for all four?",
   "source": "NEET NEET 2016 via MedicNEET",
-  "year": "NEET 2016"
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Correct about viroids:",
+  "options": [
+   "DNA with coat",
+   "Free DNA, no coat",
+   "RNA with coat",
+   "Free RNA, no coat"
+  ],
+  "answer": 3,
+  "explanation": "Viroids are naked infectious RNAs. | Hint: Coat or no coat?",
+  "source": "NEET NEET 2020 via MedicNEET",
+  "year": "NEET 2020",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "INCORRECT statement:",
+  "options": [
+   "Viroids lack protein coat",
+   "Viruses obligate parasites",
+   "Virus infective part is protein coat",
+   "Prions are misfolded proteins"
+  ],
+  "answer": 2,
+  "explanation": "Nucleic acid infects, not the coat. | Hint: What actually infects?",
+  "source": "NEET NEET 2019 via MedicNEET",
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
  },
  {
   "pdfPage": 12,
@@ -277,6 +283,40 @@
   "answer": 1,
   "explanation": "Prions are infectious misfolded proteins. | Hint: Prion, viroid, or virus?",
   "source": "NEET NEET 2019 via MedicNEET",
-  "year": "NEET 2019"
+  "year": "NEET 2019",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "Major fungal wall component:",
+  "options": [
+   "Chitin",
+   "Peptidoglycan",
+   "Cellulose",
+   "Hemicellulose"
+  ],
+  "answer": 0,
+  "explanation": "Chitin dominates most fungal walls. | Hint: Same answer as above, positively asked.",
+  "source": "NEET NEET 2016 via MedicNEET",
+  "year": "NEET 2016",
+  "outOfNcert": false,
+  "_pinned": true
+ },
+ {
+  "pdfPage": 12,
+  "question": "RNA mutates fast (I, true); RNA-genome viruses evolve fast (II, true):",
+  "options": [
+   "Both true",
+   "Both false",
+   "I true, II false",
+   "I false, II true"
+  ],
+  "answer": 0,
+  "explanation": "Unstable RNA plus short generations drive fast evolution. | Hint: Unstable genome plus fast generations?",
+  "source": "NEET NEET 2023 via MedicNEET",
+  "year": "NEET 2023",
+  "outOfNcert": false,
+  "_pinned": true
  }
 ]
