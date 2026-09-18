@@ -136,8 +136,8 @@
    "SCN- < F- < C2O4(2-) < CN-",
    "SCN- < F- < CN- < C2O4(2-)"
   ],
-  "answer": 0,
-  "explanation": "Spectrochemical series runs SCN- < F- < oxalato < CN-. | Hint: Weak to strong field: halide to cyanide?",
+  "answer": 2,
+  "explanation": "Spectrochemical series (increasing field strength): I- < Br- < S2- < SCN- < Cl- < N3- < NO3- < F- < OH- < C2O4(2-) < H2O < NCS- < NH3 < en < NO2- < CN- < CO. Hence SCN- < F- < C2O4(2-) < CN-.",
   "source": "NEET NEET 2020 via MedicNEET",
   "year": "NEET 2020",
   "outOfNcert": false,
@@ -145,17 +145,17 @@
  },
  {
   "pdfPage": 16,
-  "question": "Energy absorbed order for Ni complexes A [Ni(H2O)2(en)2]2+, B [Ni(H2O)4(en)]2+, C [Ni(en)3]2+:",
+  "question": "The order of energy absorbed which is responsible for the colour of complexes (A) [Ni(H2O)2(en)2]2+, (B) [Ni(H2O)4(en)]2+ and (C) [Ni(en)3]2+ is:",
   "options": [
    "A > B > C",
    "C > B > A",
    "C > A > B",
    "B > A > C"
   ],
-  "answer": 1,
-  "explanation": "More ethylenediamine means stronger field and higher absorbed energy: C > B > A. | Hint: Which ligand splits more?",
-  "source": "NEET NEET 2022 via MedicNEET",
-  "year": "NEET 2022",
+  "answer": 2,
+  "explanation": "Energy absorbed (crystal field splitting) increases with the number of strong-field ethylenediamine ligands: [Ni(en)3]2+ > [Ni(H2O)2(en)2]2+ > [Ni(H2O)4(en)]2+, i.e. C > A > B.",
+  "source": "NEET 2022",
+  "year": 2022,
   "outOfNcert": false,
   "_pinned": true
  },
@@ -209,15 +209,15 @@
  },
  {
   "pdfPage": 21,
-  "question": "Match Co3+/Cr3+/Fe3+/Ni2+ to moments √24/√15/√35/√8:",
+  "question": "Match List-I with List-II. List-I (ion): (a) Co3+, (b) Cr3+, (c) Fe3+, (d) Ni2+. List-II (spin-only moment, sqrt(n(n+2)) BM): (i) sqrt(24), (ii) sqrt(15), (iii) sqrt(35), (iv) sqrt(8).",
   "options": [
-   "a-iv,b-i,c-ii,d-iii",
-   "a-i,b-ii,c-iii,d-iv",
-   "a-iv,b-v,c-ii,d-i",
-   "a-iii,b-v,c-i,d-ii"
+   "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+   "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+   "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+   "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
   ],
-  "answer": 2,
-  "explanation": "Unpaired counts 4,3,5,2 map to √24,√15,√35,√8 respectively. | Hint: Find unpaired electrons for each ion.",
+  "answer": 1,
+  "explanation": "Unpaired electrons: Co3+ (3d6 high spin, n=4) -> sqrt(24); Cr3+ (3d3, n=3) -> sqrt(15); Fe3+ (3d5, n=5) -> sqrt(35); Ni2+ (3d8, n=2) -> sqrt(8).",
   "source": "NEET NEET 2018 via MedicNEET",
   "year": "NEET 2018",
   "outOfNcert": true,

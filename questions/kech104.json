@@ -273,7 +273,7 @@
  },
  {
   "pdfPage": 36,
-  "question": "Underlined sp3 carbon in: CH3COOH, CH3CH2OH, CH3COCH3, CH2=CH-CH3:",
+  "question": "In which of the following compounds is the second carbon atom of the formula sp3 hybridised?",
   "options": [
    "CH3COOH",
    "CH3CH2OH",
@@ -281,7 +281,7 @@
    "CH2=CH-CH3"
   ],
   "answer": 1,
-  "explanation": "Only ethanol has all-sigma carbons; the rest carry multiple bonds. | Hint: Which molecule has no multiple bonds?",
+  "explanation": "In CH3CH2OH the second carbon is a saturated CH2 group bonded only by sigma bonds (sp3). In CH3COOH, CH3COCH3 and CH2=CH-CH3 the second carbon is part of a C=O or C=C double bond, so it is sp2.",
   "source": "JEE JEE Main PYQ via BYJU'S",
   "year": "JEE Main PYQ",
   "outOfNcert": true,

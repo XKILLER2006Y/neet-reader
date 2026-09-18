@@ -273,7 +273,7 @@
  },
  {
   "pdfPage": 31,
-  "question": "Heat of formation of SO2 from S+O2/SO3 data (2x, y):",
+  "question": "Given: S + 3/2 O2 -> SO3 + 2x kcal; SO2 + 1/2 O2 -> SO3 + y kcal. The heat of formation of SO2 is:",
   "options": [
    "x + y",
    "y - 2x",
@@ -281,7 +281,7 @@
    "2x + y"
   ],
   "answer": 1,
-  "explanation": "Hess subtraction gives (2x - y) released, i.e. y - 2x. | Hint: Subtract the two given equations.",
+  "explanation": "Hess's law: S + O2 -> SO2 is obtained by subtracting the second equation from the first, so Delta-Hf(SO2) = (-2x) - (-y) = y - 2x (negative, i.e. exothermic).",
   "source": "JEE JEE Main 2025 via cracku",
   "year": "JEE Main 2025",
   "outOfNcert": false,

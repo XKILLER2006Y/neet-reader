@@ -145,7 +145,7 @@
  },
  {
   "pdfPage": 15,
-  "question": "H2O2 oxidiser in both media (I, true); H2O2 denser than D2O (II, false):",
+  "question": "Statement I: H2O2 acts as an oxidising agent in both acidic and basic medium depending on the nature of the reacting species. Statement II: The density of H2O2 at 298 K is lower than that of D2O.",
   "options": [
    "Both true",
    "Both false",
@@ -153,7 +153,7 @@
    "I false, II true"
   ],
   "answer": 2,
-  "explanation": "Peroxide oxidises in acid and base; it is denser than heavy water is false. | Hint: Which statement about density fails?",
+  "explanation": "Statement I is true: the -1 oxidation state of oxygen in H2O2 lets it act as oxidiser or reducer in both media. Statement II is false: density of H2O2 (~1.45 g/mL) is higher than that of D2O (~1.10 g/mL).",
   "source": "JEE JEE Main PYQ via cracku",
   "year": "JEE Main PYQ",
   "outOfNcert": false,

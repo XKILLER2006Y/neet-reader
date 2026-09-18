@@ -35,10 +35,10 @@
   "pdfPage": 20,
   "question": "Wavelength absorbed exciting H from n=1 to n=2:",
   "options": [
-   "2.650e-7 m",
-   "1.325e-7 m",
-   "1.325e-10 m",
-   "5.300e-10 m"
+   "2.650×10⁻⁷ m",
+   "1.215×10⁻⁷ m",
+   "1.325×10⁻¹⁰ m",
+   "5.300×10⁻¹⁰ m"
   ],
   "answer": 1,
   "explanation": "Gap 1.5e-18 J gives hc/E = 1.325e-7 m. | Hint: Energy gap first, then wavelength.",
